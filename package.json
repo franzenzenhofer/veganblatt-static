@@ -19,9 +19,14 @@
     "clean:copyright": "tsx src/scripts/clean-data-copyright.ts",
     "remove:emojis": "tsx src/scripts/remove-all-emojis.ts",
     "serve": "npx http-server public -p 8080",
-    "deploy": "npm run build && npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty=true",
+    "predeploy": "npm run build",
+    "deploy": "npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty=true && npm run postdeploy",
+    "postdeploy": "./scripts/post-deploy-test.sh",
     "deploy:preview": "npm run build && npx wrangler pages deploy public --project-name=veganblatt-static --branch=preview --commit-dirty=true",
-    "audit": "tsx src/scripts/image-copyright-audit.ts"
+    "deploy:test": "npm run deploy && npm run test:live",
+    "test:live": "./scripts/post-deploy-test.sh",
+    "audit": "tsx src/scripts/image-copyright-audit.ts",
+    "health": "./scripts/health-check.sh"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
