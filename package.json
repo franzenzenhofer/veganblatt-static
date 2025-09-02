@@ -26,7 +26,9 @@
     "deploy:test": "npm run deploy && npm run test:live",
     "test:live": "./scripts/post-deploy-test.sh",
     "audit": "tsx src/scripts/image-copyright-audit.ts",
-    "health": "./scripts/health-check.sh"
+    "health": "./scripts/health-check.sh",
+    "monitor": "./scripts/monitor.sh",
+    "monitor:watch": "watch -n 60 ./scripts/monitor.sh"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
