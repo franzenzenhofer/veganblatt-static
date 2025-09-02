@@ -54,6 +54,8 @@ alignment-test.html
 !README.md
 !DEPLOYMENT_SUCCESS.md
 !PRODUCTION_READY.md
+!MAINTENANCE.md
+!SUCCESS_METRICS.md
 
 # Specific files to exclude
 *.html
