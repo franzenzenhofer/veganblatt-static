@@ -53,6 +53,7 @@ alignment-test.html
 !CLAUDE.md
 !README.md
 !DEPLOYMENT_SUCCESS.md
+!PRODUCTION_READY.md
 
 # Specific files to exclude
 *.html
