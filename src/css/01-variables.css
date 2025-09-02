@@ -1,0 +1,12 @@
+/* CSS Variables */
+:root {
+  --color-text: #000;
+  --color-bg: #fff;
+  --color-link: #76A11E;
+  --font-system: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+  --font-heading: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+}

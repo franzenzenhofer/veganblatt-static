@@ -1,0 +1,17 @@
+/* Tables */
+table {
+  border-collapse: collapse;
+  margin: var(--spacing-md) 0;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  font-weight: bold;
+}

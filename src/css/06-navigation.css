@@ -1,0 +1,14 @@
+/* Navigation */
+.nav {
+  text-align: center;
+  padding: var(--spacing-xs) 0;
+}
+
+.nav a {
+  display: inline-block;
+  margin: 0 var(--spacing-sm);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  color: var(--color-text);
+  font-weight: 400;
+  text-decoration: none;
+}

@@ -1,0 +1,55 @@
+/* Recipe Card */
+.recipe-card {
+  background: var(--color-bg);
+  padding: var(--spacing-md);
+  margin: var(--spacing-sm) 0;
+}
+
+.recipe-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-sm);
+  font-size: 0.9rem;
+  color: var(--color-text);
+}
+
+.recipe-section {
+  margin: var(--spacing-md) 0;
+}
+
+.recipe-section h3 {
+  color: var(--color-text);
+  margin-bottom: var(--spacing-xs);
+}
+
+.recipe-ingredients {
+  list-style-position: inside;
+  list-style-type: "• ";
+  padding-left: var(--spacing-sm);
+}
+
+.recipe-ingredients li {
+  margin: var(--spacing-xs) 0;
+}
+
+.recipe-instructions {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+}
+
+.recipe-instructions li {
+  counter-increment: step;
+  margin: var(--spacing-sm) 0;
+  padding-left: 2rem;
+  position: relative;
+}
+
+.recipe-instructions li:before {
+  content: counter(step) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+}

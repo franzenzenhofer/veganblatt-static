@@ -1,0 +1,59 @@
+/* Article Lists */
+.article-list {
+  list-style: none;
+  padding: var(--spacing-sm) 0;
+  margin: 0;
+}
+
+.article-item {
+  display: block;
+  padding: 8px 0; /* Equal spacing above and below */
+  margin: 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0; /* Remove whitespace between inline-block elements */
+}
+
+.article-item:last-child {
+  border-bottom: none;
+}
+
+/* Thumbnail - inline-block aligned to top */
+.list-thumb {
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  height: auto;
+  margin-right: var(--spacing-md);
+}
+
+/* Text container - inline-block aligned to top */
+.article-text {
+  display: inline-block;
+  vertical-align: top;
+  width: calc(100% - 80px - var(--spacing-md));
+  font-size: 1rem; /* Reset font-size */
+}
+
+/* Link styled as the title */
+.article-link {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  line-height: 0.8;
+  margin: 0;
+  padding: 0;
+  color: var(--color-link);
+  font-weight: 300;
+  text-decoration: underline;
+  display: block;
+  padding-top: 2px; /* Fine-tune to match image top exactly */
+}
+
+.article-excerpt {
+  color: var(--color-text);
+  margin: var(--spacing-xs) 0;
+}
+
+.article-date {
+  font-size: 0.85rem;
+  color: var(--color-text);
+}

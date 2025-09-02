@@ -1,0 +1,14 @@
+/* Proper list formatting */
+ul {
+  padding-left: var(--spacing-md);
+  margin: var(--spacing-sm) 0;
+}
+
+ol {
+  padding-left: var(--spacing-md);
+  margin: var(--spacing-sm) 0;
+}
+
+li {
+  margin: var(--spacing-xs) 0;
+}

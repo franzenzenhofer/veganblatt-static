@@ -1,0 +1,27 @@
+/* Images */
+.image-container {
+  margin: var(--spacing-lg) 0;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.copyright {
+  font-size: 0.85rem;
+  color: var(--color-text);
+  margin-top: var(--spacing-xs);
+  font-style: italic;
+  text-align: center;
+}
+
+.no-copyright-warning {
+  color: var(--color-text);
+  padding: var(--spacing-xs);
+  margin-top: var(--spacing-xs);
+  font-size: 0.85rem;
+}

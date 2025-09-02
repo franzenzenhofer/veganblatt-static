@@ -1,0 +1,13 @@
+/* Footer */
+.footer {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-lg) var(--spacing-sm);
+  background: var(--color-bg);
+  text-align: center;
+  color: var(--color-text);
+  font-size: 0.9rem;
+}
+
+.footer a {
+  color: var(--color-link);
+}

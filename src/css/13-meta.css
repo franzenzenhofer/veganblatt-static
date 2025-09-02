@@ -1,0 +1,6 @@
+/* Article Meta */
+.meta {
+  color: var(--color-text);
+  font-size: 0.9rem;
+  margin: var(--spacing-xs) 0 var(--spacing-md);
+}

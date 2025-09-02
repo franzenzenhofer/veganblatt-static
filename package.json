@@ -1,0 +1,47 @@
+{
+  "name": "veganblatt-static-site",
+  "version": "1.0.0",
+  "description": "Static site generator for VeganBlatt",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit --strict",
+    "lint": "eslint src --ext .ts",
+    "validate:html": "html-validate 'public/**/*.html'",
+    "validate": "tsx src/scripts/tests/full-validation.ts",
+    "test:unit": "tsx src/scripts/tests/test-generation.ts",
+    "test:e2e": "playwright test",
+    "test": "npm run test:unit && npm run validate",
+    "test:all": "npm run typecheck && npm run lint && npm run test:unit && npm run test:e2e && npm run validate",
+    "build:css": "tsx src/scripts/build-css.ts",
+    "generate": "tsx src/scripts/generate-site.ts",
+    "build": "npm run typecheck && npm run lint && npm run build:css && npm run generate && npm run test",
+    "clean": "rm -rf public/*.html public/a public/r public/css/styles.css",
+    "clean:copyright": "tsx src/scripts/clean-data-copyright.ts",
+    "remove:emojis": "tsx src/scripts/remove-all-emojis.ts",
+    "serve": "npx http-server public -p 8080",
+    "deploy": "npm run build && npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty=true",
+    "deploy:preview": "npm run build && npx wrangler pages deploy public --project-name=veganblatt-static --branch=preview --commit-dirty=true",
+    "audit": "tsx src/scripts/image-copyright-audit.ts"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^11.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/finalhandler": "^1.2.4",
+    "@types/node": "^20.10.0",
+    "@types/serve-static": "^1.15.8",
+    "@typescript-eslint/eslint-plugin": "^8.41.0",
+    "@typescript-eslint/parser": "^8.41.0",
+    "eslint": "^9.34.0",
+    "finalhandler": "^2.1.0",
+    "html-validate": "^10.0.0",
+    "http-server": "^14.1.1",
+    "playwright": "^1.55.0",
+    "serve-static": "^2.2.0",
+    "tsx": "^4.6.0",
+    "typescript": "^5.9.2",
+    "wrangler": "^4.33.1"
+  }
+}

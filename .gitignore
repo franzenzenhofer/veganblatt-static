@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build outputs
+dist/
+public/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Temp files
+*.tmp
+*.temp
+
+# Environment
+.env
+.env.local
+
+# Cache
+.cache/
+*.cache
+
+# Test reports
+test-report.*
+broken-links-report.json
+broken-links.txt
+lastrun.csv
+gemini-2-5-flash-progress.json
+playwright-report/
+screenshots/
+
+# Alignment test files
+alignment-*.png
+alignment-test.html
+*-alignment-*.png
+
+# Old reports
+*.md
+!CLAUDE.md
+!README.md
+
+# Specific files to exclude
+*.html
+!src/**/*.html
+*.txt
+!src/**/*.txt
