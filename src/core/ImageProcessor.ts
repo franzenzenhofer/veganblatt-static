@@ -20,18 +20,31 @@ export class ImageProcessor {
   }
 
   generateImageHtml(imageName: string, width?: number): string {
-    // Skip AI SVG images that don't exist
-    if (imageName && imageName.startsWith('ai/')) return '';
+    // Handle AI images in the ai/ subdirectory
+    let metadataKey = imageName;
+    if (imageName && imageName.startsWith('ai/')) {
+      // For AI images, the metadata key is the filename without the ai/ prefix
+      metadataKey = imageName.substring(3); // Remove 'ai/'
+    }
     
-    const metadata = this.getMetadata(imageName);
+    const metadata = this.getMetadata(metadataKey);
     if (!this.validateCopyright(metadata)) return '';
 
     const widthAttr = width ? `width="${width}"` : '';
     const alt = this.escapeHtml(metadata?.altText || imageName);
     
+    // Handle URL encoding properly - don't double-encode path separators
+    let imageUrl: string;
+    if (imageName.startsWith('ai/')) {
+      const filename = imageName.substring(3); // Remove 'ai/'
+      imageUrl = `/i/ai/${encodeURIComponent(filename)}`;
+    } else {
+      imageUrl = `/i/${encodeURIComponent(imageName)}`;
+    }
+    
     return `
 <div class="image-container">
-  <img src="/i/${encodeURIComponent(imageName)}" alt="${alt}" ${widthAttr} loading="lazy">
+  <img src="${imageUrl}" alt="${alt}" ${widthAttr} loading="lazy">
   <div class="copyright">${this.escapeHtml(metadata!.copyright!)}</div>
 </div>`;
   }
@@ -47,9 +60,19 @@ export class ImageProcessor {
     }
     
     const alt = this.escapeHtml(metadata?.altText || imageName);
+    
+    // Handle URL encoding properly - don't double-encode path separators
+    let imageUrl: string;
+    if (imageName.startsWith('ai/')) {
+      const filename = imageName.substring(3); // Remove 'ai/'
+      imageUrl = `/i/ai/${encodeURIComponent(filename)}`;
+    } else {
+      imageUrl = `/i/${encodeURIComponent(imageName)}`;
+    }
+    
     // For list pages, we show thumbnails without visible copyright
     // but ONLY if the metadata exists (copyright is validated above)
-    return `<img src="/i/${encodeURIComponent(imageName)}" alt="${alt}" width="80" loading="lazy">`;
+    return `<img src="${imageUrl}" alt="${alt}" width="80" loading="lazy">`;
   }
 
   private escapeHtml(str: string): string {

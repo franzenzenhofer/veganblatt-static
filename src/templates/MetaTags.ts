@@ -13,7 +13,17 @@ export class MetaTags {
   static render(options: MetaTagOptions): string {
     const { title, description, url, image, type = 'website', publishedTime, version, buildTime } = options;
     const canonicalUrl = `https://www.veganblatt.com${url}`;
-    const ogImageUrl = image ? `https://www.veganblatt.com/i/${encodeURIComponent(image)}` : 'https://www.veganblatt.com/i/assets/veganblatt-logo.svg';
+    
+    // Handle URL encoding properly - don't double-encode path separators
+    let ogImageUrl = 'https://www.veganblatt.com/i/assets/veganblatt-logo.svg';
+    if (image) {
+      if (image.startsWith('ai/')) {
+        const filename = image.substring(3); // Remove 'ai/'
+        ogImageUrl = `https://www.veganblatt.com/i/ai/${encodeURIComponent(filename)}`;
+      } else {
+        ogImageUrl = `https://www.veganblatt.com/i/${encodeURIComponent(image)}`;
+      }
+    }
     
     let tags = `
     <!-- Canonical URL -->
