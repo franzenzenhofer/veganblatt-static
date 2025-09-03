@@ -1,4 +1,5 @@
 import { FileSystemManager } from '../core/FileSystemManager';
+import { ContentProcessor } from '../core/ContentProcessor';
 import path from 'path';
 import fs from 'fs/promises';
 
@@ -9,10 +10,12 @@ interface SitemapEntry {
 
 export class SitemapGenerator {
   private fs: FileSystemManager;
+  private content: ContentProcessor;
   private baseUrl = 'https://www.veganblatt.com';
   
   constructor() {
     this.fs = new FileSystemManager();
+    this.content = new ContentProcessor();
   }
 
   async generate(srcDir: string, publicDir: string): Promise<void> {
@@ -43,12 +46,19 @@ export class SitemapGenerator {
     const entries: SitemapEntry[] = [];
     
     for (const file of files.filter(f => f.endsWith('.md'))) {
-      const slug = file.replace('.md', '');
       const filePath = path.join(articlesDir, file);
+      const content = await this.fs.readFile(filePath);
+      const { data } = this.content.parseMarkdown(content);
+      
+      // ALWAYS use slug from markdown - NO FALLBACK
+      if (!data.slug) {
+        throw new Error(`Missing slug in ${file} - EVERY FILE MUST HAVE A SLUG!`);
+      }
+      
       const stats = await fs.stat(filePath);
       
       entries.push({
-        loc: `${this.baseUrl}/a/${slug}.html`,
+        loc: `${this.baseUrl}/a/${data.slug}.html`,
         lastmod: stats.mtime.toISOString().split('T')[0] || ''
       });
     }
@@ -62,12 +72,19 @@ export class SitemapGenerator {
     const entries: SitemapEntry[] = [];
     
     for (const file of files.filter(f => f.endsWith('.md'))) {
-      const slug = file.replace('.md', '');
       const filePath = path.join(recipesDir, file);
+      const content = await this.fs.readFile(filePath);
+      const { data } = this.content.parseMarkdown(content);
+      
+      // ALWAYS use slug from markdown - NO FALLBACK
+      if (!data.slug) {
+        throw new Error(`Missing slug in ${file} - EVERY FILE MUST HAVE A SLUG!`);
+      }
+      
       const stats = await fs.stat(filePath);
       
       entries.push({
-        loc: `${this.baseUrl}/r/${slug}.html`,
+        loc: `${this.baseUrl}/r/${data.slug}.html`,
         lastmod: stats.mtime.toISOString().split('T')[0] || ''
       });
     }
