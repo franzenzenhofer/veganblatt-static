@@ -1,0 +1,348 @@
+/* VeganBlatt - Minimal Clean Design */
+
+/* 01-variables.css */
+/* CSS Variables */
+:root {
+  --color-text: #000;
+  --color-bg: #fff;
+  --color-link: #76A11E;
+  --font-system: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+  --font-heading: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+}
+
+/* 02-reset.css */
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-system);
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+  font-size: 16px;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 03-typography.css */
+/* Typography */
+h1 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  margin: var(--spacing-sm) 0 var(--spacing-xs);
+  color: var(--color-text);
+  line-height: 1.2;
+  font-weight: 200;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  margin: var(--spacing-md) 0 var(--spacing-xs);
+  color: var(--color-text);
+  font-weight: 300;
+  letter-spacing: -0.005em;
+}
+
+h3 {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  margin: var(--spacing-sm) 0 var(--spacing-xs);
+  color: var(--color-text);
+  font-weight: 300;
+}
+
+h4 {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  margin: var(--spacing-sm) 0 var(--spacing-xs);
+  color: var(--color-text);
+  font-weight: 300;
+  letter-spacing: normal;
+}
+
+h5 {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  margin: var(--spacing-sm) 0 var(--spacing-xs);
+  color: var(--color-text);
+  font-weight: 300;
+}
+
+/* Remove bold styling from strong tags inside headers */
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
+  font-weight: inherit;
+}
+
+p {
+  margin: 0 0 var(--spacing-sm);
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: underline;
+}
+
+/* 04-layout.css */
+/* Layout */
+article, main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* 05-header.css */
+/* Header with Logo */
+.header {
+  background: var(--color-bg);
+  padding: var(--spacing-sm);
+  margin-bottom: var(--spacing-sm);
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: var(--spacing-xs);
+}
+
+.logo-img {
+  max-width: 280px;
+  height: auto;
+  display: inline-block;
+}
+
+/* 06-navigation.css */
+/* Navigation */
+.nav {
+  text-align: center;
+  padding: var(--spacing-xs) 0;
+}
+
+.nav a {
+  display: inline-block;
+  margin: 0 var(--spacing-sm);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  color: var(--color-text);
+  font-weight: 400;
+  text-decoration: none;
+}
+
+/* 07-images.css */
+/* Images */
+.image-container {
+  margin: var(--spacing-lg) 0;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.copyright {
+  font-size: 0.85rem;
+  color: var(--color-text);
+  margin-top: var(--spacing-xs);
+  font-style: italic;
+  text-align: center;
+}
+
+.no-copyright-warning {
+  color: var(--color-text);
+  padding: var(--spacing-xs);
+  margin-top: var(--spacing-xs);
+  font-size: 0.85rem;
+}
+
+/* 08-article-list.css */
+/* Article Lists */
+.article-list {
+  list-style: none;
+  padding: var(--spacing-sm) 0;
+  margin: 0;
+}
+
+.article-item {
+  display: block;
+  padding: 8px 0; /* Equal spacing above and below */
+  margin: 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0; /* Remove whitespace between inline-block elements */
+}
+
+.article-item:last-child {
+  border-bottom: none;
+}
+
+/* Thumbnail - inline-block aligned to top */
+.list-thumb {
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  height: auto;
+  margin-right: var(--spacing-md);
+}
+
+/* Text container - inline-block aligned to top */
+.article-text {
+  display: inline-block;
+  vertical-align: top;
+  width: calc(100% - 80px - var(--spacing-md));
+  font-size: 1rem; /* Reset font-size */
+}
+
+/* Link styled as the title */
+.article-link {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  line-height: 0.8;
+  margin: 0;
+  padding: 0;
+  color: var(--color-link);
+  font-weight: 300;
+  text-decoration: underline;
+  display: block;
+  padding-top: 2px; /* Fine-tune to match image top exactly */
+}
+
+.article-excerpt {
+  color: var(--color-text);
+  margin: var(--spacing-xs) 0;
+}
+
+.article-date {
+  font-size: 0.85rem;
+  color: var(--color-text);
+}
+
+/* 09-recipe-card.css */
+/* Recipe Card */
+.recipe-card {
+  background: var(--color-bg);
+  padding: var(--spacing-md);
+  margin: var(--spacing-sm) 0;
+}
+
+.recipe-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-sm);
+  font-size: 0.9rem;
+  color: var(--color-text);
+}
+
+.recipe-section {
+  margin: var(--spacing-md) 0;
+}
+
+.recipe-section h3 {
+  color: var(--color-text);
+  margin-bottom: var(--spacing-xs);
+}
+
+.recipe-ingredients {
+  list-style-position: inside;
+  list-style-type: "• ";
+  padding-left: var(--spacing-sm);
+}
+
+.recipe-ingredients li {
+  margin: var(--spacing-xs) 0;
+}
+
+.recipe-instructions {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+}
+
+.recipe-instructions li {
+  counter-increment: step;
+  margin: var(--spacing-sm) 0;
+  padding-left: 2rem;
+  position: relative;
+}
+
+.recipe-instructions li:before {
+  content: counter(step) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+}
+
+/* 10-tables.css */
+/* Tables */
+table {
+  border-collapse: collapse;
+  margin: var(--spacing-md) 0;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  font-weight: bold;
+}
+
+/* 11-lists.css */
+/* Proper list formatting */
+ul {
+  padding-left: var(--spacing-md);
+  margin: var(--spacing-sm) 0;
+}
+
+ol {
+  padding-left: var(--spacing-md);
+  margin: var(--spacing-sm) 0;
+}
+
+li {
+  margin: var(--spacing-xs) 0;
+}
+
+/* 12-footer.css */
+/* Footer */
+.footer {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-lg) var(--spacing-sm);
+  background: var(--color-bg);
+  text-align: center;
+  color: var(--color-text);
+  font-size: 0.9rem;
+}
+
+.footer a {
+  color: var(--color-link);
+}
+
+/* 13-meta.css */
+/* Article Meta */
+.meta {
+  color: var(--color-text);
+  font-size: 0.9rem;
+  margin: var(--spacing-xs) 0 var(--spacing-md);
+}

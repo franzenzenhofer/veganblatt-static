@@ -1,0 +1,38 @@
+# Cache Control Headers for VeganBlatt
+# Generated: 2025-09-03T15:04:06.533Z
+# Version: 1.0.1
+
+# Versioned CSS - Cache forever (1 year)
+/css/*.css
+  Cache-Control: public, max-age=31536000, immutable
+  
+# Versioned assets - Cache forever (1 year)
+/i/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+  
+# Regular images - Cache for 1 week
+/i/*.jpg
+  Cache-Control: public, max-age=604800, must-revalidate
+  
+/i/*.png
+  Cache-Control: public, max-age=604800, must-revalidate
+  
+/i/*.gif
+  Cache-Control: public, max-age=604800, must-revalidate
+  
+/i/*.webp
+  Cache-Control: public, max-age=604800, must-revalidate
+  
+# HTML pages - Always revalidate
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+  
+/a/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+  
+/r/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+  
+# Root page
+/
+  Cache-Control: public, max-age=0, must-revalidate
