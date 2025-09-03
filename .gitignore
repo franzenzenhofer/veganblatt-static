@@ -4,7 +4,7 @@ node_modules/
 
 # Build outputs
 dist/
-public/
+# We WANT to track public/ for deployment!
 
 # Logs
 logs/

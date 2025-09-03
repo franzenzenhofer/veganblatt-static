@@ -1,6 +1,6 @@
 {
   "name": "veganblatt-static-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Static site generator for VeganBlatt",
   "type": "module",
   "scripts": {
