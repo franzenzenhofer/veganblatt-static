@@ -109,13 +109,38 @@ copyright: "© Photographer Name"
 altText: "Description of image"
 ```
 
+## URL STRUCTURE & VALIDATION
+
+### URL Generation Rules
+1. **SLUG-BASED URLS**: ALL URLs use slugs from markdown frontmatter, NEVER filenames
+2. **NO DATE-BASED URLS**: URLs are `/a/slug.html` and `/r/slug.html`, NOT `/a/2013-01-01-slug.html`
+3. **FAIL LOUD**: Missing slug = BUILD FAILURE - every markdown file MUST have a slug
+4. **AI IMAGES**: Stored in `/i/ai/filename.jpg` with proper URL encoding
+
+### URL Examples
+```
+✅ CORRECT:
+- /r/schoko-mohn-cheesecake.html (from slug: schoko-mohn-cheesecake)
+- /i/ai/ai-schoko-mohn-cheesecake.jpg (AI-generated images)
+
+❌ WRONG:
+- /r/2013-07-07-schoko-mohn-cheesecake.html (date-based)
+- /i/ai%2Fai-schoko-mohn-cheesecake.jpg (double-encoded)
+```
+
+### Image URL Encoding
+- **Regular images**: `/i/filename.jpg` with `encodeURIComponent(filename)`
+- **AI images**: `/i/ai/filename.jpg` (ai/ NOT encoded, filename encoded)
+- **NO DOUBLE ENCODING**: Path separators (/) must remain unencoded
+
 ## QUALITY GATES
 - ✅ TypeScript strict mode - ZERO errors
-- ✅ ESLint - ZERO warnings
+- ✅ ESLint - ZERO warnings  
 - ✅ HTML validation - Semantic markup
 - ✅ Copyright audit - 100% compliance
 - ✅ Mobile testing - Responsive design
 - ✅ Performance - < 100KB CSS
+- ✅ URL validation - All images exist and properly encoded
 
 ## STATISTICS
 - **Articles**: 1,272 published
