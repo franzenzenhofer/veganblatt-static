@@ -1,18 +1,32 @@
 import { SharedHeader } from './SharedHeader';
 import { SharedFooter } from './SharedFooter';
+import { MetaTags, MetaTagOptions } from './MetaTags';
 
 export class TemplateEngine {
   generateLayout(
     title: string,
     content: string,
-    cssPath: string = 'css/styles.css'
+    cssPath: string = 'css/styles.css',
+    metaOptions?: Partial<MetaTagOptions>
   ): string {
+    const fullTitle = `${this.escapeHtml(title)} - VeganBlatt`;
+    const description = metaOptions?.description || 
+      'VeganBlatt - Dein Magazin für vegane Ernährung, leckere Rezepte und nachhaltigen Lebensstil';
+    
+    const metaTags = MetaTags.render({
+      title: fullTitle,
+      description,
+      url: metaOptions?.url || '/',
+      type: metaOptions?.type || 'website',
+      ...metaOptions
+    } as MetaTagOptions);
+    
     return `<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${this.escapeHtml(title)} - VeganBlatt</title>
+  <title>${fullTitle}</title>${metaTags}
   <link rel="stylesheet" href="/${cssPath}">
 </head>
 <body>

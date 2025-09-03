@@ -8,7 +8,13 @@ export class ArticleTemplate extends PageTemplate {
   }
 
   async render(article: Article, htmlContent: string): Promise<string> {
-    const head = this.renderHead(article.title, article.excerpt);
+    const url = `/a/${article.slug}.html`;
+    const head = this.renderHead(article.title, article.excerpt, {
+      url,
+      type: 'article',
+      publishedTime: article.date,
+      image: article.featuredImage
+    });
     const header = this.renderHeader('articles');
     const footer = this.renderFooter();
     

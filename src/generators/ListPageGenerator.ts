@@ -135,8 +135,21 @@ export class ListPageGenerator {
     return recipes.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   }
 
-  private wrapInLayout(title: string, content: string, _cssPath: string): string {
-    return this.templateEngine.generateLayout(title, content);
+  private wrapInLayout(title: string, content: string, pagePath: string): string {
+    const url = pagePath === 'artikel.html' ? '/artikel.html' :
+                pagePath === 'alle-artikel.html' ? '/alle-artikel.html' :
+                pagePath === 'rezepte.html' ? '/rezepte.html' :
+                pagePath === 'alle-rezepte.html' ? '/alle-rezepte.html' : '/';
+                
+    const description = title.includes('Artikel') 
+      ? 'Interessante Artikel über vegane Ernährung, Nachhaltigkeit und bewussten Lebensstil'
+      : 'Leckere vegane Rezepte - einfach, gesund und nachhaltig kochen';
+      
+    return this.templateEngine.generateLayout(title, content, 'css/styles.css', {
+      url,
+      description,
+      type: 'website'
+    });
   }
 
   private getRandomWithRecent<T extends { date?: string }>(items: T[], count: number): T[] {

@@ -13,6 +13,7 @@ import { RecipeGenerator } from './generators/RecipeGenerator';
 import { ListPageGenerator } from './generators/ListPageGenerator';
 import { HomePageGenerator } from './generators/HomePageGenerator';
 import { StaticPageGenerator } from './generators/StaticPageGenerator';
+import { SitemapGenerator } from './generators/SitemapGenerator';
 
 export class SiteGenerator {
   private fs: FileSystemManager;
@@ -81,6 +82,10 @@ export class SiteGenerator {
     
     // Write skipped images report if any images were skipped
     this.content.writeSkippedImagesReport();
+    
+    // Generate sitemaps and robots.txt
+    const sitemapGen = new SitemapGenerator();
+    await sitemapGen.generate(this.config.srcDir, this.config.publicDir);
     
     await this.stats.saveReport(`${this.config.publicDir}/generation-stats.txt`);
   }

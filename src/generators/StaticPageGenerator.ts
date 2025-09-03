@@ -87,7 +87,11 @@ export class StaticPageGenerator {
     
     <p><strong>Stand:</strong> ${new Date().toLocaleDateString('de-AT')}</p>`;
     
-    const html = this.template.generateLayout('Impressum & Datenschutz', content, 'css/styles.css');
+    const html = this.template.generateLayout('Impressum & Datenschutz', content, 'css/styles.css', {
+      url: '/impressum.html',
+      description: 'Impressum und Datenschutzerklärung von VeganBlatt',
+      type: 'website'
+    });
     await this.fs.writeFile(
       path.join(this.config.publicDir, 'impressum.html'),
       html

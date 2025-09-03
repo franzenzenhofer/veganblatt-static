@@ -2,6 +2,8 @@ import path from 'path';
 import { Article, Recipe, SiteConfig } from '../types';
 import { FileSystemManager } from '../core/FileSystemManager';
 import { TemplateEngine } from '../templates/TemplateEngine';
+import { VersionManager } from '../utils/version';
+import { ContentStats } from '../utils/content-stats';
 
 export class HomePageGenerator {
   constructor(
@@ -107,7 +109,22 @@ export class HomePageGenerator {
       ${this.renderMixedContent(finalContent)}
     </ul>`;
     
-    const html = this.template.generateLayout('Home', pageContent);
+    // Get version info
+    const versionManager = new VersionManager();
+    const buildInfo = await versionManager.getBuildInfo();
+    
+    // Get real content stats
+    const contentStats = new ContentStats();
+    const stats = await contentStats.getStats(this.config.srcDir);
+    const description = contentStats.generateDescription(stats);
+    
+    const html = this.template.generateLayout('Home', pageContent, 'css/styles.css', {
+      url: '/',
+      description,
+      type: 'website',
+      version: buildInfo.version,
+      buildTime: buildInfo.buildTime
+    });
     await this.fs.writeFile(path.join(this.config.publicDir, 'index.html'), html);
   }
 

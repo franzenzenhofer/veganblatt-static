@@ -3,13 +3,35 @@ import { ArticleTemplate } from './ArticleTemplate';
 
 export class RecipeTemplate extends ArticleTemplate {
   async render(recipe: Recipe, htmlContent: string): Promise<string> {
-    // Remove date for recipes by setting it to undefined
-    const recipeWithoutDate = { ...recipe, date: undefined };
-    const baseHtml = await super.render(recipeWithoutDate, htmlContent);
-    if (!recipe.recipe) return baseHtml;
+    // Override the render to include proper recipe URL
+    const url = `/r/${recipe.slug}.html`;
+    const head = this.renderHead(recipe.title, recipe.excerpt, {
+      url,
+      type: 'article',
+      publishedTime: recipe.date,
+      image: recipe.featuredImage
+    });
+    const header = this.renderHeader('recipes');
+    const footer = this.renderFooter();
+    
+    const featuredImageHtml = recipe.featuredImage
+      ? (this as any).imageProcessor.generateImageHtml(recipe.featuredImage, 800)
+      : '';
+    
+    const baseHtml = `${head}
+<body>
+  ${header}
+  <article>
+    <h1>${this.escapeHtml(recipe.title)}</h1>
+    ${featuredImageHtml}
+    ${htmlContent}`;
+    
+    if (!recipe.recipe) {
+      return baseHtml + `</article>\n${footer}`;
+    }
     
     const recipeCard = this.renderRecipeCard(recipe.recipe);
-    return baseHtml.replace('</article>', `${recipeCard}</article>`);
+    return baseHtml + `${recipeCard}</article>\n${footer}`;
   }
 
   private renderRecipeCard(recipe: any): string {
