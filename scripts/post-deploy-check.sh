@@ -40,10 +40,10 @@ test_url() {
     
     if [ "$status" = "200" ]; then
         echo -e "  ${GREEN}✓${NC} $name (200 OK)"
-        ((SUCCESS_COUNT++))
+        SUCCESS_COUNT=$((SUCCESS_COUNT+1))
     else
         echo -e "  ${RED}✗${NC} $name ($status)"
-        ((FAIL_COUNT++))
+        FAIL_COUNT=$((FAIL_COUNT+1))
     fi
 }
 
@@ -134,7 +134,7 @@ if curl -s "https://www.veganblatt.com/" | grep -q '<link rel="canonical"'; then
     echo -e "  ${GREEN}✓${NC} Canonical tag present"
 else
     echo -e "  ${RED}✗${NC} Canonical tag missing"
-    ((FAIL_COUNT++))
+    FAIL_COUNT=$((FAIL_COUNT+1))
 fi
 
 # Check for Open Graph tags
@@ -142,7 +142,7 @@ if curl -s "https://www.veganblatt.com/" | grep -q 'property="og:title"'; then
     echo -e "  ${GREEN}✓${NC} Open Graph tags present"
 else
     echo -e "  ${RED}✗${NC} Open Graph tags missing"
-    ((FAIL_COUNT++))
+    FAIL_COUNT=$((FAIL_COUNT+1))
 fi
 
 # Check for NO Twitter tags (as required)
