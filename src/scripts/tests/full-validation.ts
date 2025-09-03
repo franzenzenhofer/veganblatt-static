@@ -37,7 +37,7 @@ async function runFullValidation(): Promise<void> {
     'index.html',
     'articles.html', 
     'recipes.html',
-    'about/impressum.html'
+    'impressum.html'
   ];
   
   for (const file of htmlFiles) {

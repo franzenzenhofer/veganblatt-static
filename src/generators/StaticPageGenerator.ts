@@ -46,9 +46,9 @@ export class StaticPageGenerator {
     <h2>Blattlinie</h2>
     <p>VeganBlatt ist ein Online-Medium mit dem Ziel vegane Lifestylethemen informativ und positiv zu beleuchten.</p>
     
-    <hr style="margin: 40px 0; border: none; border-top: 1px solid #eee;">
+    <hr class="section-divider">
     
-    <h1 id="datenschutz">Datenschutzerklärung</h1>
+    <h2 id="datenschutz">Datenschutzerklärung</h2>
     
     <p><strong>Verantwortlicher im Sinne der DSGVO:</strong><br>
     Franz Enzenhofer<br>
