@@ -31,7 +31,7 @@ export class ImageProcessor {
     
     return `
 <div class="image-container">
-  <img src="/i/${imageName}" alt="${alt}" ${widthAttr} loading="lazy">
+  <img src="/i/${encodeURIComponent(imageName)}" alt="${alt}" ${widthAttr} loading="lazy">
   <div class="copyright">${this.escapeHtml(metadata!.copyright!)}</div>
 </div>`;
   }
@@ -49,7 +49,7 @@ export class ImageProcessor {
     const alt = this.escapeHtml(metadata?.altText || imageName);
     // For list pages, we show thumbnails without visible copyright
     // but ONLY if the metadata exists (copyright is validated above)
-    return `<img src="/i/${imageName}" alt="${alt}" width="80" loading="lazy">`;
+    return `<img src="/i/${encodeURIComponent(imageName)}" alt="${alt}" width="80" loading="lazy">`;
   }
 
   private escapeHtml(str: string): string {

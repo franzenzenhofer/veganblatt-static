@@ -30,6 +30,9 @@ coverage/
 .env
 .env.local
 
+# Secret credentials - NEVER commit
+SECRET_ACCESS.md
+
 # Cache
 .cache/
 *.cache

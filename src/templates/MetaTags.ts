@@ -13,7 +13,7 @@ export class MetaTags {
   static render(options: MetaTagOptions): string {
     const { title, description, url, image, type = 'website', publishedTime, version, buildTime } = options;
     const canonicalUrl = `https://www.veganblatt.com${url}`;
-    const ogImageUrl = image ? `https://www.veganblatt.com/i/${image}` : 'https://www.veganblatt.com/i/assets/veganblatt-logo.svg';
+    const ogImageUrl = image ? `https://www.veganblatt.com/i/${encodeURIComponent(image)}` : 'https://www.veganblatt.com/i/assets/veganblatt-logo.svg';
     
     let tags = `
     <!-- Canonical URL -->

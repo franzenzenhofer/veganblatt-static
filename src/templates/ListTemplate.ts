@@ -10,7 +10,7 @@ export class ListTemplate extends PageTemplate {
     // Skip AI SVG images that don't exist
     const shouldShowImage = item.featuredImage && !item.featuredImage.startsWith('ai/');
     const imageTag = shouldShowImage && item.featuredImage
-      ? `<img src="/i/${item.featuredImage}" alt="${this.escapeHtml(item.featuredImage.replace(/\.[^.]+$/, '').replace(/-/g, ' '))}" width="80" class="list-thumb">\n  `
+      ? `<img src="/i/${encodeURIComponent(item.featuredImage)}" alt="${this.escapeHtml(item.featuredImage.replace(/\.[^.]+$/, '').replace(/-/g, ' '))}" width="80" class="list-thumb">\n  `
       : '';
 
     return `<li class="article-item">

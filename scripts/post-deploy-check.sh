@@ -165,6 +165,23 @@ if [ "$FAIL_COUNT" -eq 0 ]; then
     echo ""
     echo "Site is live at: https://www.veganblatt.com/"
     echo "Version: $LIVE_VERSION"
+    
+    # Extra sanity: verify Cloudflare Pages custom domain binding for www if credentials are present
+    if [ -n "$CLOUDFLARE_API_TOKEN" ] && [ -n "$CLOUDFLARE_ACCOUNT_ID" ]; then
+        echo ""
+        echo "🔒 Verifying custom domain binding (www)..."
+        DOMAIN_STATUS=$(curl -s -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
+          "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/veganblatt-static/domains" \
+          | jq -r '.result[] | select(.name=="www.veganblatt.com") | .status')
+        if [ "$DOMAIN_STATUS" = "active" ]; then
+            echo -e "  ${GREEN}✓${NC} www.veganblatt.com is attached to Pages (active)"
+        else
+            echo -e "  ${YELLOW}⚠${NC} www.veganblatt.com not active on Pages (status: ${DOMAIN_STATUS:-unknown})"
+        fi
+    else
+        echo ""
+        echo "ℹ️  Skipping domain binding verification (no CLOUDFLARE_API_TOKEN/ACCOUNT_ID in env)."
+    fi
     exit 0
 else
     echo ""

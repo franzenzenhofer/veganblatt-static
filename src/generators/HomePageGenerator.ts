@@ -131,7 +131,7 @@ export class HomePageGenerator {
   private renderMixedContent(items: Array<(Article | Recipe) & { type: 'a' | 'r' }>): string {
     return items.map(item => {
       const imageTag = item.featuredImage 
-        ? `<img src="/i/${item.featuredImage}" alt="" width="80" class="list-thumb">\n      `
+        ? `<img src="/i/${encodeURIComponent(item.featuredImage)}" alt="" width="80" class="list-thumb">\n      `
         : '';
       
       return `<li class="article-item">
