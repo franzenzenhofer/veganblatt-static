@@ -35,7 +35,8 @@ test_url() {
     local name=$2
     
     # Get HTTP status
-    status=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+    # Follow redirects so 301/302/307/308 to canonical URLs are treated as success
+    status=$(curl -s -L -o /dev/null -w "%{http_code}" "$url")
     
     if [ "$status" = "200" ]; then
         echo -e "  ${GREEN}✓${NC} $name (200 OK)"
