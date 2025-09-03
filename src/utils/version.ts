@@ -18,7 +18,7 @@ export class VersionManager {
   async incrementVersion(): Promise<string> {
     const current = await this.getCurrentVersion();
     const parts = current.split('.');
-    const patch = parseInt(parts[2]) + 1;
+    const patch = parseInt(parts[2] || '0') + 1;
     const newVersion = `${parts[0]}.${parts[1]}.${patch}`;
     
     // Save new version with timestamp
