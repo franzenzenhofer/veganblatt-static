@@ -118,6 +118,8 @@ export class SiteGenerator {
   
   private async loadImageMetadata(): Promise<void> {
     const metadataDir = path.join(this.config.srcDir, 'image-metadata');
+    
+    // Load regular image metadata
     try {
       const files = await this.fs.readDir(metadataDir);
       
@@ -128,12 +130,34 @@ export class SiteGenerator {
         if (data.filename && data.copyright) {
           this.image.loadMetadata(data.filename, {
             copyright: data.copyright,
-            altText: data.filename.replace(/\.[^.]+$/, '').replace(/-/g, ' ')
+            altText: data.altText || data.filename.replace(/\.[^.]+$/, '').replace(/-/g, ' ')
           });
         }
       }
     } catch {
       console.log('Warning: No image metadata found');
+    }
+    
+    // Load AI image metadata from ai/ subdirectory
+    const aiMetadataDir = path.join(metadataDir, 'ai');
+    try {
+      const aiFiles = await this.fs.readDir(aiMetadataDir);
+      
+      for (const file of aiFiles.filter(f => f.endsWith('.md'))) {
+        const content = await this.fs.readFile(path.join(aiMetadataDir, file));
+        const { data } = this.content.parseMarkdown(content);
+        
+        if (data.filename && data.copyright) {
+          // Store AI images with their filename (without ai/ prefix)
+          this.image.loadMetadata(data.filename, {
+            copyright: data.copyright,
+            altText: data.altText || data.filename.replace(/\.[^.]+$/, '').replace(/-/g, ' ')
+          });
+        }
+      }
+      console.log(`Loaded ${aiFiles.filter(f => f.endsWith('.md')).length} AI image metadata files`);
+    } catch {
+      // AI images are optional
     }
   }
 }

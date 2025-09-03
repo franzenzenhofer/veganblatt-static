@@ -164,9 +164,13 @@ export class ContentProcessor {
 
   processArticle(filename: string, content: string): Article {
     const { data, content: markdown } = this.parseMarkdown(content);
+    // ALWAYS use slug from markdown - NO FALLBACK
+    if (!data.slug) {
+      throw new Error(`Missing slug in ${filename} - EVERY FILE MUST HAVE A SLUG!`);
+    }
     return {
       title: data.title || 'Untitled',
-      slug: filename.replace('.md', ''),
+      slug: data.slug,
       date: data.date,
       excerpt: data.excerpt || this.extractExcerpt(markdown),
       featuredImage: data.featuredImage,

@@ -1,5 +1,5 @@
 # Cache Control Headers for VeganBlatt
-# Generated: 2025-09-03T15:04:06.533Z
+# Generated: 2025-09-03T16:20:26.370Z
 # Version: 1.0.1
 
 # Versioned CSS - Cache forever (1 year)
@@ -9,30 +9,70 @@
 # Versioned assets - Cache forever (1 year)
 /i/assets/*
   Cache-Control: public, max-age=31536000, immutable
-  
-# Regular images - Cache for 1 week
+
+# Images (root and subpaths) - Cache long, immutable
 /i/*.jpg
-  Cache-Control: public, max-age=604800, must-revalidate
-  
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.jpeg
+  Cache-Control: public, max-age=31536000, immutable
 /i/*.png
-  Cache-Control: public, max-age=604800, must-revalidate
-  
+  Cache-Control: public, max-age=31536000, immutable
 /i/*.gif
-  Cache-Control: public, max-age=604800, must-revalidate
-  
+  Cache-Control: public, max-age=31536000, immutable
 /i/*.webp
-  Cache-Control: public, max-age=604800, must-revalidate
-  
-# HTML pages - Always revalidate
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.avif
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+
+/i/**/*.jpg
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.jpeg
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.png
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.gif
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.avif
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+
+# Sitemaps and robots - shorter cache
+/sitemap*.xml
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=86400, must-revalidate
+
+# HTML pages (explicit extensions)
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
-  
+
 /a/*.html
   Cache-Control: public, max-age=0, must-revalidate
-  
+
 /r/*.html
   Cache-Control: public, max-age=0, must-revalidate
-  
-# Root page
+
+# Extensionless HTML routes
 /
+  Cache-Control: public, max-age=0, must-revalidate
+
+/artikel
+  Cache-Control: public, max-age=0, must-revalidate
+
+/rezepte
+  Cache-Control: public, max-age=0, must-revalidate
+
+/impressum
+  Cache-Control: public, max-age=0, must-revalidate
+
+/a/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/r/*
   Cache-Control: public, max-age=0, must-revalidate
