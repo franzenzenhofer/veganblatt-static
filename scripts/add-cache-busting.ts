@@ -131,8 +131,35 @@ const headersContent = `# Cache Control Headers for VeganBlatt
 /i/assets/*
   Cache-Control: public, max-age=31536000, immutable
 
-# Images (all subpaths) - Cache long, revalidate if needed
-/i/**/*.(jpg|jpeg|png|gif|webp|avif|svg)
+# Images (root and subpaths) - Cache long, immutable
+/i/*.jpg
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.jpeg
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.png
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.gif
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.avif
+  Cache-Control: public, max-age=31536000, immutable
+/i/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+
+/i/**/*.jpg
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.jpeg
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.png
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.gif
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.avif
+  Cache-Control: public, max-age=31536000, immutable
+/i/**/*.svg
   Cache-Control: public, max-age=31536000, immutable
 
 # Sitemaps and robots - shorter cache
@@ -142,11 +169,7 @@ const headersContent = `# Cache Control Headers for VeganBlatt
 /robots.txt
   Cache-Control: public, max-age=86400, must-revalidate
 
-# Default HTML (including extensionless) - Always revalidate
-/*
-  Cache-Control: public, max-age=0, must-revalidate
-
-# Explicit HTML extensions
+# HTML pages (explicit extensions)
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 
@@ -154,6 +177,25 @@ const headersContent = `# Cache Control Headers for VeganBlatt
   Cache-Control: public, max-age=0, must-revalidate
 
 /r/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Extensionless HTML routes
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/artikel
+  Cache-Control: public, max-age=0, must-revalidate
+
+/rezepte
+  Cache-Control: public, max-age=0, must-revalidate
+
+/impressum
+  Cache-Control: public, max-age=0, must-revalidate
+
+/a/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/r/*
   Cache-Control: public, max-age=0, must-revalidate
 `;
 
