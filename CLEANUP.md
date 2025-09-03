@@ -36,14 +36,46 @@ Status: Proposal only (no code changes). Each item has clear steps, rationale, a
   - Add a minimal script to validate token scopes before deploy.
 - Deliverable: `.env.example` + docs; token scope checker.
 
-## 5) Build pipeline structure
-- Problem: Many scripts in `src/scripts` and `scripts/` intermix concerns; tests live in two trees.
-- Why: Discoverability and maintenance friction.
+## 5) Scripts layout and duplicates (focus)
+- Problem: Two script roots (`scripts/` bash + `src/scripts/` TS) with overlap; several legacy/duplicated scripts.
+- Why: Confusing entry points, harder maintenance, contradictory behavior.
 - Steps:
-  - Consolidate runtime scripts under `scripts/` (bash) and `src/tools/` (TS/Node).
-  - Move tests under `tests/` with subfolders: `unit/`, `integration/`, `e2e/`.
-  - Add a single `npm run validate` that shells out to the right places (already present; rewire to new layout).
-- Deliverable: Clear folder topology; updated package scripts.
+  - Folder policy:
+    - Keep shell entrypoints in `scripts/` only (thin wrappers).
+    - Move all TS utilities to `src/tools/` (new) and reference via `tsx` in package.json.
+  - Consolidate verification scripts to a single source of truth:
+    - Keep: `scripts/post-deploy-check.sh` (already comprehensive) and `scripts/monitor.sh`.
+    - Deprecate: `scripts/verify-deployment.sh`, `scripts/final-https-test.sh` (overlaps with post-deploy), `scripts/deploy-with-verification.sh` (giant, duplicates build/deploy/test), `scripts/https-security-audit.sh`, `scripts/caching-performance-audit.sh` (fold into monitor or post-deploy as flags).
+  - Unify asset tooling:
+    - Move `scripts/add-cache-busting.ts` to `src/tools/add-cache-busting.ts`.
+    - Ensure build calls it via `npm run build:css` or a new `assets:prepare` script.
+  - Remove/Archive legacy migration scripts:
+    - `scripts/copy-images.sh` (local path, one-off).
+    - `src/scripts/publish-site.ts` (duplicates `npm run build` + `wrangler pages deploy`).
+  - Tests layout:
+    - Move `src/scripts/tests/*` and `src/tests/*` into a single `tests/` with `unit/`, `integration/`, `e2e/`.
+    - Update package.json scripts to target new paths.
+- Deliverable: One bash entry per action, all TS tools under `src/tools/`, and a trimmed `scripts/` directory without duplicates.
+
+### 5.a Inventory of duplicates/outdated
+- Duplicate verification:
+  - `scripts/post-deploy-check.sh` (KEEP)
+  - `scripts/verify-deployment.sh` (REMOVE; overlaps 1–5)
+  - `scripts/final-https-test.sh` (REMOVE; subset of post-deploy)
+  - `scripts/deploy-with-verification.sh` (REMOVE; monolithic, replaces build/test/deploy redundantly)
+  - `scripts/https-security-audit.sh` (MERGE into post-deploy as optional flag)
+  - `scripts/caching-performance-audit.sh` (MERGE into monitor or optional flag)
+- Asset/cache TS tools:
+  - `scripts/add-cache-busting.ts` (MOVE to `src/tools/`)
+- Migration/one-off:
+  - `scripts/copy-images.sh` (ARCHIVE to `tools/archive/`; local absolute path)
+- Publish pipeline:
+  - `src/scripts/publish-site.ts` (REMOVE; redundant with `build` + `deploy`)
+- Tests in two trees:
+  - `src/scripts/tests/*` and `src/tests/test-sitemap.ts` (MOVE to `tests/`)
+- Misc leftover/demo:
+  - `alignment-test.html` in repo root (MOVE to `docs/dev/` or REMOVE)
+  - Old reports: `broken-links.*`, `lastrun.csv`, `gemini-*.json` (ENSURE gitignored; keep under `logs/`)
 
 ## 6) Site generator refactor planning
 - Problem: Generators and processors are large single files (100–200+ lines) with repeated patterns (HTML assembly, image handling).
@@ -115,4 +147,3 @@ Status: Proposal only (no code changes). Each item has clear steps, rationale, a
 5. Refactor helpers groundwork (6,7)
 6. Wrangler/infra tidy (8)
 7. Content linter (12)
-
