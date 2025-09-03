@@ -130,9 +130,18 @@ export class HomePageGenerator {
 
   private renderMixedContent(items: Array<(Article | Recipe) & { type: 'a' | 'r' }>): string {
     return items.map(item => {
-      const imageTag = item.featuredImage 
-        ? `<img src="/i/${encodeURIComponent(item.featuredImage)}" alt="" width="80" class="list-thumb">\n      `
-        : '';
+      let imageTag = '';
+      if (item.featuredImage) {
+        // Handle URL encoding properly - don't double-encode path separators
+        let imageUrl: string;
+        if (item.featuredImage.startsWith('ai/')) {
+          const filename = item.featuredImage.substring(3); // Remove 'ai/'
+          imageUrl = `/i/ai/${encodeURIComponent(filename)}`;
+        } else {
+          imageUrl = `/i/${encodeURIComponent(item.featuredImage)}`;
+        }
+        imageTag = `<img src="${imageUrl}" alt="" width="80" class="list-thumb">\n      `;
+      }
       
       return `<li class="article-item">
       ${imageTag}<div class="article-text">

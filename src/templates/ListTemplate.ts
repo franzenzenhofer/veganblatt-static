@@ -7,11 +7,19 @@ export class ListTemplate extends PageTemplate {
   }
 
   renderArticleItem(item: Article | Recipe, type: 'a' | 'r'): string {
-    // Skip AI SVG images that don't exist
-    const shouldShowImage = item.featuredImage && !item.featuredImage.startsWith('ai/');
-    const imageTag = shouldShowImage && item.featuredImage
-      ? `<img src="/i/${encodeURIComponent(item.featuredImage)}" alt="${this.escapeHtml(item.featuredImage.replace(/\.[^.]+$/, '').replace(/-/g, ' '))}" width="80" class="list-thumb">\n  `
-      : '';
+    let imageTag = '';
+    if (item.featuredImage) {
+      // Handle URL encoding properly - don't double-encode path separators
+      let imageUrl: string;
+      if (item.featuredImage.startsWith('ai/')) {
+        const filename = item.featuredImage.substring(3); // Remove 'ai/'
+        imageUrl = `/i/ai/${encodeURIComponent(filename)}`;
+      } else {
+        imageUrl = `/i/${encodeURIComponent(item.featuredImage)}`;
+      }
+      const altText = this.escapeHtml(item.featuredImage.replace(/\.[^.]+$/, '').replace(/-/g, ' '));
+      imageTag = `<img src="${imageUrl}" alt="${altText}" width="80" class="list-thumb">\n  `;
+    }
 
     return `<li class="article-item">
   ${imageTag}<div class="article-text">
