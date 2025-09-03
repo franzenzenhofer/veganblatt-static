@@ -130,32 +130,30 @@ const headersContent = `# Cache Control Headers for VeganBlatt
 # Versioned assets - Cache forever (1 year)
 /i/assets/*
   Cache-Control: public, max-age=31536000, immutable
-  
-# Regular images - Cache for 1 week
-/i/*.jpg
-  Cache-Control: public, max-age=604800, must-revalidate
-  
-/i/*.png
-  Cache-Control: public, max-age=604800, must-revalidate
-  
-/i/*.gif
-  Cache-Control: public, max-age=604800, must-revalidate
-  
-/i/*.webp
-  Cache-Control: public, max-age=604800, must-revalidate
-  
-# HTML pages - Always revalidate
+
+# Images (all subpaths) - Cache long, revalidate if needed
+/i/**/*.(jpg|jpeg|png|gif|webp|avif|svg)
+  Cache-Control: public, max-age=31536000, immutable
+
+# Sitemaps and robots - shorter cache
+/sitemap*.xml
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=86400, must-revalidate
+
+# Default HTML (including extensionless) - Always revalidate
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Explicit HTML extensions
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
-  
+
 /a/*.html
   Cache-Control: public, max-age=0, must-revalidate
-  
+
 /r/*.html
-  Cache-Control: public, max-age=0, must-revalidate
-  
-# Root page
-/
   Cache-Control: public, max-age=0, must-revalidate
 `;
 
