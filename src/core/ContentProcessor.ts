@@ -40,6 +40,12 @@ export class ContentProcessor {
     
     // Handle inline images - use ImageProcessor to get metadata
     renderer.image = (href, _title, _text) => {
+      // Skip YouTube/Vimeo URLs that might be mistakenly parsed as images
+      if (href?.includes('youtube.com') || href?.includes('youtu.be') || 
+          href?.includes('vimeo.com') || href?.includes('watch?v=')) {
+        return ''; // Don't render video URLs as images
+      }
+      
       // Extract filename from URL
       const filename = href?.split('/').pop() || '';
       
@@ -81,9 +87,9 @@ export class ContentProcessor {
       console.log('Found inline images:', inlineImages);
     }
     
-    // Convert YouTube iframes to links
+    // Convert YouTube iframes to links (handle src with // prefix)
     processedMarkdown = processedMarkdown.replace(
-      /<iframe[^>]*(?:youtube\.com\/embed\/|youtu\.be\/)([^"'\s?]+)[^>]*>.*?<\/iframe>/gi,
+      /<iframe[^>]*src=["']?(?:https?:)?\/\/(?:www\.)?(?:youtube\.com\/embed\/|youtu\.be\/)([^"'\s?]+)[^>]*>.*?<\/iframe>/gi,
       (_match, videoId) => {
         // Handle undefined video IDs
         if (!videoId || videoId === 'undefined') {
@@ -101,6 +107,17 @@ export class ContentProcessor {
           return ''; // Remove broken iframes
         }
         return `[Video auf Vimeo ansehen](https://vimeo.com/${videoId})`;
+      }
+    );
+    
+    // Convert embedresponsive shortcodes to YouTube links
+    processedMarkdown = processedMarkdown.replace(
+      /\[embedresponsive[^\]]*videourl=["']?(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([^"'\]]+)["']?[^\]]*\]/gi,
+      (_match, videoId) => {
+        if (!videoId || videoId === 'undefined') {
+          return ''; // Remove broken embeds
+        }
+        return `[Video auf YouTube ansehen](https://www.youtube.com/watch?v=${videoId})`;
       }
     );
     
