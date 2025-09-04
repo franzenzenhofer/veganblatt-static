@@ -56,10 +56,16 @@ test_url "https://www.veganblatt.com/rezepte.html" "Recipes list"
 test_url "https://www.veganblatt.com/impressum.html" "Impressum"
 
 # Test sample article
-test_url "https://www.veganblatt.com/a/2019-09-01-vegane-mythen.html" "Sample article"
+# Dynamic sample article/recipe from sitemaps (avoid stale slugs)
+SAMPLE_ARTICLE=$(curl -s "https://www.veganblatt.com/sitemap-articles.xml" | sed -n 's/.*<loc>\(.*\)<\/loc>.*/\1/p' | head -n 1)
+SAMPLE_RECIPE=$(curl -s "https://www.veganblatt.com/sitemap-recipes.xml" | sed -n 's/.*<loc>\(.*\)<\/loc>.*/\1/p' | head -n 1)
 
-# Test sample recipe  
-test_url "https://www.veganblatt.com/r/2017-05-07-rohkostkuchen-maca.html" "Sample recipe"
+if [ -n "$SAMPLE_ARTICLE" ]; then
+  test_url "$SAMPLE_ARTICLE" "Sample article"
+fi
+if [ -n "$SAMPLE_RECIPE" ]; then
+  test_url "$SAMPLE_RECIPE" "Sample recipe"
+fi
 
 # Test SEO files
 echo ""
