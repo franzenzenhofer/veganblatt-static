@@ -1,5 +1,5 @@
 ---
-title: "Rohkost veganer Himbeer-Kuchen"
+title: "Rohkost-Veganer Himbeer-Kuchen"
 date: "2017-06-25 07:21:41"
 modified: "2019-01-25 10:08:28"
 slug: "rohkost-himbeer-kuchen"

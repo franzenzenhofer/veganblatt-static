@@ -36,5 +36,7 @@ recipe:
       Den Backofen auf 200°C Ober-/Unterhitze vorheizen und den Blumenkohl für
       20min backen. Nach 10min wenden.
     - Mit Parmesan und Pinienkernen bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:17:55.390Z'
+featuredImage: ai/ai-gebackener-blumenkohl-fettarm.jpg
 ---
 

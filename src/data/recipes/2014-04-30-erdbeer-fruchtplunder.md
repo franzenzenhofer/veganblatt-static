@@ -30,5 +30,7 @@ recipe:
       Löffel Pudding geben.
     - Den Teig mit nun mit Sojamilch einpinseln und 12-15min bei 180°C backen.
     - Mit frischen Erdbeeren belegen und fertig!
+aiGeneratedDate: '2025-09-04T11:17:47.106Z'
+featuredImage: ai/ai-erdbeer-fruchtplunder.jpg
 ---
 

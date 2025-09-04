@@ -1,5 +1,5 @@
 ---
-title: "Rhabarber veganer Erdbeer Blechkuchen"
+title: "Veganer Rhabarber-Erdbeer-Blechkuchen"
 date: "2019-04-28 14:05:07"
 modified: "2019-04-28 14:05:07"
 slug: "rhabarber-kuchen"

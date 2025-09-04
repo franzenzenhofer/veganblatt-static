@@ -1,5 +1,5 @@
 ---
-title: "Erfrischender veganes Eistee mit Minze"
+title: "Erfrischender Veganer Eistee mit Minze"
 date: "2019-07-06 10:20:49"
 modified: "2019-07-05 10:30:33"
 slug: "eistee-mit-minze"

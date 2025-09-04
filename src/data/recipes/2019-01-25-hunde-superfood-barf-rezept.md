@@ -1,5 +1,5 @@
 ---
-title: "Vegetarisches veganes BARF-Rezept für Hunde:_ Superfood-Mix"
+title: "Vegetarisches Veganes BARF-Rezept für Hunde: Superfood-Mix"
 date: '2019-01-25 09:40:11'
 modified: '2019-01-29 15:13:32'
 slug: hunde-superfood-barf-rezept
