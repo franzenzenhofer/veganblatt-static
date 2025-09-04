@@ -1,4 +1,5 @@
 import path from 'path';
+import matter from 'gray-matter';
 import { SiteConfig } from './types';
 import { FileSystemManager } from './core/FileSystemManager';
 import { ContentProcessor } from './core/ContentProcessor';
@@ -149,30 +150,34 @@ export class SiteGenerator {
       let loadedCount = 0;
       
       for (const file of aiFiles.filter(f => f.endsWith('.md') || f.endsWith('.yaml') || f.endsWith('.yml'))) {
-        const content = await this.fs.readFile(path.join(aiMetadataDir, file));
+        try {
+          const content = await this.fs.readFile(path.join(aiMetadataDir, file));
+          
+          let data: { filename?: string; copyright?: string; altText?: string };
+          if (file.endsWith('.md')) {
+            // Parse as markdown frontmatter
+            const parsed = this.content.parseMarkdown<{ filename?: string; copyright?: string; altText?: string }>(content);
+            data = parsed.data;
+          } else {
+            // Parse pure YAML file by treating it as frontmatter only
+            console.log(`Parsing YAML file: ${file}`);
+            const parsed = matter('---\n' + content + '\n---\n');
+            data = parsed.data;
+          }
         
-        let data: { filename?: string; copyright?: string; altText?: string };
-        if (file.endsWith('.md')) {
-          // Parse as markdown frontmatter
-          const parsed = this.content.parseMarkdown<{ filename?: string; copyright?: string; altText?: string }>(content);
-          data = parsed.data;
-        } else {
-          // Parse as pure YAML
-          const matter = require('gray-matter');
-          const parsed = matter(`---\n${content}\n---`);
-          data = parsed.data;
-        }
-        
-        if (data.filename && data.copyright) {
-          // Store AI images with their filename (without ai/ prefix)
-          this.image.loadMetadata(data.filename, {
-            copyright: data.copyright,
-            altText: data.altText || data.filename.replace(/\.[^.]+$/, '').replace(/-/g, ' ')
-          });
-          loadedCount++;
-        } else {
-          // FAIL HARD - if metadata file exists but is invalid, throw error
-          throw new Error(`INVALID AI METADATA FILE: ${file} - Missing filename or copyright!`);
+          if (data.filename && data.copyright) {
+            // Store AI images with their filename (without ai/ prefix)
+            this.image.loadMetadata(data.filename, {
+              copyright: data.copyright,
+              altText: data.altText || data.filename.replace(/\.[^.]+$/, '').replace(/-/g, ' ')
+            });
+            loadedCount++;
+          } else {
+            // FAIL HARD - if metadata file exists but is invalid, throw error
+            throw new Error(`INVALID AI METADATA FILE: ${file} - Missing filename or copyright!`);
+          }
+        } catch (fileError) {
+          throw new Error(`ERROR PARSING AI METADATA FILE ${file}: ${fileError}`);
         }
       }
       console.log(`Loaded ${loadedCount} AI image metadata files`);
