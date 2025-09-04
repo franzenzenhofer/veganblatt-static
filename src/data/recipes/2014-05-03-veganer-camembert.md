@@ -28,5 +28,7 @@ recipe:
       Nun die Nüsse abschütten und zu der gelierten Flohsamenmasse geben. Mit
       den restlichen Zutaten mit dem Stabmixer fein pürieren. In eine Schale
       geben. Vor dem Verzehr für min. 1h in den Kühlschrank stellen. Fertig
+aiGeneratedDate: '2025-09-04T11:21:18.584Z'
+featuredImage: ai/ai-veganer-camembert.jpg
 ---
 

@@ -32,6 +32,8 @@ recipe:
       Eine Pfanne mit dem Kokosöl aufstellen und die Brösel vermischt mit dem
       Xylitol und dem Zimt leicht braun anrösten. Die Knödel darin wenden und
       sogleich servieren.
+aiGeneratedDate: '2025-09-04T11:24:55.039Z'
+featuredImage: ai/ai-schnelle-obstknoedel.jpg
 ---
 
 [<!-- Image removed (no copyright): kirschknödel.jpg -->](https://www.veganblatt.com/i/kirschknödel.jpg)

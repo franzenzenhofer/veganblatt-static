@@ -1,5 +1,5 @@
 ---
-title: Apfel vegane Zimt Schnecken
+title: Vegane Apfel-Zimt-Schnecken
 date: '2014-01-03 08:09:38'
 modified: '2014-04-10 12:07:25'
 slug: apfel-zimt-schnecken

@@ -1,5 +1,5 @@
 ---
-title: "Einfache vegane Bananen-Schokolade Muffins"
+title: "Einfache Vegane Bananen-Schokolade Muffins"
 date: "2013-03-14 12:58:12"
 modified: "2014-01-16 13:30:05"
 slug: "bananen-schokolade-muffins"

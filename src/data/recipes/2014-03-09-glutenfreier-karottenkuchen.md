@@ -1,5 +1,5 @@
 ---
-title: 'Veganer Saftiger, glutenfreier Karottenkuchen'
+title: 'Saftiger Veganer glutenfreier Karottenkuchen'
 date: '2014-03-09 09:00:33'
 modified: '2016-05-19 12:43:38'
 slug: glutenfreier-karottenkuchen

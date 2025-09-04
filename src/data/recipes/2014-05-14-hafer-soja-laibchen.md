@@ -35,5 +35,7 @@ recipe:
     - >-
       Mit feuchten Händen Laibchen formen und in der Pfanne mit dem Kokosöl
       beidseitig goldbraun, knusprig braten.
+aiGeneratedDate: '2025-09-04T11:22:38.663Z'
+featuredImage: ai/ai-hafer-soja-laibchen.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Asiatische vegane Reisnudelsuppe mit knackigem Gemüse
+title: Asiatische Vegane Reisnudelsuppe mit knackigem Gemüse
 date: '2014-03-14 09:00:45'
 modified: '2014-03-09 20:37:21'
 slug: asiatische-reisnudelsuppe

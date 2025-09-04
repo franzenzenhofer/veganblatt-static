@@ -1,5 +1,5 @@
 ---
-title: "Rezept veganes für Erkältungsbalsam"
+title: "Veganes Rezept für Erkältungsbalsam"
 date: "2020-01-19 10:37:21"
 modified: "2020-01-20 19:38:10"
 slug: "erkaeltungsbalsam"

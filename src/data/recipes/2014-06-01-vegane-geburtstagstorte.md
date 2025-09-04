@@ -43,5 +43,7 @@ recipe:
     - >-
       Nun den Kuchen belegen und mit dem Tortenguss (lt. Packungsanleitung)
       überziehen. Bis zum Anschnitt kalt stellen.
+aiGeneratedDate: '2025-09-04T11:25:17.664Z'
+featuredImage: ai/ai-vegane-geburtstagstorte.jpg
 ---
 

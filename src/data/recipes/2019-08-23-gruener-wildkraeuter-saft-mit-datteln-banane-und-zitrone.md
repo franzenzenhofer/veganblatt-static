@@ -1,5 +1,5 @@
 ---
-title: "Grüner veganer Wildkräuter Saft mit Datteln, Banane und Zitrone"
+title: "Grüner Veganer Wildkräuter-Saft mit Datteln, Banane und Zitrone"
 date: "2019-08-23 10:38:59"
 modified: "2019-09-16 21:15:18"
 slug: "gruener-wildkraeuter-saft-mit-datteln-banane-und-zitrone"

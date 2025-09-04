@@ -1,5 +1,5 @@
 ---
-title: "Mumbai vegane Burrito von Ahimsa Plant-Kitchen"
+title: "Veganer Mumbai-Burrito von Ahimsa Plant-Kitchen"
 date: "2020-09-20 19:00:51"
 modified: "2020-09-20 19:52:18"
 slug: "mumbai-burrito"

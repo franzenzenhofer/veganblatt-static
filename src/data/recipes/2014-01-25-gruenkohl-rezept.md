@@ -1,5 +1,5 @@
 ---
-title: Schneller vegane schmackhafter Grünkohl
+title: Schneller schmackhafter Veganer Grünkohl
 date: '2014-01-25 08:05:57'
 modified: '2014-01-21 22:35:08'
 slug: gruenkohl-rezept

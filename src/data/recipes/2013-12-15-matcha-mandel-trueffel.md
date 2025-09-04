@@ -1,5 +1,5 @@
 ---
-title: Matcha vegane Mandel Trüffel
+title: Vegane Matcha-Mandel-Trüffel
 date: '2013-12-15 08:37:18'
 modified: '2017-12-12 11:54:45'
 slug: matcha-mandel-trueffel

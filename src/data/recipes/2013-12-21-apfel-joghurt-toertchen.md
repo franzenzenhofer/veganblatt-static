@@ -1,5 +1,5 @@
 ---
-title: Blitzschnelles vegane Apfel-Joghurt-Törtchen
+title: Blitzschnelles Veganes Apfel-Joghurt-Törtchen
 date: '2013-12-21 12:34:47'
 modified: '2016-01-19 14:59:28'
 slug: apfel-joghurt-toertchen

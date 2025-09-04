@@ -1,5 +1,5 @@
 ---
-title: Farbenfroher veganer Gemüse-Salat
+title: Farbenfroher Veganer Gemüse-Salat
 date: '2014-02-15 09:00:37'
 modified: '2014-06-12 14:12:14'
 slug: farbenfroher-gemuese-salat

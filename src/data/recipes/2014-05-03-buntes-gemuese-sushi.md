@@ -34,5 +34,7 @@ recipe:
     - >-
       Überstehende Reste abschneiden und die gefüllten Zucchinis in Scheiben
       schneiden.
+aiGeneratedDate: '2025-09-04T11:21:00.114Z'
+featuredImage: ai/ai-buntes-gemuese-sushi.jpg
 ---
 

@@ -24,5 +24,7 @@ recipe:
       Alle Zutaten bis auf das Obst im Blender zu einer feinen Sauce vermixen
       und in eine Schüssel geben.
     - 'Die Obststücke aufspießen, eintauchen und genießen!'
+aiGeneratedDate: '2025-09-04T11:23:06.739Z'
+featuredImage: ai/ai-rohkost-schokoladen-fondue.jpg
 ---
 

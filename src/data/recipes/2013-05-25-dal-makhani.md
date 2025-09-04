@@ -1,5 +1,5 @@
 ---
-title: "Dal vegane Makhani"
+title: "Veganes Dal Makhani"
 date: "2013-05-25 21:32:02"
 modified: "2014-01-18 21:06:21"
 slug: "dal-makhani"

@@ -33,6 +33,8 @@ recipe:
     - >-
       Danach z.B. in frische Kräutern und essbare Blüten kleiden und genießen
       oder im Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T11:23:46.262Z'
+featuredImage: ai/ai-veganer-rohkost-kaese-rezept.jpg
 ---
 
 [<!-- Image removed (no copyright): nusskäse.jpg -->](https://www.veganblatt.com/i/nusskäse.jpg)

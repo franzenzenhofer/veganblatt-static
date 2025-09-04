@@ -28,5 +28,7 @@ recipe:
     - >-
       Vorsichtig den Joghurt-Anteil von der Molke abschöpfen und bis zum Verzehr
       im Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T11:25:26.349Z'
+featuredImage: ai/ai-cashew-joghurt.jpg
 ---
 

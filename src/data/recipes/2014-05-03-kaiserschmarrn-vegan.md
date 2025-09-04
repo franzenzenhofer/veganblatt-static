@@ -31,6 +31,8 @@ recipe:
       wenden, kurz weiterbraten und dann den Teig mit zwei Gabeln zerreißen. Mit
       dem weiteren Teig wiederholen.
     - Mit Staubzucker bestreut und frischen Beeren oder Kompott servieren.
+aiGeneratedDate: '2025-09-04T11:21:09.240Z'
+featuredImage: ai/ai-kaiserschmarrn-vegan.jpg
 ---
 
 [<!-- Image removed (no copyright): kaiserschmarrn-collage.jpg -->](https://www.veganblatt.com/i/kaiserschmarrn-collage.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "Sommerliche vegane Rhabarber-Muffins"
+title: "Sommerliche Vegane Rhabarber-Muffins"
 date: "2013-05-20 13:07:49"
 modified: "2014-04-23 11:55:02"
 slug: "rhababer-muffins"

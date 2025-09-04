@@ -32,6 +32,8 @@ recipe:
     - >-
       Die Keimlinge können ein 2. Mal mit Wasser angesetzt werden. Dafür die
       Keime erst gut durchspülen und wieder bei Schritt 3 beginnen.
+aiGeneratedDate: '2025-09-04T11:23:15.710Z'
+featuredImage: ai/ai-rejuvelac.jpg
 ---
 
 Rejuvelac hat aufgrund der entstandenen milchsauren Bakterien eine sehr postive Wirkung auf unsere Verdauung und kann im Rahmen einer Darmsanierung eingesetzt werden. Folgende Getreide- bzw. Pseudogetreidesorten können für Rejuvelac zum Einsatz kommen (gf = glutenfrei, Einweichzeit/Keimdauer):

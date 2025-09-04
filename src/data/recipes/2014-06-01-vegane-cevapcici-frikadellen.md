@@ -34,5 +34,7 @@ recipe:
     - >-
       Cevapcicis bzw. Frikadellen formen und entweder grillen oder im Rohr bei
       200°C für 30min backen bis sie schön braun sind.
+aiGeneratedDate: '2025-09-04T11:25:06.181Z'
+featuredImage: ai/ai-vegane-cevapcici-frikadellen.jpg
 ---
 

@@ -33,5 +33,7 @@ recipe:
     - >-
       Ev. noch etwas Oliven- oder Chiliöl darüber geben und mit frischer Minze
       servieren.
+aiGeneratedDate: '2025-09-04T11:22:09.426Z'
+featuredImage: ai/ai-zitronen-pasta-spargel-erbsen.jpg
 ---
 

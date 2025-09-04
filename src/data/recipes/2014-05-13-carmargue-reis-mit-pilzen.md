@@ -39,5 +39,7 @@ recipe:
       Petersilie unterrühren, abschmecken und mit dem Reis angerichtet
       servieren.
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T11:22:20.386Z'
+featuredImage: ai/ai-carmargue-reis-mit-pilzen.jpg
 ---
 

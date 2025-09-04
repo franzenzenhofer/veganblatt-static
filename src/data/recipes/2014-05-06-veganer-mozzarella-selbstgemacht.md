@@ -28,6 +28,8 @@ recipe:
     - >-
       Abschmecken und in eine Schüssel gießen. Nach ca. 2h im Kühlschrank ist
       der Mozzarella fertig zum Genießen.
+aiGeneratedDate: '2025-09-04T11:21:40.346Z'
+featuredImage: ai/ai-veganer-mozzarella-selbstgemacht.jpg
 ---
 
 Dieses tolle Rezept haben wir auf dem Youtube Channel von "Rohe Energie" entdeckt. Hier gibt es auch eine Video-Anleitung dazu:

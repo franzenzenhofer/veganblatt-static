@@ -1,5 +1,5 @@
 ---
-title: 'Vegane Rohkost-Pizza'
+title: Vegane Rohkost-Pizza
 date: '2014-06-09 10:18:22'
 modified: '2014-06-15 22:25:58'
 slug: rohkost-pizza
@@ -40,6 +40,8 @@ recipe:
     - >-
       Für die Tomatensauce alle Zutaten mixen und auf den Böden verteilen. Gut
       mit Gemüse und frischen Kräutern belegen und sich schmecken lassen!
+aiGeneratedDate: '2025-09-04T11:25:46.328Z'
+featuredImage: ai/ai-rohkost-pizza.jpg
 ---
 
 [<!-- Image removed (no copyright): rohkost-pizza.jpg -->](https://www.veganblatt.com/i/rohkost-pizza.jpg)

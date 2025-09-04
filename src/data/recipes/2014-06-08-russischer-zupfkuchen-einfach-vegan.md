@@ -40,6 +40,8 @@ recipe:
       Kirschen noch darauf verteilen und mit dem restlichen Teig die typischen
       Zupfkuchen-Flecken obendrauf machen.
     - Bei 180°C für ca. 45-50min backen. Abkühlen lassen und genießen!
+aiGeneratedDate: '2025-09-04T11:25:36.892Z'
+featuredImage: ai/ai-russischer-zupfkuchen-einfach-vegan.jpg
 ---
 
 [<!-- Image removed (no copyright): veganer-zupfkuchen.jpg -->](https://www.veganblatt.com/i/veganer-zupfkuchen.jpg)

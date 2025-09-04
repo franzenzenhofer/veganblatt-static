@@ -1,5 +1,5 @@
 ---
-title: Weihnachtliche vegane Schokokugeln
+title: Weihnachtliche Vegane Schokokugeln
 date: '2013-12-01 09:27:48'
 modified: '2016-04-15 20:11:39'
 slug: weihnachtliche-schokokugeln

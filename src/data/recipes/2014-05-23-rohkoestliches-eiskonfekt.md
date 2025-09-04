@@ -27,6 +27,8 @@ recipe:
     - >-
       Vor dem Genießen kurz antauen lassen und ev. mit Schokosauce übergießen.
       Yummie!
+aiGeneratedDate: '2025-09-04T11:24:19.115Z'
+featuredImage: ai/ai-rohkoestliches-eiskonfekt.jpg
 ---
 
 [<!-- Image removed (no copyright): veganes-eiskonfekt.jpg -->](https://www.veganblatt.com/i/veganes-eiskonfekt.jpg)

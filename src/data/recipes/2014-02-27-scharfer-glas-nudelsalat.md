@@ -1,5 +1,5 @@
 ---
-title: Scharfer veganer Glas-Nudelsalat
+title: Scharfer Veganer Glas-Nudelsalat
 date: '2014-02-27 09:00:46'
 modified: '2014-06-12 14:10:11'
 slug: scharfer-glas-nudelsalat

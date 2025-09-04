@@ -21,5 +21,7 @@ recipe:
       Mit dem Öl mischen und in den Kühlschrank stellen bis es fest geworden
       ist.
     - Fertig!
+aiGeneratedDate: '2025-09-04T11:22:56.823Z'
+featuredImage: ai/ai-gesunde-vegane-margarine-selbst-gemacht.jpg
 ---
 

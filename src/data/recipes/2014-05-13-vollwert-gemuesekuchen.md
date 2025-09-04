@@ -59,6 +59,8 @@ recipe:
     - >-
       Vor dem Servieren kurz auskühlen lassen und mit frischen Basilikumblättern
       garnieren.
+aiGeneratedDate: '2025-09-04T11:22:30.036Z'
+featuredImage: ai/ai-vollwert-gemuesekuchen.jpg
 ---
 
 -KW

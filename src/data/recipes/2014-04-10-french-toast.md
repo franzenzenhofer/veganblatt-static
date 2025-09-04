@@ -35,5 +35,7 @@ recipe:
     - >-
       Mit frischen Früchten, etwas Zimt und flüssigem Süßungsmittel nach Wahl
       servieren und genießen!
+aiGeneratedDate: '2025-09-04T11:20:49.673Z'
+featuredImage: ai/ai-french-toast.jpg
 ---
 

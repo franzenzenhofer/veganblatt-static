@@ -27,5 +27,7 @@ recipe:
       geben. Alle 4h gut abspülen. Schon nach kurzer Zeit zeigen sich die ersten
       Triebe und am Abend ist das Quinoa bereit für den Salat.
     - 'Mit allen weiteren Zutaten gut durchmischen, abschmecken und schon fertig!'
+aiGeneratedDate: '2025-09-04T11:23:34.629Z'
+featuredImage: ai/ai-rohkoestlicher-quinoa-salat.jpg
 ---
 

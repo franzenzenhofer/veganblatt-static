@@ -57,5 +57,7 @@ recipe:
       auf eine Hälfte des MyEyer-Omeletts verteilen, das Omelett zusammenklappen
       und nochmals von beide Seiten goldbraun backen und mit frischem Salat
       servieren.
+aiGeneratedDate: '2025-09-04T11:20:38.122Z'
+featuredImage: ai/ai-veganes-omelette.jpg
 ---
 

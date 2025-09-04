@@ -1,5 +1,5 @@
 ---
-title: Bunte vegane Gemüsesuppe mit Quinoa für kalte Tage
+title: Bunte Vegane Gemüsesuppe mit Quinoa für kalte Tage
 date: '2013-11-25 08:18:50'
 modified: '2016-01-19 14:50:16'
 slug: bunte-gemuese-suppe-quinoa

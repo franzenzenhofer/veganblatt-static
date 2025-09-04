@@ -32,6 +32,8 @@ recipe:
     - >-
       Stäbchenprobe machen, abkühlen lassen, ev. mit Staubzucker (bzw.
       Staub-Xylitol) bestreuen und losschlemmen!
+aiGeneratedDate: '2025-09-04T11:24:28.477Z'
+featuredImage: ai/ai-schneller-veganer-obstkuchen.jpg
 ---
 
 [<!-- Image removed (no copyright): obstkuchen-2.jpg -->](https://www.veganblatt.com/i/obstkuchen-2.jpg)

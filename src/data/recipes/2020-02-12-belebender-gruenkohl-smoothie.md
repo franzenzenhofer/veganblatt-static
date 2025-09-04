@@ -1,5 +1,5 @@
 ---
-title: "Belebender veganer Grünkohl Smoothie"
+title: "Belebender Veganer Grünkohl-Smoothie"
 date: "2020-02-12 16:13:36"
 modified: "2020-02-17 16:37:19"
 slug: "belebender-gruenkohl-smoothie"

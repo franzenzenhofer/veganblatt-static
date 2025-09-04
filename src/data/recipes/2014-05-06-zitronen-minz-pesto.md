@@ -26,5 +26,7 @@ recipe:
       Schmeckt erfrischend, sommerlich lecker zu Pasta oder den leckeren [url
       href="https://www.veganblatt.com/vegane-schlipfkrapfen"
       target="_blank"]Schlipfkrapen[/url]!
+aiGeneratedDate: '2025-09-04T11:21:50.135Z'
+featuredImage: ai/ai-zitronen-minz-pesto.jpg
 ---
 

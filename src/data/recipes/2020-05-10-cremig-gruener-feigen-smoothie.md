@@ -1,5 +1,5 @@
 ---
-title: "Cremig veganer grüner Feigen Smoothie"
+title: "Cremiger Veganer grüner Feigen-Smoothie"
 date: "2020-05-10 08:53:54"
 modified: "2020-05-04 19:04:53"
 slug: "cremig-gruener-feigen-smoothie"

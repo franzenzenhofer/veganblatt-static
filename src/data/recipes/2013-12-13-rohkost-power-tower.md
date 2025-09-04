@@ -1,5 +1,5 @@
 ---
-title: Rohkost vegane Power Tower
+title: Rohkost-Veganer Power-Tower
 date: '2013-12-13 12:28:27'
 modified: '2014-06-12 14:13:19'
 slug: rohkost-power-tower

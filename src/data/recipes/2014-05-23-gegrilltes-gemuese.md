@@ -42,6 +42,8 @@ recipe:
     - >-
       Für den Dip saure Sahne mit Zitronensaft, Salz und Pfeffer glatt rühren
       und dazu reichen.
+aiGeneratedDate: '2025-09-04T11:24:05.671Z'
+featuredImage: ai/ai-gegrilltes-gemuese.jpg
 ---
 
 2 vegane Kochabo-Boxen mit frischen Zutaten für dieses und 2 weitere leckere Rezepte könnt Ihr bei uns bis zum 26.5.2014 auch gewinnen! Hier geht´s weiter zum [Gewinnspiel](https://www.veganblatt.com/vegane-kochabo-box)!

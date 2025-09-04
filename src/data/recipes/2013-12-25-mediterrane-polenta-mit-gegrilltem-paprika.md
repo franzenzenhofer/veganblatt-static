@@ -1,5 +1,5 @@
 ---
-title: Mediterrane vegane Polenta mit gegrilltem Paprika
+title: Mediterrane Vegane Polenta mit gegrilltem Paprika
 date: '2013-12-25 11:43:01'
 modified: '2014-01-08 19:40:12'
 slug: mediterrane-polenta-mit-gegrilltem-paprika

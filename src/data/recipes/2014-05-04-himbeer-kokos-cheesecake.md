@@ -40,6 +40,8 @@ recipe:
     - >-
       Min. 2h im Tiefkühlfach rasten lassen, von der Folie befreit für ca. 30min
       bei Zimmertemperatur auftauen lassen und genießen!
+aiGeneratedDate: '2025-09-04T11:21:31.560Z'
+featuredImage: ai/ai-himbeer-kokos-cheesecake.jpg
 ---
 
 [<!-- Image removed (no copyright): himbeer-kokos-cheesecake-neu-640x480.jpg -->](https://www.veganblatt.com/i/himbeer-kokos-cheesecake-neu.jpg)

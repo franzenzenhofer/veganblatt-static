@@ -42,5 +42,7 @@ recipe:
     - >-
       Bei 175°C für ca. 45min backen. Stäbchenprobe machen und auf einen Teller
       stürzen. Mit Puderzucker servieren.
+aiGeneratedDate: '2025-09-04T11:21:59.336Z'
+featuredImage: ai/ai-marmor-kuchen-gugelhupf.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Schnelle vegane Hirse-Pizza"
+title: "Schnelle Vegane Hirse-Pizza"
 date: "2013-06-28 13:17:42"
 modified: "2016-01-19 14:39:29"
 slug: "schnelle-hirse-pizza"

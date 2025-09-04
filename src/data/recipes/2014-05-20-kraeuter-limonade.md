@@ -26,5 +26,7 @@ recipe:
       Mit einem Löffel die Zitronenscheiben leicht auspressen und die Kräuter
       leicht zerstoßen.
     - Ev. süßen und Eiswürfel dazugeben. Sofort losschlürfen!
+aiGeneratedDate: '2025-09-04T11:23:26.140Z'
+featuredImage: ai/ai-kraeuter-limonade.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Vegane Kartoffel-Auflauf in violett
+title: Veganer Kartoffel-Auflauf in Violett
 date: '2013-12-17 14:15:42'
 modified: '2013-12-17 14:15:42'
 slug: kartoffel-auflauf-violett

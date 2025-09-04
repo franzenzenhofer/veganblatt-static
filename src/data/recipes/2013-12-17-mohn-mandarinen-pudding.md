@@ -1,5 +1,5 @@
 ---
-title: Mohn vegane Mandarinen Pudding
+title: Veganer Mohn-Mandarinen-Pudding
 date: '2013-12-17 10:49:03'
 modified: '2013-12-17 14:27:18'
 slug: mohn-mandarinen-pudding

@@ -1,5 +1,5 @@
 ---
-title: "Rohkost vegane Burger aus Portobello Pilzen"
+title: "Rohkost-Vegane Burger aus Portobello-Pilzen"
 date: "2014-01-01 15:19:07"
 modified: "2016-01-19 14:54:25"
 slug: "rohkost-pilz-burger"

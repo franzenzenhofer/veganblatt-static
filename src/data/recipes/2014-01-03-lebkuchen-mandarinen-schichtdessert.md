@@ -1,5 +1,5 @@
 ---
-title: Lebkuchen veganer Mandarinen Schichtdessert
+title: Veganer Lebkuchen-Mandarinen-Schichtdessert
 date: '2014-01-03 08:57:22'
 modified: '2014-01-03 10:27:11'
 slug: lebkuchen-mandarinen-schichtdessert

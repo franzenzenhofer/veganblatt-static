@@ -35,5 +35,7 @@ recipe:
       Die frischen Kräuter und die Sahne oder Milch dazugeben und mit dem
       Stabmixer fein pürieren.
     - Mit Kräutern bestreut und etwas Leinöl servieren.
+aiGeneratedDate: '2025-09-04T11:22:48.238Z'
+featuredImage: ai/ai-zucchinicremesuppe.jpg
 ---
 

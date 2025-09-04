@@ -26,5 +26,7 @@ recipe:
       (2-3min), in der Mitte falten so dass ein Halbkreis entsteht und mit der
       Fülle so belegen, dass es oben über den Rand schaut. Den unteren Teil des
       Reibpapiers hochklappen und aufrollen. Fertig sind die Päckchen.
+aiGeneratedDate: '2025-09-04T11:24:37.558Z'
+featuredImage: ai/ai-fingerfood-spargel-tofu-paeckchen.jpg
 ---
 

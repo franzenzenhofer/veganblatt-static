@@ -1,5 +1,5 @@
 ---
-title: Himbeereis veganes aus 2 Zutaten
+title: Veganes Himbeereis aus 2 Zutaten
 date: '2013-11-24 21:31:47'
 modified: '2015-04-16 10:16:29'
 slug: himbeereis-aus-2-zutaten

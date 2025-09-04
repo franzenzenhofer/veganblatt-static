@@ -40,6 +40,8 @@ recipe:
       und das Joghurt nochmal kräftig durchrühren, da sich der festere Teil nun
       oben abgesetzt hat.
     - Lasst es Euch schmecken!
+aiGeneratedDate: '2025-09-04T11:23:55.666Z'
+featuredImage: ai/ai-selbstgemachtes-kokosnuss-joghurt-rejuvelac.jpg
 ---
 
 [<!-- Image removed (no copyright): kokosnuss-joghurt.jpg -->](https://www.veganblatt.com/i/kokosnuss-joghurt.jpg)

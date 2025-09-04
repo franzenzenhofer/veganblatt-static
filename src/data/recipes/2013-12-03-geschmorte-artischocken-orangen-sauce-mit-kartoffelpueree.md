@@ -1,5 +1,5 @@
 ---
-title: Geschmorte vegane Artischocken in Orangen-Sauce mit Kartoffelpüree
+title: Geschmorte Vegane Artischocken in Orangen-Sauce mit Kartoffelpüree
 date: '2013-12-03 10:46:50'
 modified: '2013-12-03 11:22:35'
 slug: geschmorte-artischocken-orangen-sauce-mit-kartoffelpueree
