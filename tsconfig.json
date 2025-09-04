@@ -41,5 +41,7 @@
     "src/scripts/generate-and-crop.ts",
     "src/scripts/direct-api-test.ts",
     "src/scripts/fix-duplicate-titles.ts"
+    ,"src/scripts/image-copyright-audit.ts"
+    ,"src/scripts/remove-manual-copyright.ts"
   ]
 }
