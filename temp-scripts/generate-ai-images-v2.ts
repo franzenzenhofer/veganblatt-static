@@ -198,13 +198,14 @@ class VeganFoodImageGenerator {
     const ingredients = data.recipe?.ingredients?.join(', ') || '';
     const excerpt = data.excerpt || '';
     
-    return `Create an ultra-modern, professional vegan food photograph.
+    return `Create an ultra-modern, professional vegan food photograph for a VEGAN FOOD BLOG.
 
 CRITICAL REQUIREMENTS:
-✅ NO TEXT, LABELS, OR WRITING ANYWHERE IN THE IMAGE
-✅ PURE FOOD PHOTOGRAPHY ONLY
+✅ NO TEXT, LABELS, WRITING, WORDS, OR LETTERS ANYWHERE
+✅ FOR A VEGAN FOOD BLOG - pure food photography only
 ✅ The dish: "${title}" - ${excerpt}
-✅ 100% VEGAN - absolutely no animal products
+✅ EVERYTHING 100% VEGAN - no dairy, eggs, meat, fish, honey
+✅ ALL props, garnishes, sauces MUST BE VEGAN
 ✅ Square format 1024x1024 for center cropping
 
 MODERN PHOTOGRAPHY STYLE:
@@ -215,14 +216,16 @@ MODERN PHOTOGRAPHY STYLE:
 - Color grading: warm but natural, slightly desaturated
 - Minimalist Scandinavian aesthetic
 - Clean negative space around the dish
+- NO FOG OR STEAM - crystal clear, sharp image
 
-COMPOSITION:
+COMPOSITION (CRITICAL FOR CROPPING):
+- CENTERED COMPOSITION - main dish EXACTLY in center
 - Hero angle: 45° overhead (flatlay-ish but with depth)
-- Rule of thirds composition
-- Main dish takes 60% of frame
+- Main dish takes 60% of center frame
+- Equal spacing on all sides for perfect center crop
 - Natural imperfections that add authenticity
 - Fresh ingredients visible showing texture
-- Steam/moisture if appropriate for hot dishes
+- NO STEAM, NO FOG, NO HAZE - clear visibility
 - Natural garnish that makes sense (no random herbs)
 
 SURFACE & PROPS:
@@ -365,34 +368,11 @@ async function main() {
   try {
     const generator = new VeganFoodImageGenerator();
     
-    // First, regenerate the 4 problematic images
-    console.log('🔄 Step 1: Regenerating problematic images...\n');
-    await generator.regenerateSpecificImages([
-      'veganer-hefezopf',
-      'mandel-pralinen', 
-      'mandel-dattel-kugeln',
-      'eis-am-stiel'
-    ]);
+    // Simple: Generate 10 images
+    console.log('📦 Generating 10 AI images for VeganBlatt recipes\n');
+    await generator.generateImagesForRecipes(10, true);
     
-    // Then generate new images in batches
-    console.log('\n📦 Step 2: Generating new images...\n');
-    
-    // Generate 31 more images to reach 50 total (19 existing + 31 new)
-    for (let batch = 0; batch < 3; batch++) {
-      console.log(`\nBATCH ${batch + 1}/3 (10 images each)`);
-      await generator.generateImagesForRecipes(10, true);
-      
-      if (batch < 2) {
-        console.log('\n⏳ Waiting 5 seconds before next batch...\n');
-        await new Promise(resolve => setTimeout(resolve, 5000));
-      }
-    }
-    
-    // Final batch of 1 to make exactly 50
-    console.log('\nFINAL IMAGE (1 more to reach 50)');
-    await generator.generateImagesForRecipes(1, true);
-    
-    console.log('\n🎉 ALL 50 IMAGES COMPLETE!');
+    console.log('\n✅ Done! Run npm run deploy to deploy');
     
   } catch (error) {
     console.error('❌ Fatal error:', error);
