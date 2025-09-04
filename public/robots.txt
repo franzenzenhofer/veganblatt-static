@@ -1,0 +1,20 @@
+# VeganBlatt Robots.txt
+# Generated: 2025-09-04T13:54:15.944Z
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.veganblatt.com/sitemap.xml
+Sitemap: https://www.veganblatt.com/sitemap-static.xml
+Sitemap: https://www.veganblatt.com/sitemap-articles.xml
+Sitemap: https://www.veganblatt.com/sitemap-recipes.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
+
+# Disallow admin paths (if any existed)
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /*.json$
+Disallow: /*.xml.gz$

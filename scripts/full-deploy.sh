@@ -45,22 +45,30 @@ echo "🧹 Step 3b: Purging Cloudflare cache..."
 bash ./scripts/purge-cloudflare-cache.sh || true
 echo ""
 
-# Step 4: Commit and push to GitHub
-echo "📤 Step 4: Pushing to GitHub..."
+# Step 4: Create lightweight backup archive
+echo "💾 Step 4: Creating backup archive..."
+bash ./scripts/make-backup.sh "$VERSION" || true
+echo -e "  ${GREEN}✓${NC} Backup archive created"
+echo ""
+
+# Step 5: Commit and push to GitHub (backup strategy)
+echo "📤 Step 5: Pushing to GitHub..."
 git add -A
 git commit -m "🚀 Deploy v${VERSION}
 
 - Auto-generated version: ${VERSION}
 - Build time: $(date)
 - Deployed to: https://www.veganblatt.com/
+- Backup: backups/build-${VERSION}.zip
 " || true
 
-git push origin main
-echo -e "  ${GREEN}✓${NC} Pushed to GitHub"
+git tag -f "v${VERSION}" || true
+git push origin main --tags
+echo -e "  ${GREEN}✓${NC} Pushed to GitHub (with tag v${VERSION})"
 echo ""
 
-# Step 5: Run post-deployment checks
-echo "🔍 Step 5: Running post-deployment checks..."
+# Step 6: Run post-deployment checks
+echo "🔍 Step 6: Running post-deployment checks..."
 sleep 5  # Give CDN time to update
 ./scripts/post-deploy-check.sh
 

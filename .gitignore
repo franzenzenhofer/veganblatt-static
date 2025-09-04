@@ -61,7 +61,12 @@ alignment-test.html
 !SUCCESS_METRICS.md
 
 # Specific files to exclude
-*.html
+# Ignore only root-level html/txt (keep src and public tracked)
+/*.html
 !src/**/*.html
-*.txt
+!public/**/*.html
+/*.txt
 !src/**/*.txt
+!public/**/*.txt
+
+# Backups are tracked (do not ignore backups/)
