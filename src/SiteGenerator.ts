@@ -125,7 +125,7 @@ export class SiteGenerator {
       
       for (const file of files.filter(f => f.endsWith('.md'))) {
         const content = await this.fs.readFile(path.join(metadataDir, file));
-        const { data } = this.content.parseMarkdown(content);
+        const { data } = this.content.parseMarkdown<{ filename?: string; copyright?: string; altText?: string }>(content);
         
         if (data.filename && data.copyright) {
           this.image.loadMetadata(data.filename, {
@@ -145,7 +145,7 @@ export class SiteGenerator {
       
       for (const file of aiFiles.filter(f => f.endsWith('.md'))) {
         const content = await this.fs.readFile(path.join(aiMetadataDir, file));
-        const { data } = this.content.parseMarkdown(content);
+        const { data } = this.content.parseMarkdown<{ filename?: string; copyright?: string; altText?: string }>(content);
         
         if (data.filename && data.copyright) {
           // Store AI images with their filename (without ai/ prefix)

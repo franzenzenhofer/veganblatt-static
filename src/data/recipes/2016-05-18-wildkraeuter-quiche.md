@@ -4,8 +4,7 @@ date: '2016-05-18 11:22:10'
 modified: '2016-05-18 14:53:19'
 slug: wildkraeuter-quiche
 excerpt: 'Die schnellste und wildeste Quiche der Welt! '
-  - fb-wildkräuter-quiche.jpg
-featuredImage: wildkräuter-quiche.jpg
+featuredImage: wildkraeuter-quiche.jpg
 recipe:
   name: ''
   prepTime: PT10M
@@ -33,4 +32,4 @@ recipe:
     - Mit essbaren Blüten dekorieren und schmecken lassen.
 ---
 
-Vielen Dank für das tolle Rezept an die [Gemüsefee](https://www.facebook.com/Gem%C3%BCsefee-1528904937438332/?fref=ts)! <!-- Image removed (no copyright): fb-wildkräuter-quiche-640x640.jpg -->
+Vielen Dank für das tolle Rezept an die [Gemüsefee](https://www.facebook.com/Gem%C3%BCsefee-1528904937438332/?fref=ts)! <!-- Image removed (no copyright): fb-wildkraeuter-quiche-640x640.jpg -->

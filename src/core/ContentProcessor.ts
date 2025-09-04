@@ -83,8 +83,8 @@ export class ContentProcessor {
     return renderer;
   }
 
-  parseMarkdown(content: string): { data: Frontmatter; content: string } {
-    return matter(content) as unknown as { data: Frontmatter; content: string };
+  parseMarkdown<T = Frontmatter>(content: string): { data: T; content: string } {
+    return matter(content) as unknown as { data: T; content: string };
   }
 
   async renderMarkdown(markdown: string): Promise<string> {
@@ -172,7 +172,7 @@ export class ContentProcessor {
   }
 
   processArticle(filename: string, content: string): Article {
-    const { data, content: markdown } = this.parseMarkdown(content);
+    const { data, content: markdown } = this.parseMarkdown<Frontmatter>(content);
     // ALWAYS use slug from markdown - NO FALLBACK
     if (!data.slug) {
       throw new Error(`Missing slug in ${filename} - EVERY FILE MUST HAVE A SLUG!`);
@@ -189,7 +189,7 @@ export class ContentProcessor {
 
   processRecipe(filename: string, content: string): Recipe {
     const article = this.processArticle(filename, content);
-    const { data } = this.parseMarkdown(content);
+    const { data } = this.parseMarkdown<Frontmatter>(content);
     return {
       ...article,
       recipe: data.recipe
