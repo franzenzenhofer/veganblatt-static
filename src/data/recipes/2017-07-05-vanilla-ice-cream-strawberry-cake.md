@@ -1,5 +1,5 @@
 ---
-title: "Vegane Naked Vanilla Ice Cream title: "Naked Vanilla Ice Cream & Strawberry Cake" Strawberry Cake"
+title: "Veganer Naked Vanilla Ice Cream & Strawberry Cake"
 date: "2017-07-05 19:56:31"
 modified: "2017-09-15 20:02:19"
 slug: "vanilla-ice-cream-strawberry-cake"
