@@ -1,5 +1,5 @@
 ---
-title: "uveganes Süßkartoffel Curry mit Kichererbsen"
+title: "Veganes Süßkartoffel Curry mit Kichererbsen"
 date: "2020-05-25 08:19:03"
 modified: "2020-05-04 18:51:24"
 slug: "suesskartoffel-curry-mit-kichererbsen"

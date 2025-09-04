@@ -1,5 +1,5 @@
 ---
-title: "uvegane Brunnenkresse-Spinat Pesto"
+title: "Vegane Brunnenkresse-Spinat Pesto"
 date: "2019-07-11 21:01:06"
 modified: "2019-07-11 21:01:06"
 slug: "brunnenkresse-spinat-pesto"

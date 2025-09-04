@@ -1,5 +1,5 @@
 ---
-title: 'uveganes Frühstück deluxe: einfache, glutenfreie Kokos-Pancakes'
+title: 'Veganes Frühstück deluxe: einfache, glutenfreie Kokos-Pancakes'
 date: '2014-06-22 08:00:04'
 modified: '2014-06-23 12:26:00'
 slug: glutenfreie-pancakes

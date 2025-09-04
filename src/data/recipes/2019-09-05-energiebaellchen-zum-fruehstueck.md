@@ -1,5 +1,5 @@
 ---
-title: "uveganes Energiebällchen zum Frühstück"
+title: "Veganes Energiebällchen zum Frühstück"
 date: "2019-09-05 09:00:56"
 modified: "2019-08-31 19:41:39"
 slug: "energiebaellchen-zum-fruehstueck"

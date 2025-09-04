@@ -1,5 +1,5 @@
 ---
-title: "uvegane Roggen-Sauerteigbrot selber backen"
+title: "Vegane Roggen-Sauerteigbrot selber backen"
 date: "2015-12-19 08:54:52"
 modified: "2015-12-19 22:33:47"
 slug: "roggen-sauerteigbrot"
