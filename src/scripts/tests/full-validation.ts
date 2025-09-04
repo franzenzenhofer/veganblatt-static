@@ -11,7 +11,7 @@ async function runFullValidation(): Promise<void> {
   // 1. TypeScript strict check
   console.log(' TypeScript strict mode check...');
   try {
-    execSync(`${path.join(process.cwd(), 'node_modules/.bin/tsc')} --noEmit --strict`, { stdio: 'pipe' });
+    execSync('tsc --noEmit --strict', { stdio: 'pipe' });
     console.log(' TypeScript: PASSED\n');
   } catch (error: any) {
     console.log(' TypeScript: FAILED');
@@ -22,7 +22,7 @@ async function runFullValidation(): Promise<void> {
   // 2. ESLint hardcore mode
   console.log(' ESLint hardcore rules check...');
   try {
-    execSync(`${path.join(process.cwd(), 'node_modules/.bin/eslint')} "src/**/*.ts"`, { stdio: 'pipe' });
+    execSync('eslint "src/**/*.ts"', { stdio: 'pipe' });
     console.log(' ESLint: PASSED\n');
   } catch (error: any) {
     console.log(' ESLint: FAILED (environment mismatch), skipping as non-fatal');
