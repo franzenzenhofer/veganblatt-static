@@ -31,5 +31,7 @@ recipe:
       href="https://www.veganblatt.com/veganer-ricotta" target="_blank"]veganen
       Ricotta[/url] verteilen. Nun die Seiten einschlagen und aufrollen.
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T11:16:04.934Z'
+featuredImage: ai/ai-baerlauch-wraps.jpg
 ---
 

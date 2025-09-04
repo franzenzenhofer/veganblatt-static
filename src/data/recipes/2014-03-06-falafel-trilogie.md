@@ -45,6 +45,8 @@ recipe:
     - >-
       Kokosfett in einer Pfanne erhitzen und die Falafel darin von beiden Seiten
       schön knusprig und goldbraun braten.
+aiGeneratedDate: '2025-09-04T11:14:07.775Z'
+featuredImage: ai/ai-falafel-trilogie.jpg
 ---
 
 [<!-- Image removed (no copyright): falafel-trilogie.jpg -->](https://www.veganblatt.com/i/falafel-trilogie.jpg) [![Falafel](https://www.veganblatt.com/i/vegane-falafel.jpg)](https://www.veganblatt.com/i/vegane-falafel.jpg)

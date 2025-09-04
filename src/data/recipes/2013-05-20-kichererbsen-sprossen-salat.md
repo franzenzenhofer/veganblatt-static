@@ -1,5 +1,5 @@
 ---
-title: "Knackiger veganer Kichererbsen Sprossen Salat"
+title: "Knackiger Veganer Kichererbsen-Sprossen-Salat"
 date: "2013-05-20 20:29:31"
 modified: "2014-06-12 14:12:39"
 slug: "kichererbsen-sprossen-salat"

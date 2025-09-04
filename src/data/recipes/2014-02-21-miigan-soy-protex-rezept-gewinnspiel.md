@@ -1,5 +1,5 @@
 ---
-title: Sesam vegane Soja Schnetzel mit Miigan Soy Protex + Gewinnspiel
+title: Vegane Sesam-Soja-Schnetzel mit Miigan Soy Protex + Gewinnspiel
 date: '2014-02-21 09:00:14'
 modified: '2016-01-20 12:15:51'
 slug: miigan-soy-protex-rezept-gewinnspiel
@@ -36,6 +36,8 @@ recipe:
     - >-
       Die Filets in Streifen geschnitten anrichten und die restliche Marinade
       darauf verteilen. Dazu passen Reis und Gemüse.
+aiGeneratedDate: '2025-09-04T11:13:30.164Z'
+featuredImage: ai/ai-miigan-soy-protex-rezept-gewinnspiel.jpg
 ---
 
 Woher nimmst Du Dein Protein? Hach, was für eine Frage. Als ob es nicht genügend pflanzliche Proteinquellen gäbe, die dem Körper ohnehin zuträglicher sind. Das Cholesterin spart man sich obendrein! Soja zum Beispiel enthält 70% Protein, kaum Fett und ist auch in guter Qualität für den kleinen Geldbeutel erschwinglich. Das enthaltene Soja-Lecithin ist auch gut für schöne gesunde Haut. Bei Soja ist es natürlich wichtig möglichst auf gentechnikfreie Produkte zu achten! Von [**miigan**](http://www.boutique-vegan.com/) gibt es ein großes Sortiment an Soja-Hack, Schnetzel, Streifen, Filets, die sich ganz einfach zubereiten lassen. Einfach für 10-15min in Gemüsebrühe einweichen und abgetropft verarbeiten. Die Trockenmasse ergibt so das 3-4-fache Menge, so sehr geht es auf.

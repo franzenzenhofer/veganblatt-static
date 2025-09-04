@@ -41,5 +41,7 @@ recipe:
     - >-
       Die restlichen Zutaten zugeben, würzen und für ca. 7min köcheln lassen bis
       das Gemüse weich aber noch bissfest ist.
+aiGeneratedDate: '2025-09-04T11:15:27.747Z'
+featuredImage: ai/ai-gruenkern-baellchen-letscho.jpg
 ---
 

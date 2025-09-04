@@ -1,5 +1,5 @@
 ---
-title: Green veganer Smoothie Ice Cream
+title: Veganer Green-Smoothie Ice Cream
 date: '2014-06-13 12:34:40'
 modified: '2014-06-13 12:34:40'
 slug: green-smoothie-ice-cream

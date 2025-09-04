@@ -1,5 +1,5 @@
 ---
-title: Winterlicher veganer Grünkohl-Eintopf
+title: Winterlicher Veganer Grünkohl-Eintopf
 date: '2015-01-12 13:03:51'
 modified: '2015-01-23 08:57:13'
 slug: winterlicher-gruenkohl-eintopf

@@ -1,5 +1,5 @@
 ---
-title: "Caponata vegane Siciliana"
+title: "Vegane Caponata Siciliana"
 date: "2013-08-05 22:20:00"
 modified: "2016-01-12 09:57:26"
 slug: "caponata-siciliana"

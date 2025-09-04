@@ -28,5 +28,7 @@ recipe:
       Acht Minuten bevor der Reis fertig sein sollte, die Zuckerschoten
       obendrauf legen und mitdünsten.
     - Schön anrichten und genießen!
+aiGeneratedDate: '2025-09-04T11:14:27.479Z'
+featuredImage: ai/ai-kokos-safran-reis-zuckerschoten.jpg
 ---
 

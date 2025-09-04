@@ -36,5 +36,7 @@ recipe:
       Nun je eine Macadamianuss mit der Masse umhüllen und kleine Ostereier
       formen.
     - Für min. 30min kalt stellen.
+aiGeneratedDate: '2025-09-04T11:15:36.963Z'
+featuredImage: ai/ai-rohvegane-bunte-ostereier.jpg
 ---
 

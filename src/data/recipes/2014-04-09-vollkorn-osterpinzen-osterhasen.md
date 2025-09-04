@@ -38,6 +38,8 @@ recipe:
     - >-
       In der Zwischenzeit das Backrohr auf 180°C vorheizen. 15-20min backen bis
       die Brötchen eine schöne Farbe haben.
+aiGeneratedDate: '2025-09-04T11:16:16.811Z'
+featuredImage: ai/ai-vollkorn-osterpinzen-osterhasen.jpg
 ---
 
 [<!-- Image removed (no copyright): osterpinzen-osterstriezel.jpg -->](https://www.veganblatt.com/i/osterpinzen-osterstriezel.jpg)

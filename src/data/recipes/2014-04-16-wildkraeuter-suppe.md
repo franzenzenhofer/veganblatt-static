@@ -34,5 +34,7 @@ recipe:
       In die Suppe geben, 4min weiterköcheln und dann mit den Gewürzen
       abschmecken. Vom Herd nehmen und mit dem Stabmixer pürieren.
     - Ev. etwas saure Sahne unterziehen oder mit Backerbsen servieren. Mahlzeit!
+aiGeneratedDate: '2025-09-04T11:17:10.508Z'
+featuredImage: ai/ai-wildkraeuter-suppe.jpg
 ---
 

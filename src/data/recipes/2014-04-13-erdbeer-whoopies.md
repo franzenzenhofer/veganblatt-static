@@ -49,6 +49,8 @@ recipe:
       Mit der Sahne bestrichen und mit [url
       href="http://www.biovegan.de/dekor.html" target="_blank"]Non
       Pareilles[/url] bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:16:50.012Z'
+featuredImage: ai/ai-erdbeer-whoopies.jpg
 ---
 
 [<!-- Image removed (no copyright): erdbeer-whoopies.jpg -->](https://www.veganblatt.com/i/erdbeer-whoopies.jpg)

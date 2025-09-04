@@ -23,5 +23,7 @@ recipe:
     - >-
       Das geschnittene Gemüse schön anrichten und mit Zitronensaft, Salz und Öl
       abmachen.
+aiGeneratedDate: '2025-09-04T11:13:12.212Z'
+featuredImage: ai/ai-farbenfroher-gemuese-salat.jpg
 ---
 

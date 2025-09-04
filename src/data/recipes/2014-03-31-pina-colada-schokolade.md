@@ -24,5 +24,7 @@ recipe:
     - >-
       Mit der Ananas belegen und für 30min in den Kühlschrank stellen. Danach
       für 10min in das Tiefkühlfach und dann vorsichtig aus der Form lösen.
+aiGeneratedDate: '2025-09-04T11:15:19.009Z'
+featuredImage: ai/ai-pina-colada-schokolade.jpg
 ---
 

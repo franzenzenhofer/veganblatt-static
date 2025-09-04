@@ -1,5 +1,5 @@
 ---
-title: Buntes vegane Wurzel Carpaccio mit Kürbiskernöl Dots + Gewinnspiel!
+title: Buntes Veganes Wurzel-Carpaccio mit Kürbiskernöl-Dots + Gewinnspiel!
 date: '2013-12-28 12:30:07'
 modified: '2016-01-19 15:00:37'
 slug: wurzel-carpaccio-kuerbiskernoel-gewinnspiel

@@ -47,5 +47,7 @@ recipe:
       Die weiteren Zutaten für das Curry dazugeben und für weitere 3min köcheln
       lassen bis das Gemüse weich, aber knackig ist.
     - 'Mit Salz abschmecken, mit Basilikum bestreuen und mit Reis servieren.'
+aiGeneratedDate: '2025-09-04T11:13:02.453Z'
+featuredImage: ai/ai-green-curry.jpg
 ---
 

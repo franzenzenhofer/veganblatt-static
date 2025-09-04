@@ -1,5 +1,5 @@
 ---
-title: Gegrillte vegane Lavendel-Lemon-Chili Champignons
+title: Gegrillte Vegane Lavendel-Lemon-Chili-Champignons
 date: '2013-07-08 08:30:44'
 modified: '2016-06-07 11:10:33'
 slug: gegrillte-champignons

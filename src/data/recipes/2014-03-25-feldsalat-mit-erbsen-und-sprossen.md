@@ -28,6 +28,8 @@ recipe:
       geben.
     - Alle Zutaten für das Dressing in einem Becker mischen und abschmecken.
     - Über den Salat geben und gut mischen.
+aiGeneratedDate: '2025-09-04T11:14:45.631Z'
+featuredImage: ai/ai-feldsalat-mit-erbsen-und-sprossen.jpg
 ---
 
 [<!-- Image removed (no copyright): erbsen-feldsalat-sprossen.jpg -->](https://www.veganblatt.com/i/erbsen-feldsalat-sprossen.jpg)

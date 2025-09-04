@@ -35,6 +35,8 @@ recipe:
       Nun das Törtchen von der Form befreien. Drumherum mit Erdbeerscheiben und
       obendrauf mit Erdbeerwürfeln verzieren. Mit etwas Agavendicksaft oÄ
       begießen und sich schmecken lassen!
+aiGeneratedDate: '2025-09-04T11:17:38.522Z'
+featuredImage: ai/ai-overnight-oats-toertchen.jpg
 ---
 
 [<!-- Image removed (no copyright): overnight-oats-frühstücks-torte.jpg -->](https://www.veganblatt.com/i/overnight-oats-frühstücks-torte.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Pad vegane Thai, aber roh!'
+title: 'Veganes Pad Thai, aber roh!'
 date: '2014-08-13 13:00:03'
 modified: '2014-08-13 13:12:02'
 slug: pad-thai-rohkost

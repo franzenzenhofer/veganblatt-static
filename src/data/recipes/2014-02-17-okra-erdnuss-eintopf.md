@@ -37,5 +37,7 @@ recipe:
       Die Soja Medaillons ausdrücken und zum Gemüse geben. Gut würzen und die
       Erdnussbutter dazugeben. Ca. 10min köcheln lassen bis die Okras weich
       sind.
+aiGeneratedDate: '2025-09-04T11:13:21.164Z'
+featuredImage: ai/ai-okra-erdnuss-eintopf.jpg
 ---
 

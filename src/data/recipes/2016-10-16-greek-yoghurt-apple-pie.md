@@ -1,5 +1,5 @@
 ---
-title: "Greek vegane Yoghurt Apple Pie mit Vanilla Glaze"
+title: "Veganer Greek-Yoghurt Apple Pie mit Vanilla-Glaze"
 date: "2016-10-16 08:34:15"
 modified: "2017-11-07 15:05:13"
 slug: "greek-yoghurt-apple-pie"

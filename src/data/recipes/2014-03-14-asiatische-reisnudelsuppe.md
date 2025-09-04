@@ -33,6 +33,8 @@ recipe:
     - >-
       Mit Sojasauce abschmecken und mit den Sprossen servieren. Wer möchte kann
       sich noch Limettensaft drübergeben.
+aiGeneratedDate: '2025-09-04T11:14:36.840Z'
+featuredImage: ai/ai-asiatische-reisnudelsuppe.jpg
 ---
 
 [<!-- Image removed (no copyright): asiatische-reisnudelsuppe.jpg -->](https://www.veganblatt.com/i/asiatische-reisnudelsuppe.jpg)

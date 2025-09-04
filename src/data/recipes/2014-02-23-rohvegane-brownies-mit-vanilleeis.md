@@ -50,6 +50,8 @@ recipe:
     - >-
       Jeweils ein Stück Brownie mit einer Kugel Vanilleeis und Schokosauce
       anrichten und genießen!
+aiGeneratedDate: '2025-09-04T11:13:39.531Z'
+featuredImage: ai/ai-rohvegane-brownies-mit-vanilleeis.jpg
 ---
 
 [<!-- Image removed (no copyright): raw-brownies.jpg -->](https://www.veganblatt.com/i/raw-brownies.jpg)

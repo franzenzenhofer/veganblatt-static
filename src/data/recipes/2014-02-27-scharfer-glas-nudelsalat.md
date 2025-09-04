@@ -39,5 +39,7 @@ recipe:
     - >-
       Tipp: Wenn es doch zu scharf wird, hilft es trockenes Brot zu essen oder
       ein paar Schlucke Bier zu trinken!
+aiGeneratedDate: '2025-09-04T11:13:48.737Z'
+featuredImage: ai/ai-scharfer-glas-nudelsalat.jpg
 ---
 

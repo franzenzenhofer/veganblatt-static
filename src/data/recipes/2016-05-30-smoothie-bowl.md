@@ -1,5 +1,5 @@
 ---
-title: "Bunte veganer Aronia Smoothie Bowl"
+title: "Bunte Vegane Aronia-Smoothie-Bowl"
 date: "2016-05-30 20:50:07"
 modified: "2016-06-14 08:42:41"
 slug: "smoothie-bowl"

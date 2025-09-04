@@ -36,6 +36,8 @@ recipe:
       Den Teig in eine gefettete, quadratische Form (ca. 20x20cm) geben und mit
       dem Sesam bestreuen.
     - Bei 180°C Ober-/Unterhitze für 45min im vorgeheizten Rohr backen.
+aiGeneratedDate: '2025-09-04T11:14:16.410Z'
+featuredImage: ai/ai-glutenfreier-karottenkuchen.jpg
 ---
 
 Der Kuchen schmeckt so schon fantastisch! Wer dem ganzen noch ein Sahnehäubchen aufsetzen möchte, sollte es mit dem veganen [Sauerrahmfrosting](https://www.veganblatt.com/kuerbis-muffins) versuchen.

@@ -1,5 +1,5 @@
 ---
-title: Rohköstliche vegane Erdbeer-Macadamia-Torte
+title: Rohköstliche Vegane Erdbeer-Macadamia-Torte
 date: '2015-05-24 07:02:50'
 modified: '2015-06-18 08:28:38'
 slug: rohkost-erdbeer-macadamia-torte

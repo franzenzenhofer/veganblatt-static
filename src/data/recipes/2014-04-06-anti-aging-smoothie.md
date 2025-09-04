@@ -25,5 +25,7 @@ recipe:
       Die rote Beete gut waschen und würfelig schneiden bzw. reiben, wenn man
       keinen Hochleistungsmixer verwendet.
     - 'Alles zusammen gut mixen, schlürfen und sich jung fühlen!'
+aiGeneratedDate: '2025-09-04T11:15:55.605Z'
+featuredImage: ai/ai-anti-aging-smoothie.jpg
 ---
 

@@ -23,5 +23,7 @@ recipe:
     - >-
       Je 3 große Blätter überlappend auflegen, einen Löffel Frischkäse darauf
       verteilen, mit Kräutern bestreuen und aufrollen.
+aiGeneratedDate: '2025-09-04T11:16:59.644Z'
+featuredImage: ai/ai-baerlauch-frischkaese-roellchen.jpg
 ---
 

@@ -31,6 +31,8 @@ recipe:
     - >-
       Wenn die Konsistenz sahneähnlich geworden ist, kann man nach Belieben
       süßen oder weitere Zutaten dazugeben und kurz weitermixen.
+aiGeneratedDate: '2025-09-04T11:16:40.177Z'
+featuredImage: ai/ai-kokos-sahne-frosting.jpg
 ---
 
 [<!-- Image removed (no copyright): kokossahne-frosting.jpg -->](https://www.veganblatt.com/i/kokossahne-frosting.jpg)

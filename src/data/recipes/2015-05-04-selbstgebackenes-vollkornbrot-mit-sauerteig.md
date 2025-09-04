@@ -1,5 +1,5 @@
 ---
-title: "Selbstgebackenes vegane Vollkornbrot mit Sauerteig"
+title: "Selbstgebackenes Veganes Vollkornbrot mit Sauerteig"
 date: "2015-05-04 10:45:40"
 modified: "2015-05-04 19:20:05"
 slug: "selbstgebackenes-vollkornbrot-mit-sauerteig"

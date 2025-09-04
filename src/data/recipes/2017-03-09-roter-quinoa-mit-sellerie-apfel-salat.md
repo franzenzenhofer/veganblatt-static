@@ -1,5 +1,5 @@
 ---
-title: Roter Veganer Quinoa mit Sellerie-Apfel-Salat & Tahini Dressing
+title: Veganer Roter Quinoa mit Sellerie-Apfel-Salat & Tahini-Dressing
 date: '2017-03-09 12:15:09'
 modified: '2017-03-09 19:17:30'
 slug: roter-quinoa-mit-sellerie-apfel-salat

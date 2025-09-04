@@ -1,5 +1,5 @@
 ---
-title: Gegrillter veganer Spaghetti-Kürbis mit Letscho
+title: Gegrillter Veganer Spaghetti-Kürbis mit Letscho
 date: '2015-09-16 14:08:32'
 modified: '2015-09-16 14:17:07'
 slug: gegrillter-spaghetti-kuerbis-mit-letscho

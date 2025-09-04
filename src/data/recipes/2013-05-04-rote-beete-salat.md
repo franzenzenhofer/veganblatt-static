@@ -1,5 +1,5 @@
 ---
-title: Frischer veganer rote Beete Salat
+title: Frischer Veganer Rote-Beete-Salat
 date: '2013-05-04 09:40:32'
 modified: '2015-01-22 12:36:30'
 slug: rote-beete-salat

@@ -40,6 +40,8 @@ recipe:
     - >-
       Abkühlen lassen, gleich drauf losknabbern oder einem lieben Menschen
       schenken.
+aiGeneratedDate: '2025-09-04T11:17:20.368Z'
+featuredImage: ai/ai-pikante-knabbernuesse.jpg
 ---
 
 <!-- Image removed (no copyright): Nüsse-im-Glas.jpg --> \* Knabbernüsse im Glas\*   -KW

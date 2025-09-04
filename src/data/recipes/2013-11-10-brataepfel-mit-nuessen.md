@@ -1,5 +1,5 @@
 ---
-title: Herbstliche vegane Bratäpfel mit Nüssen
+title: Herbstliche Vegane Bratäpfel mit Nüssen
 date: '2013-11-10 18:33:31'
 modified: '2016-01-19 14:58:05'
 slug: brataepfel-mit-nuessen

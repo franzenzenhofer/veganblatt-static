@@ -32,6 +32,8 @@ recipe:
       oder im Blender verarbeiten bis die gewünschte Konsistenz erreicht ist.
       Nötigenfalls nachsalzen.
     - 'Pesto über die Nudeln geben, gut durchmischen und schmecken lassen!'
+aiGeneratedDate: '2025-09-04T11:16:28.344Z'
+featuredImage: ai/ai-baerlauch-pesto-vollkorn-spagetthi.jpg
 ---
 
 [<!-- Image removed (no copyright): bärlauch-pesto1.jpg -->](https://www.veganblatt.com/i/bärlauch-pesto1.jpg)

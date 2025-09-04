@@ -1,5 +1,5 @@
 ---
-title: "Die vegane Vorteile von Ingwer und Zitrone: ein heißer Tipp!"
+title: "Die Veganen Vorteile von Ingwer und Zitrone: ein heißer Tipp!"
 date: "2017-01-16 08:58:56"
 modified: "2017-02-06 10:06:46"
 slug: "vorteile-ingwer-zitrone"

@@ -41,6 +41,8 @@ recipe:
     - In einer Pfanne goldbraun herausbraten.
     - Sogleich mit den Petersilkartoffeln servieren.
     - Guten Appetit!
+aiGeneratedDate: '2025-09-04T11:17:29.949Z'
+featuredImage: ai/ai-vegane-calamari.jpg
 ---
 
 <!-- Image removed (no copyright): clamares-kartoffeln-vegan-640x484.jpg -->

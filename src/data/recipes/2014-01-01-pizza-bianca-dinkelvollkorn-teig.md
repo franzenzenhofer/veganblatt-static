@@ -1,5 +1,5 @@
 ---
-title: Pizza vegane bianca mit Dinkelvollkorn-Teig
+title: Vegane Pizza Bianca mit Dinkelvollkorn-Teig
 date: '2014-01-01 10:51:36'
 modified: '2016-01-19 15:01:02'
 slug: pizza-bianca-dinkelvollkorn-teig

@@ -36,5 +36,7 @@ recipe:
       ablöschen, nochmal kurz aufkochen.
     - Die Nudeln dazugeben und für 2min mitbraten.
     - Mit frischen Sprossen und Koriander servieren.
+aiGeneratedDate: '2025-09-04T11:15:06.415Z'
+featuredImage: ai/ai-reisnudeln-mit-gemuese-und-tofu.jpg
 ---
 

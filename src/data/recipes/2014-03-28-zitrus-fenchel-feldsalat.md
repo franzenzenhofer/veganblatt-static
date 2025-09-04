@@ -29,6 +29,8 @@ recipe:
     - >-
       Aus Limettensaft, Olivenöl, Sesam und Salz ein Dressing bereiten und dazu
       servieren.
+aiGeneratedDate: '2025-09-04T11:14:56.492Z'
+featuredImage: ai/ai-zitrus-fenchel-feldsalat.jpg
 ---
 
 [<!-- Image removed (no copyright): zitrus-fenchel-feldsalat.jpg -->](https://www.veganblatt.com/i/zitrus-fenchel-feldsalat.jpg)

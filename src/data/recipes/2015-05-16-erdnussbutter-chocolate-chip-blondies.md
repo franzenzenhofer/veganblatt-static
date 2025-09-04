@@ -1,5 +1,5 @@
 ---
-title: Erdnussbutter vegane Chocolate Chip Blondies ohne Mehl
+title: Vegane Erdnussbutter-Chocolate-Chip-Blondies ohne Mehl
 date: '2015-05-16 18:45:34'
 modified: '2015-05-16 22:36:23'
 slug: erdnussbutter-chocolate-chip-blondies

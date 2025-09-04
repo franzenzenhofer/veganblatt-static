@@ -32,5 +32,7 @@ recipe:
     - >-
       Je 3 Birnen in eine Schale setzen und mit der Weinsauce übergossen
       servieren.
+aiGeneratedDate: '2025-09-04T11:15:46.140Z'
+featuredImage: ai/ai-rotwein-gewuerz-birnen.jpg
 ---
 

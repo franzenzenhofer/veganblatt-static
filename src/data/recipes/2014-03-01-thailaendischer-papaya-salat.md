@@ -35,6 +35,8 @@ recipe:
       mischen (alternativ in einer normalen Schüssel und einem großen
       Kochlöffel), die Dressingzutaten untermengen und weiter stampfen.
     - Auf einem Teller anrichten und mit den Erdnüssen bestreuen.
+aiGeneratedDate: '2025-09-04T11:13:57.933Z'
+featuredImage: ai/ai-thailaendischer-papaya-salat.jpg
 ---
 
 Die Stangenbohnen haben wir als "optional" gekennzeichnet, da rohe Stangenbohnen in Europe als "unverträglich" gelten, in Thailand aber aber zu jedem **Som Tam** dazugehören. Ob es einen Unterschied zwischen thailändischen Bohnen und europäischen gibt oder ob die Länder das unterschiedlich ernst nehmen müssen wir erst recherchieren. Im Zweifelsfall einfach weglassen.
