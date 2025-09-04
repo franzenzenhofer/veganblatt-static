@@ -35,5 +35,7 @@ recipe:
       Eine Pfanne mit dem Kokosöl aufstellen und die Paprika darin von allen
       Seiten anbraten. Dann die Tomatensauce und etwas Wasser dazugeben und
       fertig dünsten. Abschmecken und genießen.
+aiGeneratedDate: '2025-09-04T11:36:33.659Z'
+featuredImage: ai/ai-gefuellte-grusel-paprika.jpg
 ---
 

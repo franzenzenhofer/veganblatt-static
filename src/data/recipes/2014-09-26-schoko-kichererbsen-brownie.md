@@ -41,6 +41,8 @@ recipe:
       Schoko-Kichererbsenmasse in eine rechteckige Form von ca. 20 x 20 cm (umso
       größer die Form umso flacher die Brownies).
     - Bei 180 °C ca 30 min. in den Ofen.
+aiGeneratedDate: '2025-09-04T11:34:34.760Z'
+featuredImage: ai/ai-schoko-kichererbsen-brownie.jpg
 ---
 
 \-JL

@@ -25,5 +25,7 @@ recipe:
       Nun das geschälte Obst dazugeben und für 1-2min weitermixen bis die
       gewünschte cremige Smoothie-Konsistenz erreicht ist.
     - 'Und losschlürfen :)'
+aiGeneratedDate: '2025-09-04T11:35:41.153Z'
+featuredImage: ai/ai-gruener-smoothie-mit-gruenkohl.jpg
 ---
 

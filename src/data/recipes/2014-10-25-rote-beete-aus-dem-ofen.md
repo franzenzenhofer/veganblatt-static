@@ -28,5 +28,7 @@ recipe:
     - >-
       Für ca. 40min (je nach Größe ev. auch länger) bei 200°C Ober- Unterhitze
       im Backofen garen, zwischendurch wenden.
+aiGeneratedDate: '2025-09-04T11:36:12.108Z'
+featuredImage: ai/ai-rote-beete-aus-dem-ofen.jpg
 ---
 

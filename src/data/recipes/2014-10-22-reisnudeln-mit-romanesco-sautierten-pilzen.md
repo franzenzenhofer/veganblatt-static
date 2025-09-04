@@ -36,5 +36,7 @@ recipe:
       Die Reisnudeln in die Pfanne geben, mit dem Gemüse mischen, die
       Sojasaucen-Mischung darüber gießen und kürz köcheln lassen. Abschmecken,
       fertig!
+aiGeneratedDate: '2025-09-04T11:36:01.478Z'
+featuredImage: ai/ai-reisnudeln-mit-romanesco-sautierten-pilzen.jpg
 ---
 

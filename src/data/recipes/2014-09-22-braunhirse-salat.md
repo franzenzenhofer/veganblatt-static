@@ -1,5 +1,5 @@
 ---
-title: "Veganer Braunhirse-Salat mit Brunnenkresse & Birne"
+title: Veganer Braunhirse-Salat mit Brunnenkresse & Birne
 date: '2014-09-22 12:01:10'
 modified: '2014-09-29 13:57:05'
 slug: braunhirse-salat
@@ -27,5 +27,7 @@ recipe:
       groben Stengeln abzupfen.
     - 'Mit der Braunhirse anrichten und mit Essig, Öl und Salz abschmecken.'
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T11:34:25.814Z'
+featuredImage: ai/ai-braunhirse-salat.jpg
 ---
 

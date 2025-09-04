@@ -29,5 +29,7 @@ recipe:
       Den fertigen Chiapudding in Gläser oder Schüsseln füllen und mit
       mundgerecht geschnittenem Obst und Nüssen (hier hatten wir Macadamias)
       toppen.
+aiGeneratedDate: '2025-09-04T11:34:17.335Z'
+featuredImage: ai/ai-chia-pudding-mit-obstsalat.jpg
 ---
 

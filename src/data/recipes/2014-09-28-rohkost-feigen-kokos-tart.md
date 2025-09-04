@@ -37,5 +37,7 @@ recipe:
     - >-
       Vor dem Verzehr kurz antauen lassen und mit in Scheiben geschnittenen
       Feigen belegen.
+aiGeneratedDate: '2025-09-04T11:34:43.330Z'
+featuredImage: ai/ai-rohkost-feigen-kokos-tart.jpg
 ---
 

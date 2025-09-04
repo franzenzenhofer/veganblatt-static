@@ -39,6 +39,8 @@ recipe:
       Gut 50 Minuten Backen. Am Ende mit einem Buttermesser anstechen, bliebt
       Teig hängen brauchts noch ein paar Minuten.
     - Servieren und Leute beeindrucken.
+aiGeneratedDate: '2025-09-04T11:35:31.544Z'
+featuredImage: ai/ai-becherkuchen.jpg
 ---
 
 10 Minuten zum Zusammenmischen, 50 Minuten zum Backen, fertig. Becherkuchen heißt der Kuchen, weil man Anstatt mit komplizierten Mengenangaben, einfach einen Becher zum Zutaten messen verwendet. (Deshalb wird der Kuchen auch oft "Kinderkuchen" genannt.) Ein "normaler" Becher fasst meist 250g (250ml), aber eigentlich ist es egal, es kommt auf das Mengen-Verhältnis der Zutaten untereinander an. Wer also einen größeren Kuchen will, nimmt einfach einen größeren Becher. Ameisen-Kuchen heißt der Kuchen übrigens nicht weil da Ameisen drinnen sind (er ist vegan, wirklich) sondern weil die geschmolzene Schokalde irgendwie "Ameisig" ausschaut.

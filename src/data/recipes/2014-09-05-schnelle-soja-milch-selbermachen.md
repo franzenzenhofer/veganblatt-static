@@ -29,6 +29,8 @@ recipe:
       Durch einen Nussmilchbeutel (alternativ: großes Sieb mit einem Mulltuch
       ausgelegt) in einen Topf gießen und den Rückstand gut auspressen.
     - 'Zum Entbittern die Sojamilch für 10min kochen. Et voilà: fertig!'
+aiGeneratedDate: '2025-09-04T11:33:17.971Z'
+featuredImage: ai/ai-schnelle-soja-milch-selbermachen.jpg
 ---
 
 [<!-- Image removed (no copyright): vanille-soja-milch-2-640x535.jpg -->](https://www.veganblatt.com/i/vanille-soja-milch-2.jpg)

@@ -43,6 +43,8 @@ recipe:
       Den Teig für 10min bei 180°C vorbacken. Mit dem Pudding füllen und den
       Zwetschgen belegen und für ca. 35min weiterbacken.
     - Mit Puderzucker (bzw. -xylitol) und Zimt bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:33:48.342Z'
+featuredImage: ai/ai-glutenfreier-zwetschgen-kuchen-mit-pudding.jpg
 ---
 
 [<!-- Image removed (no copyright): zwetschgenkuchen.jpg -->](https://www.veganblatt.com/i/zwetschgenkuchen.jpg)

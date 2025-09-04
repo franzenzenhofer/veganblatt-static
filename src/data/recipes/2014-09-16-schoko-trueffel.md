@@ -27,5 +27,7 @@ recipe:
     - >-
       Mit den Händen Kugeln formen und in Kakaopulver wälzen. Fertig sind die
       leckeren Pralinen!
+aiGeneratedDate: '2025-09-04T11:33:58.999Z'
+featuredImage: ai/ai-schoko-trueffel.jpg
 ---
 

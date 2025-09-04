@@ -37,5 +37,7 @@ recipe:
       Drittel verteilen, die Seiten einschlagen und aufrollen. Mit Sojamilch
       bestreichen und bei 180°C für 20-25min backen bis der Strudel sich schon
       braun färbt.
+aiGeneratedDate: '2025-09-04T11:35:22.587Z'
+featuredImage: ai/ai-kartoffel-strudel-mit-pfifferlingen.jpg
 ---
 

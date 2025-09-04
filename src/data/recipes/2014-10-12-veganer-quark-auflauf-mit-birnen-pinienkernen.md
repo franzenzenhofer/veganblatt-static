@@ -36,5 +36,7 @@ recipe:
     - >-
       Bei 180°C für 40min ins Backrohr geben, etwas auskühlen lassen und danach
       genießen!
+aiGeneratedDate: '2025-09-04T11:35:13.755Z'
+featuredImage: ai/ai-veganer-quark-auflauf-mit-birnen-pinienkernen.jpg
 ---
 

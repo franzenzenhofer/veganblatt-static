@@ -29,6 +29,8 @@ recipe:
     - >-
       Jeweils zwei Scheiben mit 1 TL des Cashew-Käse füllen und auf einen Teller
       setzen. Mit Kräutern und Balsamicocreme garniert servieren.
+aiGeneratedDate: '2025-09-04T11:34:52.852Z'
+featuredImage: ai/ai-rote-beete-ravioli-mit-cashew-kaese-fuellung.jpg
 ---
 
 [<!-- Image removed (no copyright): rohkost-ravioli.jpg -->](https://www.veganblatt.com/i/rohkost-ravioli.jpg)

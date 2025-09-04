@@ -21,5 +21,7 @@ recipe:
       Die Feigen kreuzweise einschneiden. Die saure Sahne glatt rühren und in
       und um die Feigen verteilen. Nach Belieben süßen und mit den Pistazien
       bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:34:07.712Z'
+featuredImage: ai/ai-feigen-dessert.jpg
 ---
 

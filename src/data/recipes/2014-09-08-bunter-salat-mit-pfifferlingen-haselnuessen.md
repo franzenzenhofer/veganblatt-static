@@ -26,5 +26,7 @@ recipe:
     - >-
       Alle Salat-Zutaten in einer Schüssel mit dem Dressing vermischen und
       frisch genießen.
+aiGeneratedDate: '2025-09-04T11:33:27.094Z'
+featuredImage: ai/ai-bunter-salat-mit-pfifferlingen-haselnuessen.jpg
 ---
 

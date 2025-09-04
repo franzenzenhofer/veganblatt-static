@@ -31,5 +31,7 @@ recipe:
       Für das Dressing alle Zutaten gut vermischen (ev. mixen), über den Salat
       geben und gut mischen.
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T11:36:24.887Z'
+featuredImage: ai/ai-gruenkohl-salat-mit-granatapfel-avocado.jpg
 ---
 

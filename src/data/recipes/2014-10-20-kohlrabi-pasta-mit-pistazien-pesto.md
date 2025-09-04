@@ -24,5 +24,7 @@ recipe:
       Salz und frischem Pfeffer abschmecken. Mit 1 EL gehakten Pistazien
       bestreuen.
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T11:35:50.740Z'
+featuredImage: ai/ai-kohlrabi-pasta-mit-pistazien-pesto.jpg
 ---
 

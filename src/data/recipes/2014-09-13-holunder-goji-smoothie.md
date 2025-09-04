@@ -26,5 +26,7 @@ recipe:
     - >-
       Abkühlen lassen und alles in den Mixbecher geben und gut pürieren. Mit
       einigen Gojibeeren garniert sofort genießen.
+aiGeneratedDate: '2025-09-04T11:33:38.545Z'
+featuredImage: ai/ai-holunder-goji-smoothie.jpg
 ---
 
