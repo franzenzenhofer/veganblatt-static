@@ -103,10 +103,16 @@ async function generateOGImage(config: OGImageConfig): Promise<boolean> {
     console.log(`   Filename: ${config.filename}`);
     
     const model = genAI.getGenerativeModel({ 
-      model: "imagen-3.0-generate-001",
+      model: "gemini-2.0-flash-exp",
     });
 
-    const result = await model.generateContent(config.prompt);
+    const fullPrompt = `Generate a photorealistic image: ${config.prompt}`;
+
+    const result = await model.generateContent([
+      {
+        text: fullPrompt
+      }
+    ]);
 
     const response = result.response;
     const candidates = response.candidates;
