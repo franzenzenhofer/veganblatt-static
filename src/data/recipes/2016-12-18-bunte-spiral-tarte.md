@@ -1,5 +1,5 @@
 ---
-title: "Bunte vegane Spiral-Tarte"
+title: "Bunte Vegane Spiral-Tarte"
 date: "2016-12-18 20:24:52"
 modified: "2017-03-27 18:03:27"
 slug: "bunte-spiral-tarte"

@@ -1,5 +1,5 @@
 ---
-title: "Erdbeer vegane Spitzbuben"
+title: "Erdbeer Vegane Spitzbuben"
 date: "2019-12-17 10:08:54"
 modified: "2019-12-16 21:15:29"
 slug: "erdbeer-spitzbuben"

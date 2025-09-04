@@ -1,5 +1,5 @@
 ---
-title: 'Der vegane Klassiker: Bananenbrot'
+title: 'Der Vegane Klassiker: Bananenbrot'
 date: '2015-03-17 07:49:14'
 modified: '2015-03-17 09:24:17'
 slug: bananenbrot

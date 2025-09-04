@@ -1,5 +1,5 @@
 ---
-title: Sahnige vegane Erdbeer-Whoopies
+title: Sahnige Vegane Erdbeer-Whoopies
 date: '2014-04-13 08:00:28'
 modified: '2016-04-15 20:12:08'
 slug: erdbeer-whoopies

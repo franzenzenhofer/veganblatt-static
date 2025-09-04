@@ -1,5 +1,5 @@
 ---
-title: Buntes vegane Kokos-Gemüse mit Mungbohnen
+title: Buntes Vegane Kokos-Gemüse mit Mungbohnen
 date: '2015-08-01 09:57:51'
 modified: '2015-07-30 15:45:20'
 slug: kokos-gemuese-mit-mungbohnen

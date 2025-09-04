@@ -1,5 +1,5 @@
 ---
-title: Schmackhaftes vegane Bärlauch-Pesto mit Vollkorn-Spagetthi
+title: Schmackhaftes Vegane Bärlauch-Pesto mit Vollkorn-Spagetthi
 date: '2014-04-12 12:58:41'
 modified: '2016-02-24 21:43:14'
 slug: baerlauch-pesto-vollkorn-spagetthi

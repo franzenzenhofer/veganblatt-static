@@ -1,5 +1,5 @@
 ---
-title: Selbstgemachte vegane Grünkohl-Chips
+title: Selbstgemachte Vegane Grünkohl-Chips
 date: '2015-10-20 08:18:46'
 modified: '2015-10-20 19:45:25'
 slug: gruenkohl-chips-rezept

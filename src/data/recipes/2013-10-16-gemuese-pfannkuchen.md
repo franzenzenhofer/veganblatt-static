@@ -1,5 +1,5 @@
 ---
-title: Lustige veganer Gemüsepfannkuchen
+title: Lustige Vegane Gemüsepfannkuchen
 date: '2013-10-16 21:13:49'
 modified: '2016-01-19 14:50:42'
 slug: gemuese-pfannkuchen

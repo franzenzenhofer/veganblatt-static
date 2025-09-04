@@ -27,5 +27,7 @@ recipe:
     - >-
       Wenn die Cracker wirklich ganz trocken sind, am besten in Papiertüten
       lagern.
+aiGeneratedDate: '2025-09-04T11:30:03.072Z'
+featuredImage: ai/ai-rohkoestiche-zucchini-leinsamen-cracker.jpg
 ---
 

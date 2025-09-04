@@ -1,5 +1,5 @@
 ---
-title: 'Der beste vegane Kuchen: Schoko-Banoffee Pie'
+title: 'Der beste Vegane Kuchen: Schoko-Banoffee Pie'
 date: '2014-12-27 21:34:10'
 modified: '2015-04-06 13:42:39'
 slug: veganer-schoko-banoffee-pie

@@ -1,5 +1,5 @@
 ---
-title: Schmackhafte vegane Bärlauch-Creme-Suppe
+title: Schmackhafte Vegane Bärlauch-Creme-Suppe
 date: '2015-03-31 14:40:59'
 modified: '2016-02-24 21:43:32'
 slug: baerlauch-creme-suppe

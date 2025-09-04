@@ -1,5 +1,5 @@
 ---
-title: Glasierte vegane Gans mit Rotkraut und Maroni
+title: Glasierte Vegane Gans mit Rotkraut und Maroni
 date: '2013-11-10 18:17:11'
 modified: '2016-01-19 14:57:41'
 slug: vegane-gans-rotkraut

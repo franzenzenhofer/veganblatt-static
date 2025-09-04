@@ -1,5 +1,5 @@
 ---
-title: "Erbsensuppe vegane mit Minze und Croutons"
+title: "Erbsensuppe Vegane mit Minze und Croutons"
 date: "2020-04-03 15:18:13"
 modified: "2020-04-07 15:27:51"
 slug: "erbsensuppe-mit-minze-und-croutons"

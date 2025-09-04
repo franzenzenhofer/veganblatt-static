@@ -1,5 +1,5 @@
 ---
-title: "Selbstgemachter vegane Kräuterschnaps"
+title: "Selbstgemachter Vegane Kräuterschnaps"
 date: "2016-01-09 10:00:31"
 modified: "2016-01-13 07:30:42"
 slug: "selbstgemachter-kraeuterschnaps"

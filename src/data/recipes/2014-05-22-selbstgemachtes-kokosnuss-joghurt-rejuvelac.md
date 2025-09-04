@@ -1,5 +1,5 @@
 ---
-title: Selbstgemachtes vegane Kokosnuss-Joghurt mit Rejuvelac
+title: Selbstgemachtes Vegane Kokosnuss-Joghurt mit Rejuvelac
 date: '2014-05-22 09:41:41'
 modified: '2016-05-24 12:39:24'
 slug: selbstgemachtes-kokosnuss-joghurt-rejuvelac

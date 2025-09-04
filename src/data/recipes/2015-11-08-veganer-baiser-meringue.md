@@ -1,5 +1,5 @@
 ---
-title: 'Das perfekte, vegane Baiser bzw. Meringue'
+title: 'Das perfekte, Vegane Baiser bzw. Meringue'
 date: '2015-11-08 08:21:10'
 modified: '2015-11-08 09:57:08'
 slug: veganer-baiser-meringue

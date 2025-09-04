@@ -1,5 +1,5 @@
 ---
-title: "Knusprige vegane Vollkorn Waffeln"
+title: "Knusprige Vegane Vollkorn Waffeln"
 date: "2014-01-19 08:29:10"
 modified: "2016-01-30 09:31:24"
 slug: "vollkorn-waffeln"

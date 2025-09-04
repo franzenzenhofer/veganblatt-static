@@ -1,5 +1,5 @@
 ---
-title: "Die beste & einfachste vegane Topinambur-Suppe"
+title: "Die beste & einfachste Vegane Topinambur-Suppe"
 date: "2015-01-22 10:00:42"
 modified: "2016-03-22 20:01:52"
 slug: "topinambur-suppe"

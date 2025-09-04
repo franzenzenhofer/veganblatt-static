@@ -1,5 +1,5 @@
 ---
-title: Raw vegane Cheesecake mit Pflaumen
+title: Veganer Raw Cheesecake mit Pflaumen
 date: '2013-10-13 21:36:25'
 modified: '2015-09-02 20:32:42'
 slug: raw-cheesecake-pflaumen

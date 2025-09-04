@@ -1,5 +1,5 @@
 ---
-title: Buntes vegane Gemüse-Curry mit Kokosmilch und Tofu
+title: Buntes Vegane Gemüse-Curry mit Kokosmilch und Tofu
 date: '2014-08-12 15:12:45'
 modified: '2014-08-12 19:49:38'
 slug: gemuese-curry-mit-kokosmilch-tofu

@@ -1,5 +1,5 @@
 ---
-title: "Bratkartoffeln vegane aus dem Ofen"
+title: "Bratkartoffeln Vegane aus dem Ofen"
 date: "2014-04-03 09:00:58"
 modified: "2015-05-24 14:30:19"
 slug: "bratkartoffeln-ofen"

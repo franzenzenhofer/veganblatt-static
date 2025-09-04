@@ -46,6 +46,8 @@ recipe:
     - >-
       Bevor die Schnecken ins Rohr kommen mit Sojamilch oder Margarine
       bestreichen. Dann für ca. 15 Minuten bei 180° (Heißluft) backen.
+aiGeneratedDate: '2025-09-04T11:29:29.329Z'
+featuredImage: ai/ai-apfel-zimt-schnecken.jpg
 ---
 
 [<!-- Image removed (no copyright): schnecken-collage.jpg -->](https://www.veganblatt.com/i/schnecken-collage.jpg)

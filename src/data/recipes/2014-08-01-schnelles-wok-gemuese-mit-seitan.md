@@ -1,5 +1,5 @@
 ---
-title: Schnelles vegane Wok-Gemüse mit Seitan-Würfel
+title: Schnelles Vegane Wok-Gemüse mit Seitan-Würfel
 date: '2014-08-01 22:10:27'
 modified: '2015-03-23 15:26:20'
 slug: schnelles-wok-gemuese-mit-seitan
@@ -32,5 +32,7 @@ recipe:
     - >-
       Mit der Sojasauce ablöschen, ev. noch mit weiteren Gewürzen und Kräutern
       nach Belieben abschmecken. Et voilà!
+aiGeneratedDate: '2025-09-04T11:30:22.507Z'
+featuredImage: ai/ai-schnelles-wok-gemuese-mit-seitan.jpg
 ---
 

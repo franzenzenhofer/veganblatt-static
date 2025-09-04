@@ -1,5 +1,5 @@
 ---
-title: "Beeren vegane Bowle"
+title: "Beeren Vegane Bowle"
 date: "2019-07-18 09:12:00"
 modified: "2019-07-17 09:21:57"
 slug: "beeren-bowle"

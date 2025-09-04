@@ -1,5 +1,5 @@
 ---
-title: "Wunderbar einfach: vegane 4-Zutaten-Ausstechkekse"
+title: "Wunderbar einfach: Vegane 4-Zutaten-Ausstechkekse"
 date: "2017-11-20 10:27:21"
 modified: "2017-11-30 15:31:46"
 slug: "4-zutaten-ausstechkekse"

@@ -1,5 +1,5 @@
 ---
-title: Traumhafte vegane Himbeer Joghurt-Sahnetorte
+title: Traumhafte Vegane Himbeer Joghurt-Sahnetorte
 date: '2016-08-27 18:36:17'
 modified: '2016-09-10 13:31:01'
 slug: vegane-himbeer-sahnetorte

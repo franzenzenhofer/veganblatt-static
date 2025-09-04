@@ -1,5 +1,5 @@
 ---
-title: Herrliches vegane Kirsch Keks Tiramisu
+title: Herrliches Vegane Kirsch Keks Tiramisu
 date: '2017-10-28 09:00:49'
 modified: '2017-11-30 15:27:40'
 slug: herrliches-kirsch-keks-tiramisu

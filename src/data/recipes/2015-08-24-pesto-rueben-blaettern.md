@@ -1,5 +1,5 @@
 ---
-title: Pesto vegane aus Rüben-Blättern
+title: Pesto Vegane aus Rüben-Blättern
 date: '2015-08-24 11:38:34'
 modified: '2016-05-31 17:05:56'
 slug: pesto-rueben-blaettern

@@ -1,5 +1,5 @@
 ---
-title: "Sommerliche vegane Obstbowle"
+title: "Sommerliche Vegane Obstbowle"
 date: "2016-07-23 10:20:22"
 modified: "2016-07-23 11:01:08"
 slug: "obstbowle-sommer"

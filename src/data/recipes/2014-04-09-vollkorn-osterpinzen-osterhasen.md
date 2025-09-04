@@ -1,5 +1,5 @@
 ---
-title: Schnelle vegane Vollkorn-Osterpinzen und -Osterhasen
+title: Schnelle Vegane Vollkorn-Osterpinzen und -Osterhasen
 date: '2014-04-09 14:32:57'
 modified: '2016-03-29 20:18:08'
 slug: vollkorn-osterpinzen-osterhasen

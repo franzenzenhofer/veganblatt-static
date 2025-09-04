@@ -1,5 +1,5 @@
 ---
-title: Fettarme vegane Ofen-Pommes
+title: Fettarme Vegane Ofen-Pommes
 date: '2015-02-21 14:49:41'
 modified: '2015-02-21 14:49:41'
 slug: fettarme-ofen-pommes

@@ -1,5 +1,5 @@
 ---
-title: "Pizza vegane Margarita mit Quark-Öl-Teig"
+title: "Pizza Vegane Margarita mit Quark-Öl-Teig"
 date: "2016-03-09 07:51:32"
 modified: "2016-03-09 08:24:24"
 slug: "pizza-margarita-quark-oel-teig"

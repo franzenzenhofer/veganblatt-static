@@ -1,5 +1,5 @@
 ---
-title: Brennnessel vegane Lasagne mit Pilzen
+title: Brennnessel Vegane Lasagne mit Pilzen
 date: '2014-06-15 12:29:28'
 modified: '2016-05-02 13:47:57'
 slug: brennnessel-lasagne-mit-pilzen

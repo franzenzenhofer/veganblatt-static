@@ -1,5 +1,5 @@
 ---
-title: Raindrop vegane Cake
+title: Raindrop Vegane Cake
 date: '2016-04-12 13:48:41'
 modified: '2016-06-29 20:01:27'
 slug: raindrop-cake

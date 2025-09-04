@@ -1,5 +1,5 @@
 ---
-title: 'Die vegane beste Kräuter-Limonade, selbstgemacht!'
+title: 'Die Vegane beste Kräuter-Limonade, selbstgemacht!'
 date: '2014-05-20 07:35:11'
 modified: '2017-09-15 20:02:54'
 slug: kraeuter-limonade

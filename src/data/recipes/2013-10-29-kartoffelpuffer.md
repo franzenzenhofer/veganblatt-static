@@ -1,5 +1,5 @@
 ---
-title: Leckere vegane Kartoffelpuffer
+title: Leckere Vegane Kartoffelpuffer
 date: '2013-10-29 12:24:17'
 modified: '2016-11-10 13:46:18'
 slug: kartoffelpuffer

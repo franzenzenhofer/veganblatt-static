@@ -1,5 +1,5 @@
 ---
-title: "Glutenfreie vegane Bratapfel-Pancakes"
+title: "Glutenfreie Vegane Bratapfel-Pancakes"
 date: "2015-12-17 08:57:29"
 modified: "2016-07-31 12:19:34"
 slug: "glutenfreie-bratapfel-pancakes"

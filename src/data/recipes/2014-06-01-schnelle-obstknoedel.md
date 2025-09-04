@@ -1,5 +1,5 @@
 ---
-title: Schnelle vegane Obstknödel
+title: Schnelle Vegane Obstknödel
 date: '2014-06-01 21:52:12'
 modified: '2014-08-16 09:23:08'
 slug: schnelle-obstknoedel

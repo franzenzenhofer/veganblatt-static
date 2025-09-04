@@ -1,5 +1,5 @@
 ---
-title: Buntes vegane Wok-Gemüse mit Tofu-Ecken
+title: Buntes Vegane Wok-Gemüse mit Tofu-Ecken
 date: '2015-02-21 21:19:07'
 modified: '2015-04-28 08:26:45'
 slug: wok-gemuese-tofu

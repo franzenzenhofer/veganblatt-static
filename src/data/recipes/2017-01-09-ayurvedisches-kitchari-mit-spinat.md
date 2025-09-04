@@ -1,5 +1,5 @@
 ---
-title: "Ayurvedisches vegane Kitchari mit Spinat"
+title: "Ayurvedisches Vegane Kitchari mit Spinat"
 date: "2017-01-09 09:57:49"
 modified: "2017-01-09 11:41:55"
 slug: "ayurvedisches-kitchari-mit-spinat"

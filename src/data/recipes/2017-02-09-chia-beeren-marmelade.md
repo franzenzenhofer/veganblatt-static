@@ -1,5 +1,5 @@
 ---
-title: "Fruchtige vegane Chia-Beeren Marmelade"
+title: "Fruchtige Vegane Chia-Beeren Marmelade"
 date: "2017-02-09 07:50:14"
 modified: "2017-02-09 11:23:45"
 slug: "chia-beeren-marmelade"

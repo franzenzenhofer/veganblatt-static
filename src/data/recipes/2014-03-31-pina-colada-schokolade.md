@@ -1,5 +1,5 @@
 ---
-title: Pina vegane Colada Schokolade
+title: Pina Vegane Colada Schokolade
 date: '2014-03-31 09:00:42'
 modified: '2016-04-15 20:12:00'
 slug: pina-colada-schokolade

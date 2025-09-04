@@ -1,5 +1,5 @@
 ---
-title: Schokopralinen vegane mit dem gewissen Extra
+title: Schokopralinen Vegane mit dem gewissen Extra
 date: '2015-03-31 11:32:16'
 modified: '2015-04-21 23:54:15'
 slug: schokopralinen-gewissen-extra

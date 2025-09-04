@@ -1,5 +1,5 @@
 ---
-title: "Fruchtiges vegane Schichtdessert mit Darbo Tagtraum"
+title: "Fruchtiges Vegane Schichtdessert mit Darbo Tagtraum"
 date: "2017-12-03 08:45:51"
 modified: "2017-12-13 14:46:05"
 slug: "schichtdessert"

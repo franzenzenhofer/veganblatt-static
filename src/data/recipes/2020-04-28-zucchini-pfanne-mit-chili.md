@@ -1,5 +1,5 @@
 ---
-title: "Zucchini vegane Pfanne mit Chili"
+title: "Zucchini Vegane Pfanne mit Chili"
 date: "2020-04-28 17:15:45"
 modified: "2020-04-28 17:15:45"
 slug: "zucchini-pfanne-mit-chili"

@@ -1,5 +1,5 @@
 ---
-title: "Erdbeer vegane Sommer Lassi"
+title: "Erdbeer Vegane Sommer Lassi"
 date: "2019-07-22 09:22:26"
 modified: "2019-07-20 16:28:33"
 slug: "erdbeer-lassi"

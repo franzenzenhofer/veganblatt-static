@@ -1,5 +1,5 @@
 ---
-title: Rote vegane Beete aus dem Ofen
+title: Rote Vegane Beete aus dem Ofen
 date: '2014-10-25 12:54:52'
 modified: '2014-10-25 19:17:12'
 slug: rote-beete-aus-dem-ofen

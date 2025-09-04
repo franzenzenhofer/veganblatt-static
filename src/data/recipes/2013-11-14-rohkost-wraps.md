@@ -1,5 +1,5 @@
 ---
-title: Regenbogen vegane Wraps mit Falafel- und Gemüsefülle
+title: Regenbogen Vegane Wraps mit Falafel- und Gemüsefülle
 date: '2013-11-14 12:50:03'
 modified: '2015-12-21 20:01:47'
 slug: rohkost-wraps

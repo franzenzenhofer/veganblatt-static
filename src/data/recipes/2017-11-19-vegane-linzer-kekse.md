@@ -1,5 +1,5 @@
 ---
-title: "Herzige vegane Linzer Kekse"
+title: "Herzige Vegane Linzer Kekse"
 date: "2017-11-19 17:54:35"
 modified: "2017-11-30 15:31:19"
 slug: "vegane-linzer-kekse"

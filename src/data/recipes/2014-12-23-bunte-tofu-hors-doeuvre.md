@@ -1,5 +1,5 @@
 ---
-title: Bunte vegane Tofu hors d'oeuvre
+title: Bunte Vegane Tofu hors d'oeuvre
 date: '2014-12-23 12:29:47'
 modified: '2014-12-26 14:35:32'
 slug: bunte-tofu-hors-doeuvre

@@ -1,5 +1,5 @@
 ---
-title: Rote vegane Beete-Ravioli mit Cashew-Käse-Füllung
+title: Rote Vegane Beete-Ravioli mit Cashew-Käse-Füllung
 date: '2014-09-30 10:50:50'
 modified: '2015-12-21 20:01:30'
 slug: rote-beete-ravioli-mit-cashew-kaese-fuellung

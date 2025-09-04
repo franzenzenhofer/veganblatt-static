@@ -1,5 +1,5 @@
 ---
-title: "One vegane Pot Pasta mit Kohlrabi und Erbsen"
+title: "One Vegane Pot Pasta mit Kohlrabi und Erbsen"
 date: "2019-08-10 10:42:07"
 modified: "2019-08-06 20:53:11"
 slug: "pasta-kohlrabi-erbsen"

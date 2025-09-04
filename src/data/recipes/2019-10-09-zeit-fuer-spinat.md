@@ -1,5 +1,5 @@
 ---
-title: "Zeit vegane für Spinat"
+title: "Zeit Vegane für Spinat"
 date: "2019-10-09 20:45:18"
 modified: "2019-10-09 20:45:18"
 slug: "zeit-fuer-spinat"

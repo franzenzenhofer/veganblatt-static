@@ -1,5 +1,5 @@
 ---
-title: "Schnelle gefüllte vegane Cronuts"
+title: "Schnelle gefüllte Vegane Cronuts"
 date: "2017-02-12 07:18:24"
 modified: "2017-02-26 20:22:39"
 slug: "vegane-cronuts"

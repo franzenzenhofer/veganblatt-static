@@ -1,5 +1,5 @@
 ---
-title: Glutenfreie vegane Himbeer-Schoko Cremeschnitten
+title: Glutenfreie Vegane Himbeer-Schoko Cremeschnitten
 date: '2015-10-04 08:42:48'
 modified: '2016-05-01 10:01:35'
 slug: glutenfreier-himbeer-schoko-kuchen

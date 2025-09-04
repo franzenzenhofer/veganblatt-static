@@ -1,5 +1,5 @@
 ---
-title: "Herbstliche vegane Wurzelgemüse-Pommes mit Kokos-Lemon-Dip"
+title: "Herbstliche Vegane Wurzelgemüse-Pommes mit Kokos-Lemon-Dip"
 date: "2014-11-08 13:53:43"
 modified: "2016-11-08 14:52:38"
 slug: "wurzelgemuese-pommes-mit-kokos-lemon-dip"

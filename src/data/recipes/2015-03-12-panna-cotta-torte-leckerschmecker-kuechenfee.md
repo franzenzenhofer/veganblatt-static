@@ -1,5 +1,5 @@
 ---
-title: Sommerliche vegane Panna Cotta-Torte von der leckerschmecker Küchenfee
+title: Sommerliche Vegane Panna Cotta-Torte von der leckerschmecker Küchenfee
 date: '2015-03-12 08:35:16'
 modified: '2015-03-15 16:02:09'
 slug: panna-cotta-torte-leckerschmecker-kuechenfee

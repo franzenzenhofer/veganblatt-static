@@ -1,5 +1,5 @@
 ---
-title: Glutenfreie vegane Vanille Pancakes mit zweierlei Äpfeln
+title: Glutenfreie Vegane Vanille Pancakes mit zweierlei Äpfeln
 date: '2013-11-10 08:32:57'
 modified: '2015-02-12 14:18:47'
 slug: glutenfreie-vanille-pancakes-mit-aepfeln

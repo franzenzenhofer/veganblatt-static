@@ -1,5 +1,5 @@
 ---
-title: "Wilde, vegane Pilzsuppe"
+title: "Wilde, Vegane Pilzsuppe"
 date: "2015-11-14 18:09:01"
 modified: "2015-11-14 19:25:59"
 slug: "vegane-pilzsuppe"

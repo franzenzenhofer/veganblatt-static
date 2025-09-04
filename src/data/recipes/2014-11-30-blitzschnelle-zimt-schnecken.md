@@ -1,5 +1,5 @@
 ---
-title: Blitzschnelle vegane Zimt-Schnecken
+title: Blitzschnelle Vegane Zimt-Schnecken
 date: '2014-11-30 09:00:50'
 modified: '2014-11-30 09:11:10'
 slug: blitzschnelle-zimt-schnecken

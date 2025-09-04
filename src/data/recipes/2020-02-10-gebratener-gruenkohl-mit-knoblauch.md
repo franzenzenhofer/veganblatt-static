@@ -1,5 +1,5 @@
 ---
-title: "Gebratener vegane Grünkohl mit Knoblauch"
+title: "Gebratener Vegane Grünkohl mit Knoblauch"
 date: "2020-02-10 10:22:43"
 modified: "2020-02-11 21:30:08"
 slug: "gebratener-gruenkohl-mit-knoblauch"

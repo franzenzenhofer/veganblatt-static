@@ -1,5 +1,5 @@
 ---
-title: "Schwedische vegane Haferkekse"
+title: "Schwedische Vegane Haferkekse"
 date: "2019-09-16 21:31:46"
 modified: "2019-09-16 21:31:46"
 slug: "haferkekse"

@@ -1,5 +1,5 @@
 ---
-title: Glutenfreie vegane Mais-Pasta mit Brokkoli und Pilzen
+title: Glutenfreie Vegane Mais-Pasta mit Brokkoli und Pilzen
 date: '2014-08-16 08:51:21'
 modified: '2014-08-16 11:43:38'
 slug: glutenfreie-mais-pasta-brokkoli-pilze

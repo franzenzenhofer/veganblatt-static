@@ -1,5 +1,5 @@
 ---
-title: Gebratener vegane Tempeh auf Okra-Gemüse
+title: Gebratener Vegane Tempeh auf Okra-Gemüse
 date: '2014-07-19 14:00:44'
 modified: '2014-07-19 15:33:07'
 slug: tempeh-auf-okra-gemuese
@@ -37,5 +37,7 @@ recipe:
       Zwiebel und Knoblauch mit ganz wenig Wasser andünsten, die Tomaten und
       Okra dazugeben, würzen und für ca. 12min zugedeckt köcheln lassen.
       Abschmecken, fertig!
+aiGeneratedDate: '2025-09-04T11:29:44.535Z'
+featuredImage: ai/ai-tempeh-auf-okra-gemuese.jpg
 ---
 

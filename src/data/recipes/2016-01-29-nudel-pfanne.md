@@ -1,5 +1,5 @@
 ---
-title: "Bunte, vegane Winter-Nudelpfanne"
+title: "Bunte, Vegane Winter-Nudelpfanne"
 date: "2016-01-29 08:36:53"
 modified: "2016-01-29 10:20:22"
 slug: "nudel-pfanne"

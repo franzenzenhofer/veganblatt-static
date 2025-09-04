@@ -1,5 +1,5 @@
 ---
-title: "Rote vegane Bete Kokos Drink"
+title: "Rote Vegane Bete Kokos Drink"
 date: "2020-01-09 20:46:13"
 modified: "2020-09-20 20:00:03"
 slug: "rote-bete-kokos-drink"

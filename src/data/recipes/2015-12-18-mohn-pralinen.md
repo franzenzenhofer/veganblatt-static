@@ -1,5 +1,5 @@
 ---
-title: "Glutenfreie vegane Mohn Pralinen"
+title: "Glutenfreie Vegane Mohn Pralinen"
 date: "2015-12-18 10:01:49"
 modified: "2016-05-31 16:59:21"
 slug: "mohn-pralinen"

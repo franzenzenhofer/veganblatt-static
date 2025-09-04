@@ -1,5 +1,5 @@
 ---
-title: "Chips vegane aus Kartoffelschalen"
+title: "Chips Vegane aus Kartoffelschalen"
 date: "2019-05-27 09:09:36"
 modified: "2019-05-25 19:12:19"
 slug: "kartoffelschalen-chips"

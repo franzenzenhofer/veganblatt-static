@@ -1,5 +1,5 @@
 ---
-title: "Soulfood vegane Schoko Creme"
+title: "Soulfood Vegane Schoko Creme"
 date: "2020-04-30 09:07:26"
 modified: "2020-04-29 16:32:09"
 slug: "soulfood-schoko-creme"

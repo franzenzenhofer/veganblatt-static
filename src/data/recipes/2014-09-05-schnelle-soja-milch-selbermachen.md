@@ -1,5 +1,5 @@
 ---
-title: Schnelle vegane Soja-Milch mit einem Hauch von Vanille
+title: Schnelle Vegane Soja-Milch mit einem Hauch von Vanille
 date: '2014-09-05 08:46:02'
 modified: '2014-09-05 09:01:25'
 slug: schnelle-soja-milch-selbermachen

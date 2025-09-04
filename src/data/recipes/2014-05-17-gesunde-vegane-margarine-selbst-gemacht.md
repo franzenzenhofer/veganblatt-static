@@ -1,5 +1,5 @@
 ---
-title: 'Gesunde, vegane Margarine, selbst gemacht!'
+title: 'Gesunde, Vegane Margarine, selbst gemacht!'
 date: '2014-05-17 18:23:46'
 modified: '2014-05-17 22:35:13'
 slug: gesunde-vegane-margarine-selbst-gemacht

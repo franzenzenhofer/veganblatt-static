@@ -1,5 +1,5 @@
 ---
-title: Feigen vegane mit Sauerrahm-Creme und Pistazien
+title: Feigen Vegane mit Sauerrahm-Creme und Pistazien
 date: '2014-09-19 13:02:33'
 modified: '2014-09-19 13:02:33'
 slug: feigen-dessert

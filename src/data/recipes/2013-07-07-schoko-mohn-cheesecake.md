@@ -1,5 +1,5 @@
 ---
-title: Herrlich vegane frischer Schoko-Mohn Cheesecake
+title: Herrlich Vegane frischer Schoko-Mohn Cheesecake
 date: '2013-07-07 13:21:28'
 modified: '2015-02-02 17:00:58'
 slug: schoko-mohn-cheesecake

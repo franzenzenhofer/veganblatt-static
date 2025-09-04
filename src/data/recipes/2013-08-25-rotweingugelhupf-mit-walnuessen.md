@@ -1,5 +1,5 @@
 ---
-title: Gugelhupf vegane mit Schwips und Walnüssen
+title: Gugelhupf Vegane mit Schwips und Walnüssen
 date: '2013-08-25 09:33:31'
 modified: '2016-01-19 14:41:19'
 slug: rotweingugelhupf-mit-walnuessen

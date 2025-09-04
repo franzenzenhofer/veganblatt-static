@@ -1,5 +1,5 @@
 ---
-title: "Apfelstrudel vegane im Tofu-Mürbteig"
+title: "Apfelstrudel Vegane im Tofu-Mürbteig"
 date: "2013-09-03 22:19:51"
 modified: "2016-01-12 10:07:45"
 slug: "apfelstrudel-tofu-muerbteig"

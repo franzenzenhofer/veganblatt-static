@@ -1,5 +1,5 @@
 ---
-title: "Rohkost vegane Mais-Cracker mit Hanfsamen"
+title: "Rohkost Vegane Mais-Cracker mit Hanfsamen"
 date: "2014-09-26 09:24:54"
 modified: "2015-12-22 15:54:54"
 slug: "rohkost-mais-cracker"

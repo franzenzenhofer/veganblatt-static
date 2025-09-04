@@ -1,5 +1,5 @@
 ---
-title: "Wasabi vegane Mayonnaise"
+title: "Wasabi Vegane Mayonnaise"
 date: "2016-05-23 20:00:04"
 modified: "2016-05-23 20:32:39"
 slug: "wasabi-mayonnaise"

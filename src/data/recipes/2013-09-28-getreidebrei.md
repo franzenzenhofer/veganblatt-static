@@ -1,5 +1,5 @@
 ---
-title: Das vegane morgendliche Glück liegt im Getreidebrei
+title: Das Vegane morgendliche Glück liegt im Getreidebrei
 date: '2013-09-28 08:55:53'
 modified: '2014-05-28 19:54:47'
 slug: getreidebrei

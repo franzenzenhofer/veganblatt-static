@@ -1,5 +1,5 @@
 ---
-title: "Der einfachste vegane Apfel-Streusel-Kuchen"
+title: "Der einfachste Vegane Apfel-Streusel-Kuchen"
 date: "2015-11-15 07:53:21"
 modified: "2017-09-10 10:09:55"
 slug: "einfacher-apfel-streusel-kuchen"

@@ -1,5 +1,5 @@
 ---
-title: "Romanesco vegane Pfanne mit Quinoa und Minz Salsa"
+title: "Romanesco Vegane Pfanne mit Quinoa und Minz Salsa"
 date: "2019-06-26 09:55:09"
 modified: "2019-06-24 20:55:24"
 slug: "romanesco-pfanne"

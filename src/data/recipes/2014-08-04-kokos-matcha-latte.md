@@ -1,5 +1,5 @@
 ---
-title: Kokos vegane Matcha Latte
+title: Kokos Vegane Matcha Latte
 date: '2014-08-04 08:44:55'
 modified: '2017-12-12 11:13:17'
 slug: kokos-matcha-latte

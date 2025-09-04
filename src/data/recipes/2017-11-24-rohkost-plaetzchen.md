@@ -1,5 +1,5 @@
 ---
-title: Helle vegane und dunkle Rohkost Plätzchen
+title: Helle Vegane und dunkle Rohkost Plätzchen
 date: '2017-11-24 10:58:31'
 modified: '2017-11-30 15:32:51'
 slug: rohkost-plaetzchen

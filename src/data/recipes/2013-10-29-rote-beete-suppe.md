@@ -1,5 +1,5 @@
 ---
-title: Rote vegane Beete Suppe
+title: Rote Vegane Beete Suppe
 date: '2013-10-29 13:27:33'
 modified: '2016-01-19 14:54:04'
 slug: rote-beete-suppe

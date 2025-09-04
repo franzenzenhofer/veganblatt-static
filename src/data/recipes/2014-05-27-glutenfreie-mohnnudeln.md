@@ -1,5 +1,5 @@
 ---
-title: "Glutenfreie vegane Mohnnudeln"
+title: "Glutenfreie Vegane Mohnnudeln"
 date: "2014-05-27 08:00:04"
 modified: "2015-12-22 11:35:30"
 slug: "glutenfreie-mohnnudeln"

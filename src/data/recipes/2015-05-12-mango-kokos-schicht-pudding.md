@@ -1,5 +1,5 @@
 ---
-title: Mango vegane Kokos Schicht-Pudding
+title: Mango Vegane Kokos Schicht-Pudding
 date: '2015-05-12 07:13:25'
 modified: '2015-05-12 10:24:28'
 slug: mango-kokos-schicht-pudding

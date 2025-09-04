@@ -1,5 +1,5 @@
 ---
-title: "Aktivierendes vegane Rosmarin Peeling"
+title: "Aktivierendes Vegane Rosmarin Peeling"
 date: "2019-08-19 09:59:50"
 modified: "2019-08-17 15:36:21"
 slug: "aktivierendes-rosmarin-peeling"

@@ -1,5 +1,5 @@
 ---
-title: 'Richtig zarte, vegane Soja-Steaks!'
+title: 'Richtig zarte, Vegane Soja-Steaks!'
 date: '2016-06-07 09:18:41'
 modified: '2016-06-07 15:16:50'
 slug: vegane-soja-steaks

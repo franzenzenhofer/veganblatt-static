@@ -1,5 +1,5 @@
 ---
-title: Roher vegane Alltag - Leckere Gerichte Für Jeden Tag
+title: Roher Vegane Alltag - Leckere Gerichte Für Jeden Tag
 date: '2014-07-09 09:00:59'
 modified: '2016-01-20 13:57:59'
 slug: rohkost-alltags-rezepte

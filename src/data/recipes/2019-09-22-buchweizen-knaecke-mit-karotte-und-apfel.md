@@ -1,5 +1,5 @@
 ---
-title: "Buchweizen vegane Knäcke mit Karotte und Apfel"
+title: "Buchweizen Vegane Knäcke mit Karotte und Apfel"
 date: "2019-09-22 07:51:00"
 modified: "2019-09-20 07:59:12"
 slug: "buchweizen-knaecke-mit-karotte-und-apfel"

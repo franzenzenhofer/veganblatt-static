@@ -1,5 +1,5 @@
 ---
-title: 'Erfrischendes vegane Zitronen-Lassi '
+title: 'Erfrischendes Vegane Zitronen-Lassi '
 date: '2014-08-01 22:03:32'
 modified: '2014-08-02 19:30:49'
 slug: zitronen-lassi
@@ -23,5 +23,7 @@ recipe:
       Sojamilch mit Zitronensaft und ev. Süßungsmittel und weiteren Früchten
       mixen, in ein Glas füllen, Mohn obendraufgeben, Füße hochlegen und
       genießen!
+aiGeneratedDate: '2025-09-04T11:30:32.375Z'
+featuredImage: ai/ai-zitronen-lassi.jpg
 ---
 

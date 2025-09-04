@@ -1,5 +1,5 @@
 ---
-title: Himmlische vegane rohe Blaubeer Cupcakes
+title: Himmlische Vegane rohe Blaubeer Cupcakes
 date: '2013-08-27 07:55:41'
 modified: '2014-01-16 14:02:19'
 slug: rohe-blaubeer-cupcakes

@@ -1,5 +1,5 @@
 ---
-title: "Orientalische vegane Karottensuppe mit Koriander"
+title: "Orientalische Vegane Karottensuppe mit Koriander"
 date: "2019-03-07 17:00:06"
 modified: "2019-08-04 19:23:15"
 slug: "orientalische-karottensuppe"

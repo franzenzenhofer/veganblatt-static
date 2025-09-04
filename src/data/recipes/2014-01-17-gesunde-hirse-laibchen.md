@@ -1,5 +1,5 @@
 ---
-title: Gesunde vegane Hirse Laibchen
+title: Gesunde Vegane Hirse Laibchen
 date: '2014-01-17 11:00:17'
 modified: '2014-08-19 14:10:55'
 slug: gesunde-hirse-laibchen

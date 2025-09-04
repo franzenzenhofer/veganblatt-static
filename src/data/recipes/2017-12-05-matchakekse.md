@@ -1,5 +1,5 @@
 ---
-title: Weihnachtliche vegane Matchakekse
+title: Weihnachtliche Vegane Matchakekse
 date: '2017-12-05 10:35:22'
 modified: '2017-12-13 13:26:22'
 slug: matchakekse

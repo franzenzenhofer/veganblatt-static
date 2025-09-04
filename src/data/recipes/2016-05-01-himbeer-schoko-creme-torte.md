@@ -1,5 +1,5 @@
 ---
-title: "Herrliche vegane Himbeer-Schokocreme-Torte"
+title: "Herrliche Vegane Himbeer-Schokocreme-Torte"
 date: "2016-05-01 09:45:21"
 modified: "2016-05-25 09:48:43"
 slug: "himbeer-schoko-creme-torte"

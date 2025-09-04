@@ -1,5 +1,5 @@
 ---
-title: "Toffee vegane Ice Cream Dream Cake"
+title: "Toffee Vegane Ice Cream Dream Cake"
 date: "2017-05-16 15:53:31"
 modified: "2017-05-28 17:44:25"
 slug: "toffee-ice-cream-dream-cake"

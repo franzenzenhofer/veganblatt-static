@@ -1,5 +1,5 @@
 ---
-title: Weihnachtliche vegane Zimtschnecken
+title: Weihnachtliche Vegane Zimtschnecken
 date: '2019-11-18 18:59:34'
 modified: '2020-09-20 19:59:44'
 slug: weihnachtliche-zimtschnecken

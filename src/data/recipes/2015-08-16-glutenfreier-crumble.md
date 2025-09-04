@@ -1,5 +1,5 @@
 ---
-title: Glutenfreier vegane Zwetschken-Kokos-Crumble
+title: Glutenfreier Vegane Zwetschken-Kokos-Crumble
 date: '2015-08-16 07:00:58'
 modified: '2015-08-23 09:41:08'
 slug: glutenfreier-crumble

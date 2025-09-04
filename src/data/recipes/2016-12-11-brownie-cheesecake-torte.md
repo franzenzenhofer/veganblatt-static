@@ -1,5 +1,5 @@
 ---
-title: "Brownie vegane meets Cheesecake Torte"
+title: "Brownie Vegane meets Cheesecake Torte"
 date: "2016-12-11 07:12:47"
 modified: "2016-12-11 20:29:26"
 slug: "brownie-cheesecake-torte"

@@ -1,5 +1,5 @@
 ---
-title: "DAS vegane Geheimrezept gegen Grippe & Erkältungen"
+title: "DAS Vegane Geheimrezept gegen Grippe & Erkältungen"
 date: "2017-01-14 09:52:16"
 modified: "2018-01-15 11:44:39"
 slug: "geheimrezept-gegen-grippe-erkaeltungen"

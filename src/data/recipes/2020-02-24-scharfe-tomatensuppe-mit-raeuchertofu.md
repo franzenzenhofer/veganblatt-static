@@ -1,5 +1,5 @@
 ---
-title: "Scharfe vegane Tomatensuppe mit Räuchertofu"
+title: "Scharfe Vegane Tomatensuppe mit Räuchertofu"
 date: "2020-02-24 19:39:06"
 modified: "2020-02-24 19:39:06"
 slug: "scharfe-tomatensuppe-mit-raeuchertofu"

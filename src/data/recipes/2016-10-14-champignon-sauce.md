@@ -1,5 +1,5 @@
 ---
-title: "Feine, vegane Champignon-Sauce"
+title: "Feine, Vegane Champignon-Sauce"
 date: "2016-10-14 19:30:59"
 modified: "2016-10-14 19:30:59"
 slug: "champignon-sauce"

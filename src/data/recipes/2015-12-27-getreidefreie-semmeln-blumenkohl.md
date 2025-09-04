@@ -1,5 +1,5 @@
 ---
-title: "Getreidefreie vegane Semmeln aus Blumenkohl"
+title: "Getreidefreie Vegane Semmeln aus Blumenkohl"
 date: "2015-12-27 07:58:15"
 modified: "2016-01-11 12:58:11"
 slug: "getreidefreie-semmeln-blumenkohl"

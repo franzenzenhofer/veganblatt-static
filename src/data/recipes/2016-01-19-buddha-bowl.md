@@ -1,5 +1,5 @@
 ---
-title: "Buddha vegane Bowl – Eine Schüssel voll Glück."
+title: "Buddha Vegane Bowl – Eine Schüssel voll Glück."
 date: "2016-01-19 07:34:27"
 modified: "2016-01-19 09:39:07"
 slug: "buddha-bowl"

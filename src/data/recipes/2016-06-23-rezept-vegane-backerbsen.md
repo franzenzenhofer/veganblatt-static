@@ -1,5 +1,5 @@
 ---
-title: "Rezept für vegane Backerbsen"
+title: "Rezept für Vegane Backerbsen"
 date: "2016-06-23 10:18:23"
 modified: "2016-06-29 19:41:07"
 slug: "rezept-vegane-backerbsen"

@@ -1,5 +1,5 @@
 ---
-title: "Schnelle vegane Bärlauch Tarte"
+title: "Schnelle Vegane Bärlauch Tarte"
 date: "2019-03-26 09:21:24"
 modified: "2019-03-25 22:23:56"
 slug: "baerlauch-tarte"

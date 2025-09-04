@@ -1,5 +1,5 @@
 ---
-title: "Bananenbrot vegane mit Nüssen"
+title: "Bananenbrot Vegane mit Nüssen"
 date: "2017-11-29 10:54:09"
 modified: "2017-12-13 11:19:58"
 slug: "bananenbrot-nuesse"

@@ -1,5 +1,5 @@
 ---
-title: Pizzaschnecken vegane mit Pesto rosso
+title: Pizzaschnecken Vegane mit Pesto rosso
 date: '2013-10-06 19:54:13'
 modified: '2015-01-26 20:28:40'
 slug: pizza-schnecken

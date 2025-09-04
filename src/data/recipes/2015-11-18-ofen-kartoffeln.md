@@ -1,5 +1,5 @@
 ---
-title: "Ofenkartoffeln vegane mal anders"
+title: "Ofenkartoffeln Vegane mal anders"
 date: "2015-11-18 18:08:44"
 modified: "2015-11-18 19:40:51"
 slug: "ofen-kartoffeln"

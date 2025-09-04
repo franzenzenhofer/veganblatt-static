@@ -1,5 +1,5 @@
 ---
-title: Schnelle vegane Bananen Brownies mit Kokos-Glasur
+title: Schnelle Vegane Bananen Brownies mit Kokos-Glasur
 date: '2016-12-25 07:43:32'
 modified: '2016-12-25 09:49:15'
 slug: bananen-brownies

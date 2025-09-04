@@ -1,5 +1,5 @@
 ---
-title: "White vegane Chocolate Lemon Tarte"
+title: "White Vegane Chocolate Lemon Tarte"
 date: "2014-03-16 09:00:41"
 modified: "2014-03-10 15:17:44"
 slug: "white-chocolate-lemon-tarte"

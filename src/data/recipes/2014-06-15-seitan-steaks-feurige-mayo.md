@@ -1,5 +1,5 @@
 ---
-title: Marinierte vegane Seitan-Steaks mit feuriger Mayo
+title: Marinierte Vegane Seitan-Steaks mit feuriger Mayo
 date: '2014-06-15 08:48:35'
 modified: '2014-07-09 15:58:46'
 slug: seitan-steaks-feurige-mayo

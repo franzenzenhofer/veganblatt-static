@@ -1,5 +1,5 @@
 ---
-title: "Einfache vegane Kürbisknödel mit Paprikasosse"
+title: "Einfache Vegane Kürbisknödel mit Paprikasosse"
 date: "2019-08-31 16:53:51"
 modified: "2019-08-31 16:54:19"
 slug: "kuerbisknoedel-mit-paprikasosse"

@@ -1,5 +1,5 @@
 ---
-title: Hummus vegane selber gemacht in 4 Varianten
+title: Hummus Vegane selber gemacht in 4 Varianten
 date: '2013-10-18 11:37:31'
 modified: '2018-01-12 17:11:09'
 slug: hummus-rezept

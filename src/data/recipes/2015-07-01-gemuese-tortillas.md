@@ -1,5 +1,5 @@
 ---
-title: "Schnelle vegane Gemüse-Tortillas"
+title: "Schnelle Vegane Gemüse-Tortillas"
 date: "2015-07-01 14:18:24"
 modified: "2015-07-02 14:26:44"
 slug: "gemuese-tortillas"

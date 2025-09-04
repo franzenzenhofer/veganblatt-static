@@ -1,5 +1,5 @@
 ---
-title: "Fluffige vegane Oatmeal Pancakes"
+title: "Fluffige Vegane Oatmeal Pancakes"
 date: "2019-05-14 09:07:47"
 modified: "2019-05-13 22:49:09"
 slug: "oatmeal-pancakes"

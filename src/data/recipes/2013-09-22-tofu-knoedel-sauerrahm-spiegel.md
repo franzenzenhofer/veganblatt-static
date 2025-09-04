@@ -1,5 +1,5 @@
 ---
-title: Nussig vegane zimtige Tofu-Knödel auf Sauerrahm-Spiegel
+title: Nussig Vegane zimtige Tofu-Knödel auf Sauerrahm-Spiegel
 date: '2013-09-22 08:30:43'
 modified: '2014-01-17 14:09:15'
 slug: tofu-knoedel-sauerrahm-spiegel

@@ -1,5 +1,5 @@
 ---
-title: "Bunt vegane gefüllte Tacos mit Avocado-Creme"
+title: "Bunt Vegane gefüllte Tacos mit Avocado-Creme"
 date: "2013-09-25 10:07:06"
 modified: "2016-01-12 10:12:17"
 slug: "tacos-avocado-creme"

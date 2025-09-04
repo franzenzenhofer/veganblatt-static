@@ -1,5 +1,5 @@
 ---
-title: Portobello vegane Burger mit roten Zwiebeln und Bärlauch
+title: Portobello Vegane Burger mit roten Zwiebeln und Bärlauch
 date: '2016-03-21 19:00:21'
 modified: '2016-06-10 15:00:49'
 slug: portobello-burger

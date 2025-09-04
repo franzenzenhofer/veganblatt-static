@@ -1,5 +1,5 @@
 ---
-title: Dunkle vegane Schokolade mit Superfoods
+title: Dunkle Vegane Schokolade mit Superfoods
 date: '2014-01-20 22:46:34'
 modified: '2016-04-15 20:11:51'
 slug: dunkle-schokolade-superfoods

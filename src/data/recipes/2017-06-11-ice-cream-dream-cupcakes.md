@@ -1,5 +1,5 @@
 ---
-title: "Ice vegane Cream Dream Cupcakes"
+title: "Ice Vegane Cream Dream Cupcakes"
 date: "2017-06-11 07:51:04"
 modified: "2017-07-05 19:22:49"
 slug: "ice-cream-dream-cupcakes"

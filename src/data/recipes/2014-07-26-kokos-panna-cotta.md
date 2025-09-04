@@ -34,5 +34,7 @@ recipe:
     - >-
       Wer das Panna Cotta gerne stürzen möchte, stellt die Schälchen einfach
       kurz in heißes Wasser, dann löst es sich ganz leicht.
+aiGeneratedDate: '2025-09-04T11:29:54.189Z'
+featuredImage: ai/ai-kokos-panna-cotta.jpg
 ---
 

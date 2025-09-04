@@ -1,5 +1,5 @@
 ---
-title: Bunte vegane Falafel Trilogie
+title: Bunte Vegane Falafel Trilogie
 date: '2014-03-06 09:00:48'
 modified: '2017-12-06 11:21:26'
 slug: falafel-trilogie

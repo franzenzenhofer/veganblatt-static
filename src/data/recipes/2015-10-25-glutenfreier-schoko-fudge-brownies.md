@@ -1,5 +1,5 @@
 ---
-title: "Super vegane saftige, glutenfreie Schoko-Fudge-Brownies"
+title: "Super Vegane saftige, glutenfreie Schoko-Fudge-Brownies"
 date: "2015-10-25 07:09:50"
 modified: "2015-12-21 15:20:25"
 slug: "glutenfreier-schoko-fudge-brownies"

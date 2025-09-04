@@ -1,5 +1,5 @@
 ---
-title: Buntes vegane Tofu-Scramble
+title: Buntes Vegane Tofu-Scramble
 date: '2015-09-06 07:05:49'
 modified: '2015-09-06 09:40:52'
 slug: tofu-scramble

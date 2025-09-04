@@ -1,5 +1,5 @@
 ---
-title: "Schoko vegane Blätterteig Croissants"
+title: "Schoko Vegane Blätterteig Croissants"
 date: "2020-04-15 16:21:29"
 modified: "2020-04-15 16:21:29"
 slug: "schoko-blaetterteig-croissant"

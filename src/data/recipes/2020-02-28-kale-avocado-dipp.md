@@ -1,5 +1,5 @@
 ---
-title: "Kale vegane Avocado Dipp"
+title: "Kale Vegane Avocado Dipp"
 date: "2020-02-28 10:39:32"
 modified: "2020-02-24 20:49:45"
 slug: "kale-avocado-dipp"

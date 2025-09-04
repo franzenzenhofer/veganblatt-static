@@ -1,5 +1,5 @@
 ---
-title: "Selbstgemachte vegane Hafermilch ohne kochen!"
+title: "Selbstgemachte Vegane Hafermilch ohne kochen!"
 date: "2014-05-14 13:35:34"
 modified: "2015-01-03 11:25:01"
 slug: "selbstgemachte-hafermilch-rohkost"

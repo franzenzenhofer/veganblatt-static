@@ -1,5 +1,5 @@
 ---
-title: Grill vegane Kohlrabi
+title: Grill Vegane Kohlrabi
 date: '2016-06-05 20:51:00'
 modified: '2016-06-07 14:35:25'
 slug: kohlrabi-grillen

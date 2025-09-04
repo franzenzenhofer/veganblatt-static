@@ -1,5 +1,5 @@
 ---
-title: "Herzhafte vegane Champignon Sauce mit Reis"
+title: "Herzhafte Vegane Champignon Sauce mit Reis"
 date: "2017-11-09 11:54:18"
 modified: "2017-11-09 15:30:26"
 slug: "reis-champignon-sauce"

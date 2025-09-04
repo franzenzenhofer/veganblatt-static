@@ -1,5 +1,5 @@
 ---
-title: Leckere vegane Buchweizen-Pancakes
+title: Leckere Vegane Buchweizen-Pancakes
 date: '2015-08-23 07:27:58'
 modified: '2015-10-22 11:41:27'
 slug: buchweizen-pancakes

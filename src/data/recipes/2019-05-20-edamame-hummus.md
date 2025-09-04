@@ -1,5 +1,5 @@
 ---
-title: "Edamame vegane Hummus"
+title: "Edamame Vegane Hummus"
 date: "2019-05-20 12:27:59"
 modified: "2020-09-20 20:00:24"
 slug: "edamame-hummus"

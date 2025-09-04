@@ -1,5 +1,5 @@
 ---
-title: "Paprikasuppe vegane mit Vanille"
+title: "Paprikasuppe Vegane mit Vanille"
 date: "2019-05-04 09:23:09"
 modified: "2019-04-28 18:24:18"
 slug: "paprikasuppe-vanille"

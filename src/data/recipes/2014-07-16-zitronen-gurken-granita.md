@@ -1,5 +1,5 @@
 ---
-title: Erfrischendes vegane Zitronen-Gurken Granita
+title: Erfrischendes Vegane Zitronen-Gurken Granita
 date: '2014-07-16 08:34:42'
 modified: '2014-07-16 19:04:12'
 slug: zitronen-gurken-granita

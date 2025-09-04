@@ -1,5 +1,5 @@
 ---
-title: Rotwein vegane Gewürz Birnen
+title: Rotwein Vegane Gewürz Birnen
 date: '2014-04-02 09:00:01'
 modified: '2014-03-30 21:21:54'
 slug: rotwein-gewuerz-birnen

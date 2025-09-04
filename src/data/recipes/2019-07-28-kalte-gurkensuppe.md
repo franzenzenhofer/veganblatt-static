@@ -1,5 +1,5 @@
 ---
-title: "Kalte vegane Gurkensuppe mit Basilikum"
+title: "Kalte Vegane Gurkensuppe mit Basilikum"
 date: "2019-07-28 17:34:11"
 modified: "2019-07-20 17:40:06"
 slug: "kalte-gurkensuppe"

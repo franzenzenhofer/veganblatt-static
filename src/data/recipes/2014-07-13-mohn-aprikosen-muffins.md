@@ -1,5 +1,5 @@
 ---
-title: "Schnelle vegane Mohn-Aprikosen-Muffins"
+title: "Schnelle Vegane Mohn-Aprikosen-Muffins"
 date: "2014-07-13 08:58:02"
 modified: "2014-07-13 09:48:42"
 slug: "mohn-aprikosen-muffins"

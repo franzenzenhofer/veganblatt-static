@@ -1,5 +1,5 @@
 ---
-title: "Weihnachtliches vegane Orangen Dattel Konfekt"
+title: "Weihnachtliches Vegane Orangen Dattel Konfekt"
 date: "2015-12-10 07:34:46"
 modified: "2017-11-30 10:28:29"
 slug: "orangen-dattel-konfekt"

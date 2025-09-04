@@ -1,5 +1,5 @@
 ---
-title: Pikante vegane Knabbernüsse
+title: Pikante Vegane Knabbernüsse
 date: '2014-04-18 08:45:27'
 modified: '2014-10-30 10:20:53'
 slug: pikante-knabbernuesse

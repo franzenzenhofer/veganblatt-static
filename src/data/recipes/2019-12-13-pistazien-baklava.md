@@ -1,5 +1,5 @@
 ---
-title: "Pistazien vegane Baklava mit Walnüssen und Schokolade"
+title: "Pistazien Vegane Baklava mit Walnüssen und Schokolade"
 date: "2019-12-13 10:47:38"
 modified: "2019-12-09 21:59:16"
 slug: "pistazien-baklava"

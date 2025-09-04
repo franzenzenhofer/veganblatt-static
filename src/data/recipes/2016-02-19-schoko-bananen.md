@@ -1,5 +1,5 @@
 ---
-title: "Knackige vegane Schoko-Bananen"
+title: "Knackige Vegane Schoko-Bananen"
 date: "2016-02-19 10:35:26"
 modified: "2016-02-19 14:55:49"
 slug: "schoko-bananen"

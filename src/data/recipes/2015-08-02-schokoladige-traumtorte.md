@@ -1,5 +1,5 @@
 ---
-title: Schokoladige vegane Traumtorte
+title: Schokoladige Vegane Traumtorte
 date: '2015-08-02 08:59:26'
 modified: '2015-08-10 10:57:49'
 slug: schokoladige-traumtorte

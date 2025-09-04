@@ -1,5 +1,5 @@
 ---
-title: "Zitronen vegane Minze Sorbet"
+title: "Zitronen Vegane Minze Sorbet"
 date: "2019-07-21 15:42:29"
 modified: "2019-07-20 17:53:42"
 slug: "zitronensorbet"

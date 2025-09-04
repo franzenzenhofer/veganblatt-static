@@ -1,5 +1,5 @@
 ---
-title: Gegrillter vegane Spargel mit Polenta-Schnitten
+title: Gegrillter Vegane Spargel mit Polenta-Schnitten
 date: '2014-06-11 08:03:37'
 modified: '2016-04-27 19:32:49'
 slug: gegrillter-spargel-mit-polenta-schnitten

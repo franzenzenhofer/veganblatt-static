@@ -1,5 +1,5 @@
 ---
-title: French vegane Toast mit Kürbis und Mandelsplittern
+title: Veganer French Toast mit Kürbis und Mandelsplittern
 date: '2013-10-18 08:35:06'
 modified: '2016-01-19 14:37:38'
 slug: french-toast-mit-kuerbis

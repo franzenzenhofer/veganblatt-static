@@ -1,5 +1,5 @@
 ---
-title: "Spaghetti vegane mit Champignon-Sahnesauce"
+title: "Spaghetti Vegane mit Champignon-Sahnesauce"
 date: "2013-06-26 08:30:30"
 modified: "2014-01-08 19:48:37"
 slug: "spaghetti-pilz-sahnesauce"

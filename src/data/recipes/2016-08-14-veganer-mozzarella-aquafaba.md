@@ -1,5 +1,5 @@
 ---
-title: 'Der beste, vegane Mozzarella mit Aquafaba'
+title: 'Der beste, Vegane Mozzarella mit Aquafaba'
 date: '2016-08-14 07:31:40'
 modified: '2016-09-10 13:31:22'
 slug: veganer-mozzarella-aquafaba

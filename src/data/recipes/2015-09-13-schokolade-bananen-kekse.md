@@ -1,5 +1,5 @@
 ---
-title: Schokolade vegane + Banane = Die besten Bananenbrot-Kekse aller Zeiten
+title: Schokolade Vegane + Banane = Die besten Bananenbrot-Kekse aller Zeiten
 date: '2015-09-13 07:38:27'
 modified: '2015-09-13 10:01:44'
 slug: schokolade-bananen-kekse

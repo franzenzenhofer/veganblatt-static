@@ -33,6 +33,11 @@ npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty
 echo -e "  ${GREEN}✓${NC} Deployed to Cloudflare"
 echo ""
 
+# Step 3b: Purge Cloudflare cache (if credentials present)
+echo "🧹 Step 3b: Purging Cloudflare cache..."
+./scripts/purge-cloudflare-cache.sh || true
+echo ""
+
 # Step 4: Commit and push to GitHub
 echo "📤 Step 4: Pushing to GitHub..."
 git add -A

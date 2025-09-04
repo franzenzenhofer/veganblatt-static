@@ -213,3 +213,21 @@ check_css_fingerprint "https://www.veganblatt.com/rezepte" "Recipes list"
 check_css_fingerprint "https://www.veganblatt.com/impressum" "Impressum"
 check_css_fingerprint "https://www.veganblatt.com/a/2019-09-01-vegane-mythen.html" "Sample article"
 check_css_fingerprint "https://www.veganblatt.com/r/2017-05-07-rohkostkuchen-maca.html" "Sample recipe"
+# Verify HTML Cache-Control headers encourage immediate freshness
+echo ""
+echo "🧪 HTML cache-control checks..."
+check_cc() {
+  local url=$1
+  local name=$2
+  hdr=$(curl -sI "$url" | tr -d '\r' | grep -i '^cache-control')
+  if echo "$hdr" | grep -qiE 'no-cache|no-store|max-age=0'; then
+    echo -e "  ${GREEN}✓${NC} $name headers: ${hdr#*: }"
+  else
+    echo -e "  ${YELLOW}⚠${NC} $name headers missing no-cache/no-store (got: ${hdr#*: })"
+  fi
+}
+
+check_cc "https://www.veganblatt.com/" "Homepage"
+check_cc "https://www.veganblatt.com/artikel" "Articles list"
+check_cc "https://www.veganblatt.com/rezepte" "Recipes list"
+check_cc "https://www.veganblatt.com/impressum" "Impressum"

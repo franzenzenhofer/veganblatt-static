@@ -1,5 +1,5 @@
 ---
-title: Violette vegane Fächerkartoffeln mit Thymian
+title: Violette Vegane Fächerkartoffeln mit Thymian
 date: '2015-12-12 18:18:07'
 modified: '2015-12-12 20:00:38'
 slug: faecher-kartoffeln

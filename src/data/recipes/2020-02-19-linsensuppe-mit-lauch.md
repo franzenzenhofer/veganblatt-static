@@ -1,5 +1,5 @@
 ---
-title: "Linsensuppe vegane mit Lauch"
+title: "Linsensuppe Vegane mit Lauch"
 date: "2020-02-19 09:24:38"
 modified: "2020-02-17 19:01:30"
 slug: "linsensuppe-mit-lauch"

@@ -25,5 +25,7 @@ recipe:
     - >-
       Schnell in Schälchen füllen, frisches Obst, Nüsse, Sirup etc. als Topping
       draufgeben und genießen.
+aiGeneratedDate: '2025-09-04T11:30:41.152Z'
+featuredImage: ai/ai-veganes-frozen-yoghurt-selbstgemacht.jpg
 ---
 

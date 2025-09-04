@@ -1,5 +1,5 @@
 ---
-title: "Cremige vegane Hot Chocolate"
+title: "Cremige Vegane Hot Chocolate"
 date: "2019-11-22 11:59:27"
 modified: "2019-11-22 11:59:27"
 slug: "hot-chocolate"

@@ -1,5 +1,5 @@
 ---
-title: "Das perfekte, vegane Gulasch im Brotlaib"
+title: "Das perfekte, Vegane Gulasch im Brotlaib"
 date: "2015-11-17 09:46:58"
 modified: "2015-11-17 10:46:21"
 slug: "soja-gulasch"

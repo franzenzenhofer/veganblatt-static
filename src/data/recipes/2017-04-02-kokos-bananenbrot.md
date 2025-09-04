@@ -1,5 +1,5 @@
 ---
-title: "Schnelles vegane Kokos-Bananenbrot"
+title: "Schnelles Vegane Kokos-Bananenbrot"
 date: "2017-04-02 08:23:05"
 modified: "2017-04-02 10:26:56"
 slug: "kokos-bananenbrot"

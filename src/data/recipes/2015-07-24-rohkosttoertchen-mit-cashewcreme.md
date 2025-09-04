@@ -1,5 +1,5 @@
 ---
-title: Wunderbare vegane Rohkosttörtchen mit Cashewcreme
+title: Wunderbare Vegane Rohkosttörtchen mit Cashewcreme
 date: '2015-07-24 22:39:38'
 modified: '2015-07-24 22:46:23'
 slug: rohkosttoertchen-mit-cashewcreme

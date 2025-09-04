@@ -1,5 +1,5 @@
 ---
-title: Knackige vegane Süsskartoffelpommes mit frischem Spargel
+title: Knackige Vegane Süsskartoffelpommes mit frischem Spargel
 date: '2019-04-30 11:35:33'
 modified: '2019-04-28 16:36:53'
 slug: suesskartoffelpommes-mit-spargel

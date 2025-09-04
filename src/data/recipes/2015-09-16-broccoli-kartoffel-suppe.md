@@ -1,5 +1,5 @@
 ---
-title: Cremige vegane Broccoli-Kartoffel-Suppe
+title: Cremige Vegane Broccoli-Kartoffel-Suppe
 date: '2015-09-16 12:00:14'
 modified: '2019-01-25 10:08:31'
 slug: broccoli-kartoffel-suppe

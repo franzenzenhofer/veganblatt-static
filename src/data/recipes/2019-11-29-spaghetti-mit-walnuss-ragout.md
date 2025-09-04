@@ -1,5 +1,5 @@
 ---
-title: "Spaghetti vegane mit Walnuss Ragout"
+title: "Spaghetti Vegane mit Walnuss Ragout"
 date: "2019-11-29 12:05:04"
 modified: "2019-11-22 12:13:06"
 slug: "spaghetti-mit-walnuss-ragout"

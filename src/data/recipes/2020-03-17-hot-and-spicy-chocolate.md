@@ -1,5 +1,5 @@
 ---
-title: "Hot vegane and Spicy Chocolate"
+title: "Hot Vegane and Spicy Chocolate"
 date: "2020-03-17 10:15:40"
 modified: "2020-03-14 21:33:56"
 slug: "hot-and-spicy-chocolate"

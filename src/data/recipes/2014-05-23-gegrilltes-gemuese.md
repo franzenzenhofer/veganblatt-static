@@ -1,5 +1,5 @@
 ---
-title: Gegrilltes vegane Gemüse mit Rosmarin
+title: Gegrilltes Vegane Gemüse mit Rosmarin
 date: '2014-05-23 14:10:55'
 modified: '2014-06-09 22:33:40'
 slug: gegrilltes-gemuese

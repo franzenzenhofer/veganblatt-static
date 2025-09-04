@@ -1,5 +1,5 @@
 ---
-title: "Leckere vegane Tofu-Mandel-Laibchen"
+title: "Leckere Vegane Tofu-Mandel-Laibchen"
 date: "2016-05-13 09:27:36"
 modified: "2016-05-16 21:05:42"
 slug: "tofu-mandel-laibchen"

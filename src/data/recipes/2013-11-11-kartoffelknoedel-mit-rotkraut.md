@@ -1,5 +1,5 @@
 ---
-title: Deftige vegane Kartoffelknödel mit Rotkraut
+title: Deftige Vegane Kartoffelknödel mit Rotkraut
 date: '2013-11-11 08:30:16'
 modified: '2014-11-23 21:03:20'
 slug: kartoffelknoedel-mit-rotkraut

@@ -1,5 +1,5 @@
 ---
-title: "Fettarme vegane Ofen-Falafel"
+title: "Fettarme Vegane Ofen-Falafel"
 date: "2014-02-09 09:00:05"
 modified: "2014-02-20 17:03:16"
 slug: "ofen-falafel"

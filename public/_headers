@@ -50,29 +50,29 @@
 
 # HTML pages (explicit extensions)
 /*.html
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /a/*.html
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /r/*.html
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 # Extensionless HTML routes
 /
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /artikel
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /rezepte
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /impressum
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /a/*
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 /r/*
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate

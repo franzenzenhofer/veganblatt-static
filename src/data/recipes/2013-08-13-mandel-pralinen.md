@@ -1,5 +1,5 @@
 ---
-title: 'Oh vegane so lecker: Mandel Pralineés'
+title: 'Oh Vegane so lecker: Mandel Pralineés'
 date: '2013-08-13 08:28:31'
 modified: '2014-01-16 14:02:39'
 slug: mandel-pralinen

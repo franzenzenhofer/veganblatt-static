@@ -1,5 +1,5 @@
 ---
-title: Buntes vegane Gemüsesushi
+title: Buntes Vegane Gemüsesushi
 date: '2014-05-03 20:58:21'
 modified: '2015-12-21 20:01:40'
 slug: buntes-gemuese-sushi

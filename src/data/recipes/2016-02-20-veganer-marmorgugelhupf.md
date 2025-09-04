@@ -1,5 +1,5 @@
 ---
-title: 'Der flaumigste, vegane Marmorgugelhupf'
+title: 'Der flaumigste, Vegane Marmorgugelhupf'
 date: '2016-02-20 09:22:46'
 modified: '2016-02-28 13:45:47'
 slug: veganer-marmorgugelhupf

@@ -1,5 +1,5 @@
 ---
-title: Sommerliche vegane Zucchini-Nudeln
+title: Sommerliche Vegane Zucchini-Nudeln
 date: '2014-07-09 08:19:04'
 modified: '2014-07-09 10:14:21'
 slug: sommerliche-zucchini-nudeln

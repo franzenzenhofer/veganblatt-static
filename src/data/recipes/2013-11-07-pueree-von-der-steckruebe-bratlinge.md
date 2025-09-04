@@ -1,5 +1,5 @@
 ---
-title: 'Schnelle vegane Küche: Püree von der Steckrübe mit mexikanischen Bratlingen'
+title: 'Schnelle Vegane Küche: Püree von der Steckrübe mit mexikanischen Bratlingen'
 date: '2013-11-07 21:03:30'
 modified: '2016-01-19 14:56:30'
 slug: pueree-von-der-steckruebe-bratlinge

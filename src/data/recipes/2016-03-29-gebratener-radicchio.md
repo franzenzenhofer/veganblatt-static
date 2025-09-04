@@ -1,5 +1,5 @@
 ---
-title: Gebratener vegane Radicchio
+title: Gebratener Vegane Radicchio
 date: '2016-03-29 12:41:38'
 modified: '2016-03-29 12:41:38'
 slug: gebratener-radicchio

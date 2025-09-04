@@ -1,5 +1,5 @@
 ---
-title: "Vegane Baby-Artischocken mit Pinienkernen & Minze"
+title: Vegane Baby-Artischocken mit Pinienkernen & Minze
 date: '2014-08-01 14:17:04'
 modified: '2015-12-21 19:52:08'
 slug: artischocken-pinienkernen-minze
@@ -31,5 +31,7 @@ recipe:
     - >-
       Mit Olivenöl, Zitronenzeste, Pinienkernen, Salz und Pfeffer marinieren und
       mit den frischen Minzblättern anrichten.
+aiGeneratedDate: '2025-09-04T11:30:12.427Z'
+featuredImage: ai/ai-artischocken-pinienkernen-minze.jpg
 ---
 
