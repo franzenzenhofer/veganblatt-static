@@ -2,7 +2,7 @@
 filename: "ai-vegatar-vegane-leder-accessoires.jpg"
 copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
-altText: "Vegatar: vegane "Leder"-Accessoires"
+altText: "Vegatar: vegane \"Leder\"-Accessoires"
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
 uploadDate: "2025-09-04T16:27:22.140Z"
