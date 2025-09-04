@@ -90,11 +90,7 @@ export class ContentProcessor {
   async renderMarkdown(markdown: string): Promise<string> {
     let processedMarkdown = markdown;
     
-    // Debug: Check for inline images
-    const inlineImages = processedMarkdown.match(/!\[.*?\]\(.*?\)/g);
-    if (inlineImages) {
-      console.log('Found inline images:', inlineImages);
-    }
+    // Normalize markdown before processing
     
     // Convert YouTube iframes to links (handle src with // prefix)
     processedMarkdown = processedMarkdown.replace(
