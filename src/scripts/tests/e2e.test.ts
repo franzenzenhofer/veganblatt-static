@@ -39,7 +39,7 @@ test.describe('VeganBlatt E2E Tests', () => {
   });
 
   test('links are green and underlined', async ({ page }) => {
-    const link = page.locator('.article-title a').first();
+    const link = page.locator('.article-link').first();
     const color = await link.evaluate(el => 
       window.getComputedStyle(el).color
     );
@@ -49,6 +49,14 @@ test.describe('VeganBlatt E2E Tests', () => {
       window.getComputedStyle(el).textDecoration
     );
     expect(textDecoration).toContain('underline');
+  });
+
+  test('nav stays single-line on mobile (no wrap)', async ({ page }) => {
+    await page.setViewportSize({ width: 360, height: 640 });
+    await page.goto('http://localhost:8080');
+    const tops = await page.$$eval('nav.nav a', (els) => els.map(el => (el as HTMLElement).getBoundingClientRect().top));
+    // All links share the same top position if not wrapped
+    expect(new Set(tops.map(t => Math.round(t))).size).toBe(1);
   });
 
   test('mobile responsive', async ({ page }) => {
