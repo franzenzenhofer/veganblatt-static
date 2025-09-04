@@ -175,6 +175,15 @@ class VeganFoodImageGenerator {
     await fs.writeFile(imagePath, imageData);
     await this.log(`   💾 Saved: ${filename}`);
     
+    // Crop to 16:10 aspect ratio (1024x640)
+    const { exec } = require('child_process');
+    const { promisify } = require('util');
+    const execAsync = promisify(exec);
+    
+    await this.log(`   ✂️  Cropping to 16:10 aspect ratio...`);
+    await execAsync(`magick "${imagePath}" -gravity center -crop 1024x640+0+0 +repage "${imagePath}"`);
+    await this.log(`   ✅ Cropped to 1024x640`);
+    
     // Create metadata
     const metadata = await this.createImageMetadata(filename, data);
     await this.saveMetadata(metadata);
