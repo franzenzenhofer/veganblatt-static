@@ -25,6 +25,7 @@
     "serve": "npx http-server public -p 8080",
     "deploy": "./scripts/full-deploy.sh",
     "deplpy": "npm run deploy",
+    "deplopy": "npm run deploy",
     "deploy:simple": "npm run build && npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty=true",
     "postdeploy": "./scripts/post-deploy-check.sh",
     "deploy:preview": "npm run build && npx wrangler pages deploy public --project-name=veganblatt-static --branch=preview --commit-dirty=true",
