@@ -27,7 +27,7 @@
     "sourceMap": true,
     "outDir": "./dist",
     "rootDir": "./src",
-    "types": ["node", "playwright"]
+    "types": ["node"]
   },
   "include": ["src/**/*"],
   "exclude": [
