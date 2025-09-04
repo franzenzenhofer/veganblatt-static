@@ -1,5 +1,5 @@
 ---
-title: "uvegane Französische Zwiebelsuppe"
+title: "Vegane Französische Zwiebelsuppe"
 date: "2013-11-06 12:50:51"
 modified: "2016-04-02 09:25:27"
 slug: "franzoesische-zwiebelsuppe"

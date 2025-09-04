@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Schnelle, leckere Bärlauch-Falafel'
+title: 'Vegane Schnelle, leckere Bärlauch-Falafel'
 date: '2015-04-15 14:35:29'
 modified: '2016-02-24 21:44:08'
 slug: baerlauch-falafel

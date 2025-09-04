@@ -1,5 +1,5 @@
 ---
-title: "uvegane Alleskönner Zitrone"
+title: "Vegane Alleskönner Zitrone"
 date: "2020-02-16 10:49:54"
 modified: "2020-02-17 18:05:41"
 slug: "alleskoenner-zitrone"

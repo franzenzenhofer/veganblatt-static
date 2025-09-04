@@ -1,5 +1,5 @@
 ---
-title: "uvegane Basilikum-Bärlauch Pasta mit Cashewcreme"
+title: "Vegane Basilikum-Bärlauch Pasta mit Cashewcreme"
 date: "2019-03-31 10:39:04"
 modified: "2019-03-25 22:45:26"
 slug: "baerlauch-pasta"

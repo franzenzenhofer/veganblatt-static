@@ -1,5 +1,5 @@
 ---
-title: "uveganer Mango-Karotten-Thai Salat mit Nüssen"
+title: "Veganer Mango-Karotten-Thai Salat mit Nüssen"
 date: "2020-04-21 10:26:50"
 modified: "2020-04-28 17:33:43"
 slug: "thai-salat"

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Süßkartoffel-Pancake Türmchen mit Spinat-Kokosjoghurt-Fülle"
+title: "Vegane Süßkartoffel-Pancake Türmchen mit Spinat-Kokosjoghurt-Fülle"
 date: "2016-10-21 08:38:33"
 modified: "2016-11-09 12:21:52"
 slug: "suesskartoffel-pancakes"

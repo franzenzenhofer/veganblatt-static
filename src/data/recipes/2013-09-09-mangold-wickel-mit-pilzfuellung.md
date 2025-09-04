@@ -1,5 +1,5 @@
 ---
-title: "uvegane Mangold-Wickel mit Pilzfüllung"
+title: "Vegane Mangold-Wickel mit Pilzfüllung"
 date: "2013-09-09 13:34:29"
 modified: "2016-01-12 10:08:37"
 slug: "mangold-wickel-mit-pilzfuellung"

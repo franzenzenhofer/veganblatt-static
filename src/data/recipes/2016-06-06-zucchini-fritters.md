@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Schnelle, leckere Zucchini Fritters'
+title: 'Vegane Schnelle, leckere Zucchini Fritters'
 date: '2016-06-06 19:40:05'
 modified: '2016-06-20 09:51:48'
 slug: zucchini-fritters

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Kakao-Haferflocken-Cookies"
+title: "Vegane Kakao-Haferflocken-Cookies"
 date: "2017-02-07 07:29:08"
 modified: "2017-02-07 14:47:20"
 slug: "kakao-haferflocken-cookies"

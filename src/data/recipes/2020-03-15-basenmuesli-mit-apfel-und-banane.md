@@ -1,5 +1,5 @@
 ---
-title: "uvegane Basenmüsli mit Apfel und Banane"
+title: "Vegane Basenmüsli mit Apfel und Banane"
 date: "2020-03-15 19:53:22"
 modified: "2020-03-09 19:57:41"
 slug: "basenmuesli-mit-apfel-und-banane"

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Weißes Mandel-Schokoladen-Pesto"
+title: "Vegane Weißes Mandel-Schokoladen-Pesto"
 date: "2020-05-17 09:05:08"
 modified: "2020-05-04 19:16:43"
 slug: "weisses-mandel-schokoladen-pesto"

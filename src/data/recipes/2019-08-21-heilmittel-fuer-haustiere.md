@@ -1,5 +1,5 @@
 ---
-title: "uvegane Natürliche Heilmittel für Haustiere"
+title: "Vegane Natürliche Heilmittel für Haustiere"
 date: "2019-08-21 09:12:35"
 modified: "2019-08-17 16:12:48"
 slug: "heilmittel-fuer-haustiere"

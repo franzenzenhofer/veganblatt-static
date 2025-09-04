@@ -1,5 +1,5 @@
 ---
-title: 'uveganer Erfrischender, rohköstlicher Limetten Kuchen'
+title: 'Veganer Erfrischender, rohköstlicher Limetten Kuchen'
 date: '2016-07-15 08:50:12'
 modified: '2019-01-25 10:08:39'
 slug: rohkost-limetten-kuchen

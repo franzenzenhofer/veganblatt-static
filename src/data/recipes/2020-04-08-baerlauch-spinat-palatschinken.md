@@ -1,5 +1,5 @@
 ---
-title: "uvegane Bärlauch-Spinat Palatschinken"
+title: "Vegane Bärlauch-Spinat Palatschinken"
 date: "2020-04-08 10:30:07"
 modified: "2020-04-07 15:38:17"
 slug: "baerlauch-spinat-palatschinken"

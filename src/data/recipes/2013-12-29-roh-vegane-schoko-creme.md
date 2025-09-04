@@ -22,5 +22,7 @@ recipe:
     - Die Avocado aufschneiden und das Fruchtfleisch in einen Mixbecher löffeln.
     - Kakao und Süßungsmittel dazugeben und mit dem Stabmixer pürieren.
     - In Schälchen anrichten und für min. 2h kühl stellen.
+aiGeneratedDate: '2025-09-04T11:04:51.530Z'
+featuredImage: ai/ai-roh-vegane-schoko-creme.jpg
 ---
 

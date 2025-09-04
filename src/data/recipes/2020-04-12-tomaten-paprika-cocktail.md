@@ -1,5 +1,5 @@
 ---
-title: "uvegane Tomaten-Paprika-Cocktail"
+title: "Vegane Tomaten-Paprika-Cocktail"
 date: "2020-04-12 17:17:07"
 modified: "2020-04-28 17:25:05"
 slug: "tomaten-paprika-cocktail"

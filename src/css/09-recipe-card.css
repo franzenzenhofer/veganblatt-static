@@ -1,8 +1,14 @@
 /* Recipe Card */
 .recipe-card {
   background: var(--color-bg);
-  padding: var(--spacing-md);
-  margin: var(--spacing-sm) 0;
+  /* Align left/right with normal article content (no extra indent) */
+  padding: 0;
+  margin: var(--spacing-xs) 0 var(--spacing-sm);
+}
+
+.recipe-card h2 {
+  /* Reduce whitespace before the "Rezept" headline */
+  margin-top: 0;
 }
 
 .recipe-meta {

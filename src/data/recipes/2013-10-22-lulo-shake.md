@@ -1,5 +1,5 @@
 ---
-title: 'uveganer Lulo-Shake: der beste Fruchtshake überhaupt'
+title: 'Veganer Lulo-Shake: der beste Fruchtshake überhaupt'
 date: '2013-10-22 11:29:18'
 modified: '2016-01-19 14:37:58'
 slug: lulo-shake

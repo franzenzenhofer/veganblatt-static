@@ -1,5 +1,5 @@
 ---
-title: "uvegane DIY Chai Tee Mischung"
+title: "Vegane DIY Chai Tee Mischung"
 date: "2020-01-27 20:07:21"
 modified: "2020-09-20 19:59:25"
 slug: "diy-chai-tee-mischung"

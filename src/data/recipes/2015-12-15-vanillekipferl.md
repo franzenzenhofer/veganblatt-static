@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Einfach, weihnachtlich: Vanillekipferl'
+title: 'Vegane Einfach, weihnachtlich: Vanillekipferl'
 date: '2015-12-15 09:15:19'
 modified: '2017-12-11 13:03:12'
 slug: vanillekipferl

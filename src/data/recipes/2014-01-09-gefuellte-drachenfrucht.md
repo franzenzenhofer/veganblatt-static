@@ -33,5 +33,7 @@ recipe:
       sein soll.
     - Aus dem Gefrierfach nehmen und mit der Schokolade beträufeln.
     - Bon Appetit!
+aiGeneratedDate: '2025-09-04T11:05:24.988Z'
+featuredImage: ai/ai-gefuellte-drachenfrucht.jpg
 ---
 

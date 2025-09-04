@@ -1,5 +1,5 @@
 ---
-title: "uvegane Süßer Quinoa-Auflauf mit Kirschen"
+title: "Vegane Süßer Quinoa-Auflauf mit Kirschen"
 date: "2016-04-11 19:46:19"
 modified: "2016-04-11 20:05:53"
 slug: "suesser-quinoa-auflauf-mit-kirschen"

@@ -129,9 +129,13 @@ article, main {
 /* 06-navigation.css */
 /* Navigation */
 .nav {
+  /* Mobile-first: force single row, allow horizontal scroll if needed */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: var(--spacing-sm);
   text-align: center;
-  padding: var(--spacing-xs) 0;
-  /* Ensure navigation never wraps to two lines on small screens */
+  padding: var(--spacing-xs) var(--spacing-sm);
   white-space: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
@@ -139,7 +143,7 @@ article, main {
 
 .nav a {
   display: inline-block;
-  margin: 0 var(--spacing-sm);
+  flex: 0 0 auto; /* prevent shrinking, keep on one line */
   padding: var(--spacing-xs) var(--spacing-sm);
   color: var(--color-text);
   font-weight: 400;
@@ -186,11 +190,12 @@ img {
 }
 
 .article-item {
-  display: block;
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-md);
   padding: 8px 0; /* Equal spacing above and below */
   margin: 0;
   border-bottom: 1px solid #eee;
-  font-size: 0; /* Remove whitespace between inline-block elements */
 }
 
 .article-item:last-child {
@@ -199,18 +204,15 @@ img {
 
 /* Thumbnail - inline-block aligned to top */
 .list-thumb {
-  display: inline-block;
-  vertical-align: top;
+  display: block;
   width: 80px;
   height: auto;
-  margin-right: var(--spacing-md);
+  flex: 0 0 80px;
 }
 
 /* Text container - inline-block aligned to top */
 .article-text {
-  display: inline-block;
-  vertical-align: top;
-  width: calc(100% - 80px - var(--spacing-md));
+  flex: 1 1 auto;
   font-size: 1rem; /* Reset font-size */
 }
 
@@ -219,7 +221,7 @@ img {
   font-family: var(--font-heading);
   font-size: 1.25rem;
   /* Prevent squished multi-line titles on small screens */
-  line-height: 1.2;
+  line-height: 1.3;
   margin: 0;
   padding: 0;
   color: var(--color-link);
@@ -244,8 +246,14 @@ img {
 /* Recipe Card */
 .recipe-card {
   background: var(--color-bg);
-  padding: var(--spacing-md);
-  margin: var(--spacing-sm) 0;
+  /* Align left/right with normal article content (no extra indent) */
+  padding: 0;
+  margin: var(--spacing-xs) 0 var(--spacing-sm);
+}
+
+.recipe-card h2 {
+  /* Reduce whitespace before the "Rezept" headline */
+  margin-top: 0;
 }
 
 .recipe-meta {
@@ -296,6 +304,7 @@ img {
   top: 0;
   font-weight: bold;
 }
+
 
 /* 10-tables.css */
 /* Tables */

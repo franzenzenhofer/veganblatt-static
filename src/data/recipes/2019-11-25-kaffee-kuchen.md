@@ -1,5 +1,5 @@
 ---
-title: "uveganer Gewürz Kaffee Kuchen"
+title: "Veganer Gewürz Kaffee Kuchen"
 date: "2019-11-25 15:11:23"
 modified: "2019-11-29 15:50:39"
 slug: "kaffee-kuchen"

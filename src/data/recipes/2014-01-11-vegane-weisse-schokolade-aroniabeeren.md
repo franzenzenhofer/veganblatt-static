@@ -30,5 +30,7 @@ recipe:
       Mit den Beeren und Blüten belegen und 2-3h kühl stellen und fest werden
       lassen.
     - Teilen und genießen!
+aiGeneratedDate: '2025-09-04T11:05:54.914Z'
+featuredImage: ai/ai-vegane-weisse-schokolade-aroniabeeren.jpg
 ---
 

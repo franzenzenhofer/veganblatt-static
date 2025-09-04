@@ -30,5 +30,7 @@ recipe:
       das Grünkernschrot einrühren. Für 10-15min köcheln lassen bis das Schrot
       weich ist.
     - Nochmal abschmecken und die geriebene Muskatnuss dazugeben.
+aiGeneratedDate: '2025-09-04T11:05:45.844Z'
+featuredImage: ai/ai-gruenkern-suppe.jpg
 ---
 

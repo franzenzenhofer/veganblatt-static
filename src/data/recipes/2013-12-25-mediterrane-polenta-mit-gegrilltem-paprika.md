@@ -36,6 +36,8 @@ recipe:
     - >-
       Polenta mit den Oliven und Pinienkernen bestreuen und mit den
       Paprikastreifen servieren.
+aiGeneratedDate: '2025-09-04T11:04:42.129Z'
+featuredImage: ai/ai-mediterrane-polenta-mit-gegrilltem-paprika.jpg
 ---
 
 [<!-- Image removed (no copyright): polentatürmchen.jpg -->](https://www.veganblatt.com/i/polentatürmchen.jpg)

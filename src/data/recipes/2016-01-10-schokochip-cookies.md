@@ -1,5 +1,5 @@
 ---
-title: "uvegane Sündhaft leckere Schokochip-Cookies"
+title: "Vegane Sündhaft leckere Schokochip-Cookies"
 date: "2016-01-10 09:34:50"
 modified: "2016-01-10 09:56:36"
 slug: "schokochip-cookies"

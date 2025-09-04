@@ -1,5 +1,5 @@
 ---
-title: "uvegane Knuspriger, selbsgemachter Pizzateig"
+title: "Vegane Knuspriger, selbsgemachter Pizzateig"
 date: "2016-04-13 09:25:34"
 modified: "2016-04-13 10:59:45"
 slug: "pizzateig-vegan-selbstgemacht"

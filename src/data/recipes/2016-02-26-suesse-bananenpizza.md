@@ -1,5 +1,5 @@
 ---
-title: "uvegane Süße Bananenpizza"
+title: "Vegane Süße Bananenpizza"
 date: "2016-02-26 11:59:06"
 modified: "2016-02-26 12:33:59"
 slug: "suesse-bananenpizza"

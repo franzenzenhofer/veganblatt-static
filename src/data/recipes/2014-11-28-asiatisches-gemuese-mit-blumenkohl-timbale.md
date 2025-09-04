@@ -1,5 +1,5 @@
 ---
-title: "uvegane Rohköstliches, asiatisches Gemüse mit Blumenkohl-Timbale"
+title: "Vegane Rohköstliches, asiatisches Gemüse mit Blumenkohl-Timbale"
 date: "2014-11-28 10:12:40"
 modified: "2014-11-28 11:09:17"
 slug: "asiatisches-gemuese-mit-blumenkohl-timbale"

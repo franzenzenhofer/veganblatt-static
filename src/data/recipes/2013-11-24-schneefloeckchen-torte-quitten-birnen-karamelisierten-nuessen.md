@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Schneeflöckchen Torte mit Quitten, Birnen und karamellisierten Nüssen'
+title: 'Vegane Schneeflöckchen Torte mit Quitten, Birnen und karamellisierten Nüssen'
 date: '2013-11-24 08:41:34'
 modified: '2015-11-23 14:03:08'
 slug: schneefloeckchen-torte-quitten-birnen-karamelisierten-nuessen

@@ -1,5 +1,5 @@
 ---
-title: "uveganes Quinoa-Risotto mit grünem Spargel und Champignons"
+title: "Veganes Quinoa-Risotto mit grünem Spargel und Champignons"
 date: "2014-05-17 08:56:20"
 modified: "2016-04-27 19:32:10"
 slug: "spargel-quinoa-risotto"

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Kichererbsen-Tofu"
+title: "Vegane Kichererbsen-Tofu"
 date: "2014-10-06 08:51:46"
 modified: "2016-06-06 11:59:31"
 slug: "kichererbsen-tofu"

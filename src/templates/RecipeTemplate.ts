@@ -49,10 +49,14 @@ export class RecipeTemplate extends ArticleTemplate {
 
   private renderMeta(recipe: any): string {
     if (!recipe.prepTime && !recipe.cookTime && !recipe.servings) return '';
+    const prep = recipe.prepTime ? this.formatISODuration(recipe.prepTime) : '';
+    const cook = recipe.cookTime ? this.formatISODuration(recipe.cookTime) : '';
+    const total = recipe.totalTime ? this.formatISODuration(recipe.totalTime) : '';
     return `<div class="recipe-meta">
-      ${recipe.prepTime ? `<span>Zubereitungszeit: ${recipe.prepTime}</span>` : ''}
-      ${recipe.cookTime ? `<span>Kochzeit: ${recipe.cookTime}</span>` : ''}
-      ${recipe.servings ? `<span>Portionen: ${recipe.servings}</span>` : ''}
+      ${prep ? `<span>Zubereitungszeit: ${prep}</span>` : ''}
+      ${cook ? `<span>Kochzeit: ${cook}</span>` : ''}
+      ${total ? `<span>Gesamtzeit: ${total}</span>` : ''}
+      ${recipe.servings ? `<span>Portionen: ${this.escapeHtml(String(recipe.servings))}</span>` : ''}
     </div>`;
   }
 
@@ -68,5 +72,22 @@ export class RecipeTemplate extends ArticleTemplate {
     const items = instructions.map(i => `<li>${this.escapeHtml(i)}</li>`).join('\n');
     return `<div class="recipe-section">
       <h3>Zubereitung</h3><ol class="recipe-instructions">${items}</ol></div>`;
+  }
+
+  private formatISODuration(iso: string): string {
+    // Parse ISO8601 durations like PT20M, PT1H30M, P1DT2H
+    const match = /^P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?)?$/i.exec(iso.trim());
+    if (!match) return this.escapeHtml(iso);
+    const days = match[1] ? parseInt(match[1], 10) : 0;
+    const hours = match[2] ? parseInt(match[2], 10) : 0;
+    const mins = match[3] ? parseInt(match[3], 10) : 0;
+    const secs = match[4] ? parseInt(match[4], 10) : 0;
+
+    const parts: string[] = [];
+    if (days > 0) parts.push(`${days} ${days === 1 ? 'Tag' : 'Tage'}`);
+    if (hours > 0) parts.push(`${hours} Std`);
+    if (mins > 0) parts.push(`${mins} Min`);
+    if (secs > 0 && parts.length === 0) parts.push(`${secs} Sek`); // only show seconds if nothing else
+    return parts.join(' ');
   }
 }

@@ -1,8 +1,12 @@
 /* Navigation */
 .nav {
+  /* Mobile-first: force single row, allow horizontal scroll if needed */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: var(--spacing-sm);
   text-align: center;
-  padding: var(--spacing-xs) 0;
-  /* Ensure navigation never wraps to two lines on small screens */
+  padding: var(--spacing-xs) var(--spacing-sm);
   white-space: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
@@ -10,7 +14,7 @@
 
 .nav a {
   display: inline-block;
-  margin: 0 var(--spacing-sm);
+  flex: 0 0 auto; /* prevent shrinking, keep on one line */
   padding: var(--spacing-xs) var(--spacing-sm);
   color: var(--color-text);
   font-weight: 400;

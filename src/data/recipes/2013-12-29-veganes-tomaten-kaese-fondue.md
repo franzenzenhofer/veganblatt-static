@@ -31,6 +31,8 @@ recipe:
     - >-
       Den Topf nun auf das Rechaud (Tischkocher) stellen und los geht`s:
       Baguettewürfel aufspießen, eintunken und genießen!
+aiGeneratedDate: '2025-09-04T11:05:01.172Z'
+featuredImage: ai/ai-veganes-tomaten-kaese-fondue.jpg
 ---
 
 [<!-- Image removed (no copyright): käsefondue.jpg -->](https://www.veganblatt.com/i/käsefondue.jpg)

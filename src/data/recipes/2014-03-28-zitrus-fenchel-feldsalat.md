@@ -1,5 +1,5 @@
 ---
-title: 'uveganer Fröhlicher Zitrus-Fenchel-Feldsalat '
+title: 'Veganer Fröhlicher Zitrus-Fenchel-Feldsalat '
 date: '2014-03-28 09:00:29'
 modified: '2014-06-12 14:09:29'
 slug: zitrus-fenchel-feldsalat

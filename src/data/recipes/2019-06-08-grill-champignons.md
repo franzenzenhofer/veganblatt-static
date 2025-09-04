@@ -1,5 +1,5 @@
 ---
-title: "uvegane Gefüllte Champignons zum Grillen"
+title: "Vegane Gefüllte Champignons zum Grillen"
 date: "2019-06-08 10:20:15"
 modified: "2019-06-05 21:36:37"
 slug: "grill-champignons"

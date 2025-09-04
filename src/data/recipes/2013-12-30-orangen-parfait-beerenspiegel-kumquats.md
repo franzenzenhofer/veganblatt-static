@@ -41,6 +41,8 @@ recipe:
       Zum Anrichten die Schälchen kurz ins heiße Wasser stellen und das Parfait
       auf einen Teller stürzen. Mit dem Beerenspiegel und den aufgeschnittenen
       Kumquats und Karambol garniert servieren und dahinschmelzen!
+aiGeneratedDate: '2025-09-04T11:05:10.460Z'
+featuredImage: ai/ai-orangen-parfait-beerenspiegel-kumquats.jpg
 ---
 
 [<!-- Image removed (no copyright): parfait.jpg -->](https://www.veganblatt.com/i/parfait.jpg)

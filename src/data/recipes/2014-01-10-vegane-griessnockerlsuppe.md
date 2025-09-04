@@ -34,5 +34,7 @@ recipe:
     - >-
       Für 5min schwach köcheln lassen und 10min ziehen lassen. Mit Schnittlauch
       bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:05:36.386Z'
+featuredImage: ai/ai-vegane-griessnockerlsuppe.jpg
 ---
 

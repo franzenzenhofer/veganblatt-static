@@ -1,5 +1,5 @@
 ---
-title: "uveganes Grünkohl-Kichererbsen-Curry mit karamellisierten Süßkartoffeln"
+title: "Veganes Grünkohl-Kichererbsen-Curry mit karamellisierten Süßkartoffeln"
 date: "2015-11-15 10:18:04"
 modified: "2015-11-15 12:57:18"
 slug: "gruenkohl-kichererbsen-curry-mit-suesskartoffeln"

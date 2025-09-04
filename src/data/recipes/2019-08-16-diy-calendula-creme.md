@@ -1,5 +1,5 @@
 ---
-title: "uvegane DIY Calendula Creme"
+title: "Vegane DIY Calendula Creme"
 date: "2019-08-16 13:31:48"
 modified: "2019-08-17 13:36:57"
 slug: "diy-calendula-creme"

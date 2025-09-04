@@ -1,5 +1,5 @@
 ---
-title: "uveganer RambaZamba Frozen Matcha-Sesam-Shake"
+title: "Veganer RambaZamba Frozen Matcha-Sesam-Shake"
 date: "2013-07-01 08:41:14"
 modified: "2014-01-16 12:05:08"
 slug: "sesam-matcha-shake"

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Apfel-Quitten Mini Pies von Seitan is my motor"
+title: "Vegane Apfel-Quitten Mini Pies von Seitan is my motor"
 date: "2013-10-27 08:57:43"
 modified: "2016-01-19 14:51:51"
 slug: "apfel-quitten-mini-pies"
