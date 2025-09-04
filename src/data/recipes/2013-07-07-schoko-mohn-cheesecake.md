@@ -33,7 +33,7 @@ recipe:
       Kühlschrank für min. 2 Stunden oder 30min ins Gefrierfach bis die Masse
       fest ist. Kühl und nach Belieben garniert servieren. Grobe Kokoschips
       dienten bei uns als zusätzlicher Augenschmaus.
-aiGeneratedDate: '2025-09-01T19:11:48.523Z'
+aiGeneratedDate: '2025-09-04T13:27:15.819Z'
 featuredImage: ai/ai-schoko-mohn-cheesecake.jpg
 ---
 
