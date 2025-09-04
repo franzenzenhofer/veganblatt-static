@@ -23,9 +23,12 @@ echo ""
 
 # Step 2: Build with new version
 echo "🔨 Step 2: Building site..."
-npm run lint && npm run build:css && npm run generate
-echo -e "  ${GREEN}✓${NC} Build complete"
-echo ""
+npm run build
+if [ $? -ne 0 ]; then
+  echo "❌ Build failed! Stopping deployment."
+  exit 1
+fi
+echo "✅ Site built successfully"
 
 # Step 3: Deploy to Cloudflare
 echo "☁️  Step 3: Deploying to Cloudflare..."
