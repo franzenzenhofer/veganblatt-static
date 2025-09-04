@@ -131,12 +131,22 @@ export class StaticPageGenerator {
           });
           const input = document.querySelector('#q');
           const out = document.querySelector('#results');
+          function cleanBrandTitle(t) {
+            const brand = 'VeganBlatt';
+            const seps = [' - ', ' – ', ' — ', ' | ', ': ', ' • '];
+            for (const sep of seps) {
+              const suf = sep + brand;
+              if (t.endsWith(suf)) return t.slice(0, -suf.length);
+            }
+            if (t.endsWith(brand)) return t.slice(0, -brand.length).trim();
+            return t;
+          }
           function render(q) {
             out.innerHTML = '';
             if (!q) return;
             const hits = mini.search(q, { prefix: true, fuzzy: 0.2 });
             out.innerHTML = hits.slice(0, 50).map(h => {
-              const t = (h.title || h.url).replace(/\s*[-–—|:•]\s*VeganBlatt\s*$/i, '');
+              const t = cleanBrandTitle(h.title || h.url);
               return '<article class="article-item"><div class="article-text"><a class="article-link" href="' + h.url + '">' + t + '</a></div></article>';
             }).join('');
           }
