@@ -143,10 +143,22 @@ export class SiteGenerator {
     const aiMetadataDir = path.join(metadataDir, 'ai');
     try {
       const aiFiles = await this.fs.readDir(aiMetadataDir);
+      let loadedCount = 0;
       
-      for (const file of aiFiles.filter(f => f.endsWith('.md'))) {
+      for (const file of aiFiles.filter(f => f.endsWith('.md') || f.endsWith('.yaml') || f.endsWith('.yml'))) {
         const content = await this.fs.readFile(path.join(aiMetadataDir, file));
-        const { data } = this.content.parseMarkdown<{ filename?: string; copyright?: string; altText?: string }>(content);
+        
+        let data: { filename?: string; copyright?: string; altText?: string };
+        if (file.endsWith('.md')) {
+          // Parse as markdown frontmatter
+          const parsed = this.content.parseMarkdown<{ filename?: string; copyright?: string; altText?: string }>(content);
+          data = parsed.data;
+        } else {
+          // Parse as pure YAML
+          const matter = require('gray-matter');
+          const parsed = matter(`---\n${content}\n---`);
+          data = parsed.data;
+        }
         
         if (data.filename && data.copyright) {
           // Store AI images with their filename (without ai/ prefix)
@@ -154,11 +166,16 @@ export class SiteGenerator {
             copyright: data.copyright,
             altText: data.altText || data.filename.replace(/\.[^.]+$/, '').replace(/-/g, ' ')
           });
+          loadedCount++;
+        } else {
+          // FAIL HARD - if metadata file exists but is invalid, throw error
+          throw new Error(`INVALID AI METADATA FILE: ${file} - Missing filename or copyright!`);
         }
       }
-      console.log(`Loaded ${aiFiles.filter(f => f.endsWith('.md')).length} AI image metadata files`);
-    } catch {
-      // AI images are optional
+      console.log(`Loaded ${loadedCount} AI image metadata files`);
+    } catch (error) {
+      // FAIL HARD - AI metadata loading errors should stop the build
+      throw new Error(`FAILED TO LOAD AI METADATA: ${error}`);
     }
   }
 }
