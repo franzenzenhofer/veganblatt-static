@@ -23,6 +23,10 @@ echo ""
 
 # Step 2: Build with new version
 echo "🔨 Step 2: Building site..."
+# Ensure dev dependencies (eslint, ts plugins) are present for hard checks
+if [ -f package-lock.json ]; then
+  npm ci --include=dev >/dev/null 2>&1 || true
+fi
 npm run build
 if [ $? -ne 0 ]; then
   echo "❌ Build failed! Stopping deployment."
