@@ -38,6 +38,8 @@ recipe:
     - >-
       Bei 180°C für 20-25min backen bis es sich bräunt. Auf einem Gitter
       auskühlen lassen und noch warm servieren.
+aiGeneratedDate: '2025-09-04T11:12:35.726Z'
+featuredImage: ai/ai-vollkorn-focaccia.jpg
 ---
 
 [<!-- Image removed (no copyright): vollkorn-focaccia.jpg -->](https://www.veganblatt.com/i/vollkorn-focaccia.jpg)

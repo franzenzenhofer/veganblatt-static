@@ -42,6 +42,8 @@ recipe:
       Fertige Masse in einen Behälter geben. Mindestens 1h vor Servieren im
       Kühlschrank aufbewahren.
     - Lagerbar für 1 Woche im Kühlschrank oder 3 Monate im Gefrierschrank.
+aiGeneratedDate: '2025-09-04T11:10:47.762Z'
+featuredImage: ai/ai-rohvegane-chocolate-brownies.jpg
 ---
 
 [<!-- Image removed (no copyright): schoko-mousse.jpg -->](https://www.veganblatt.com/i/schoko-mousse.jpg)

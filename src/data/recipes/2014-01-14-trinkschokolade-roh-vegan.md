@@ -30,6 +30,8 @@ recipe:
       target="_blank"]Omniblend[/url]) bis es ein cremiges Getränk ergibt, das
       sich durch den Mixvorgang leicht erwärmt hat.
     - Genießen und auf Wolke 7 schweben!
+aiGeneratedDate: '2025-09-04T11:10:57.053Z'
+featuredImage: ai/ai-trinkschokolade-roh-vegan.jpg
 ---
 
 Und weil´s so passend ist: Death by Chocolate!<iframe width="560" height="315" frameborder="0" src="//www.youtube.com/embed/rwOFCbkhKzc"></iframe>

@@ -27,5 +27,7 @@ recipe:
       In zwei Formen gießen und wer mag, kann noch die Blütenmischung
       darüberstreuen.
     - Für 30min in den Kühlschrank verfrachten und genießen.
+aiGeneratedDate: '2025-09-04T11:12:03.694Z'
+featuredImage: ai/ai-mandel-matcha-schokolade.jpg
 ---
 

@@ -33,6 +33,8 @@ recipe:
     - >-
       Mit Salat, Tomatensauce und Petersilie bestreut servieren oder in einen
       Burger packen und genießen!
+aiGeneratedDate: '2025-09-04T11:11:06.771Z'
+featuredImage: ai/ai-gesunde-hirse-laibchen.jpg
 ---
 
 [<!-- Image removed (no copyright): Hirselaibchen.jpg -->](https://www.veganblatt.com/i/Hirselaibchen.jpg)

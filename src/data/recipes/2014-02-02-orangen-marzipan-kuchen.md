@@ -53,6 +53,8 @@ recipe:
     - >-
       kalten Kuchen gießen. Event. mit Orangenstreifen oder kandierten Orangen
       verzieren.
+aiGeneratedDate: '2025-09-04T11:12:26.681Z'
+featuredImage: ai/ai-orangen-marzipan-kuchen.jpg
 ---
 
 Ganz nach dem Motto "Geht nicht, gibt ́s nicht" zeigt die Wiener Schauspielerin und Moderatorin Jasmin Devi, dass veganes Backen keine Grenzen kennt. Um den im Trend liegenden veganen Lifestyle zu vermitteln, lädt sie Gäste der veganen Szene ein. Sie erzählen über ihre "vegane Arbeit", verraten ihre Tipps und Tricks und backen gemeinsam mit Jasmin. Selbstverständlich zeigt sie, wie es möglich ist ohne Eier und Milchprodukte zu backen und die tollen Rezepte werden zum Sammeln, Ausdrucken und Nachbacken als gratis Download auf der **[Homepage](http://www.veganbackenmitjasmin.com/)** bereitgestellt. Eine der tollen süßen Kreationen haben wir auch für Euch hier:  

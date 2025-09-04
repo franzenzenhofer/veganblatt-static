@@ -44,6 +44,8 @@ recipe:
       etwas von der Apfel-Mandel-Creme geben. Fortfahren bis alles verbraucht
       ist und kühl stellen.
     - Mit gehackten Nüssen bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:12:52.733Z'
+featuredImage: ai/ai-rohkoestlicher-apfel-trifle.jpg
 ---
 
 [<!-- Image removed (no copyright): raw-apfel-trifle.jpg -->](https://www.veganblatt.com/i/raw-apfel-trifle.jpg)

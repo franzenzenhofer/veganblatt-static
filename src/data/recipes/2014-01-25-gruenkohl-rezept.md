@@ -28,6 +28,8 @@ recipe:
       Zu den Zwiebeln geben und mit der Gemüsebrühe ablöschen, würzen und den
       Deckel drauf geben. Für ca. 15min köcheln lassen bis der Kohl weich ist.
     - Wer möchte kann die in Scheiben geschnittenen Würstchen dazugeben.
+aiGeneratedDate: '2025-09-04T11:11:43.604Z'
+featuredImage: ai/ai-gruenkohl-rezept.jpg
 ---
 
 Mehr über das tolle Kohl-Gemüse erfahrt Ihr [hier](https://www.veganblatt.com/gruenkohl)! [<!-- Image removed (no copyright): kohl-mit-würstchen.jpg -->](https://www.veganblatt.com/i/kohl-mit-würstchen.jpg)

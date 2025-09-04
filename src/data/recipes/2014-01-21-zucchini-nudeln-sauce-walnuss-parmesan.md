@@ -33,5 +33,7 @@ recipe:
       Für den Parmesan alle Zutaten vermischen oder für größere Mengen im Mixer
       vermengen.
     - Die Nudeln mit der Sauce und dem Parmesan schön anrichten und genießen!
+aiGeneratedDate: '2025-09-04T11:11:25.938Z'
+featuredImage: ai/ai-zucchini-nudeln-sauce-walnuss-parmesan.jpg
 ---
 

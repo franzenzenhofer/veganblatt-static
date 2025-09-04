@@ -37,6 +37,8 @@ recipe:
       Die Pilze in feine Scheiben schneiden und mit den weiteren Zutaten
       einmariniert ziehen lassen für min. 30min.
     - Schön angerichtet servieren.
+aiGeneratedDate: '2025-09-04T11:12:13.927Z'
+featuredImage: ai/ai-rohvegane-cannelloni-mit-marinierten-pilzen.jpg
 ---
 
 [<!-- Image removed (no copyright): cannelloni.jpg -->](https://www.veganblatt.com/i/cannelloni.jpg)

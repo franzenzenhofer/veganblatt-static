@@ -35,6 +35,8 @@ recipe:
     - >-
       Die Schlagsahne aufschlagen und die Vanille untermischen. Das wird die 4.
       Schicht. Den Abschluss machen noch mal Mandarinen Stücke.
+aiGeneratedDate: '2025-09-04T11:10:35.532Z'
+featuredImage: ai/ai-lebkuchen-mandarinen-schichtdessert.jpg
 ---
 
 [<!-- Image removed (no copyright): schichtdessert.jpg -->](https://www.veganblatt.com/i/schichtdessert.jpg)

@@ -30,6 +30,8 @@ recipe:
     - >-
       Für 30min in den Kühlschrank stellen, dann für 10min ins Kühlfach. Danach
       sollte sich die Schoko gut aus der Form lösen.
+aiGeneratedDate: '2025-09-04T11:11:16.989Z'
+featuredImage: ai/ai-dunkle-schokolade-superfoods.jpg
 ---
 
 [<!-- Image removed (no copyright): dunkle-schokolade.jpg -->](https://www.veganblatt.com/i/dunkle-schokolade.jpg)

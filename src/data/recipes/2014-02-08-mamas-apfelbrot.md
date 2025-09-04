@@ -34,5 +34,7 @@ recipe:
     - >-
       In der Brotlade lagern. Wenn es zu trocken werden sollte, über Nacht mit
       einigen Apfelspalten in eine Dose geben.
+aiGeneratedDate: '2025-09-04T11:12:44.397Z'
+featuredImage: ai/ai-mamas-apfelbrot.jpg
 ---
 

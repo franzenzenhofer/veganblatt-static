@@ -37,5 +37,7 @@ recipe:
       Hitze für 8min von allen Seiten anbraten. Auf Küchenrolle abtropfen
       lassen.
     - Für den Dip alle Zutaten vermischen.
+aiGeneratedDate: '2025-09-04T11:11:54.393Z'
+featuredImage: ai/ai-reis-basilikum-baellchen.jpg
 ---
 

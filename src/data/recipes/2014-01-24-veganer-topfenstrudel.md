@@ -39,6 +39,8 @@ recipe:
       bestreichen.
     - 'Bei 200°C für 10min, danach für weitere 15min bei 180°C backen.'
     - Warm mit Puderzucker und/oder veganer Sahne genießen!
+aiGeneratedDate: '2025-09-04T11:11:34.642Z'
+featuredImage: ai/ai-veganer-topfenstrudel.jpg
 ---
 
 [<!-- Image removed (no copyright): topfenstrudel2.jpg -->](https://www.veganblatt.com/i/topfenstrudel2.jpg)
