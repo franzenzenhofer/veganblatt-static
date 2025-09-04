@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganes-mousse-au-chocolat.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Mousse au Chocolat"
 aiGenerated: true

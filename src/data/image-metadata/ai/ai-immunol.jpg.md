@@ -1,6 +1,6 @@
 ---
 filename: "ai-immunol.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Power vegane für die Abwehrkräfte"
 aiGenerated: true

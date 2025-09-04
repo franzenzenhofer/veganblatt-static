@@ -1,6 +1,6 @@
 ---
 filename: "ai-eis-sandwich-macadamia-kokos-cookies.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Eis-Sandwich mit glutenfreien Macadamia-Kokos-Cookies"
 aiGenerated: true

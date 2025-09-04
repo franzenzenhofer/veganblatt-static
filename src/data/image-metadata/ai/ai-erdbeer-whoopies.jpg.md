@@ -1,6 +1,6 @@
 ---
 filename: "ai-erdbeer-whoopies.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Sahnige vegane Erdbeer-Whoopies"
 aiGenerated: true

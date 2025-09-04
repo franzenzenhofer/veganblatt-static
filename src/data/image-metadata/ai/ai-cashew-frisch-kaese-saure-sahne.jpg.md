@@ -1,6 +1,6 @@
 ---
 filename: "ai-cashew-frisch-kaese-saure-sahne.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Cashew Käse oder saure Sahne: raw&fresh "
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-seitan-selbermachen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Küchen-Basics: Seitan selbermachen"
 aiGenerated: true

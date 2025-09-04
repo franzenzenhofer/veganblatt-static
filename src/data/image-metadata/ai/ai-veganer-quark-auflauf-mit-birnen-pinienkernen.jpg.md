@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganer-quark-auflauf-mit-birnen-pinienkernen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Birnen-Quark-Auflauf mit Vanille & Pinienkernen"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-zitronen-lassi.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Erfrischendes vegane Zitronen-Lassi "
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganer-schoko-banoffee-pie.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Der beste Vegane Kuchen: Schoko-Banoffee Pie"
 aiGenerated: true

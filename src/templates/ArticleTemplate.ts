@@ -3,7 +3,7 @@ import { PageTemplate } from './PageTemplate';
 import { ImageProcessor } from '../core/ImageProcessor';
 
 export class ArticleTemplate extends PageTemplate {
-  constructor(private imageProcessor: ImageProcessor) {
+  constructor(protected imageProcessor: ImageProcessor) {
     super();
   }
 

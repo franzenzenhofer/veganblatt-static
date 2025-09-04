@@ -1,6 +1,6 @@
 ---
 filename: "ai-gegrilltes-gemuese.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Gegrilltes vegane Gemüse mit Rosmarin"
 aiGenerated: true

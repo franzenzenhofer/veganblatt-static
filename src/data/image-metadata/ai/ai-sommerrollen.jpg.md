@@ -1,6 +1,6 @@
 ---
 filename: "ai-sommerrollen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Frisch fröhliche Sommerrollen mit Tofu"
 width: 2000

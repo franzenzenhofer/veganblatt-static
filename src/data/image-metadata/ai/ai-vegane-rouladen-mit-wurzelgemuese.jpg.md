@@ -1,6 +1,6 @@
 ---
 filename: "ai-vegane-rouladen-mit-wurzelgemuese.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Rouladen mit Wurzelgemüse"
 aiGenerated: true

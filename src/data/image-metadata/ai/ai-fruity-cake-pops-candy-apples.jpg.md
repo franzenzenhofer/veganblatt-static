@@ -1,6 +1,6 @@
 ---
 filename: "ai-fruity-cake-pops-candy-apples.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Fruity Cake Pops & Candy Apples"
 aiGenerated: true

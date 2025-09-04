@@ -1,6 +1,6 @@
 ---
 filename: "ai-zitrus-fenchel-feldsalat.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Fröhlicher Zitrus-Fenchel-Feldsalat "
 aiGenerated: true

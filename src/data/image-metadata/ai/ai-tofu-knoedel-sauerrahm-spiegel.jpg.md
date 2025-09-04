@@ -1,6 +1,6 @@
 ---
 filename: "ai-tofu-knoedel-sauerrahm-spiegel.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Nussig zimtige Tofu-Knödel auf Sauerrahm-Spiegel"
 aiGenerated: true

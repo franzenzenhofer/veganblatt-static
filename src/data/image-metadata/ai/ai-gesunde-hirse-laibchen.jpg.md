@@ -1,6 +1,6 @@
 ---
 filename: "ai-gesunde-hirse-laibchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Gesunde vegane Hirse Laibchen"
 aiGenerated: true

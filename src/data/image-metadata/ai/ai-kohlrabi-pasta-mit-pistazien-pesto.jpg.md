@@ -1,6 +1,6 @@
 ---
 filename: "ai-kohlrabi-pasta-mit-pistazien-pesto.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Kohlrabi-Pasta mit Pistazien-Pesto"
 aiGenerated: true

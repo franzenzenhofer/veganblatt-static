@@ -1,6 +1,6 @@
 ---
 filename: "ai-kraeuter-limonade.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Die vegane beste Kräuter-Limonade, selbstgemacht!"
 aiGenerated: true

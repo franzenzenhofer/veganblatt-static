@@ -15,7 +15,7 @@ export class RecipeTemplate extends ArticleTemplate {
     const footer = this.renderFooter();
     
     const featuredImageHtml = recipe.featuredImage
-      ? (this as any).imageProcessor.generateImageHtml(recipe.featuredImage, 800)
+      ? this.imageProcessor.generateImageHtml(recipe.featuredImage, 800)
       : '';
     
     const baseHtml = `${head}

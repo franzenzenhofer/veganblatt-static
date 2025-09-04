@@ -1,6 +1,6 @@
 ---
 filename: "ai-rote-beete-salat.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Frischer rote Beete Salat"
 width: 1024

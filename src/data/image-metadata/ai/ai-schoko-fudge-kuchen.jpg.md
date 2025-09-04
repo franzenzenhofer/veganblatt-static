@@ -1,6 +1,6 @@
 ---
 filename: "ai-schoko-fudge-kuchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer gluten- & zuckerfreier Schoko-Fudge-Kuchen"
 aiGenerated: true

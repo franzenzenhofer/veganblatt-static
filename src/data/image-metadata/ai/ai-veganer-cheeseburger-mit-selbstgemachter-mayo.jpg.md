@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganer-cheeseburger-mit-selbstgemachter-mayo.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Cheeseburger mit selbstgemachter Mayo"
 aiGenerated: true

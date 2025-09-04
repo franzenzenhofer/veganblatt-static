@@ -1,6 +1,6 @@
 ---
 filename: "ai-mamas-apfelbrot.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Mama´s Apfelbrot"
 aiGenerated: true

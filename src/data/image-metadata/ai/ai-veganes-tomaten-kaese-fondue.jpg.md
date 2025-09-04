@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganes-tomaten-kaese-fondue.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Tomaten-Käse Fondue"
 aiGenerated: true

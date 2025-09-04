@@ -1,6 +1,6 @@
 ---
 filename: "ai-kurbis-kokos-linsen-suppe.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Feine Kürbis Kokos Linsen Suppe"
 width: 1024

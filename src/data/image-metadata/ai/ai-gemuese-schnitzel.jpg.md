@@ -1,6 +1,6 @@
 ---
 filename: "ai-gemuese-schnitzel.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Knusprige Gemüseschnitzel vegan paniert"
 width: 1024

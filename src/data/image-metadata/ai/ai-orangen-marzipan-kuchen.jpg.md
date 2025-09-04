@@ -1,6 +1,6 @@
 ---
 filename: "ai-orangen-marzipan-kuchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Orangen-Marzipan-Kuchen"
 aiGenerated: true

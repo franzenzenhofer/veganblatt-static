@@ -1,6 +1,6 @@
 ---
 filename: "ai-green-smoothie-ice-cream.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Green-Smoothie Ice Cream"
 aiGenerated: true

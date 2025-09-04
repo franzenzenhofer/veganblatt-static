@@ -1,6 +1,6 @@
 ---
 filename: "ai-lebkuchen-mandarinen-schichtdessert.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Lebkuchen veganer Mandarinen Schichtdessert"
 aiGenerated: true

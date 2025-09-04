@@ -1,6 +1,6 @@
 ---
 filename: "ai-rote-beete-ravioli-mit-cashew-kaese-fuellung.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Rote Vegane Beete-Ravioli mit Cashew-Käse-Füllung"
 aiGenerated: true

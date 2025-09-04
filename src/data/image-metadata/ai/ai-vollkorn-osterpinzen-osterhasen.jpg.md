@@ -1,6 +1,6 @@
 ---
 filename: "ai-vollkorn-osterpinzen-osterhasen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Schnelle vegane Vollkorn-Osterpinzen und -Osterhasen"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-semmelknoedel-mit-pfifferling-rahm-sauce.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Semmelknödel mit Pfifferling-Rahm-Sauce"
 aiGenerated: true

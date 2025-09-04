@@ -1,6 +1,6 @@
 ---
 filename: "ai-sommerliche-zucchini-nudeln.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Sommerliche vegane Zucchini-Nudeln"
 aiGenerated: true

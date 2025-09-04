@@ -1,6 +1,6 @@
 ---
 filename: "ai-russischer-zupfkuchen-einfach-vegan.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Russischer Zupfkuchen, einfach & vegan"
 aiGenerated: true

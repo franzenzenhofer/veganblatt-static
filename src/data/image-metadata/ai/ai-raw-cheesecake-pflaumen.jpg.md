@@ -1,6 +1,6 @@
 ---
 filename: "ai-raw-cheesecake-pflaumen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Raw Cheesecake mit Pflaumen"
 aiGenerated: true

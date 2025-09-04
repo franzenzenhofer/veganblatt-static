@@ -1,6 +1,6 @@
 ---
 filename: "ai-vollkorn-focaccia.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Vollkorn-Focaccia mit Tomaten und Rosmarin"
 aiGenerated: true

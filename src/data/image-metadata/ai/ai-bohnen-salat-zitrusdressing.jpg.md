@@ -1,6 +1,6 @@
 ---
 filename: "ai-bohnen-salat-zitrusdressing.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Weißer Bohnensalat mit grünen Oliven und Zitrusdressing"
 width: 2000

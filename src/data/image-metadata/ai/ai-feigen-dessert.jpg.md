@@ -1,6 +1,6 @@
 ---
 filename: "ai-feigen-dessert.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Feigen Vegane mit Sauerrahm-Creme und Pistazien"
 aiGenerated: true

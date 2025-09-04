@@ -1,6 +1,6 @@
 ---
 filename: "ai-buntes-gemuese-sushi.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Buntes vegane Gemüsesushi"
 aiGenerated: true

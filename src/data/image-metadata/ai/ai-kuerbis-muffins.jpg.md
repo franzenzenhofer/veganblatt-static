@@ -1,6 +1,6 @@
 ---
 filename: "ai-kuerbis-muffins.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Kürbismuffins mit veganem Sauerrahm Frosting"
 aiGenerated: true

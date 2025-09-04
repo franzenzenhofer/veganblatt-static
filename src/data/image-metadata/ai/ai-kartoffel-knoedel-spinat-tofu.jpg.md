@@ -1,6 +1,6 @@
 ---
 filename: "ai-kartoffel-knoedel-spinat-tofu.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Kartoffelknödel mit Spinat-Tofu-Fülle"
 aiGenerated: true

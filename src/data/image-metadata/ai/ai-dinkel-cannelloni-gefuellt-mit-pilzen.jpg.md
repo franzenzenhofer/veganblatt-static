@@ -1,6 +1,6 @@
 ---
 filename: "ai-dinkel-cannelloni-gefuellt-mit-pilzen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Dinkel-Cannelloni gefüllt mit Pilzen"
 aiGenerated: true

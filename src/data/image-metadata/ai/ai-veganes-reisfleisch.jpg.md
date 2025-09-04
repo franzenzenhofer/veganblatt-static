@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganes-reisfleisch.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Reisfleisch nach Serbischer Art"
 aiGenerated: true

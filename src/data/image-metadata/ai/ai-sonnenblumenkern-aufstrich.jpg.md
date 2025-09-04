@@ -1,6 +1,6 @@
 ---
 filename: "ai-sonnenblumenkern-aufstrich.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Basis Veganer Sonnenblumenkern-Aufstrich"
 aiGenerated: true

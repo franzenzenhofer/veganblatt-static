@@ -1,6 +1,6 @@
 ---
 filename: "ai-apfel-joghurt-toertchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Blitzschnelles vegane Apfel-Joghurt-Törtchen"
 aiGenerated: true

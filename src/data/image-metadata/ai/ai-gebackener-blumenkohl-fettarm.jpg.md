@@ -1,6 +1,6 @@
 ---
 filename: "ai-gebackener-blumenkohl-fettarm.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Gebackenes Veganes Blumenkohl-Steak mit Parmesan & Pinienkernen"
 aiGenerated: true

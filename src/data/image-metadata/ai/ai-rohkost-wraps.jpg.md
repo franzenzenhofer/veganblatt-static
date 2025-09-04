@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohkost-wraps.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Regenbogen Wraps mit Falafel- und Gemüsefülle"
 aiGenerated: true

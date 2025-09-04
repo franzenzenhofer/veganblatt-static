@@ -1,6 +1,6 @@
 ---
 filename: "ai-bunter-salat-mit-pfifferlingen-haselnuessen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Bunter Veganer Salat mit Pfifferlingen & Haselnüssen"
 aiGenerated: true

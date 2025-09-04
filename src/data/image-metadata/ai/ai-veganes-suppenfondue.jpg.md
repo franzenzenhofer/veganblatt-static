@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganes-suppenfondue.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Suppenfondue"
 aiGenerated: true

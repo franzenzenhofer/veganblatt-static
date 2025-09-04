@@ -1,6 +1,6 @@
 ---
 filename: "ai-kokos-safran-reis-zuckerschoten.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Kokos-Safran Reis mit Zuckerschoten"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-veganes-huehner-frikassee.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Hühnerfrikassee"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-diy-zwetschgen-krampus.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "DIY Zwetschgenkrampus"
 aiGenerated: true

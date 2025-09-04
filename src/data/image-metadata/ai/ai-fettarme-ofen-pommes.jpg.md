@@ -1,6 +1,6 @@
 ---
 filename: "ai-fettarme-ofen-pommes.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Fettarme Vegane Ofen-Pommes"
 aiGenerated: true

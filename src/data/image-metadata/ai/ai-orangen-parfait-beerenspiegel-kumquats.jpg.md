@@ -1,6 +1,6 @@
 ---
 filename: "ai-orangen-parfait-beerenspiegel-kumquats.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Orangenflöckchen Parfait mit Beerenspiegel und Kumquats"
 aiGenerated: true

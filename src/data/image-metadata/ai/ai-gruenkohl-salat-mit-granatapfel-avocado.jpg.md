@@ -1,6 +1,6 @@
 ---
 filename: "ai-gruenkohl-salat-mit-granatapfel-avocado.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Grünkohl-Salat mit Granatapfel & Avocado"
 aiGenerated: true

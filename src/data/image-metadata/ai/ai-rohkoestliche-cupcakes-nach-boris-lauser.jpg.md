@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohkoestliche-cupcakes-nach-boris-lauser.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Rohköstliche Cupcakes nach Boris Lauser"
 aiGenerated: true

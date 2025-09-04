@@ -1,8 +1,8 @@
 ---
 filename: "ai-speck-knoedel.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
-altText: "Vegane "Speck"-Knödel mit Räuchertofu"
+altText: "Vegane 'Speck'-Knödel mit Räuchertofu"
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
 uploadDate: "2025-09-04T12:25:26.046Z"

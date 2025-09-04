@@ -1,6 +1,6 @@
 ---
 filename: "ai-suesskartoffel-rote-bete-pasta-cashew-sour-creme.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Süßkartoffel- & rote Bete Pasta mit Cashew Sour Creme"
 aiGenerated: true

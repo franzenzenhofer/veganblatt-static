@@ -1,6 +1,6 @@
 ---
 filename: "ai-pad-thai-mit-shiitake-pilzen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Pad Thai mit Shiitake Pilzen"
 aiGenerated: true

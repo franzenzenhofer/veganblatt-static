@@ -1,6 +1,6 @@
 ---
 filename: "ai-eis-am-stiel.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Bunte Abkühlung: DIY Eis am Stiel"
 aiGenerated: true

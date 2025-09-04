@@ -344,7 +344,7 @@ COMMENTS: [your brief feedback]`;
   private async createImageMetadata(filename: string, recipeData: RecipeData, prompt: string): Promise<ImageMetadata> {
     return {
       filename,
-      copyright: '© AI Generated - VeganBlatt',
+      copyright: '© AI Generiert - zur Illustration',
       source: 'Gemini 2.5 Flash Image Preview',
       altText: recipeData.title,
       width: 2000,
@@ -364,18 +364,17 @@ COMMENTS: [your brief feedback]`;
       `${metadata.filename}.md`
     );
     
+    // Escape quotes in altText by replacing double quotes with single quotes
+    const safeAltText = metadata.altText.replace(/"/g, "'");
+    
     const content = `---
 filename: "${metadata.filename}"
 copyright: "${metadata.copyright}"
 source: "${metadata.source}"
-altText: "${metadata.altText}"
-width: ${metadata.width}
-height: ${metadata.height}
-mimeType: "${metadata.mimeType}"
-uploadDate: "${metadata.uploadDate}"
-originalUrl: "${metadata.originalUrl}"
+altText: "${safeAltText}"
 aiGenerated: true
 model: "${metadata.model}"
+uploadDate: "${metadata.uploadDate}"
 ---
 
 # AI Generated Image
@@ -392,20 +391,20 @@ ${metadata.copyright}
 
   private async updateRecipeWithImage(recipeFile: string, imageFilename: string): Promise<void> {
     const recipePath = path.join('/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes', recipeFile);
-    let content = await fs.readFile(recipePath, 'utf-8');
+    const content = await fs.readFile(recipePath, 'utf-8');
     
-    // Add featuredImage to frontmatter
-    const frontmatterEnd = content.indexOf('---', 4);
-    if (frontmatterEnd > 0) {
-      const beforeEnd = content.substring(0, frontmatterEnd);
-      const afterEnd = content.substring(frontmatterEnd);
-      
-      // Add featuredImage before the closing ---
-      content = `${beforeEnd}featuredImage: ai/${imageFilename}\n${afterEnd}`;
-      
-      await fs.writeFile(recipePath, content);
-      console.log(`   📝 Updated recipe with featured image`);
-    }
+    // Parse the frontmatter properly using gray-matter (already imported at top)
+    const { data, content: markdown } = matter(content);
+    
+    // Update the frontmatter data
+    data.aiGeneratedDate = new Date().toISOString();
+    data.featuredImage = `ai/${imageFilename}`;
+    
+    // Recreate the file content with updated frontmatter
+    const updatedContent = matter.stringify(markdown, data);
+    
+    await fs.writeFile(recipePath, updatedContent);
+    console.log(`   📝 Updated recipe with featured image and AI generation date`);
   }
 
   private printFinalReport(results: ImageGenerationResult[]): void {

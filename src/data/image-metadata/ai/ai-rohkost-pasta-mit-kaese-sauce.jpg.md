@@ -1,8 +1,8 @@
 ---
 filename: "ai-rohkost-pasta-mit-kaese-sauce.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
-altText: "Vegane Rohkost-Pasta mit "Käse"-Sauce"
+altText: "Vegane Rohkost-Pasta mit 'Käse'-Sauce"
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
 uploadDate: "2025-09-04T11:32:57.550Z"

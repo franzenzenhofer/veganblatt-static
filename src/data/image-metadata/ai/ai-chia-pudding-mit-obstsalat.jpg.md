@@ -1,6 +1,6 @@
 ---
 filename: "ai-chia-pudding-mit-obstsalat.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Leckerer Veganer Chia-Pudding mit Obstsalat"
 aiGenerated: true

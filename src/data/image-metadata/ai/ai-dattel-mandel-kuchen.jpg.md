@@ -1,6 +1,6 @@
 ---
 filename: "ai-dattel-mandel-kuchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Dattel-Mandel Kuchen, gluten- & zuckerfrei"
 aiGenerated: true

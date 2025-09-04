@@ -1,6 +1,6 @@
 ---
 filename: "ai-halloween-bananen-geister.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Halloween-Rezept: Lustige Bananen-Geister"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-bunte-gemuese-suppe-quinoa.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Bunte Gemüsesuppe mit Quinoa für kalte Tage"
 aiGenerated: true

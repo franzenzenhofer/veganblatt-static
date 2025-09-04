@@ -1,6 +1,6 @@
 ---
 filename: "ai-beeren-biskuit-kuchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Biskuitkuchen mit Beeren"
 width: 2000

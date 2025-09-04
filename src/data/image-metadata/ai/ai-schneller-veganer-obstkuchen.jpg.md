@@ -1,6 +1,6 @@
 ---
 filename: "ai-schneller-veganer-obstkuchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Schneller, veganer Obstkuchen"
 aiGenerated: true

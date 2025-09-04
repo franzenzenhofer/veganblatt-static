@@ -1,6 +1,6 @@
 ---
 filename: "ai-dinkelvollkorn-pfannkuchen.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Pfannkuchen bzw. Palatschinken: vegan & vollwertig"
 aiGenerated: true

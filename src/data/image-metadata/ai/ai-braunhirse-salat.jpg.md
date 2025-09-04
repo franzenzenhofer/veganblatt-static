@@ -1,6 +1,6 @@
 ---
 filename: "ai-braunhirse-salat.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Braunhirse-Salat mit Brunnenkresse & Birne"
 aiGenerated: true

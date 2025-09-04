@@ -1,6 +1,6 @@
 ---
 filename: "ai-getreidebrei.jpg"
-copyright: "© AI Generated - for illustration"
+copyright: "© AI Generiert - zur Illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Das morgendliche Glück liegt im Getreidebrei"
 aiGenerated: true
