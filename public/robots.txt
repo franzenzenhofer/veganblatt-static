@@ -1,5 +1,5 @@
 # VeganBlatt Robots.txt
-# Generated: 2025-09-04T16:47:04.956Z
+# Generated: 2025-09-04T17:13:52.639Z
 
 User-agent: *
 Allow: /

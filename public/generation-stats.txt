@@ -3,4 +3,4 @@ Generation Statistics:
 - Recipes: 723  
 - Images: 0
 - Broken Links: 0
-- Duration: 2.186s
+- Duration: 6.516s
