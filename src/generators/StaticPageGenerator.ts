@@ -122,7 +122,8 @@ export class StaticPageGenerator {
       import MiniSearch from '/js/minisearch.esm.js';
       async function init() {
         try {
-          const idxJson = await fetch('/search-index.json', { cache: 'no-store' }).then(r => r.json());
+          // MiniSearch.loadJSON expects a JSON string, not an object
+          const idxJson = await fetch('/search-index.json', { cache: 'no-store' }).then(r => r.text());
           const mini = MiniSearch.loadJSON(idxJson, {
             fields: ['title','text'],
             storeFields: ['title','url'],

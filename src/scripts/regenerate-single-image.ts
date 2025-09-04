@@ -100,7 +100,7 @@ async function generateImage(genAI: any, recipe: any): Promise<void> {
         const metadataPath = path.join(IMAGE_METADATA_DIR, metadataFile);
         const metadata = {
           filename: `ai/${imageName}`,
-          copyright: '© AI Generated - for illustration',
+          copyright: '© Bild AI generiert zu Illustrationszwecken',
           altText: title
         };
         

@@ -21,4 +21,4 @@ Original 1024x1024 image cropped to 1024x640 (16:10 landscape).
 Gegrillte Lavendel-Lemon-Chili Champignons
 
 ## Copyright
-© AI Generated - for illustration - Creative Commons CC0
+© Bild AI generiert zu Illustrationszwecken - Creative Commons CC0

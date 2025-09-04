@@ -20,4 +20,4 @@ This image was generated for VeganBlatt using Gemini 2.5 Flash Image Preview.
 Knusprige Gemüseschnitzel vegan paniert
 
 ## Copyright
-© AI Generated - for illustration - Creative Commons CC0
+© Bild AI generiert zu Illustrationszwecken - Creative Commons CC0
