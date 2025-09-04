@@ -7,6 +7,8 @@ excerpt: >-
   Pure gemixte grüne Power und die Extra Portion Chlorophyll! Grüne Smoothies
   wirken blutreinigend und sind ein wahrer Vitalstoff-Cocktail. Hier unser
   Geheimtipp für den richtigen Mix!
+aiGeneratedDate: '2025-09-04T16:09:45.651Z'
+featuredImage: ai/ai-beste-gruene-smoothies.jpg
 ---
 
 Manches Gemüse wie z.B. [Grünkohl](https://www.veganblatt.com/gruenkohl) mit seinen harten Stängeln ist nicht so leicht klein zu kriegen und es schmeckt einfach nicht toll, wenn man noch lauter Blattstücke im Smoothie hat auf denen man herumkaut. Außerdem sollen ja die Fasern aufgebrochen werden, damit alle wichtigen Stoffe frei liegen und vom Körper besser aufgenommen werden können. Hier unsere Tipps für das richtige grüne Smoothie-Vergügen:

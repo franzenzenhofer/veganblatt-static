@@ -23,6 +23,8 @@ images:
   - marzipan-ei.jpeg
   - favorina-marzipan-eier.jpeg
   - gelee-orangen.jpeg
+aiGeneratedDate: '2025-09-04T16:11:57.312Z'
+featuredImage: ai/ai-veganes-oster-sortiment-supermarkt.jpg
 ---
 
 ### Vegane Ostern!

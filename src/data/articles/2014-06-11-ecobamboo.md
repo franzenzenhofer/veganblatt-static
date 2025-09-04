@@ -7,6 +7,8 @@ excerpt: >-
   Plastik ade! Biologisch und aus nachwachsenden Materialien sind die neuen
   Bambus Zahnbürsten von ecobamboo, die es in verschiedenen Härtegraden und auch
   für Kinder gibt!
+aiGeneratedDate: '2025-09-04T16:15:42.107Z'
+featuredImage: ai/ai-ecobamboo.jpg
 ---
 
 ## Eine kleine Änderung - ein großer Unterschied

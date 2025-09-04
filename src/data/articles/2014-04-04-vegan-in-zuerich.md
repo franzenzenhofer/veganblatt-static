@@ -6,6 +6,8 @@ slug: vegan-in-zuerich
 excerpt: >-
   Es scheint, dass viele Vegetarier auch in der Schweiz langsam den nächsten
   Schritt zur veganen Ernährungsweise wagen und dabei positiv überrascht sind.
+aiGeneratedDate: '2025-09-04T16:12:07.615Z'
+featuredImage: ai/ai-vegan-in-zuerich.jpg
 ---
 
 In Zürich hat Lauren Wildbolz eine [Vegan Bakery](http://vegankitchenandbakery.ch/) gegründet. Auch heute ist Lauren noch aktiv mit Catering-Diensten, Kursen und Workshops. Nun hat die [Firma Soyana](http://www.soyana.ch/), die seit 30 Jahren alternative "Milch"-Drinks, Tofu andere vegane Produkte produziert, den Laden übernommen.

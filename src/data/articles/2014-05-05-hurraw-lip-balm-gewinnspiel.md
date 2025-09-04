@@ -7,6 +7,8 @@ excerpt: >-
   Samtweiche Lippen ohne Chemie oder anderen Mist! Lippenpflege von Hurraw
   zaubert Lippen zum Knutschen, ist vegan, bio und noch dazu roh! Hier gibt es
   5x2 Lip Balms zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:13:41.654Z'
+featuredImage: ai/ai-hurraw-lip-balm-gewinnspiel.jpg
 ---
 
 ### Hip - Hip - [HURRAW](http://www.hurrawbalm.com/hurraw/)

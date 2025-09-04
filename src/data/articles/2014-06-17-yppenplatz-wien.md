@@ -6,6 +6,8 @@ slug: yppenplatz-wien
 excerpt: >-
   Der Platz am Ende der Brunnengasse im 16. Wiener Bezirk bietet seit einigen
   Jahren Naschmarkt-Atmosphäre in Kleinform.
+aiGeneratedDate: '2025-09-04T16:15:52.538Z'
+featuredImage: ai/ai-yppenplatz-wien.jpg
 ---
 
 Es gibt viele unterschiedliche Restaurants am Yppenplatz: von italienischer, orientalischer und indischer bis hin zu traditioneller einheimischer Küche und drei davon haben ihre Karte nun mit ein paar pflanzlichen Speisen erweitert.

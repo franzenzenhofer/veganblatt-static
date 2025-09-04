@@ -7,6 +7,8 @@ excerpt: >-
   Mit der KochAbo-Box flattern einem die Zutaten inkl. toller Rezepte ins Haus.
   So praktisch, so einfach und nun auch rein pflanzlich kann kochen sein! 2
   vegane KochAbo-Boxen könnt Ihr hier auch gewinnen!
+aiGeneratedDate: '2025-09-04T16:14:03.751Z'
+featuredImage: ai/ai-vegane-kochabo-box.jpg
 ---
 
 ### Selbst vegan zu kochen war noch nie so einfach!

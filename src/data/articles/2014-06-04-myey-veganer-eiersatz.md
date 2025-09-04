@@ -7,6 +7,8 @@ excerpt: >-
   Rein pflanzlich, bio & garantiert ohne Salmonellen! Mit MyEy kann man jede
   Hürde nehmen, die einem als VeganerIn mit manchen Ei-lastigen Rezepten
   gestellt wird. Von Spiegeley bis Eyschnee, alles geht damit vegan!
+aiGeneratedDate: '2025-09-04T16:15:12.474Z'
+featuredImage: ai/ai-myey-veganer-eiersatz.jpg
 ---
 
 ### Pflanzen- statt Hühnerei!

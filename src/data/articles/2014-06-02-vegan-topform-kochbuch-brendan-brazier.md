@@ -7,6 +7,8 @@ excerpt: >-
   Geballtes Food-Know-how und über 200 pflanzliche Rezepte für optimale Leistung
   und Gesundheit präsentiert Top-Athlet Brendan Brazier in diesem tollen
   Kochbuch. 5 Exemplare gibt´s für Euch zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:14:51.784Z'
+featuredImage: ai/ai-vegan-topform-kochbuch-brendan-brazier.jpg
 ---
 
 ## Mehr als ein Kochbuch

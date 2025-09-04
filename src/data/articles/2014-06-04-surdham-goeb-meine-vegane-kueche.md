@@ -7,6 +7,8 @@ excerpt: >-
   Vegane Küche, die einfach begeistert: Schokomousse-Torte, Roast-Beet-Foccacio
   oder ein Bayerischer Sellerie Braten gefällig? Dann tretet ein in Surdhams
   Reich der unglaublichen Geschmackserlebnisse!
+aiGeneratedDate: '2025-09-04T16:15:22.619Z'
+featuredImage: ai/ai-surdham-goeb-meine-vegane-kueche.jpg
 ---
 
 ### Sympathisch, innovativ, bio

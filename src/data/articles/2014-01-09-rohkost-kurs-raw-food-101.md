@@ -6,6 +6,8 @@ slug: rohkost-kurs-raw-food-101
 excerpt: >-
   Mehr Vitalität, Schwung mit Rohkost! Wie gut das schmecken kann, zeigt Euch
   Rohkost-Koch Julian Kutos mit diesem Kurs.
+aiGeneratedDate: '2025-09-04T16:09:07.620Z'
+featuredImage: ai/ai-rohkost-kurs-raw-food-101.jpg
 ---
 
 Julian führt Euch mit diesem Intensiv-Workshop in die Geheimnisse der kalten Küche ein. In diesen 2 Tagen lernt Ihr die Grundlagen der Rohkost-Ernährung. Seid Ihr schon gespannt was es da neben den theoretischen Inhalten auch alles zu kosten geben wird? Hier ein Einblick in den kulinarischen Kursinhalt:

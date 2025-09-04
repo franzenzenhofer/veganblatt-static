@@ -6,6 +6,8 @@ slug: kochen-mit-matcha
 excerpt: >-
   Matcha, der neue Star am Teehimmel, ist nicht nur ein gesundes Trendgetränk,
   sondern zaubert auch einen delikaten Geschmack in vielerlei Gerichte.
+aiGeneratedDate: '2025-09-04T16:08:56.440Z'
+featuredImage: ai/ai-kochen-mit-matcha.jpg
 ---
 
 ### Der Zaubertrank

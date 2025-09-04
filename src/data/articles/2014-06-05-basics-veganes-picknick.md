@@ -7,6 +7,8 @@ excerpt: >-
   Wenn die Sonne draußen scheint, gibt es nichts Schöneres als ein Picknick im
   Grünen. Mit diesen Tipps wird auch ein ganz spontanes Picknick ohne viel
   Vorbereitungen einfach zum Erfolg.
+aiGeneratedDate: '2025-09-04T16:15:32.864Z'
+featuredImage: ai/ai-basics-veganes-picknick.jpg
 ---
 
 Das Wetter ist schön und ihr wollt picknicken? Egal ob ganz spontan oder doch schon etwas überlegter am Wochenende: mit diesen 6 Tipps werdet Ihr bestimmt einen schönen Tag im Freien verbringen und habt an alles gedacht.  Auch, wenn man keine Zeit hat, Vorbereitungen zu treffen, steht dem Spontan-Picknick nichts im Weg. Vegane Köstlichkeiten zum Mitnehmen und im Freien genießen findet ihr inzwischen in jedem SPAR-Markt. Besonders das **[SPAR Veggie](https://www.veganblatt.com/schnelle-vegane-kueche-mit-spar-veggie)** Sortiment bietet eine Fülle an rein pflanzlichem Essen to go - perfekt für´s Picknick!

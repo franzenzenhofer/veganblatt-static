@@ -7,6 +7,8 @@ excerpt: >-
   Joya lädt heuer alle Yogis, Yoginis und die, die es noch werden wollen, wieder
   zur Yoga Convention in den Park ein, wo sich alles um einen bewussten
   Lebensstil und natürlich um Yoga dreht.
+aiGeneratedDate: '2025-09-04T16:13:52.517Z'
+featuredImage: ai/ai-joya-yoga-convention.jpg
 ---
 
 ## Bewegung, Genuss & Lebensfreude

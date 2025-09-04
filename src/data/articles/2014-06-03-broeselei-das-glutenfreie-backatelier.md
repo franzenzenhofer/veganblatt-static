@@ -7,6 +7,8 @@ excerpt: >-
   Durchgehend glutenfrei und auch ohne Konservierungs-, Farb- oder Aromastoffe,
   zum großen Teil rein pflanzlich und natürlich überaus lecker sind die Kuchen,
   Brote, Müslis, Cracker und Kekse von der bröselei!
+aiGeneratedDate: '2025-09-04T16:15:02.825Z'
+featuredImage: ai/ai-broeselei-das-glutenfreie-backatelier.jpg
 ---
 
 Für diejenigen mit Gluten- und Laktoseunverträglichkeit und die, die aus anderen Gründen darauf verzichten, haben wir eine gute Nachricht: von dem Wiener Backatelier **[bröselei](https://www.broeselei.at/)** gibt es jetzt völlig unkontaminierte Produkte, darunter Kuchen, Brote, Cracker, Kekse und Müsli. Damit ist das Frühstück, der Snack zwischendurch und der Kuchen oder die Kekse zum Kaffee gesichert. Einige Produkte sind auch rein pflanzlich. Glutenfrei & vegane Produkte sind ja wirklich nicht so leicht zu finden. Auf der Website der [**bröselei**](https://www.broeselei.at/) könnt Ihr sie ganz leicht per [Suchfunktion](https://www.broeselei.at/suche) aufspüren. Hier gibt es einige und die klingen und schmecken noch dazu ausgezeichnet:

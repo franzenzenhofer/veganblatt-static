@@ -9,6 +9,8 @@ excerpt: >-
   kleinen Gourmets schnell für sich!
 images:
   - lustige-rohkost.jpg
+aiGeneratedDate: '2025-09-04T16:10:08.222Z'
+featuredImage: ai/ai-vegan-kochen-kinder.jpg
 ---
 
 Manche Kinder essen alles, was man ihnen vorsetzt, mit Begeisterung. Andere entwickeln schnell bestimmte Vorlieben oder sind heikel. Während manche große Fans von Obst und Gemüse sind, schieben es viele lieber zur Seite. Schätzt Euch glücklich, wenn Euer Kind zu ersterem Typ gehört. Für alle die sich etwas kreativer betätigen müssen, um ihre Kinder für gesundes Essen zu begeistern, haben wir hier ein paar Tipps:

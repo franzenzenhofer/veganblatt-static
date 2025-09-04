@@ -6,6 +6,8 @@ slug: xylit-zahnpflege-bonbons
 excerpt: >-
   Bonbons für die Zahnpflege? Ein Kindheitstraum wird wahr! Mit den Zuckerln aus
   Birkenzucker wird Karies effektiv bekämpft und re-mineralisiert die Zähne.
+aiGeneratedDate: '2025-09-04T16:08:26.068Z'
+featuredImage: ai/ai-xylit-zahnpflege-bonbons.jpg
 ---
 
 Zugegebenermaßen, es klingt absurd! Hat man uns doch seit frühauf eingeredet, dass Süßes schlecht für die Zähne ist und dann auf einmal so etwas!

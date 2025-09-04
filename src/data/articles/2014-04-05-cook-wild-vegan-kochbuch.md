@@ -7,6 +7,8 @@ excerpt: >-
   Mit diesem originellen Kochbuch zeigt Stefano Vicinoadio mit viel Leidenschaft
   wie groß die kreative Bandbreite der veganen Küche ist. Da bekommt man sofort
   Lust den Kochlöffel zu schwingen!
+aiGeneratedDate: '2025-09-04T16:12:18.146Z'
+featuredImage: ai/ai-cook-wild-vegan-kochbuch.jpg
 ---
 
 ### Kreative vegane Küche leicht gemacht!

@@ -6,6 +6,8 @@ slug: backen-ohne-milch-und-ei-marie-laforet
 excerpt: >-
   Kompakt und wunderschön illustriert gibt Marie Laforet ihre verführerischen,
   einfachen Dessertrezepte zum Besten. 3 Exemplare gibt´s für Euch zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:12:50.685Z'
+featuredImage: ai/ai-backen-ohne-milch-und-ei-marie-laforet.jpg
 ---
 
 Den wunderbaren französischen Rezepteblog [**100% vegetal**](http://www.100-vegetal.com/) von Marie Laforet verfolge ich schon länger. Die herrlich farbenfrohen Fotos und die außergewöhnlichen Kreationen haben es mir angetan. Wie schön, dass es ihr Dessertbuch jetzt in der deutschen Fassung gibt und wir es sogar verlosen dürfen!

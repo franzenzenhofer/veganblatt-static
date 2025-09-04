@@ -7,6 +7,8 @@ excerpt: >-
   Überraschend vegan und köstlich sind sie, die Schlipfkrapfen, die es zum Glück
   nicht nur in Osttirol gibt. Wer die Mühe des Selbstmachens scheut, kann sie
   auch fertig kaufen!
+aiGeneratedDate: '2025-09-04T16:12:29.003Z'
+featuredImage: ai/ai-vegane-schlipfkrapfen.jpg
 ---
 
 So wie bei vielen regional eigentümlichen Gerichten sind auch die Schlipfkrapfen in der Eigenproduktion ein Tagesauftrag für ungeübte HobbyköchInnen. Nicht so in Osttirol, wo die hohe Kunst der Schlipfkrapfen-Macherei seit Generationen weitergegeben wird und die Übung den Meister bzw. die Meisterinnen macht. Da kommen die veganen Schlipfkrapfen nämlich her, die man zum Glück auch in der österreichischen Bundeshauptstadt erstehen kann.

@@ -7,6 +7,8 @@ excerpt: >-
   Diese professionellen, naturkosmetischen Pflegeprodukte ohne tierische
   Inhaltsstoffe werden Deine Haut und Haare zum Strahlen bringen. Wir haben´s
   getestet und es überzeugt auf ganzer Linie!
+aiGeneratedDate: '2025-09-04T16:13:10.756Z'
+featuredImage: ai/ai-giovanni-eco-chic.jpg
 ---
 
 ## So pur & natürlich wie möglich

@@ -7,6 +7,8 @@ excerpt: >-
   Der Schweizer Spitzenkoch Rolf Caviezel beweist in seinem neuen Buch „Meine
   Veggie-Küche“ eindrucksvoll, dass im Verzicht der pure Genuss liegen kann. 2
   Exemplare gibt es für Euch zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:14:13.875Z'
+featuredImage: ai/ai-meine-veggie-kueche-rolf-caviezel.jpg
 ---
 
 ## Genuss statt Verzicht

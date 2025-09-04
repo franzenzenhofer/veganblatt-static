@@ -9,6 +9,8 @@ excerpt: >-
   etablierten Bäckereiketten in Wien einiges über Brot hinaus an.
 images:
   - anker-vegan.jpg
+aiGeneratedDate: '2025-09-04T16:10:46.805Z'
+featuredImage: ai/ai-veganes-baeckereien-wien.jpg
 ---
 
 Das Angebot an VeganerInnen seitens der großen österreichischen Bäckereiketten ist sehr durchwachsen - offensichtlich scheint aber, dass keine es sich leisten kann und möchte, diese wachsende Zielgruppe ganz zu vergrämen.

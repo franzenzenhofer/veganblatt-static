@@ -7,6 +7,8 @@ excerpt: >-
   Es gibt bereits eine große Auswahl vegane Kochbücher am Büchermarkt.
   Backbücher gibt weniger und noch seltener findet man eines mit klassischen
   Rezepten und erfrischenden Ideen.
+aiGeneratedDate: '2025-09-04T16:11:14.764Z'
+featuredImage: ai/ai-vegane-backtraeume.jpg
 ---
 
 Der feine Topfenkuchen ist Brigitte Bachs Lieblingsspeise. Dieser war in ihrer rein pflanzlichen Ernährungsweise, für die sie sich entschieden hatte, bedauerlicherweise nicht am Speiseplan. Genau dieses "Problem" verleitete sie kreativ zu werden und sie begann vegan zu backen. Nur beim rein pflanzlichen Topfenkuchen blieb es allerdings nicht. Sie experimentierte viel und fand heraus, dass vegan backen doch nicht so schwer ist, wie viele Menschen denken.  

@@ -7,6 +7,8 @@ excerpt: >-
   Der Grünkohl (engl. Kale) ist ein nahezu vergessenes Wintergemüse, das sehr
   viele wertvolle Vitamine und Mineralstoffe enthält und auch ausgezeichnet
   schmeckt!
+aiGeneratedDate: '2025-09-04T16:08:46.551Z'
+featuredImage: ai/ai-gruenkohl.jpg
 ---
 
 Es gilt für viele schon als selbstverständlich im Supermarkt ganzjährig Obst und Gemüse zu bekommen. Ob das für den menschlichen Körper natürlich gesund ist, wenn er im Winter Sommerfrüchte bekommt, sei dahingestellt. Es gibt auch vorzügliches Wintergemüse, das wertvolle Vital- und Mineralstoffe enthält, um das Immunsystem zu stärken. Gute Sorten sind im Supermarkt oft in den Hintergrund gerückt und das Angebot hat noch dazu stark abgenommen. Generell gehören zum Wintergemüse Kohlsorten wie Weißkohl, Rotkohl, Blumenkohl (Karfiol), Rosenkohl, Grünkohl oder Kohlrabi und Wurzelgemüse wie zum Beispiel Lauch, Schwarzwurzel, Rüben, Sellerie, Kürbis oder Topinambur. Im Folgenden stellen wir Euch den Grünkohl als eines der kostbarsten Wintergemüse vor.
