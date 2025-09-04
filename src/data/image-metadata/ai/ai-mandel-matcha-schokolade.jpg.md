@@ -1,6 +1,6 @@
 ---
 filename: "ai-mandel-matcha-schokolade.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Mandel-Schokolade in 2 Varianten"
 aiGenerated: true

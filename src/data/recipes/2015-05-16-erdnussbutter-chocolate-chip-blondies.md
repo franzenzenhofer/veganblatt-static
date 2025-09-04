@@ -32,5 +32,7 @@ recipe:
       geben.
     - Bei 180°C für 25min backen. Stäbchenprobe machen.
     - Auskühlen lassen und dann in Quadrate schneiden. Yummie!
+aiGeneratedDate: '2025-09-04T12:54:29.453Z'
+featuredImage: ai/ai-erdnussbutter-chocolate-chip-blondies.jpg
 ---
 

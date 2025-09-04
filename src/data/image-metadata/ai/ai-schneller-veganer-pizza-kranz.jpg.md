@@ -1,6 +1,6 @@
 ---
 filename: "ai-schneller-veganer-pizza-kranz.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Schneller, Veganer Pizza-Kranz"
 aiGenerated: true

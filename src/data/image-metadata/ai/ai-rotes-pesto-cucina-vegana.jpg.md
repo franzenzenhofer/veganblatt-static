@@ -1,6 +1,6 @@
 ---
 filename: "ai-rotes-pesto-cucina-vegana.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Rotes Pesto nach Cucina Vegana"
 aiGenerated: true

@@ -26,6 +26,8 @@ recipe:
       aufschlagen. Dann den Zucker einrieseln lassen und für 5min weiterschlagen
       bis sich richtig feste Spitzen bilden.
     - Den Schnee am besten gleich weiterverarbeiten.
+aiGeneratedDate: '2025-09-04T12:53:15.533Z'
+featuredImage: ai/ai-veganer-eischnee-aquafaba.jpg
 ---
 
 Was habt Ihr noch für Ideen, was man mit der Wunder-Schneemasse alles anstellen kann? Wir legen mal los mit einer Baiser-Haube für den Kuchen! Achtung beim Experimentieren: der Schnee verträgt keine hohen Temperaturen über 100°C. Er lässt sich dafür super im Dörrautomat trocknen oder im Backrohr bei niedrigen Temperaturen. Wir haben uns schon mal für Euch auf die Suche nach den besten Rezepten mit Aquafaba gemacht et voilà [**hier**](https://www.veganblatt.com/aquafaba-rezepte) kommen sie.

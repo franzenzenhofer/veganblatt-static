@@ -1,6 +1,6 @@
 ---
 filename: "ai-schnelles-wok-gemuese-mit-seitan.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Schnelles vegane Wok-Gemüse mit Seitan-Würfel"
 aiGenerated: true

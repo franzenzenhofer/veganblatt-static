@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohvegane-cannelloni-mit-marinierten-pilzen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Rohvegane Cannelloni mit marinierten Pilzen"
 aiGenerated: true

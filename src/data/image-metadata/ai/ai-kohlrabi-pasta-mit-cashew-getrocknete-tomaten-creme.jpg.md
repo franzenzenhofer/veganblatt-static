@@ -1,6 +1,6 @@
 ---
 filename: "ai-kohlrabi-pasta-mit-cashew-getrocknete-tomaten-creme.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Kohlrabi-Pasta mit Cashew & getrocknete Tomaten Creme"
 aiGenerated: true

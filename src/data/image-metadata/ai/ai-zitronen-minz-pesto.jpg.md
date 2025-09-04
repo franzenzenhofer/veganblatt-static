@@ -1,6 +1,6 @@
 ---
 filename: "ai-zitronen-minz-pesto.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Minzpesto vegane mit zitroniger Note"
 aiGenerated: true

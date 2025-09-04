@@ -1,6 +1,6 @@
 ---
 filename: "ai-gruener-smoothie-zuckermelonen-spinat.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Doppelt Veganer grün: Zuckermelonen-Spinat-Smoothie"
 aiGenerated: true

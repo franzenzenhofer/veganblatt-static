@@ -36,6 +36,8 @@ recipe:
     - >-
       Vor dem Anschneiden vollständig auskühlen lassen. Hält ca. 5 Tage und
       lässt sich aufgeschnitten super einfrieren und wieder auftoasten.
+aiGeneratedDate: '2025-09-04T12:54:48.008Z'
+featuredImage: ai/ai-life-changing-bread-glutenfreies-brot.jpg
 ---
 
 [<!-- Image removed (no copyright): life-changing-bread-2-1-640x424.jpg -->](https://www.veganblatt.com/i/life-changing-bread-2-1.jpg)

@@ -1,6 +1,6 @@
 ---
 filename: "ai-dinkel-schoko-cookies.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Bio-vegane Dinkel-Schoko-Cookies "
 aiGenerated: true

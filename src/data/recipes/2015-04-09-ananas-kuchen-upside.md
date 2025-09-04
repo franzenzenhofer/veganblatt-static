@@ -32,5 +32,7 @@ recipe:
     - >-
       Etwas auskühlen lassen, den Rand mit einem Messer lösen, die Springform
       öffnen und den Kuchen auf einen Teller stürzen. Voila!
+aiGeneratedDate: '2025-09-04T12:52:46.817Z'
+featuredImage: ai/ai-ananas-kuchen-upside.jpg
 ---
 

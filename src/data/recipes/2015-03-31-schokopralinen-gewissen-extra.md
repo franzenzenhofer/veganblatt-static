@@ -24,6 +24,8 @@ recipe:
       Mengen mit den Nüssen mixen.
     - Kleine Bällchen formen und im Kühlschrank lagern.
     - Genießen!
+aiGeneratedDate: '2025-09-04T12:52:37.692Z'
+featuredImage: ai/ai-schokopralinen-gewissen-extra.jpg
 ---
 
 So klein und schon im Mund. Diese Schoko-Kugeln sind ganz ohne Zucker, glutenfrei und auch noch gesund. Das gewisse Extra kommt durch die Rote Bete. Zuerst probieren lassen und dann das Geheimnis lüften und sich über die erstaunten Gesichter freuen.

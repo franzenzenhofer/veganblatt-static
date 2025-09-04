@@ -47,5 +47,7 @@ recipe:
     - >-
       Die Frittata mit der Sauce servieren. Dazu passt ein bunter, gemischter
       Salat.
+aiGeneratedDate: '2025-09-04T12:54:39.425Z'
+featuredImage: ai/ai-spinat-frittata-mit-saurer-sahne-aus-sonnenblumenkernen.jpg
 ---
 

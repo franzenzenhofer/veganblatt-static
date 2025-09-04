@@ -1,6 +1,6 @@
 ---
 filename: "ai-reis-basilikum-baellchen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganes Reis-Basilikum-Bällchen à la Attila"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-hafer-soja-laibchen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Hafer-Soja-Laibchen"
 aiGenerated: true

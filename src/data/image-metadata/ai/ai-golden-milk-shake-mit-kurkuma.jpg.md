@@ -1,6 +1,6 @@
 ---
 filename: "ai-golden-milk-shake-mit-kurkuma.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Golden Veganer Milk Shake mit Kurkuma"
 aiGenerated: true

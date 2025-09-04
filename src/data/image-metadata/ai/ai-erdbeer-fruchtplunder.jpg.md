@@ -1,6 +1,6 @@
 ---
 filename: "ai-erdbeer-fruchtplunder.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane 5 Minuten Erdbeer-Fruchtplunder"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-kuerbis-creme-suppe.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Gesundmach-Suppe mit Kürbis und Hirse"
 aiGenerated: true

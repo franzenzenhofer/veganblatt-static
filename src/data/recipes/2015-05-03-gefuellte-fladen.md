@@ -1,5 +1,5 @@
 ---
-title: "Vegane gefüllte Fladen mit Kichererbsen & Spinat"
+title: Vegane gefüllte Fladen mit Kichererbsen & Spinat
 date: '2015-05-03 13:34:57'
 modified: '2015-08-27 13:03:24'
 slug: gefuellte-fladen
@@ -43,6 +43,8 @@ recipe:
       EL Füllung in die Mitte. Alles zur Mitte hin zusammenfalten und oben etwas
       zusammendrücken.
     - Für 30 min. bei 200 Grad in den Ofen.
+aiGeneratedDate: '2025-09-04T12:53:42.358Z'
+featuredImage: ai/ai-gefuellte-fladen.jpg
 ---
 
 Steht ein Picknick an oder eine Party, auf die Fingerfood mitgebracht werden soll, dann sind diese Fladen genau das richtige. Sie können überall mitgenommen werden und lassen sich auch super einfrieren, um auch nach Wochen noch etwas davon zu haben. Egal ob orientalisches Frühstück, Snack zwischendurch, oder als Hauptspeise mit einem frischen Salat, für diese kleinen Fladen ist, immer Zeit. [<!-- Image removed (no copyright): Fladen-collage-640x228.jpg -->](https://www.veganblatt.com/i/Fladen-collage.jpg)

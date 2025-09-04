@@ -1,6 +1,6 @@
 ---
 filename: "ai-miigan-soy-protex-rezept-gewinnspiel.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Sesam vegane Soja Schnetzel mit Miigan Soy Protex + Gewinnspiel"
 aiGenerated: true

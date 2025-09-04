@@ -1,6 +1,6 @@
 ---
 filename: "ai-french-toast-mit-kuerbis.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "French Toast mit Kürbis und Mandelsplittern"
 aiGenerated: true

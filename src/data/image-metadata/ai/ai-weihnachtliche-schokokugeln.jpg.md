@@ -1,6 +1,6 @@
 ---
 filename: "ai-weihnachtliche-schokokugeln.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Weihnachtliche Schokokugeln"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-mandel-schoko-beeren-toertchen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Mandel-Schoko-Törtchen mit Beeren"
 aiGenerated: true

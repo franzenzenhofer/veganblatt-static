@@ -1,6 +1,6 @@
 ---
 filename: "ai-diy-lippenpeeling.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "uvegane DIY Lippenpeeling mit Vanillenote "
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-scharfer-glas-nudelsalat.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Scharfer veganer Glas-Nudelsalat"
 aiGenerated: true

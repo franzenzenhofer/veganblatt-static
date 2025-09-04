@@ -1,6 +1,6 @@
 ---
 filename: "ai-wildkraeuter-suppe.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Grüne Frühlingssuppe mit Wildkräutern"
 aiGenerated: true

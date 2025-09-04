@@ -1,6 +1,6 @@
 ---
 filename: "ai-himbeereis-aus-2-zutaten.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Himbeereis aus 2 Zutaten"
 aiGenerated: true

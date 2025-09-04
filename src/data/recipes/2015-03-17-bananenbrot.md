@@ -34,6 +34,8 @@ recipe:
     - >-
       Wichtig! Komplett abkühlen lassen, bevor der Kuchen aus der Form genommen
       wird.
+aiGeneratedDate: '2025-09-04T12:51:47.701Z'
+featuredImage: ai/ai-bananenbrot.jpg
 ---
 
 Durch die vielen Bananen wird dieser Kuchen super saftig. Wer es gerne etwas gesünder und eher Richtung Brot haben will, kann die Zuckermenge halbieren und noch ein paar Nüsse in den Teig geben. Wird der Zucker komplett weggelassen und durch eine Hand voll eingeweichter gemixter Datteln ersetzt, ist dieses Brot eine super Frühstück-Alternative, um den Tag glücklich zu beginnen!

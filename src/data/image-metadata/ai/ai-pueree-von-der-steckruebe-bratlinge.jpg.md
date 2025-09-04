@@ -1,6 +1,6 @@
 ---
 filename: "ai-pueree-von-der-steckruebe-bratlinge.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Schnelle Küche: Püree von der Steckrübe mit mexikanischen Bratlingen"
 aiGenerated: true

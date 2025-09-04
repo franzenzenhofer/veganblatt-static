@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohkost-feigen-kokos-tart.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Rohköstliche Feigen-Kokos-Tart"
 aiGenerated: true

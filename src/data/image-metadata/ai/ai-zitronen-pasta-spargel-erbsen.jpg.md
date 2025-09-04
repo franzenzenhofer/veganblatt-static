@@ -1,6 +1,6 @@
 ---
 filename: "ai-zitronen-pasta-spargel-erbsen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Zitronen-Pasta mit grünem Spargel & Erbsen"
 aiGenerated: true

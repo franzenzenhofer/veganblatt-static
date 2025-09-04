@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohveganes-nutella.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Rohveganer Nougat-Aufstrich aka No-tella"
 aiGenerated: true

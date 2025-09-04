@@ -43,6 +43,8 @@ recipe:
     - Bei 200 °C für 20 min. in den Ofen.
     - Alles zusammenmischen und abschmecken.
     - Nach Lust und Laune stapeln!
+aiGeneratedDate: '2025-09-04T12:54:00.674Z'
+featuredImage: ai/ai-burger-ohne-fleischersatz.jpg
 ---
 
 Einfach leckere Gemüse-Bratlinge, frischer Salat, selbst gemachte Tomaten-Senf Soße und etwas Stapelkünste, damit das Ganze auch beim Essen noch in der Semmel bleibt.

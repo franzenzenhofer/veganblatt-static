@@ -1,6 +1,6 @@
 ---
 filename: "ai-baby-bok-choi-salat.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Baby-Bok Choi Salat mit Tofu & Sesam"
 aiGenerated: true

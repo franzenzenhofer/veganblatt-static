@@ -37,6 +37,8 @@ recipe:
       Einen Becher voll Mandeln mit etwas Agavendicksaft und Zimt mischen und
       für ca. 10 min (Achtung immer mal wieder wenden) im Ofen rösten.
     - Gebrannte Mandel auskühlen lassen und auf den Kuchen streuen.
+aiGeneratedDate: '2025-09-04T12:52:27.007Z'
+featuredImage: ai/ai-schoko-tarte-mit-mandeln.jpg
 ---
 
 Diese Tarte kommt ganz ohne Backofen aus. Einfach eineinhalb Stunden in den Kühlschrank stellen und genießen!

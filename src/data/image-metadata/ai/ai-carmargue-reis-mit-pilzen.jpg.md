@@ -1,6 +1,6 @@
 ---
 filename: "ai-carmargue-reis-mit-pilzen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Roter veganes Carmargue Reis mit Pilzen und getrockneten Tomaten"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-artischocken-pinienkernen-minze.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Baby-Artischocken mit Pinienkernen & Minze"
 aiGenerated: true

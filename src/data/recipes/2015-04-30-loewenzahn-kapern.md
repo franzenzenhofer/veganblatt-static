@@ -29,6 +29,8 @@ recipe:
     - >-
       In ein sauberes Schraubglas füllen, gut verschrauben und für min. 2 Wochen
       an einem kühlen, dunklen Ort lagern, bevor man sie probiert.
+aiGeneratedDate: '2025-09-04T12:53:32.622Z'
+featuredImage: ai/ai-loewenzahn-kapern.jpg
 ---
 
 [<!-- Image removed (no copyright): loewenzahn-knospen-1-640x424.jpg -->](https://www.veganblatt.com/i/loewenzahn-knospen-1.jpg)

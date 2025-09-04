@@ -1,6 +1,6 @@
 ---
 filename: "ai-selbstgemachtes-kokosnuss-joghurt-rejuvelac.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Selbstgemachtes vegane Kokosnuss-Joghurt mit Rejuvelac"
 aiGenerated: true

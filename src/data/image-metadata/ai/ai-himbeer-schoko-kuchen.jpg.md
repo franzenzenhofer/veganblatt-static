@@ -1,6 +1,6 @@
 ---
 filename: "ai-himbeer-schoko-kuchen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Himbeer-Kuchen mit Schokosplittern"
 aiGenerated: true

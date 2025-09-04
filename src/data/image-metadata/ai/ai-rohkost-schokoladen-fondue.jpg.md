@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohkost-schokoladen-fondue.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Rohköstliches Schokoladen-Fondue"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-pina-colada-schokolade.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Pina vegane Colada Schokolade"
 aiGenerated: true

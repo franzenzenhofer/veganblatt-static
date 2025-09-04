@@ -1,6 +1,6 @@
 ---
 filename: "ai-zucchini-nudeln-sauce-walnuss-parmesan.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Zucchini-Nudeln mit frischer Sauce und Walnuss Parmesan"
 aiGenerated: true

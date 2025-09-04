@@ -30,5 +30,7 @@ recipe:
       hineinfüllen und glattstreichen. Mit einem Tuch abgedeckt 3 Tage bei
       Raumtemperatur reifen lassen.
     - Danach im Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T12:53:24.523Z'
+featuredImage: ai/ai-veganer-ricotta-frischkaese-macadamia.jpg
 ---
 

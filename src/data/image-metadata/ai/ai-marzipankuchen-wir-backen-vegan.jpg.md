@@ -1,6 +1,6 @@
 ---
 filename: "ai-marzipankuchen-wir-backen-vegan.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Marzipankuchen aus \"Wir backen vegan\""
 aiGenerated: true

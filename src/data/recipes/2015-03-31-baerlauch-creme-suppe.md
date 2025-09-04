@@ -32,5 +32,7 @@ recipe:
     - >-
       Mit Hafersahne und einigen Bärlauchblättern garniert servieren. Schmeckt
       auch mit Brot-Croutons sehr lecker.
+aiGeneratedDate: '2025-09-04T12:52:18.272Z'
+featuredImage: ai/ai-baerlauch-creme-suppe.jpg
 ---
 

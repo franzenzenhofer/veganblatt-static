@@ -32,6 +32,8 @@ recipe:
       Nun die Milch in einen Topf geben, Kokosflocken einrühren und für ein paar
       Minuten köcheln lassen. Agar Agar einrühren und einmal aufkochen lassen.
     - Auf die Mangoschicht geben und auskühlen lassen.
+aiGeneratedDate: '2025-09-04T12:54:10.478Z'
+featuredImage: ai/ai-mango-kokos-schicht-pudding.jpg
 ---
 
 [<!-- Image removed (no copyright): schicht-pudding-640x480.jpg -->](https://www.veganblatt.com/i/schicht-pudding.jpg)

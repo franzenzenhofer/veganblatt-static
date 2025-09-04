@@ -1,6 +1,6 @@
 ---
 filename: "ai-kirsch-eis.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Gesundes Kirsch-Eis in 2 Minuten"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-schoko-creme-toertchen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane 3-fach Schoko-Creme-Törtchen mit Chia & Heidelbeeren"
 aiGenerated: true

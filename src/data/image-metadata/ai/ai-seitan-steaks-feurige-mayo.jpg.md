@@ -1,6 +1,6 @@
 ---
 filename: "ai-seitan-steaks-feurige-mayo.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Marinierte vegane Seitan-Steaks mit feuriger Mayo"
 aiGenerated: true

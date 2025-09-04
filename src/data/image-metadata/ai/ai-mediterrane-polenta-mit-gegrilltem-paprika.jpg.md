@@ -1,6 +1,6 @@
 ---
 filename: "ai-mediterrane-polenta-mit-gegrilltem-paprika.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Mediterrane vegane Polenta mit gegrilltem Paprika"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-kokos-makronen.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Kokos-Makronen reloaded"
 aiGenerated: true

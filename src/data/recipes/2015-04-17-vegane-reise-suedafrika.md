@@ -43,6 +43,8 @@ recipe:
     - >-
       Nach Belieben Nachwürzen und evtl. mit etwas Sojasoße und/oder
       Limettensaft abschmecken.
+aiGeneratedDate: '2025-09-04T12:53:05.642Z'
+featuredImage: ai/ai-vegane-reise-suedafrika.jpg
 ---
 
 Wer schon immer von einer Reise durch das südliche Afrika geträumt hat, kann seinen Wunsch jetzt in die Tat umsetzten. Jenny von [go'n joy africa](http://www.gonjoy-africa.com/) und Carolin von [Veggie Events](http://www.veggie-events.de/) bieten eine komplett [vegane Rundreise durch Südafrika](http://www.gonjoy-africa.com/vegane-reisen/vegan-unterwegs-in-suedafrika/) an. Im **Februar 2016** zeigen die beiden passionierten Afrika-Reisenden euch die schönsten Flecken Südafrikas. Neben [Jenny](http://www.gonjoy-africa.com/%C3%BCber-uns/), der Reiseleiterin, und [Carolin](http://www.veggie-events.de/me/), der veganen Köchin, werdet Ihr von einem ortskundigen Fahrer begleitet, der den Van sicher durch Afrika steuert. Übernachtet wird in kleinen Gasthäusern unter südafrikanischer Leitung. Das vegane Frühstück und Abendessen wird immer extra für Euch von Carolin gekocht und ist inklusive. Gerne könnt Ihr euch auch eine kleine Lunch-Box für den Mittags-Tripp einpacken. Es wird viel wert darauf gelegt, das **Afrika abseits der Touristenpfade** kennenzulernen und Südafrika durch die Augen von Einheimischen zu sehen.

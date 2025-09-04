@@ -1,6 +1,6 @@
 ---
 filename: "ai-rohkoestiche-zucchini-leinsamen-cracker.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Rohköstliche Zucchini-Leinsamen-Cracker"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-saure-wurst-vegan.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Saure Wurst, aber vegan!"
 aiGenerated: true

@@ -1,6 +1,6 @@
 ---
 filename: "ai-lebkuchen-pancakes-mit-himbeer-cranberry-sauce.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Veganer Lebkuchen-Pancakes mit Himbeer-Cranberry-Sauce"
 aiGenerated: true

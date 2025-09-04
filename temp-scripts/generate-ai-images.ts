@@ -344,7 +344,7 @@ COMMENTS: [your brief feedback]`;
   private async createImageMetadata(filename: string, recipeData: RecipeData, prompt: string): Promise<ImageMetadata> {
     return {
       filename,
-      copyright: '© AI Generiert - zur Illustration',
+      copyright: '© Bild AI generiert zu Illustrationszwecken',
       source: 'Gemini 2.5 Flash Image Preview',
       altText: recipeData.title,
       width: 2000,

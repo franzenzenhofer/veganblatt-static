@@ -33,6 +33,8 @@ recipe:
       belegen und fest aufrollen, in Muffinförmchen setzen und bei 180°C für ca.
       30min backen bis der Teig goldbraun wird.
     - Mit Staubzucker servieren.
+aiGeneratedDate: '2025-09-04T12:53:51.871Z'
+featuredImage: ai/ai-apfelrosen-muffins.jpg
 ---
 
 \[shopitem id="9004145007345" style="large" /\]

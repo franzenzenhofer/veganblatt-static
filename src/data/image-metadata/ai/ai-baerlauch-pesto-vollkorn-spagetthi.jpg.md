@@ -1,6 +1,6 @@
 ---
 filename: "ai-baerlauch-pesto-vollkorn-spagetthi.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Schmackhaftes vegane Bärlauch-Pesto mit Vollkorn-Spagetthi"
 aiGenerated: true

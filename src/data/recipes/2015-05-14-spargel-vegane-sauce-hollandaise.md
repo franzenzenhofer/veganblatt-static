@@ -33,5 +33,7 @@ recipe:
       weiteren Zutaten glatt rühren. Aufkochen und 2min köcheln lassen bis die
       Konsistenz dickflüssiger wird. Abschmecken.
     - 'Mit dem Spargel zu Kartoffeln, in unserem Fall Potato Wedges, servieren.'
+aiGeneratedDate: '2025-09-04T12:54:20.180Z'
+featuredImage: ai/ai-spargel-vegane-sauce-hollandaise.jpg
 ---
 

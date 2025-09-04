@@ -1,6 +1,6 @@
 ---
 filename: "ai-panna-cotta-torte-leckerschmecker-kuechenfee.jpg"
-copyright: "© AI Generiert - zur Illustration"
+copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Sommerliche Vegane Panna Cotta-Torte von der leckerschmecker Küchenfee"
 aiGenerated: true

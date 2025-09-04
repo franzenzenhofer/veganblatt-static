@@ -31,5 +31,7 @@ recipe:
     - >-
       Dazu passt ein bunter Salat oder man macht daraus ein leckeres
       Falafel-Sandwich. Mahlzeit!
+aiGeneratedDate: '2025-09-04T12:52:56.583Z'
+featuredImage: ai/ai-baerlauch-falafel.jpg
 ---
 

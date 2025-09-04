@@ -38,6 +38,8 @@ recipe:
     - >-
       Optional: Guacamole abdecken und im Kühlschrank 20 Minuten "ziehen
       lassen".
+aiGeneratedDate: '2025-09-04T12:52:05.574Z'
+featuredImage: ai/ai-guacamole.jpg
 ---
 
 Noch ein Tipp: Avocados bekommt man hier meist steinhart zu kaufen und das ist gut so. Sind sie schon weich, besteht die Gefahr, dass sie innen schon braun sind und viel schneller verderben. Auch in den Anbauländern erntet man sie solange sie hart sind. Kauf sie ruhig hart, wickle sie zu hause in Papier ein und warte ca. 2 Tage bis sie weich sind. Legt man sie neben Äpfel geht´s schneller.
