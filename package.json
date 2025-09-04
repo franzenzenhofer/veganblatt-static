@@ -18,7 +18,7 @@
     "build:css": "tsx src/scripts/build-css.ts",
     "generate": "tsx src/scripts/generate-site.ts",
     "bump-version": "tsx src/scripts/bump-version.ts",
-    "build": "npm run typecheck && npm run lint && npm run build:css && npm run generate && npm run test",
+    "build": "npm run typecheck && npm run lint && npm run build:css && npm run generate && npm run test:all",
     "publish": "tsx src/scripts/publish-site.ts",
     "clean": "rm -rf public/*.html public/a public/r public/css/styles.css",
     "clean:copyright": "tsx src/scripts/clean-data-copyright.ts",
