@@ -8,7 +8,8 @@ export default [
       'src/scripts/generate-ai-images.ts',
       'src/scripts/generate-vegan-images.ts',
       'src/scripts/generate-and-crop.ts',
-      'src/scripts/direct-api-test.ts'
+      'src/scripts/direct-api-test.ts',
+      'src/scripts/fix-duplicate-titles.ts'
     ]
   },
   {
