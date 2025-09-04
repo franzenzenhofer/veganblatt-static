@@ -135,7 +135,10 @@ export class StaticPageGenerator {
             out.innerHTML = '';
             if (!q) return;
             const hits = mini.search(q, { prefix: true, fuzzy: 0.2 });
-            out.innerHTML = hits.slice(0, 50).map(h => '<article class="article-item"><div class="article-text"><a class="article-link" href="' + h.url + '">' + (h.title || h.url) + '</a></div></article>').join('');
+            out.innerHTML = hits.slice(0, 50).map(h => {
+              const t = (h.title || h.url).replace(/\s*[-–—|:•]\s*VeganBlatt\s*$/i, '');
+              return '<article class="article-item"><div class="article-text"><a class="article-link" href="' + h.url + '">' + t + '</a></div></article>';
+            }).join('');
           }
           input.addEventListener('input', e => render(e.target.value.trim()));
           input.focus();

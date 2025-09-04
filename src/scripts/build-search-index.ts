@@ -28,7 +28,10 @@ async function readText(filePath: string): Promise<string> {
     .trim();
   const titleRaw = get('title');
   const title = titleRaw ? titleRaw.trim() : '';
-  return JSON.stringify({ title, text });
+  // Remove trailing brand from titles for cleaner search results display
+  // e.g., "Rezeptname - VeganBlatt" → "Rezeptname"
+  const cleanTitle = title.replace(/\s*[-–—|:•]\s*VeganBlatt\s*$/i, '').trim();
+  return JSON.stringify({ title: cleanTitle || title, text });
 }
 
 async function build() {
