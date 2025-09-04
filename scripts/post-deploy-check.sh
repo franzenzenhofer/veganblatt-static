@@ -75,6 +75,12 @@ test_url "https://www.veganblatt.com/sitemap-articles.xml" "Articles sitemap"
 test_url "https://www.veganblatt.com/sitemap-recipes.xml" "Recipes sitemap"
 test_url "https://www.veganblatt.com/robots.txt" "Robots.txt"
 
+# Search assets
+echo ""
+echo "🔎 Testing search assets..."
+test_url "https://www.veganblatt.com/search-index.json" "Search index"
+test_url "https://www.veganblatt.com/js/minisearch.esm.js" "MiniSearch module"
+
 # Check version on live site
 echo ""
 echo "🔢 Checking deployed version..."

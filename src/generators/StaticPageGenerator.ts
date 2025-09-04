@@ -119,11 +119,15 @@ export class StaticPageGenerator {
     <div id="results" aria-live="polite"></div>
 
     <script type="module">
-      import MiniSearch from 'https://cdn.jsdelivr.net/npm/minisearch@7/dist/esm/index.js';
+      import MiniSearch from '/js/minisearch.esm.js';
       async function init() {
         try {
           const idxJson = await fetch('/search-index.json', { cache: 'no-store' }).then(r => r.json());
-          const mini = MiniSearch.loadJSON(idxJson);
+          const mini = MiniSearch.loadJSON(idxJson, {
+            fields: ['title','text'],
+            storeFields: ['title','url'],
+            searchOptions: { boost: { title: 3 }, fuzzy: 0.2, prefix: true }
+          });
           const input = document.querySelector('#q');
           const out = document.querySelector('#results');
           function render(q) {
