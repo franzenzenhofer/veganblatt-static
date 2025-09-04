@@ -1,5 +1,5 @@
 ---
-title: Vegane DIY Sojamilch title: DIY Sojamilch & Tofu Tofu
+title: DIY Sojamilch & Tofu
 date: '2013-10-24 08:10:42'
 modified: '2016-01-19 14:38:23'
 slug: tofu-sojamilch-selber-machen
