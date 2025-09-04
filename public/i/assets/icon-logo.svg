@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- White background -->
+  <rect width="64" height="64" fill="#ffffff"/>
+  
+  <!-- Three leaves from the original logo, scaled and centered -->
+  <g transform="translate(32, 32) scale(1.2)">
+    <!-- Left leaf -->
+    <g transform="rotate(-30)">
+      <path fill="#76A11E" d="M 0,-15 C -6,-14 -9,-8 -9,0 C -9,8 -6,14 0,15 L 0,-15 Z"/>
+      <path fill="#3D6118" stroke="#3D6118" stroke-width="0.5" d="M 0,-14 L 0,14"/>
+      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-8 L -4,-6 M 0,-2 L -4,0 M 0,4 L -4,6"/>
+    </g>
+    
+    <!-- Center leaf -->
+    <g>
+      <path fill="#A0B634" d="M 0,-18 C -7,-17 -10,-9 -10,0 C -10,9 -7,17 0,18 C 7,17 10,9 10,0 C 10,-9 7,-17 0,-18 Z"/>
+      <path fill="#3D6118" stroke="#3D6118" stroke-width="0.6" d="M 0,-17 L 0,17"/>
+      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-10 L -5,-7 M 0,-10 L 5,-7"/>
+      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-3 L -5,0 M 0,-3 L 5,0"/>
+      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,4 L -5,7 M 0,4 L 5,7"/>
+    </g>
+    
+    <!-- Right leaf -->
+    <g transform="rotate(30)">
+      <path fill="#B8CF32" d="M 0,-15 C 6,-14 9,-8 9,0 C 9,8 6,14 0,15 L 0,-15 Z"/>
+      <path fill="#3D6118" stroke="#3D6118" stroke-width="0.5" d="M 0,-14 L 0,14"/>
+      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-8 L 4,-6 M 0,-2 L 4,0 M 0,4 L 4,6"/>
+    </g>
+  </g>
+</svg>

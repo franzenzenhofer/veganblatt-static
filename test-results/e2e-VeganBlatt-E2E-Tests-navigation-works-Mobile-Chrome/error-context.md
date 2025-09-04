@@ -16,125 +16,125 @@
   - main [ref=e10]:
     - list [ref=e11]:
       - listitem [ref=e12]:
-        - img "20180413_164137" [ref=e13]
+        - img "mandelecken" [ref=e13]
         - generic [ref=e14]:
-          - link "Knackige Vegane Süsskartoffelpommes mit frischem Spargel" [ref=e15] [cursor=pointer]:
-            - /url: /r/suesskartoffelpommes-mit-spargel.html
-          - paragraph [ref=e16]: Jetzt ist Spargelzeit. Dieses leckere Gemüse frischt den Speiseplan im Frühling immer wieder auf. Dazu sind leckere selbstgemachte Süsskartoffelpommes richtig lecker. Das beste, es ist richtig einfach all das zuzubereiten.
+          - 'link "Unser Weihnachtsklassiker: Vegane Mandelecken" [ref=e15] [cursor=pointer]':
+            - /url: /r/mandelecken.html
+          - paragraph [ref=e16]: Nuss- bzw. Mandelecken sind der Klassiker schlechthin unter den Weihnachtskeksen. Wir haben nun endlich ein veganes Rezept für Dich kreiert und freuen uns, wenn die Mandelecken Dir genauso gut schmecken!
       - listitem [ref=e17]:
-        - img "glutenfrei vegane Vanillekipferl" [ref=e18]
+        - img "ai/ai scharfer glas nudelsalat" [ref=e18]
         - generic [ref=e19]:
-          - link "Vegane Muskat-Vanillekipferl" [ref=e20] [cursor=pointer]:
-            - /url: /r/vegane-muskat-vanillekipferl.html
-          - paragraph [ref=e21]: Was zu Weihnachten in keiner Keksdose fehlen darf, sind Vanillekipferl. In meiner Version sind sie besonders fein mit einer Prise Muskatnuss und natürlich vegan.
+          - link "Scharfer Veganer Glas-Nudelsalat" [ref=e20] [cursor=pointer]:
+            - /url: /r/scharfer-glas-nudelsalat.html
+          - paragraph [ref=e21]: "Der Salat hat es in sich: Knoblauch, Zwiebel und Chilis verleihen ihm den feurigen Geschmack und machen ihn zu einem gesunden Essen, das natürliche Antibiotika enthält."
       - listitem [ref=e22]:
-        - img "rainbow cake 4 1 2" [ref=e23]
+        - img "kalte Gurkensuppe" [ref=e23]
         - generic [ref=e24]:
-          - link "Raindrop Vegane Cake" [ref=e25] [cursor=pointer]:
-            - /url: /r/raindrop-cake.html
-          - paragraph [ref=e26]: Mit diesem Rezept musst Du nicht nach Brooklyn oder Japan pilgern, um den so gehypten Raindrop Cake zu probieren!
+          - link "Kalte Vegane Gurkensuppe mit Basilikum" [ref=e25] [cursor=pointer]:
+            - /url: /r/kalte-gurkensuppe.html
+          - paragraph [ref=e26]: Eine leichte Mahlzeit im Sommer oder als feine Vorspeise das ganze Jahr lang, mit dieser kalten Gurkensuppe liegst du immer richtig.
       - listitem [ref=e27]:
-        - img "rote gruetze 1" [ref=e28]
+        - img "Basilikumpasta1" [ref=e28]
         - generic [ref=e29]:
-          - link "Vegane rote Grütze mit Sago & Beeren" [ref=e30] [cursor=pointer]:
-            - /url: /r/vegane-rote-gruetze.html
-          - paragraph [ref=e31]: Vegane rote Grütze mit richtigen Früchten schmeckt so viel besser als das, was wir von früher kennen. Probiert es aus!
+          - link "Vegane Basilikum-Bärlauch Pasta mit Cashewcreme" [ref=e30] [cursor=pointer]:
+            - /url: /r/baerlauch-pasta.html
+          - paragraph [ref=e31]: Pasta ist immer eine gute Idee und wenn sie noch schmeckt und nach Feierabend schnell zubereitet ist, dann freut man sich umso mehr. Cremige Cashewpaste trifft Basilikum, Tomaten und Bärlauch.
       - listitem [ref=e32]:
-        - img "grill kohlrabi" [ref=e33]
+        - img "ai/ai auberginen tuermchen falafeln" [ref=e33]
         - generic [ref=e34]:
-          - link "Grill Vegane Kohlrabi" [ref=e35] [cursor=pointer]:
-            - /url: /r/kohlrabi-grillen.html
-          - paragraph [ref=e36]: Vor kurzem auf einer Grillparty gesehen und hat uns voll überzeugt. Kohlrabi ist ein tolles Grill-Gemüse! Empfehlung!
+          - link "Vegane Auberginen-Türmchen mit Falafeln" [ref=e35] [cursor=pointer]:
+            - /url: /r/auberginen-tuermchen-falafeln.html
+          - paragraph [ref=e36]: Orientalische Vorspeisen mit einem mediterranen Hauch! Diesmal servieren wir Euch Falafel und Hummus mal mit gegrillter Melanzani.
       - listitem [ref=e37]:
-        - img "salatrollen 1" [ref=e38]
+        - img "couscous salat" [ref=e38]
         - generic [ref=e39]:
-          - link "Bunte Veganer Salatrollen mit Erdnuss-Dip" [ref=e40] [cursor=pointer]:
-            - /url: /r/salatrollen-erdnuss-dip.html
-          - paragraph [ref=e41]: Sommerlich leicht, bunt, knackig, frisch! Diese vitaminreichen Rollen machen Spaß und bringen gute Laune.
+          - link "Veganer Couscous-Salat" [ref=e40] [cursor=pointer]:
+            - /url: /r/veganer-couscous-salat.html
+          - paragraph [ref=e41]: Couscous kann man vielfältig kombinieren. Hier eine Variante mit Avocado. Viel Spaß beim Nachkochen!
       - listitem [ref=e42]:
-        - img "TartareSauce" [ref=e43]
+        - img "baerentatzen" [ref=e43]
         - generic [ref=e44]:
-          - link "Vegane Sauce Tartare" [ref=e45] [cursor=pointer]:
-            - /url: /r/vegane-sauce-tartare.html
-          - paragraph [ref=e46]: Gebackene Champignons, Ofenkartoffeln oder Gemüse Sticks – all das schmeckt gleich doppelt so gut mit dieser einfachen Sauce Tartare als Dip!
+          - link "Vegane Bärentatzen" [ref=e45] [cursor=pointer]:
+            - /url: /r/vegane-baerentatzen.html
+          - paragraph [ref=e46]: Diese schokoladigen Plätzchen bereichern jedes Weihnachten und die Bären müssen dafür auch nicht herhalten.
       - listitem [ref=e47]:
-        - img "1140 wien vegan" [ref=e48]
+        - img "pecan karamell 4 1 2" [ref=e48]
         - generic [ref=e49]:
-          - link "Wien 1140 Vegan" [ref=e50] [cursor=pointer]:
-            - /url: /a/wien-1140-vegan.html
-          - paragraph [ref=e51]: In Penzing wird nicht nur für den veganen Magen, sondern auch für die vegane Schönheit gesorgt. Damit Ihr auch nichts verpasst, haben wir die wichtigsten Adressen hier für euch gesammelt.
+          - link "Veganer Rohköstlicher Pecan-Karamell-Kuchen" [ref=e50] [cursor=pointer]:
+            - /url: /r/rohkost-pecan-karamell-kuchen.html
+          - paragraph [ref=e51]: Pecannüsse, Dattel-Karamellcreme und Schoko - Diese fabelhaften Törtchen aus nichts außer besten Zutaten sind zum Niederknien!
       - listitem [ref=e52]:
-        - img "wieden collage" [ref=e53]
+        - img "vegankebapcollage" [ref=e53]
         - generic [ref=e54]:
-          - link "Wien 4 Vegan" [ref=e55] [cursor=pointer]:
-            - /url: /a/wien-1040.html
-          - paragraph [ref=e56]: Wieden, der vierte Gemeindebezirk Wiens ist geradezu voll mit Anlaufstellen für vegane Bedürfnisse aller Art. Neben zahlreichen Restaurants findet man allenthalben Fachgeschäfte für Naturkosmetik oder Bioläden - das große Highlight ist natürlich der Naschmarkt.
+          - link "Vegane Döner-Oasen in Wien" [ref=e55] [cursor=pointer]:
+            - /url: /a/veganer-doener-kebap-wien.html
+          - paragraph [ref=e56]: Egal ob als Snack zum Mitnehmen oder als üppige Hauptspeise, veganer Döner macht glücklich und ja - natürlich auch schöner. Eine Liste mit Döner-Hotspots in Wien findet ihr hier.
       - listitem [ref=e57]:
-        - img "ai/ai miigan soy protex rezept gewinnspiel" [ref=e58]
+        - img "sandwich 1051605_1280 1" [ref=e58]
         - generic [ref=e59]:
-          - link "Vegane Sesam-Soja-Schnetzel mit Miigan Soy Protex + Gewinnspiel" [ref=e60] [cursor=pointer]:
-            - /url: /r/miigan-soy-protex-rezept-gewinnspiel.html
-          - paragraph [ref=e61]: Vegan ist nicht teuer! Pflanzliche Proteinquellen wie Bohnen oder texturiertes Soja sind allemal billiger als Fleisch und können vielfältig und schmackhaft zubereitet werden.
+          - link "Ein Wursthersteller will vegetarisch werden" [ref=e60] [cursor=pointer]:
+            - /url: /a/vegetarisch-wursthersteller.html
+          - paragraph [ref=e61]: "Tolle Nachrichten: Der bekannte Wursthersteller Rügenwalder Mühle plant seinen Ausstieg aus den Fleischprodukten. In Zukunft sollen vegane Produkte die Fleischprodukte komplett ersetzen."
       - listitem [ref=e62]:
-        - img "Erbsensuppe" [ref=e63]
+        - img "Kopfschmerzen" [ref=e63]
         - generic [ref=e64]:
-          - link "Erbsensuppe Vegane mit Minze und Croutons" [ref=e65] [cursor=pointer]:
-            - /url: /r/erbsensuppe-mit-minze-und-croutons.html
-          - paragraph [ref=e66]: Eine schnelle und sehr leckere Vorspeise, ist immer eine Suppe. Am feinsten eine cremige Art, die du auch noch mit Kräutern pimpen und so zu einem besonderen Geschmackserlebnis machen kannst.
+          - link "Natürliche Tipps gegen Kopfschmerzen" [ref=e65] [cursor=pointer]:
+            - /url: /a/kopfschmerz-natuerlich.html
+          - paragraph [ref=e66]: Wetterumschwung, Stress, zu wenig Trinken oder falsche Ernährung - all das kann zu Kopfschmerzen führen. Der Griff zur Schmerztablette ist da oft nicht mehr weit. Dass es aber auch eine Reihe natürlicher Mittel gibt, weiß nicht jeder.
       - listitem [ref=e67]:
-        - img "markt" [ref=e68]
+        - img "ai/ai dinkel schoko cookies" [ref=e68]
         - generic [ref=e69]:
-          - link "Vegan Food - kein Verzicht" [ref=e70] [cursor=pointer]:
-            - /url: /a/food.html
-          - paragraph [ref=e71]: "Vegan essen bedeutet: Vielfalt, Phantasie, Geschmack. Es bedeutet nicht: Verzicht."
+          - link "Bio-vegane Dinkel-Schoko-Cookies" [ref=e70] [cursor=pointer]:
+            - /url: /r/dinkel-schoko-cookies.html
+          - paragraph [ref=e71]: Herzlichen Dank an Mäggi vom Bioveganversand für dieses leckere Cookie Rezept, für das nur die allerbesten, biologischen Zutaten in Frage kommen.
       - listitem [ref=e72]:
-        - img "Gemuese Carpaccio" [ref=e73]
+        - img "LONDON" [ref=e73]
         - generic [ref=e74]:
-          - link "Vegane Gemüse Carpaccio mit Cashewcreme" [ref=e75] [cursor=pointer]:
-            - /url: /r/gemuese-carpaccio.html
-          - paragraph [ref=e76]: Der hohe Magnesium Gehalt in Cashewkernen sorgt für ein gut funktionierendes Nervensystem und wirkt sich positiv auf deine Muskulatur aus. Eine rohe Gemüseplatte passt perfekt dazu und schmeckt nicht nur im Hochsommer wundervoll.
+          - link "Veganes Schlemmen in London" [ref=e75] [cursor=pointer]:
+            - /url: /a/vegan-london.html
+          - paragraph [ref=e76]: Eine Multi-Kulti-Stadt mit zahlreichen veganen Essensmöglichkeiten! Hier erfahrt Ihr, welche 5 Adressen Ihr auf alle Fälle ansteuern solltet.
       - listitem [ref=e77]:
-        - img "nudeln" [ref=e78]
+        - img "veganer nachhaltiger nikolausstiefel" [ref=e78]
         - generic [ref=e79]:
-          - 'link "Einkaufsratgeber: Nudeln" [ref=e80] [cursor=pointer]':
-            - /url: /a/nudeln.html
-          - paragraph [ref=e81]: Eines der zentralsten Grundnahrungsmittel unserer Zeit. Teils vegan, teils nichtvegan - aber immerhin leicht unterscheidbar.
+          - link "Vegane & nachhaltige Alternativen für Deinen Nikolausstiefel" [ref=e80] [cursor=pointer]:
+            - /url: /a/vegan-nikolaus-nachhaltig.html
+          - paragraph [ref=e81]: Es ist soweit, der Nikolaus vor der Türe! Wir zeigen Dir unsere besten Tipps, wie Du deinen Nikolostiefel mit nachhaltigen & veganen Schmankerln befüllen kannst.
       - listitem [ref=e82]:
-        - img "Pastinaken" [ref=e83]
+        - img "grill Champignons" [ref=e83]
         - generic [ref=e84]:
-          - link "Pastinaken Vegane Creme mit Kräutern" [ref=e85] [cursor=pointer]:
-            - /url: /r/pastinaken-creme-mit-kraeutern.html
-          - paragraph [ref=e86]: Pastinaken kennst du bestimmt aus dem Suppengemüse. Aber hast du sie schonmal als Brotaufstrich ausprobiert?
+          - link "Vegane Gefüllte Champignons zum Grillen" [ref=e85] [cursor=pointer]:
+            - /url: /r/grill-champignons.html
+          - paragraph [ref=e86]: Grillen ist eine der besten Methoden im Sommer, um der heißen Küche zu entkommen und trotzdem unheimlich lecker zu speisen. Ein paar Freunde dazu eingeladen und schon ist der laue Sommerabend perfekt.
       - listitem [ref=e87]:
-        - img "veganer Baumkuchen2 neu" [ref=e88]
+        - img "brennessel jauche" [ref=e88]
         - generic [ref=e89]:
-          - link "Vegane ungarische Baumkuchen" [ref=e90] [cursor=pointer]:
-            - /url: /r/vegane-ungarische-baumkuchen.html
-          - paragraph [ref=e91]: Baumkuchen sind so köstlich, dass es schade ist das ganze Jahr auf den Weihnachtsmarkt warten zu müssen um sie zu essen. Jetzt könnt Ihr sie auch ganz leicht selber machen.
+          - link "Naturdünger Brennesseljauche" [ref=e90] [cursor=pointer]:
+            - /url: /a/brennesseljauche.html
+          - paragraph [ref=e91]: Die Brennessel kann nicht nur in der Küche Einiges, auch für deinen Garten bietet sie jede Menge Benefits. Zum Beispiel als Brennesseljauche.
       - listitem [ref=e92]:
-        - img "Cold Cream" [ref=e93]
+        - img "englische online magazine" [ref=e93]
         - generic [ref=e94]:
-          - link "Veganes Rezept für Erkältungsbalsam" [ref=e95] [cursor=pointer]:
-            - /url: /r/erkaeltungsbalsam.html
-          - paragraph [ref=e96]: In der Grippezeit ist es gut, immer etwas Erkältungsbalsam auf Vorrat zu haben. Ein Basisöl, gemischt mit Carnaubwachs und ätherischen Ölen gemischt und schon hast du deinen DIY Balsam.
+          - link "Top 5 der englischen veganen Online-Magazine" [ref=e95] [cursor=pointer]:
+            - /url: /a/englische-online-magazine.html
+          - paragraph [ref=e96]: "Durch die endlosen Weiten des Worldwidewebs surfen und sich vegane Inspiration, Information und manchmal auch ein bisschen Motivation holen - wer tut das nicht gerne? Was Euch an englischsprachigen Magazinen, Websites und Blogs auf keinen Fall entgehen sollte, gibts hier:"
       - listitem [ref=e97]:
-        - img "ai/ai selbstgemachter veganer kaese nuss soja fettfrei" [ref=e98]
+        - img "Cashew Riegel" [ref=e98]
         - generic [ref=e99]:
-          - 'link "Selbstgemachter Veganer Käse: nuss-, soja- & fettfrei" [ref=e100] [cursor=pointer]':
-            - /url: /r/selbstgemachter-veganer-kaese-nuss-soja-fettfrei.html
-          - paragraph [ref=e101]: Dieses Käse Rezept mit geräuchertem Paprika wird Euch überraschen, denn es kommt ganz ohne Nüsse aus. Der Käse lässt sich gut schneiden und auch reiben.
+          - link "Vegane Mini Cashew Kokos Kakao Riegel" [ref=e100] [cursor=pointer]:
+            - /url: /r/cashew-kokos-kakao-riegel.html
+          - paragraph [ref=e101]: Natürliche süß, einfach zuzubereiten und super praktisch für unterwegs!
       - listitem [ref=e102]:
-        - img "Beeren Bowle" [ref=e103]
+        - img "joya greek yogurt 1 3" [ref=e103]
         - generic [ref=e104]:
-          - link "Beeren Vegane Bowle" [ref=e105] [cursor=pointer]:
-            - /url: /r/beeren-bowle.html
-          - paragraph [ref=e106]: Vor allem im Sommer viel zu trinken ist wichtig. Da darf es aber auch gerne mal eine Abwechslung zu Wasser sein, wenn du nach Feierabend auf deinem Balkon oder der Terrasse noch die letzten Sonnenstrahlen genießt.
+          - 'link "Eiweißbombe zum Löffeln: Veganes griechisches Joghurt von JOYA" [ref=e105] [cursor=pointer]':
+            - /url: /a/veganes-griechisches-joghurt-joya.html
+          - paragraph [ref=e106]: Tzatziki-Fans aufgepasst! Endlich gibt es das vegane Greek Joygurt von Joya! Und das einmal in der Variante Natur, für leckere Dips oder einfach nur zum Löffeln zwischendurch, und einmal süß mit Erdbeergeschmack.
       - listitem [ref=e107]:
-        - img "jackfruit wraps 1" [ref=e108]
+        - img "vanilla ice cream cake 1" [ref=e108]
         - generic [ref=e109]:
-          - link "Vegane würzige Jackfruit Wraps mit Avocado & Spinat" [ref=e110] [cursor=pointer]:
-            - /url: /r/jackfruit-wraps.html
-          - paragraph [ref=e111]: Grüne Jackfruit ist der neue vegane Foodtrend, den es auszuprobieren gilt. Und wahrlich, gut gewürzt schmeckt diese exotische Frucht köstlich.
+          - link "Veganer Naked Vanilla Ice Cream & Strawberry Cake" [ref=e110] [cursor=pointer]:
+            - /url: /r/vanilla-ice-cream-strawberry-cake.html
+          - paragraph [ref=e111]: Ein unfassbar schöner Kuchen, der noch besser schmeckt! Die Kreation aus glutenfreiem Vanille-Kuchen, Erdbeeren und Almond Dream Vanilla Ice Cream ist zum Dahinschmelzen ♥
   - contentinfo [ref=e112]:
     - paragraph [ref=e113]: VeganBlatt • Alle Rechte vorbehalten
     - paragraph [ref=e114]:
