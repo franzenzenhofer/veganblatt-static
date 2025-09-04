@@ -28,5 +28,7 @@ recipe:
       Wenn ein schönes Sorbet entstanden ist noch die Eiswürfel zugeben und kurz
       weitermixen. Es darf leicht körnig bleiben.
     - Füße hochlegen und genießen!
+aiGeneratedDate: '2025-09-04T11:27:59.011Z'
+featuredImage: ai/ai-zitronen-gurken-granita.jpg
 ---
 

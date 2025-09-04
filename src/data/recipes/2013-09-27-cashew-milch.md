@@ -1,5 +1,5 @@
 ---
-title: Cashew vegane Milch einfach selbst gemacht
+title: Vegane Cashew-Milch einfach selbst gemacht
 date: '2013-09-27 09:05:40'
 modified: '2016-01-20 13:31:03'
 slug: cashew-milch

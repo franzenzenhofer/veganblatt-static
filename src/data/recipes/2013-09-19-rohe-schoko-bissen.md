@@ -1,5 +1,5 @@
 ---
-title: Rohe vegane Schoko Bissen mit Cremehaube
+title: Rohe Vegane Schoko-Bissen mit Cremehaube
 date: '2013-09-19 11:10:35'
 modified: '2016-01-19 14:44:40'
 slug: rohe-schoko-bissen

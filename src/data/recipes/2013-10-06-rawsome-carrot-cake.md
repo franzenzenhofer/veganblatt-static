@@ -1,5 +1,5 @@
 ---
-title: Rawsome vegane Carrot Cake mit Cashew-Frosting
+title: Veganer Rawsome Carrot Cake mit Cashew-Frosting
 date: '2013-10-06 09:37:48'
 modified: '2016-01-19 15:46:43'
 slug: rawsome-carrot-cake

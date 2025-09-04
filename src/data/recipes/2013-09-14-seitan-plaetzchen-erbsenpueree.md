@@ -1,5 +1,5 @@
 ---
-title: Seitan vegane Herzilein auf zitronigem Erbsenpüree
+title: Vegane Seitan-Herzilein auf zitronigem Erbsenpüree
 date: '2013-09-14 13:36:49'
 modified: '2016-01-12 10:11:23'
 slug: seitan-plaetzchen-erbsenpueree

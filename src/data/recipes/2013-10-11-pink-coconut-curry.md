@@ -1,5 +1,5 @@
 ---
-title: Pink veganes Coconut Curry
+title: Veganes Pink Coconut Curry
 date: '2013-10-11 11:18:42'
 modified: '2015-04-30 12:11:20'
 slug: pink-coconut-curry
