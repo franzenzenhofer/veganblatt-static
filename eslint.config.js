@@ -3,6 +3,15 @@ import tsparser from '@typescript-eslint/parser';
 
 export default [
   {
+    ignores: [
+      'temp-scripts/**',
+      'src/scripts/generate-ai-images.ts',
+      'src/scripts/generate-vegan-images.ts',
+      'src/scripts/generate-and-crop.ts',
+      'src/scripts/direct-api-test.ts'
+    ]
+  },
+  {
     files: ['src/**/*.ts'],
     languageOptions: {
       parser: tsparser,
