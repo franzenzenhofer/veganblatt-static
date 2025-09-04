@@ -16,9 +16,23 @@ echo "✅ Generated: favicon-16x16.png (16x16)"
 rsvg-convert -w 32 -h 32 "$SVG_PATH" -o "$PUBLIC_DIR/favicon-32x32.png"
 echo "✅ Generated: favicon-32x32.png (32x32)"
 
+# Apple Touch Icons - various sizes for different devices
 rsvg-convert -w 180 -h 180 "$SVG_PATH" -o "$PUBLIC_DIR/apple-touch-icon.png"
 echo "✅ Generated: apple-touch-icon.png (180x180)"
 
+rsvg-convert -w 152 -h 152 "$SVG_PATH" -o "$PUBLIC_DIR/apple-touch-icon-152x152.png"
+echo "✅ Generated: apple-touch-icon-152x152.png (152x152)"
+
+rsvg-convert -w 120 -h 120 "$SVG_PATH" -o "$PUBLIC_DIR/apple-touch-icon-120x120.png"
+echo "✅ Generated: apple-touch-icon-120x120.png (120x120)"
+
+rsvg-convert -w 76 -h 76 "$SVG_PATH" -o "$PUBLIC_DIR/apple-touch-icon-76x76.png"
+echo "✅ Generated: apple-touch-icon-76x76.png (76x76)"
+
+rsvg-convert -w 60 -h 60 "$SVG_PATH" -o "$PUBLIC_DIR/apple-touch-icon-60x60.png"
+echo "✅ Generated: apple-touch-icon-60x60.png (60x60)"
+
+# Android Chrome icons
 rsvg-convert -w 192 -h 192 "$SVG_PATH" -o "$PUBLIC_DIR/android-chrome-192x192.png"
 echo "✅ Generated: android-chrome-192x192.png (192x192)"
 
