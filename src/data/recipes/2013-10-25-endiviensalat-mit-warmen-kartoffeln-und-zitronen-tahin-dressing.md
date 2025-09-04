@@ -33,7 +33,6 @@ recipe:
       Scheiben schneiden und noch heiß unter den Salat mischen.
     - Optionale Zutaten zugeben und mit dem Dressing mischen
 aiGeneratedDate: '2025-09-01T19:20:02.084Z'
-featuredImage: 'ai/ai-endiviensalat-mit-warmen-kartoffeln-und-zitronen-tahin-dressing.jpg'
 ---
 
 [<!-- Image removed (no copyright): endiviensalat-tahin-dressing.jpg -->](https://www.veganblatt.com/i/endiviensalat-tahin-dressing.jpg)
