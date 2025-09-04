@@ -160,7 +160,6 @@ export class SiteGenerator {
             data = parsed.data;
           } else {
             // Parse pure YAML file by treating it as frontmatter only
-            console.log(`Parsing YAML file: ${file}`);
             const parsed = matter('---\n' + content + '\n---\n');
             data = parsed.data;
           }
