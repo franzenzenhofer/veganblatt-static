@@ -7,6 +7,8 @@ excerpt: >-
   Wer im neuen Jahr zur Abwechslung mal jünger werden möchte, der hat hier die
   Chance eines von 3 VFY-Challenger Packages gewinnen! So let the Challenge
   begin! Teilnahmeschluss: 19.1.2014
+aiGeneratedDate: '2025-09-04T16:00:36.134Z'
+featuredImage: ai/ai-vegan-for-youth-gewinnspiel.jpg
 ---
 
 ### Lebensjahre gewinnen

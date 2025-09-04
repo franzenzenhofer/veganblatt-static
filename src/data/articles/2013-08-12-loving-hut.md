@@ -7,6 +7,8 @@ excerpt: >-
   Rein vegane Restaurants sind nach wie vor eher eine Seltenheit. Umso
   besonderer macht das Loving Hut, eine internationale Kette von veganen
   Lokalen, die vier Filialen im deutschen Sprachraum betreibt.
+aiGeneratedDate: '2025-09-04T15:54:36.882Z'
+featuredImage: ai/ai-loving-hut.jpg
 ---
 
 Die international äußerst erfolgreiche Restaurantkette [Loving Hut](http://lovinghut.com/) betreibt international mehrere 100 Lokale. Die überwiegende Mehrheit davon befinden sich zwar in Asien und den USA, doch auch im deutschen Sprachraum finden sich vier davon: [Zwei in Wien](https://www.veganblatt.com/loving-hut-wien) und je eine in [Hamburg]( http://www.lovinghut.de/hamburg/index.html) und [Hannover](http://www.lovinghut.de/hannover/index.html).

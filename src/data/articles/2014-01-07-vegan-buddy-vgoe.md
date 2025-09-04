@@ -6,6 +6,8 @@ slug: vegan-buddy-vgoe
 excerpt: >-
   Ein Buddy der VGÖ kann beim Umstellungs-Prozess auf die vegane Lebensweise mit
   vielen hilfreichen Tipps eine große Unterstützung sein.
+aiGeneratedDate: '2025-09-04T16:01:14.096Z'
+featuredImage: ai/ai-vegan-buddy-vgoe.jpg
 ---
 
 ### Der Umstieg

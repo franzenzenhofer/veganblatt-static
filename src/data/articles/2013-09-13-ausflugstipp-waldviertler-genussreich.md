@@ -8,6 +8,8 @@ excerpt: >-
   Sonnentor lässt sich herrlich mit der ganzen Familie unternehmen. Auch die
   Umgebung bietet so einige spannende Sehenswürdigkeiten. Da ist für jeden was
   dabei.
+aiGeneratedDate: '2025-09-04T15:55:40.396Z'
+featuredImage: ai/ai-ausflugstipp-waldviertler-genussreich.jpg
 ---
 
 ### Sonnentor Kräuter Sinnes Erlebnis

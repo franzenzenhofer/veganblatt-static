@@ -7,6 +7,8 @@ excerpt: >-
   Lush hat sich für dieses Weihnachtsfest was ganz Besonderes einfallen lassen:
   hübsche Furoshiki Tücher als nachhaltige Geschenksverpackung. Der Erlös kommt
   der Climate Revolution Kampagne zugute!
+aiGeneratedDate: '2025-09-04T15:59:20.541Z'
+featuredImage: ai/ai-lush-furoshiki-tuecher.jpg
 ---
 
 ### Abfallvermeidung mit Furoshiki Tüchern

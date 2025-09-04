@@ -7,6 +7,8 @@ excerpt: >-
   Ein (wirklich) kleine feine - noch nicht fertige - Sammlung von YouTube-Videos
   übers Veganismus, Vegan sein, Vegan werden bzw. einfach Videos, die uns
   gefallen und berührt haben.
+aiGeneratedDate: '2025-09-04T15:55:22.945Z'
+featuredImage: ai/ai-vegan-youtube.jpg
 ---
 
 **Love life. Live vegan.**

@@ -7,6 +7,8 @@ excerpt: >-
   Jedes Land im deutschen Sprachraum hat eine Vegane Gesellschaft, die sich für
   die vegane Lebensweise einsetzt. Doch was genau machen die einzelnen
   Gesellschaften und wie kann man sie am besten unterstützen?
+aiGeneratedDate: '2025-09-04T15:58:09.725Z'
+featuredImage: ai/ai-vegane-gesellschaft.jpg
 ---
 
 ## Österreich

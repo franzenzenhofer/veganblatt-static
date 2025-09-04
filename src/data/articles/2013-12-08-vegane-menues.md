@@ -8,6 +8,8 @@ excerpt: >-
   und jede Jahreszeit: vom exotischen Weihnachtsmenü über ein romantisches
   Candle Light Dinner für zwei bis hin zum blumigen Sommermenü to go für das
   nächste Picknick.
+aiGeneratedDate: '2025-09-04T15:59:49.815Z'
+featuredImage: ai/ai-vegane-menues.jpg
 ---
 
 ### Feste feiern

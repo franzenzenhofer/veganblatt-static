@@ -8,6 +8,8 @@ excerpt: >-
   Kröpfl mit ihrem großartigen Kochbuch "Wir kochen vegan", mit Rezepten, die
   vom Wiener Schnitzel über Mohnzelten bis zur Schwarzwälder Kirschtorte
   reichen.
+aiGeneratedDate: '2025-09-04T15:58:42.338Z'
+featuredImage: ai/ai-wir-kochen-vegan.jpg
 ---
 
 Freunde der österreichischen Küche aufgepasst: Dieses [Kochbuch](http://www.hubertkrenn.at/kulinarik/wir-kochen-vegan) wird Euch vom Hocker reißen! Melanie und Siegfried Kröpfl, ein Spitzenkoch und seine Tochter, zeigen vor, dass Veganismus keine Einschränkung mehr und schon gar keine langweiligen Rezepte bedeutet.

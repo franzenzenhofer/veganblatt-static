@@ -8,6 +8,8 @@ excerpt: >-
   Smoothie. Die positiven Eigenschaften von Kräutern stärken das Immunsystem und
   können über den ersten Anflug von Krankheitsanzeichen hinweghelfen. Früchte
   liefern noch die Extra Portion Vitamine.
+aiGeneratedDate: '2025-09-04T15:56:26.571Z'
+featuredImage: ai/ai-smoothies-statt-medizin.jpg
 ---
 
 **Achtung**: Wenn man erst mal damit angefangen hat, gibt es kein zurück! Es besteht höchste Suchtgefahr. Das macht aber nichts! Denn Dein Körper wird sich darüber freuen. Die Rede ist hier von Smoothies. Es müssen natürlich nicht immer die in den Himmel gerühmten grünen Smoothies sein. Das Grün kann sich ebensogut hinter schokoladigem Braun oder heidelbeerigem Violett verstecken. Oder ganz einfach gegen gelb getauscht werden.

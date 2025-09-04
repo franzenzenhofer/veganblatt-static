@@ -8,6 +8,8 @@ excerpt: >-
   ausgewogene vegane Ernährung ist nämlich nicht nur unbedenklich, sondern auch
   gesünder als viele andere Ernährungsformen - insbesondere als der
   durchschnittliche Omnivorismus.
+aiGeneratedDate: '2025-09-04T15:54:09.488Z'
+featuredImage: ai/ai-warum-gesundheit.jpg
 ---
 
 Immer mehr ErnährungsexpertInnen laufen Sturm gegen den Überkonsum tierischer Produkte und machen diese besonders für weit verbreitete Zivilisationskrankheiten wie zB. Herz- und Gefäßkrankheiten oder Übergewicht zumindest mitverantwortlich. Viele Menschen entschließen sich daher zu einer veganen Ernährung. Diese ist nicht nur völlig cholesterinfrei, sondern ist auch was die Nährstoffversorgung betrifft meist besser an die Bedürfnisse des menschlichen Körpers angepasst, als die meisten anderen Ernährungsformen.

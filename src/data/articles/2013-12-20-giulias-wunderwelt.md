@@ -7,6 +7,8 @@ excerpt: >-
   Mit herzerwärmenden Geschenken, visuellen Inspirationen und genussvollen
   Gaumenfreuden ist Giulia's Wunderwelt eine wahre Welt voller natürlicher
   Wunder.
+aiGeneratedDate: '2025-09-04T16:00:01.668Z'
+featuredImage: ai/ai-giulias-wunderwelt.jpg
 ---
 
 Eine Tirolerin, die seit einigen Jahren in der Großstadt Wien lebt und dennoch mit Herz und ihrer warmen Seele mit der Natur verbunden ist. Ihre Neugier und Liebe zur Natur verschaffte ihr ein erstaunliches Wissen über die Pflanzenwelt, das sie in ihrem neuen Buch verarbeitet hat.

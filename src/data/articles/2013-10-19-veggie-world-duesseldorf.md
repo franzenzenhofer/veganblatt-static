@@ -6,6 +6,8 @@ slug: veggie-world-duesseldorf
 excerpt: >-
   Auf der Suche nach einer Veggie Messe in Deutschland? Auf nach Düsseldorf!
   Dort findet im Oktober die Veggie World Messe für nachhaltiges Genießen statt.
+aiGeneratedDate: '2025-09-04T15:57:12.301Z'
+featuredImage: ai/ai-veggie-world-duesseldorf.jpg
 ---
 
 Alle die in Düsseldorf leben oder eine Reise dorthin planen, sollten sich die [Veggie World Messe](http://duesseldorf.veggieworld.de/ "Veggie World") nicht entgehen lassen! Über 70 verschiedene Aussteller sorgen für ein abwechslungsreiches [Programm](http://duesseldorf.veggieworld.de/besucherservice/besucherprogramm.html "Programm"). Was Dich da alles erwartet?

@@ -7,6 +7,8 @@ excerpt: >-
   Keine Zeit für fünf Portionen Obst und Gemüse am Tag oder Vollkornprodukte?
   Macht nichts! Mit Kräutern und Gewürzen kann man so einiges wett machen und
   sich den nötigen Gesundheitskick holen!
+aiGeneratedDate: '2025-09-04T15:56:47.186Z'
+featuredImage: ai/ai-kraeuter-gewuerze.jpg
 ---
 
 Gewürze und Kräuter sind kleine Wunderwerke der Natur. Sie sind die magischen Zutaten in der Küche und verleihen unseren Speisen das "gewisse Extra". Doch diese kleinen Pflanzenteilchen schmecken nicht nur hervorragend, sondern haben zusätzlich noch zahlreiche **gesundheitsfördernde Inhaltsstoffe**. Zu diesen Inhaltsstoffen gehören vor allem:

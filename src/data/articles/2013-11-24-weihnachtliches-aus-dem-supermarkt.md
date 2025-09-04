@@ -56,6 +56,8 @@ images:
   - rumba-pflaumen.jpg
   - Rumkugeln_Kaufland.jpg
   - Weinbrandbohnen_Kaufland.jpg
+aiGeneratedDate: '2025-09-04T15:59:11.171Z'
+featuredImage: ai/ai-weihnachtliches-aus-dem-supermarkt.jpg
 ---
 
 Lebkuchen, Christbaumschmuck, Kekse und vieles mehr türmt sich in den Supermärkten. Einiges davon fällt überraschend vegan aus. Wir haben hier schon so einiges zusammengesammelt (das vegane Weihnachtssortiment von Aldi/Hofer gibt es extra [hier](https://www.veganblatt.com/veganes-weihnachtssortiment-aldi-hofer)). Wenn Dir auch etwas unterkommt, mach bitte ein Foto davon und schick es uns mit dem Hinweis, wo Du es gefunden hast, an: **office@veganblatt.com**

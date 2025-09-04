@@ -8,6 +8,8 @@ excerpt: >-
   Deutschlands größtem Öko-Marktplatz zu bestaunen gibt, verbindet eines: es
   sind die grünen Alternativen zu konventionellen Produkten! Ein Großteil davon
   ist natürlich vegan!
+aiGeneratedDate: '2025-09-04T15:58:53.651Z'
+featuredImage: ai/ai-avocadostore-eco-fashion-lifestyle.jpg
 ---
 
 ### Transparentes shoppen

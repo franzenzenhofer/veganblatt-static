@@ -7,6 +7,8 @@ excerpt: >-
   Vegan ist leider nicht gleich gesund! Willst Du Dich nicht nur rein
   pflanzlich, sondern auch gesund ernähren, dann sind die folgenden 5 Tipps
   genau das Richtige für Dich!
+aiGeneratedDate: '2025-09-04T16:00:12.637Z'
+featuredImage: ai/ai-5-tipps-fettarme-ausgewogene-vegane-ernaehrung.jpg
 ---
 
 ### **1\. Frisches Obst & Gemüse rockt!**

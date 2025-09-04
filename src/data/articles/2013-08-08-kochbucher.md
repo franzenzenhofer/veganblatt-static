@@ -6,6 +6,8 @@ slug: kochbucher
 excerpt: >-
   Besonders für EinsteigerInnen sind Kochbücher eine wichtige Stütze bei der
   veganen Ernärung. Hier einige Empfehlungen und Grundsatztipps.
+aiGeneratedDate: '2025-09-04T15:54:17.815Z'
+featuredImage: ai/ai-kochbucher.jpg
 ---
 
 Mehr [Vegane Kochbücher](https://www.veganblatt.com/t/vegane-kochbuecher)!

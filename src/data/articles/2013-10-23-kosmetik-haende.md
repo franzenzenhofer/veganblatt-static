@@ -7,6 +7,8 @@ excerpt: >-
   Der Herbst ist da und die Hände sind nicht nur kalt, sondern häufig auch
   rissig. Wer seine rauen Hände nicht die ganze Zeit in Handschuhen verstecken
   möchte, ist mit diesen 5 Tipps für geschmeidige Hände gut beraten.
+aiGeneratedDate: '2025-09-04T15:57:37.606Z'
+featuredImage: ai/ai-kosmetik-haende.jpg
 ---
 
 ### 1\. Handpeeling

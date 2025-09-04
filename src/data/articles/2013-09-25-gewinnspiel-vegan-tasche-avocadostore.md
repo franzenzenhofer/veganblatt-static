@@ -8,6 +8,8 @@ excerpt: >-
   umweltfreundlichen und nachhaltigen Produkten. Darunter findet sich auch eine
   riesige Auswahl an veganen Lifestyle-Produkten, wie zum Beispiel diese tolle
   Vegan-Tasche, die es zu gewinnen gibt! Teilnahmeschluss: 11.11.2013
+aiGeneratedDate: '2025-09-04T15:56:08.380Z'
+featuredImage: ai/ai-gewinnspiel-vegan-tasche-avocadostore.jpg
 ---
 
 Kennt Ihr den **[Avocadostore.de](http://www.avocadostore.de/), den Marktplatz für eco fashion & green lifestyle,** schon? Über 45.000 grüne Produkte von verschiedenen Herstellern gilt es da zu entdecken. Da ist mit Sicherheit für jeden etwas dabei. Bewusst und nachhaltig einzukaufen ist hier einfach und macht bei der tollen Produktauswahl Spass. Nach den folgenden [**10 Kriterien**](http://www.avocadostore.de/criteria) wird die Herkunft der Produkte und ihre umweltfreundliche Seite schön übersichtlich dargestellt:

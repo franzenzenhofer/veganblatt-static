@@ -7,6 +7,8 @@ excerpt: >-
   Martina von vegan-in-graz.at verrät uns, was die steirische Landeshauptstadt
   an veganem Repertoire zu bieten hat und, dass auch in Graz "vegan" längst kein
   Fremdwort mehr ist.
+aiGeneratedDate: '2025-09-04T15:54:53.883Z'
+featuredImage: ai/ai-vegan-in-graz.jpg
 ---
 
 Aufgrund ihres Umstiegs von vegetarisch auf vegan hat Martina 2013 den Blog [vegan-in-graz.at](http://vegan-in-graz.at/) erstellt. Es soll als Portal dienen für diverse Fragen rund um Veganes in Hinblick auf eine natürliche Lebensweise und als Motivator, um positive Veränderungen vorzunehmen.

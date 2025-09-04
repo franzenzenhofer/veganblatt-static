@@ -7,6 +7,8 @@ excerpt: >-
   Im sanft hügeligen Süden der Steiermark ist der Herbst eine wahre Wonne.
   Klassische Brettljause und Wein gibt es natürlich überall, aber es geht auch
   vegan!
+aiGeneratedDate: '2025-09-04T15:55:59.959Z'
+featuredImage: ai/ai-ausflugstipp-steirische-weinstrasse.jpg
 ---
 
 Die südsteirische Weinstraße, die sich von Ehrenhausen bis Leutschach erstreckt, ist speziell im Herbst ein beliebtes Ausflugsziel und das aus gutem Grund: die wahnsinnig schöne Landschaft bietet neben Weingärten und Kürbisfeldern herrliche [Wanderwege](http://www.suedsteirischeweinstrasse.at/WeinWANDERN.2250.0.html), natürlich ausgezeichnete Weine und kulinarische Spezialitäten aus der Region.

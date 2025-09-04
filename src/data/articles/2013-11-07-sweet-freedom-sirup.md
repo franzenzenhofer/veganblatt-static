@@ -8,6 +8,8 @@ excerpt: >-
   Dieses Motto von Sweet Freedom hat uns natürlich gleich begeistert. Die
   gebündelte Süßkraft aus 100% Frucht macht Sweet Freedom zu einer natürlichen,
   kalorienärmeren & veganen Süßungsalternative.
+aiGeneratedDate: '2025-09-04T15:58:19.983Z'
+featuredImage: ai/ai-sweet-freedom-sirup.jpg
 ---
 
 ### Von Natur aus Süß

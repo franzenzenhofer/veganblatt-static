@@ -8,6 +8,8 @@ excerpt: >-
   überrascht zu werden? Der ist hier bei unserer veganen Weihnachtswichtel
   Aktion goldrichtig! Wie das funktioniert, erfährst Du hier. Anmeldeschluss ist
   der 2.12.2013.
+aiGeneratedDate: '2025-09-04T15:58:29.980Z'
+featuredImage: ai/ai-veganes-weihnachtswichteln-2013.jpg
 ---
 
 Schenken und beschenkt zu werden ist schön und daher haben wir uns für Weihnachten etwas ganz Besonderes einfallen lassen, etwas was hoffentlich vielen Freude bereitet: veganes Weihnachtswichteln!
