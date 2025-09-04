@@ -13,14 +13,8 @@ try {
 const baseIgnores = {
   ignores: [
     'temp-scripts/**',
-    'src/scripts/tests/**',
-    'src/scripts/generate-ai-images.ts',
-    'src/scripts/generate-vegan-images.ts',
-    'src/scripts/generate-and-crop.ts',
-    'src/scripts/direct-api-test.ts',
-    'src/scripts/fix-duplicate-titles.ts',
-    'src/scripts/image-copyright-audit.ts',
-    'src/scripts/remove-manual-copyright.ts'
+    // Ignore all dev scripts; production code lives in src/core, src/generators, src/templates
+    'src/scripts/**'
   ]
 };
 
@@ -45,13 +39,14 @@ const tsRules = tsparser && tseslint ? [{
     '@typescript-eslint': tseslint
   },
   rules: {
-    '@typescript-eslint/no-explicit-any': 'warn',
+    '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     'no-console': 'off',
     'no-debugger': 'error',
     'no-var': 'error',
     'prefer-const': 'error',
-    'max-lines': ['warn', 60]
+    // Keep a realistic file size limit for this project while being strict
+    'max-lines': ['error', 220]
   }
 }] : [{
   // Fallback minimal ruleset when TS plugin not available

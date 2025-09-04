@@ -90,10 +90,10 @@ export class SiteGenerator {
     await this.stats.saveReport(`${this.config.publicDir}/generation-stats.txt`);
   }
   
-  private async loadAllArticles(): Promise<any[]> {
+  private async loadAllArticles(): Promise<import('./types').Article[]> {
     const articlesDir = path.join(this.config.srcDir, 'articles');
     const files = await this.fs.readDir(articlesDir);
-    const articles = [];
+    const articles: import('./types').Article[] = [];
     
     for (const file of files.filter(f => f.endsWith('.md'))) {
       const content = await this.fs.readFile(path.join(articlesDir, file));
@@ -103,10 +103,10 @@ export class SiteGenerator {
     return articles.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   }
   
-  private async loadAllRecipes(): Promise<any[]> {
+  private async loadAllRecipes(): Promise<import('./types').Recipe[]> {
     const recipesDir = path.join(this.config.srcDir, 'recipes');
     const files = await this.fs.readDir(recipesDir);
-    const recipes = [];
+    const recipes: import('./types').Recipe[] = [];
     
     for (const file of files.filter(f => f.endsWith('.md'))) {
       const content = await this.fs.readFile(path.join(recipesDir, file));

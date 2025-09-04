@@ -47,7 +47,7 @@ export class RecipeTemplate extends ArticleTemplate {
       return `${base}/i/${encodeURIComponent(img)}`;
     };
 
-    const data: Record<string, any> = {
+    const data: Record<string, unknown> = {
       '@context': 'https://schema.org',
       '@type': 'Recipe',
       'name': recipe.title,
@@ -79,7 +79,7 @@ export class RecipeTemplate extends ArticleTemplate {
     return `\n  <script type="application/ld+json">${json}</script>`;
   }
 
-  private renderRecipeCard(recipe: any): string {
+  private renderRecipeCard(recipe: NonNullable<Recipe['recipe']>): string {
     const meta = this.renderMeta(recipe);
     const ingredients = this.renderIngredients(recipe.ingredients);
     const instructions = this.renderInstructions(recipe.instructions);
@@ -92,7 +92,7 @@ export class RecipeTemplate extends ArticleTemplate {
     </div>`;
   }
 
-  private renderMeta(recipe: any): string {
+  private renderMeta(recipe: NonNullable<Recipe['recipe']>): string {
     if (!recipe.prepTime && !recipe.cookTime && !recipe.servings) return '';
     const prep = recipe.prepTime ? this.formatISODuration(recipe.prepTime) : '';
     const cook = recipe.cookTime ? this.formatISODuration(recipe.cookTime) : '';

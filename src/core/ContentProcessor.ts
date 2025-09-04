@@ -3,6 +3,15 @@ import { marked } from 'marked';
 import fs from 'fs';
 import path from 'path';
 import { Article, Recipe } from '../types';
+
+interface Frontmatter {
+  slug?: string;
+  title?: string;
+  date?: string;
+  excerpt?: string;
+  featuredImage?: string;
+  recipe?: Recipe['recipe'];
+}
 import { ImageProcessor } from './ImageProcessor';
 
 export class ContentProcessor {
@@ -74,8 +83,8 @@ export class ContentProcessor {
     return renderer;
   }
 
-  parseMarkdown(content: string): { data: any; content: string } {
-    return matter(content);
+  parseMarkdown(content: string): { data: Frontmatter; content: string } {
+    return matter(content) as unknown as { data: Frontmatter; content: string };
   }
 
   async renderMarkdown(markdown: string): Promise<string> {

@@ -4,7 +4,6 @@ date: '2016-05-18 11:22:10'
 modified: '2016-05-18 14:53:19'
 slug: wildkraeuter-quiche
 excerpt: 'Die schnellste und wildeste Quiche der Welt! '
-images:
   - fb-wildkräuter-quiche.jpg
 featuredImage: wildkräuter-quiche.jpg
 recipe:
