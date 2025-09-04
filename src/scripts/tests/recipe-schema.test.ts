@@ -8,7 +8,9 @@ async function parseJsonLd(html: string): Promise<any[]> {
   const arr: any[] = [];
   for (const m of scripts) {
     try {
-      const json = JSON.parse(m[1]);
+      const content = (m[1] ?? '').trim();
+      if (!content) continue;
+      const json = JSON.parse(content);
       if (Array.isArray(json)) json.forEach(j => arr.push(j));
       else arr.push(json);
     } catch {
@@ -60,4 +62,3 @@ async function testRecipeSchema() {
 }
 
 testRecipeSchema().catch(err => { console.error(err); process.exit(1); });
-

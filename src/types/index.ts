@@ -11,6 +11,7 @@ export interface Recipe extends Article {
   recipe?: {
     prepTime?: string;
     cookTime?: string;
+    totalTime?: string;
     servings?: string;
     ingredients?: string[];
     instructions?: string[];

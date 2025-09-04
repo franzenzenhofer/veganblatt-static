@@ -35,5 +35,7 @@ recipe:
     - >-
       Statt Staubzucker haben wir die Kekse mit Kokosmehl bestreut. Dem kann man
       natürlich auch noch Vanille hinzufügen. Gutes Gelingen!
+aiGeneratedDate: '2025-09-04T13:05:48.786Z'
+featuredImage: ai/ai-roh-koestliche-vanillekipferl.jpg
 ---
 

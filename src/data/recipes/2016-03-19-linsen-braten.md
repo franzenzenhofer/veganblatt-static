@@ -41,5 +41,7 @@ recipe:
       Mit veganer [url href="https://www.veganblatt.com/vegane-braten-sauce"
       target="_blank"]Bratensauce[/url] und grünen Bohnen und/oder
       Kartoffelpüree servieren.
+aiGeneratedDate: '2025-09-04T13:04:38.303Z'
+featuredImage: ai/ai-linsen-braten.jpg
 ---
 

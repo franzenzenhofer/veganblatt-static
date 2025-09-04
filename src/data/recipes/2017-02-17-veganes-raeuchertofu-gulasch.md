@@ -50,6 +50,8 @@ recipe:
       Wenn die Kartoffeln durch sind, würze noch mit Salz, Pfeffer, Chili und
       gib frische Petersilie hinzu. In Schüsseln füllen und noch mit etwas
       Petersilie garnieren. Guten Appetit!
+aiGeneratedDate: '2025-09-04T13:04:58.589Z'
+featuredImage: ai/ai-veganes-raeuchertofu-gulasch.jpg
 ---
 
 Wer hat wieder mal Lust auf etwas einfach "deftiges"? Wärmt von Innen, schnell zubereitet und super lecker!

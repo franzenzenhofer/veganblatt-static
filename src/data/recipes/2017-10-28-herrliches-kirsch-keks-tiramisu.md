@@ -44,6 +44,8 @@ recipe:
       mit [url
       href="https://shop.veganblatt.com/de-DE/feinstoff/rohkakao-pulver-bio"
       target="_blank"]Kakao[/url] bestreut genießen.
+aiGeneratedDate: '2025-09-04T13:05:18.787Z'
+featuredImage: ai/ai-herrliches-kirsch-keks-tiramisu.jpg
 ---
 
 [<!-- Image removed (no copyright): kirsch-tiramisu.jpg -->](https://www.veganblatt.com/i/kirsch-tiramisu.jpg)

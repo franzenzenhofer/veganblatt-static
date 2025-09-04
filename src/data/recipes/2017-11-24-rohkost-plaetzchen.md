@@ -38,6 +38,8 @@ recipe:
       Kleine Teigportionen zwischen zwei Lagen Backpapier ausrollen und Kekse
       ausstechen. Auf einem Teller offen liegen und trocknen lassen. Danach,
       falls etwas übrig ist, im Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T13:05:28.905Z'
+featuredImage: ai/ai-rohkost-plaetzchen.jpg
 ---
 
 [![Rohkost Kekse](https://www.veganblatt.com/i/rohkost-kekse.jpg)](https://www.veganblatt.com/i/rohkost-kekse.jpg)

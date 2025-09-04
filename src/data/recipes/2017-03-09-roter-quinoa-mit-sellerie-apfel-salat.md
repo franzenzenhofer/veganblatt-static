@@ -40,6 +40,8 @@ recipe:
     - >-
       Quinoa abgießen und zusammen mit dem Sellerie-Apfel Salat in eine Schüssel
       geben und noch lauwarm genießen.
+aiGeneratedDate: '2025-09-04T13:05:09.684Z'
+featuredImage: ai/ai-roter-quinoa-mit-sellerie-apfel-salat.jpg
 ---
 
 Dieser leichte Salat ist ideal, wenn man etwas leckeres zwischendurch möchte. Er lässt sich ganz einfach in ein Glas abfüllen und schon kann man ihn mitnehmen. Schmeckt kalt und lauwarm einfach herrlich. Der Frühling kann kommen!

@@ -46,5 +46,7 @@ recipe:
       hätte. Die Vorlieben gehen da stark auseinander ;)
     - Nach Belieben salzen und pfeffern.
     - Am Ende noch mit Petersilie würzen und heiß servieren.
+aiGeneratedDate: '2025-09-04T13:04:49.226Z'
+featuredImage: ai/ai-fisolen-kartoffel-gulasch.jpg
 ---
 

@@ -42,6 +42,8 @@ recipe:
       Gehackte Mandeln und Schokolade wenn gewünscht (aber wir finden es super
       lecker!) untermischen.
     - 'Bei 180°C, 40 min. backen, abkühlen lassen und genießen!'
+aiGeneratedDate: '2025-09-04T13:05:39.210Z'
+featuredImage: ai/ai-weisse-vanille-cookies.jpg
 ---
 
 Bevor Ihr dieses Keksrezept mit jemandem teilt, lasst sie die Kekse zuerst probieren, um dann zu sagen, dass sie glutenfrei, zuckerfrei und aus weißen Bohnen sind. Also nicht verraten und erst mal naschen! Gesund und super lecker, was will man mehr!
