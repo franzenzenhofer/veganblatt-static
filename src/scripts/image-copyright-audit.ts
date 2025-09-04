@@ -19,7 +19,7 @@ async function auditImageCopyrights() {
   console.log('================================================\n');
   
   const results: AuditResult[] = [];
-  const metadataFiles = await glob('src/data/image-metadata/*.md', { cwd: process.cwd() });
+  const metadataFiles = await glob('src/data/image-metadata/*.md');
   const imageMetadata = new Map<string, string>();
   
   // Load all image metadata
@@ -36,7 +36,7 @@ async function auditImageCopyrights() {
   
   // Check all markdown files
   console.log('📄 Checking markdown files for inline images...');
-  const markdownFiles = await glob('src/data/**/*.md', { cwd: process.cwd() });
+  const markdownFiles = await glob('src/data/**/*.md');
   let totalInlineImages = 0;
   let imagesWithoutMetadata = 0;
   
@@ -89,7 +89,7 @@ async function auditImageCopyrights() {
   
   // Check HTML files for rendering issues
   console.log('\n🌐 Checking generated HTML files...');
-  const htmlFiles = await glob('public/**/*.html', { cwd: process.cwd() });
+  const htmlFiles = await glob('public/**/*.html');
   let htmlIssues = 0;
   const htmlProblems: string[] = [];
   
