@@ -1,0 +1,146 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "VeganBlatt" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - img "VeganBlatt" [ref=e5] [cursor=pointer]
+    - navigation [ref=e6]:
+      - link "Start" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - link "Artikel" [ref=e8] [cursor=pointer]:
+        - /url: /artikel.html
+      - link "Rezepte" [ref=e9] [cursor=pointer]:
+        - /url: /rezepte.html
+  - main [ref=e10]:
+    - list [ref=e11]:
+      - listitem [ref=e12]:
+        - img "20180413_164137" [ref=e13]
+        - generic [ref=e14]:
+          - link "Knackige Vegane Süsskartoffelpommes mit frischem Spargel" [ref=e15] [cursor=pointer]:
+            - /url: /r/suesskartoffelpommes-mit-spargel.html
+          - paragraph [ref=e16]: Jetzt ist Spargelzeit. Dieses leckere Gemüse frischt den Speiseplan im Frühling immer wieder auf. Dazu sind leckere selbstgemachte Süsskartoffelpommes richtig lecker. Das beste, es ist richtig einfach all das zuzubereiten.
+      - listitem [ref=e17]:
+        - img "glutenfrei vegane Vanillekipferl" [ref=e18]
+        - generic [ref=e19]:
+          - link "Vegane Muskat-Vanillekipferl" [ref=e20] [cursor=pointer]:
+            - /url: /r/vegane-muskat-vanillekipferl.html
+          - paragraph [ref=e21]: Was zu Weihnachten in keiner Keksdose fehlen darf, sind Vanillekipferl. In meiner Version sind sie besonders fein mit einer Prise Muskatnuss und natürlich vegan.
+      - listitem [ref=e22]:
+        - img "rainbow cake 4 1 2" [ref=e23]
+        - generic [ref=e24]:
+          - link "Raindrop Vegane Cake" [ref=e25] [cursor=pointer]:
+            - /url: /r/raindrop-cake.html
+          - paragraph [ref=e26]: Mit diesem Rezept musst Du nicht nach Brooklyn oder Japan pilgern, um den so gehypten Raindrop Cake zu probieren!
+      - listitem [ref=e27]:
+        - img "rote gruetze 1" [ref=e28]
+        - generic [ref=e29]:
+          - link "Vegane rote Grütze mit Sago & Beeren" [ref=e30] [cursor=pointer]:
+            - /url: /r/vegane-rote-gruetze.html
+          - paragraph [ref=e31]: Vegane rote Grütze mit richtigen Früchten schmeckt so viel besser als das, was wir von früher kennen. Probiert es aus!
+      - listitem [ref=e32]:
+        - img "grill kohlrabi" [ref=e33]
+        - generic [ref=e34]:
+          - link "Grill Vegane Kohlrabi" [ref=e35] [cursor=pointer]:
+            - /url: /r/kohlrabi-grillen.html
+          - paragraph [ref=e36]: Vor kurzem auf einer Grillparty gesehen und hat uns voll überzeugt. Kohlrabi ist ein tolles Grill-Gemüse! Empfehlung!
+      - listitem [ref=e37]:
+        - img "salatrollen 1" [ref=e38]
+        - generic [ref=e39]:
+          - link "Bunte Veganer Salatrollen mit Erdnuss-Dip" [ref=e40] [cursor=pointer]:
+            - /url: /r/salatrollen-erdnuss-dip.html
+          - paragraph [ref=e41]: Sommerlich leicht, bunt, knackig, frisch! Diese vitaminreichen Rollen machen Spaß und bringen gute Laune.
+      - listitem [ref=e42]:
+        - img "TartareSauce" [ref=e43]
+        - generic [ref=e44]:
+          - link "Vegane Sauce Tartare" [ref=e45] [cursor=pointer]:
+            - /url: /r/vegane-sauce-tartare.html
+          - paragraph [ref=e46]: Gebackene Champignons, Ofenkartoffeln oder Gemüse Sticks – all das schmeckt gleich doppelt so gut mit dieser einfachen Sauce Tartare als Dip!
+      - listitem [ref=e47]:
+        - img "1140 wien vegan" [ref=e48]
+        - generic [ref=e49]:
+          - link "Wien 1140 Vegan" [ref=e50] [cursor=pointer]:
+            - /url: /a/wien-1140-vegan.html
+          - paragraph [ref=e51]: In Penzing wird nicht nur für den veganen Magen, sondern auch für die vegane Schönheit gesorgt. Damit Ihr auch nichts verpasst, haben wir die wichtigsten Adressen hier für euch gesammelt.
+      - listitem [ref=e52]:
+        - img "wieden collage" [ref=e53]
+        - generic [ref=e54]:
+          - link "Wien 4 Vegan" [ref=e55] [cursor=pointer]:
+            - /url: /a/wien-1040.html
+          - paragraph [ref=e56]: Wieden, der vierte Gemeindebezirk Wiens ist geradezu voll mit Anlaufstellen für vegane Bedürfnisse aller Art. Neben zahlreichen Restaurants findet man allenthalben Fachgeschäfte für Naturkosmetik oder Bioläden - das große Highlight ist natürlich der Naschmarkt.
+      - listitem [ref=e57]:
+        - img "ai/ai miigan soy protex rezept gewinnspiel" [ref=e58]
+        - generic [ref=e59]:
+          - link "Vegane Sesam-Soja-Schnetzel mit Miigan Soy Protex + Gewinnspiel" [ref=e60] [cursor=pointer]:
+            - /url: /r/miigan-soy-protex-rezept-gewinnspiel.html
+          - paragraph [ref=e61]: Vegan ist nicht teuer! Pflanzliche Proteinquellen wie Bohnen oder texturiertes Soja sind allemal billiger als Fleisch und können vielfältig und schmackhaft zubereitet werden.
+      - listitem [ref=e62]:
+        - img "Erbsensuppe" [ref=e63]
+        - generic [ref=e64]:
+          - link "Erbsensuppe Vegane mit Minze und Croutons" [ref=e65] [cursor=pointer]:
+            - /url: /r/erbsensuppe-mit-minze-und-croutons.html
+          - paragraph [ref=e66]: Eine schnelle und sehr leckere Vorspeise, ist immer eine Suppe. Am feinsten eine cremige Art, die du auch noch mit Kräutern pimpen und so zu einem besonderen Geschmackserlebnis machen kannst.
+      - listitem [ref=e67]:
+        - img "markt" [ref=e68]
+        - generic [ref=e69]:
+          - link "Vegan Food - kein Verzicht" [ref=e70] [cursor=pointer]:
+            - /url: /a/food.html
+          - paragraph [ref=e71]: "Vegan essen bedeutet: Vielfalt, Phantasie, Geschmack. Es bedeutet nicht: Verzicht."
+      - listitem [ref=e72]:
+        - img "Gemuese Carpaccio" [ref=e73]
+        - generic [ref=e74]:
+          - link "Vegane Gemüse Carpaccio mit Cashewcreme" [ref=e75] [cursor=pointer]:
+            - /url: /r/gemuese-carpaccio.html
+          - paragraph [ref=e76]: Der hohe Magnesium Gehalt in Cashewkernen sorgt für ein gut funktionierendes Nervensystem und wirkt sich positiv auf deine Muskulatur aus. Eine rohe Gemüseplatte passt perfekt dazu und schmeckt nicht nur im Hochsommer wundervoll.
+      - listitem [ref=e77]:
+        - img "nudeln" [ref=e78]
+        - generic [ref=e79]:
+          - 'link "Einkaufsratgeber: Nudeln" [ref=e80] [cursor=pointer]':
+            - /url: /a/nudeln.html
+          - paragraph [ref=e81]: Eines der zentralsten Grundnahrungsmittel unserer Zeit. Teils vegan, teils nichtvegan - aber immerhin leicht unterscheidbar.
+      - listitem [ref=e82]:
+        - img "Pastinaken" [ref=e83]
+        - generic [ref=e84]:
+          - link "Pastinaken Vegane Creme mit Kräutern" [ref=e85] [cursor=pointer]:
+            - /url: /r/pastinaken-creme-mit-kraeutern.html
+          - paragraph [ref=e86]: Pastinaken kennst du bestimmt aus dem Suppengemüse. Aber hast du sie schonmal als Brotaufstrich ausprobiert?
+      - listitem [ref=e87]:
+        - img "veganer Baumkuchen2 neu" [ref=e88]
+        - generic [ref=e89]:
+          - link "Vegane ungarische Baumkuchen" [ref=e90] [cursor=pointer]:
+            - /url: /r/vegane-ungarische-baumkuchen.html
+          - paragraph [ref=e91]: Baumkuchen sind so köstlich, dass es schade ist das ganze Jahr auf den Weihnachtsmarkt warten zu müssen um sie zu essen. Jetzt könnt Ihr sie auch ganz leicht selber machen.
+      - listitem [ref=e92]:
+        - img "Cold Cream" [ref=e93]
+        - generic [ref=e94]:
+          - link "Veganes Rezept für Erkältungsbalsam" [ref=e95] [cursor=pointer]:
+            - /url: /r/erkaeltungsbalsam.html
+          - paragraph [ref=e96]: In der Grippezeit ist es gut, immer etwas Erkältungsbalsam auf Vorrat zu haben. Ein Basisöl, gemischt mit Carnaubwachs und ätherischen Ölen gemischt und schon hast du deinen DIY Balsam.
+      - listitem [ref=e97]:
+        - img "ai/ai selbstgemachter veganer kaese nuss soja fettfrei" [ref=e98]
+        - generic [ref=e99]:
+          - 'link "Selbstgemachter Veganer Käse: nuss-, soja- & fettfrei" [ref=e100] [cursor=pointer]':
+            - /url: /r/selbstgemachter-veganer-kaese-nuss-soja-fettfrei.html
+          - paragraph [ref=e101]: Dieses Käse Rezept mit geräuchertem Paprika wird Euch überraschen, denn es kommt ganz ohne Nüsse aus. Der Käse lässt sich gut schneiden und auch reiben.
+      - listitem [ref=e102]:
+        - img "Beeren Bowle" [ref=e103]
+        - generic [ref=e104]:
+          - link "Beeren Vegane Bowle" [ref=e105] [cursor=pointer]:
+            - /url: /r/beeren-bowle.html
+          - paragraph [ref=e106]: Vor allem im Sommer viel zu trinken ist wichtig. Da darf es aber auch gerne mal eine Abwechslung zu Wasser sein, wenn du nach Feierabend auf deinem Balkon oder der Terrasse noch die letzten Sonnenstrahlen genießt.
+      - listitem [ref=e107]:
+        - img "jackfruit wraps 1" [ref=e108]
+        - generic [ref=e109]:
+          - link "Vegane würzige Jackfruit Wraps mit Avocado & Spinat" [ref=e110] [cursor=pointer]:
+            - /url: /r/jackfruit-wraps.html
+          - paragraph [ref=e111]: Grüne Jackfruit ist der neue vegane Foodtrend, den es auszuprobieren gilt. Und wahrlich, gut gewürzt schmeckt diese exotische Frucht köstlich.
+  - contentinfo [ref=e112]:
+    - paragraph [ref=e113]: VeganBlatt • Alle Rechte vorbehalten
+    - paragraph [ref=e114]:
+      - link "Impressum" [ref=e115] [cursor=pointer]:
+        - /url: /impressum.html
+      - text: •
+      - link "Datenschutz" [ref=e116] [cursor=pointer]:
+        - /url: /impressum.html#datenschutz
+```

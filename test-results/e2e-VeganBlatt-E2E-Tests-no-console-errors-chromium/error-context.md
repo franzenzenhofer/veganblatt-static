@@ -1,0 +1,4349 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "VeganBlatt" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - img "VeganBlatt" [ref=e5] [cursor=pointer]
+    - navigation [ref=e6]:
+      - link "Start" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - link "Artikel" [ref=e8] [cursor=pointer]:
+        - /url: /artikel.html
+      - link "Rezepte" [ref=e9] [cursor=pointer]:
+        - /url: /rezepte.html
+  - main [ref=e10]:
+    - heading "Alle Rezepte" [level=1] [ref=e11]
+    - paragraph [ref=e12]: 723 vegane Rezepte
+    - list [ref=e13]:
+      - listitem [ref=e14]:
+        - img "Untitled design 8 1" [ref=e15]
+        - generic [ref=e16]:
+          - link "Veganer Mumbai-Burrito von Ahimsa Plant-Kitchen" [ref=e17] [cursor=pointer]:
+            - /url: /r/mumbai-burrito.html
+          - paragraph [ref=e18]: Wunderbar bunte, kreative Rezeptideen bringt uns Ahimsa Plant-Kitchen mit ihrem Youtube-Kanal näher. Mit dem Rezept für indische Burritos präsentiert uns Ahimsa veganes Streetfood vom Feinsten!
+      - listitem [ref=e19]:
+        - img "veganes Curry" [ref=e20]
+        - generic [ref=e21]:
+          - link "Veganes Süßkartoffel Curry mit Kichererbsen" [ref=e22] [cursor=pointer]:
+            - /url: /r/suesskartoffel-curry-mit-kichererbsen.html
+          - paragraph [ref=e23]: Ein Curry ist ein wunderbares Gericht, das man auch für mehrere Tage vorkochen und essen kann. Dazu kommt, dass man die Zutaten immer neu variieren kann und auch die Toppings und Beilagen ganz optional sind.
+      - listitem [ref=e24]:
+        - img "veganes Fondue" [ref=e25]
+        - generic [ref=e26]:
+          - link "Veganes Käse Fondue" [ref=e27] [cursor=pointer]:
+            - /url: /r/veganes-kaese-fondue.html
+          - paragraph [ref=e28]: Fondue lässt sich ganz wunderbar vegan zubereiten und du wirst sehen, es schmeckt herrlich käsig.
+      - listitem [ref=e29]:
+        - img "Mandel Aufstrich" [ref=e30]
+        - generic [ref=e31]:
+          - link "Vegane Weißes Mandel-Schokoladen-Pesto" [ref=e32] [cursor=pointer]:
+            - /url: /r/weisses-mandel-schokoladen-pesto.html
+          - paragraph [ref=e33]: Ein cremig-süßer Brotaufstrich, der im Handumdrehen zubereitet ist? Bittesehr!
+      - listitem [ref=e34]:
+        - img "Mandel Feta" [ref=e35]
+        - generic [ref=e36]:
+          - link "Veganer Feta auf Mandelbasis" [ref=e37] [cursor=pointer]:
+            - /url: /r/veganer-feta-auf-mandelbasis.html
+          - paragraph [ref=e38]: Hast du dich schon mal daran versucht veganen Käse aus Nüssen herzustellen? Das kann man sehr aufwändig machen, aber auch mit weniger Aufwand und etwas Zeit entsteht ein wunderbarere Mandel Feta.
+      - listitem [ref=e39]:
+        - img "Feigen Smoothie" [ref=e40]
+        - generic [ref=e41]:
+          - link "Cremiger Veganer grüner Feigen-Smoothie" [ref=e42] [cursor=pointer]:
+            - /url: /r/cremig-gruener-feigen-smoothie.html
+          - paragraph [ref=e43]: A smoothie a day... ja ganz so ist es auch wieder nicht, aber ein Smoothie ist sehr leicht verdaulich, weil er ja vor püriert ist und kann schonmal ein kleines Frühstück ersetzen, um jede Menge Nährstoffen in deinen Organismus zu bringen.
+      - listitem [ref=e44]:
+        - img "Spargel Salat" [ref=e45]
+        - generic [ref=e46]:
+          - link "Ensalata Veganer Verde mit Spargel und Erdbeeren" [ref=e47] [cursor=pointer]:
+            - /url: /r/ensalata-verde-mit-spargel-und-erdbeeren.html
+          - paragraph [ref=e48]: Sobald der Spargel Saison hat, ist auch die Erdbeere nicht mehr weit. Beides in Kombination schmeckt ganz himmlisch, zum Beispiel als kalter Salat.
+      - listitem [ref=e49]:
+        - img "Schoko Creme" [ref=e50]
+        - generic [ref=e51]:
+          - link "Soulfood Vegane Schoko Creme" [ref=e52] [cursor=pointer]:
+            - /url: /r/soulfood-schoko-creme.html
+          - paragraph [ref=e53]: Manchmal muss es einfach Soulfood sein. Trotzdem kann auch Soulfood gesund sein, denn durch Avocado und rohes Kakaopulver wird das ganze zu einem sehr gesunden Genuss.
+      - listitem [ref=e54]:
+        - img "Zucchini" [ref=e55]
+        - generic [ref=e56]:
+          - link "Zucchini Vegane Pfanne mit Chili" [ref=e57] [cursor=pointer]:
+            - /url: /r/zucchini-pfanne-mit-chili.html
+          - paragraph [ref=e58]: Dieses wunderbare Gericht mit einem Hauch Fernost ist dank Tofu sehr proteinreich und dazu auch noch enorm schmackhaft.
+      - listitem [ref=e59]:
+        - img "Thai Salat" [ref=e60]
+        - generic [ref=e61]:
+          - link "Veganer Mango-Karotten-Thai Salat mit Nüssen" [ref=e62] [cursor=pointer]:
+            - /url: /r/thai-salat.html
+          - paragraph [ref=e63]: Optional kannst du deinen Salat auch noch mit gehacktem Koriander garnieren, wenn dir das schmeckt. Weitere Rezepte wie dieses und Tipps und Tricks zu...
+      - listitem [ref=e64]:
+        - img "Schoko Croissant" [ref=e65]
+        - generic [ref=e66]:
+          - link "Schoko Vegane Blätterteig Croissants" [ref=e67] [cursor=pointer]:
+            - /url: /r/schoko-blaetterteig-croissant.html
+          - paragraph [ref=e68]: Nachspeisen müssen nicht immer mit total viel Aufwand verbunden sein, es geht auch einfach und ist im Handumdrehen fertig.
+      - listitem [ref=e69]:
+        - img "Tomaten Paprika Cocktail" [ref=e70]
+        - generic [ref=e71]:
+          - link "Vegane Tomaten-Paprika-Cocktail" [ref=e72] [cursor=pointer]:
+            - /url: /r/tomaten-paprika-cocktail.html
+          - paragraph [ref=e73]: Frisch, scharf, leicht und lecker. Mit diesem Tomaten Cocktail hast du auch an warmen Tagen eine herrliche Mahlzeit, die nach Belieben in ihrer Schärfe angepasst werden kann.
+      - listitem [ref=e74]:
+        - img "Baerlauch 1" [ref=e75]
+        - generic [ref=e76]:
+          - link "Vegane Bärlauch-Spinat Palatschinken" [ref=e77] [cursor=pointer]:
+            - /url: /r/baerlauch-spinat-palatschinken.html
+          - paragraph [ref=e78]: Frühling ist unweigerlich Bärlauchzeit. Ein besonders feines Rezept ist das für Palatschinken mit Bärlauch und Spinat.
+      - listitem [ref=e79]:
+        - img "Erbsensuppe" [ref=e80]
+        - generic [ref=e81]:
+          - link "Erbsensuppe Vegane mit Minze und Croutons" [ref=e82] [cursor=pointer]:
+            - /url: /r/erbsensuppe-mit-minze-und-croutons.html
+          - paragraph [ref=e83]: Eine schnelle und sehr leckere Vorspeise, ist immer eine Suppe. Am feinsten eine cremige Art, die du auch noch mit Kräutern pimpen und so zu einem besonderen Geschmackserlebnis machen kannst.
+      - listitem [ref=e84]:
+        - img "Hot chocolate" [ref=e85]
+        - generic [ref=e86]:
+          - link "Hot Vegane and Spicy Chocolate" [ref=e87] [cursor=pointer]:
+            - /url: /r/hot-and-spicy-chocolate.html
+          - paragraph [ref=e88]: Der Scharfstoff Capsaicin aus der Chilischote kurbelt den gesamten Stoffwechsel an. Auch Ingwer wirkt anregend und beruhigt durch das enthaltene Ätherische Öl Gingerol den Bauch.
+      - listitem [ref=e89]:
+        - img "Basenmuesli" [ref=e90]
+        - generic [ref=e91]:
+          - link "Vegane Basenmüsli mit Apfel und Banane" [ref=e92] [cursor=pointer]:
+            - /url: /r/basenmuesli-mit-apfel-und-banane.html
+          - paragraph [ref=e93]: Basenfasten muss nicht langweilig sein; schon das Frühstück kann super lecker schmecken und ist mit wenigen Handgriffen zubereitet.
+      - listitem [ref=e94]:
+        - img "Pastinaken" [ref=e95]
+        - generic [ref=e96]:
+          - link "Pastinaken Vegane Creme mit Kräutern" [ref=e97] [cursor=pointer]:
+            - /url: /r/pastinaken-creme-mit-kraeutern.html
+          - paragraph [ref=e98]: Pastinaken kennst du bestimmt aus dem Suppengemüse. Aber hast du sie schonmal als Brotaufstrich ausprobiert?
+      - listitem [ref=e99]:
+        - img "Kartoffel Eintopf" [ref=e100]
+        - generic [ref=e101]:
+          - link "Veganer Kartoffel-Lauch-Eintopf" [ref=e102] [cursor=pointer]:
+            - /url: /r/kartoffel-lauch-eintopf.html
+          - paragraph [ref=e103]: Das Soulfood schlechthin, unser zünftiger Kartoffel-Lauch Eintopf mit saisonalen Zutaten.
+      - listitem [ref=e104]:
+        - img "Kale Avo Dipp" [ref=e105]
+        - generic [ref=e106]:
+          - link "Kale Vegane Avocado Dipp" [ref=e107] [cursor=pointer]:
+            - /url: /r/kale-avocado-dipp.html
+          - paragraph [ref=e108]: Bei Stress und Nervosität kann die Avocado sehr hilfreich sein, denn in ihrem Fruchfleisch stecken große Mengen an Lecithin und B-Vitaminen.
+      - listitem [ref=e109]:
+        - img "Tomaten Suppe" [ref=e110]
+        - generic [ref=e111]:
+          - link "Scharfe Vegane Tomatensuppe mit Räuchertofu" [ref=e112] [cursor=pointer]:
+            - /url: /r/scharfe-tomatensuppe-mit-raeuchertofu.html
+          - paragraph [ref=e113]: An sehr kalten Tagen, hilft oft nur noch eine warme Suppe. Manchmal aber ist es so kalt, dass wir richtig durchgewärmt werden müssen und da hilft uns Chili auf die Sprünge.
+      - listitem [ref=e114]:
+        - img "Linsensuppe Lauch" [ref=e115]
+        - generic [ref=e116]:
+          - link "Linsensuppe Vegane mit Lauch" [ref=e117] [cursor=pointer]:
+            - /url: /r/linsensuppe-mit-lauch.html
+          - paragraph [ref=e118]: Mit Linsen kommen reichlich sättigende Ballaststoffe ins Spiel. Ebenso Magnesium für unerschiedliche Stoffwechselprozesse und ein starkes Nervenkostüm.
+      - listitem [ref=e119]:
+        - img "Zitrone" [ref=e120]
+        - generic [ref=e121]:
+          - link "Vegane Alleskönner Zitrone" [ref=e122] [cursor=pointer]:
+            - /url: /r/alleskoenner-zitrone.html
+          - paragraph [ref=e123]: Wenn etwas auf deiner Einkaufsliste niemals fehlen sollte, dann ist es die Zitrone. Sie besticht nicht nur durch ihren frischen, spritzigen Kick, den sie Gerichten verleiht. In ihr steckt noch viel mehr.
+      - listitem [ref=e124]:
+        - img "Green Kale Smoothie" [ref=e125]
+        - generic [ref=e126]:
+          - link "Belebender Veganer Grünkohl-Smoothie" [ref=e127] [cursor=pointer]:
+            - /url: /r/belebender-gruenkohl-smoothie.html
+          - paragraph [ref=e128]: Grünkohl enthält fast alle B-Vitamine und dazu Kalzium, das in Kombination mit dem enthaltenen Vitamin C den Stoffwechsel antreibt. Er wirkt vitalisierend und hilft, die Cholesterin- und Fettkonzentration im Blut zu senken. Zudem versorgt Kale den Körper mit Ballaststoffen, die eine normale Darmfunktion unterstützen.
+      - listitem [ref=e129]:
+        - img "Kale mit Knoblauch" [ref=e130]
+        - generic [ref=e131]:
+          - link "Gebratener Vegane Grünkohl mit Knoblauch" [ref=e132] [cursor=pointer]:
+            - /url: /r/gebratener-gruenkohl-mit-knoblauch.html
+          - paragraph [ref=e133]: Das im Knoblauch enthaltene Allicin wirkt antioxidativ und bekämpft freie Radikale. Noch dazu ist Knoblauch reich an den Vitaminen B1, B6 und C, sowie Kalzium, Kupfer und Selen.
+      - listitem [ref=e134]:
+        - img "ai/ai vegane fluffige semmelknoedel" [ref=e135]
+        - generic [ref=e136]:
+          - link "Vegane, fluffige Semmelknödel" [ref=e137] [cursor=pointer]:
+            - /url: /r/vegane-fluffige-semmelknoedel.html
+          - paragraph [ref=e138]: "Aus der Kategorie Zero Waste Küche: hast du noch etwas ältere Brötchen übrig? Dann bist du am besten beraten, sie zu schmackhaften, fluffigen Semmelknödeln zu verarbeiten."
+      - listitem [ref=e139]:
+        - img "Chai Tee Mischung" [ref=e140]
+        - generic [ref=e141]:
+          - link "Vegane DIY Chai Tee Mischung" [ref=e142] [cursor=pointer]:
+            - /url: /r/diy-chai-tee-mischung.html
+          - paragraph [ref=e143]: Chai ist im Ayurveda und der indischen Küche gar nicht wegzudenken. Ein Essen mit der Familie oder guten Freunden, startet immer mit einer Runde Chai.
+      - listitem [ref=e144]:
+        - img "Cold Cream" [ref=e145]
+        - generic [ref=e146]:
+          - link "Veganes Rezept für Erkältungsbalsam" [ref=e147] [cursor=pointer]:
+            - /url: /r/erkaeltungsbalsam.html
+          - paragraph [ref=e148]: In der Grippezeit ist es gut, immer etwas Erkältungsbalsam auf Vorrat zu haben. Ein Basisöl, gemischt mit Carnaubwachs und ätherischen Ölen gemischt und schon hast du deinen DIY Balsam.
+      - listitem [ref=e149]:
+        - img "Kitchari" [ref=e150]
+        - generic [ref=e151]:
+          - link "Veganes Rezept für ayurvedisches Kitchari" [ref=e152] [cursor=pointer]:
+            - /url: /r/rezept-fuer-ayurvedisches-kitchari.html
+          - paragraph [ref=e153]: Die ayurvedische Küche versteht sich als Inspiration, die eigene Balance zu finden. Es ist kein starres System, das mit Vorschriften und Kategorien aufwartet.
+      - listitem [ref=e154]:
+        - img "Bete Drink" [ref=e155]
+        - generic [ref=e156]:
+          - link "Rote Vegane Bete Kokos Drink" [ref=e157] [cursor=pointer]:
+            - /url: /r/rote-bete-kokos-drink.html
+          - paragraph [ref=e158]: Sportler halten länger am Fahrrad oder beim Laufen durch, wenn sie vorher rote Bete Saft getrunken haben. Die Leistungsfähigkeit steigt um bis zu 16%.
+      - listitem [ref=e159]:
+        - img "Spitzbuben vegan" [ref=e160]
+        - generic [ref=e161]:
+          - link "Erdbeer Vegane Spitzbuben" [ref=e162] [cursor=pointer]:
+            - /url: /r/erdbeer-spitzbuben.html
+          - paragraph [ref=e163]: Spitzbuben oder Linzeraugen sind ein Klassiker zu Weihnachten. Die beiden Kekshälften, die mit Marmelade zusammen gehalten werden, schmecken besonders fein zum Adventkaffee oder zu einer Tasse Punsch.
+      - listitem [ref=e164]:
+        - img "glutenfrei vegane Vanillekipferl" [ref=e165]
+        - generic [ref=e166]:
+          - link "Vegane Muskat-Vanillekipferl" [ref=e167] [cursor=pointer]:
+            - /url: /r/vegane-muskat-vanillekipferl.html
+          - paragraph [ref=e168]: Was zu Weihnachten in keiner Keksdose fehlen darf, sind Vanillekipferl. In meiner Version sind sie besonders fein mit einer Prise Muskatnuss und natürlich vegan.
+      - listitem [ref=e169]:
+        - img "Pistazien Baklava" [ref=e170]
+        - generic [ref=e171]:
+          - link "Pistazien Vegane Baklava mit Walnüssen und Schokolade" [ref=e172] [cursor=pointer]:
+            - /url: /r/pistazien-baklava.html
+          - paragraph [ref=e173]: Besonders lecker schmeckt Baklava, wenn du etwa veganes Kokos-Joghurt dazu reichst. Vielleicht auch noch ein paar Walnüsse und Schokolade?
+      - listitem [ref=e174]:
+        - img "Walnuss Pasta" [ref=e175]
+        - generic [ref=e176]:
+          - link "Spaghetti Vegane mit Walnuss Ragout" [ref=e177] [cursor=pointer]:
+            - /url: /r/spaghetti-mit-walnuss-ragout.html
+          - paragraph [ref=e178]: Spaghetti gehen eigentlich immer, oder wie siehst du das? Der Klassiker mit Tomatensosse schmeckt jedes Mal aufs Neue. Damit es aber nicht langweilig wird, haben wir den Klassiker neu aufgelegt und ihm ein paar Komponenten zusätzlich geschenkt.
+      - listitem [ref=e179]:
+        - img "DSC_1027" [ref=e180]
+        - generic [ref=e181]:
+          - link "Veganer Gewürz Kaffee Kuchen" [ref=e182] [cursor=pointer]:
+            - /url: /r/kaffee-kuchen.html
+          - paragraph [ref=e183]: Besonders in der Adventszeit sind Gewürze wie Zimt und Kardamom beliebt. Beide passen auch hervorragend zu Kaffee und machen sich wunderbar als Kuchen.
+      - listitem [ref=e184]:
+        - img "hot chocolate vegan" [ref=e185]
+        - generic [ref=e186]:
+          - link "Cremige Vegane Hot Chocolate" [ref=e187] [cursor=pointer]:
+            - /url: /r/hot-chocolate.html
+          - paragraph [ref=e188]: Wenn es kalt und grau in grau wird, dann ist am besten, sich auf die Couch zu kuscheln, ein gutes Buch und eine heiße Schokolade mitzunehmen.
+      - listitem [ref=e189]:
+        - img "ai/ai weihnachtliche zimtschnecken" [ref=e190]
+        - generic [ref=e191]:
+          - link "Weihnachtliche Vegane Zimtschnecken" [ref=e192] [cursor=pointer]:
+            - /url: /r/weihnachtliche-zimtschnecken.html
+          - paragraph [ref=e193]: Zimtschnecken mit etwas Kardamom und Muskat sind die perfekten Begleiter durch den Advent. Die ganze Wohnung duftet sofort weihnachtlich und alle erfreuen sich an den fluffigen, kleinen Schnecken.
+      - listitem [ref=e194]:
+        - img "vegane Butter" [ref=e195]
+        - generic [ref=e196]:
+          - link "Vegane Butter selbst machen" [ref=e197] [cursor=pointer]:
+            - /url: /r/vegane-butter-selbst-machen.html
+          - paragraph [ref=e198]: Ich finde es oft schwierig, die für mich perfekte vegane Butter zu finden. Am leichtesten geht es, wenn du sie einfach selbst nach deinen Wünschen herstellst.
+      - listitem [ref=e199]:
+        - img "mac and cheese vegan" [ref=e200]
+        - generic [ref=e201]:
+          - link "Makkaroni mit veganem Käse" [ref=e202] [cursor=pointer]:
+            - /url: /r/makkaroni-mit-veganem-kaese.html
+          - paragraph [ref=e203]: "Ein typisches Gericht für den Herbst und Winter, besonders zu Thanks Giving in Amerika beliebt: Mac and Cheese. Natürlich lassen sich die leckern Makkaroni aber auch super vegan zubereiten."
+      - listitem [ref=e204]:
+        - img "Hirse Fruehstueck" [ref=e205]
+        - generic [ref=e206]:
+          - link "Warmes Veganes Hirse Frühstück" [ref=e207] [cursor=pointer]:
+            - /url: /r/warmes-hirse-fruehstueck.html
+          - paragraph [ref=e208]: Im Herbst und Winter ist es besonders gut für den Organismus, wenn du mit einem warmen Frühstück in den Tag startest. Hirse ist sehr nährend und stärkt deine Mitte.
+      - listitem [ref=e209]:
+        - img "Karotten Suppe" [ref=e210]
+        - generic [ref=e211]:
+          - link "Karotten Vegane Orangen Suppe mit Kichererbsen" [ref=e212] [cursor=pointer]:
+            - /url: /r/karotten-suppe.html
+          - paragraph [ref=e213]: Suppen sind im Herbst und Winter die beste Mahlzeit für jede Tageszeit. Sie wärmen wunderbar von innen und du kannst mit den Gewürzen spielen, um sie immer etwas anders schmecken zu lassen. Außerdem lassen sich hier nicht mehr ganz knackige Gemüse lecker verarbeiten.
+      - listitem [ref=e214]:
+        - img "Spinat essen" [ref=e215]
+        - generic [ref=e216]:
+          - link "Zeit Vegane für Spinat" [ref=e217] [cursor=pointer]:
+            - /url: /r/zeit-fuer-spinat.html
+          - paragraph [ref=e218]: Spinat gibt es in unterschiedlichen Ausführungen. Die zarte Frühsommer Variante kannst du sogar inklusive Stängel roh genießen. Roh bleiben auch die Vitamine am besten erhalten.
+      - listitem [ref=e219]:
+        - img "Blaukraut Smoothie" [ref=e220]
+        - generic [ref=e221]:
+          - link "Blaukraut Veganer Smoothie mit Orange" [ref=e222] [cursor=pointer]:
+            - /url: /r/blaukraut-smoothie.html
+          - paragraph [ref=e223]: Smoothies sind super gesund und auch schnell zubereitet. Dazu gibt es beinahe keine Zutat, die nicht irgendwie in einem Smoothie zum Einsatz kommen kann. So auch zum Beispiel das im Herbst saisonale Blaukraut.
+      - listitem [ref=e224]:
+        - img "vegan cake with pumpkin" [ref=e225]
+        - generic [ref=e226]:
+          - link "Veganer Kürbiskuchen mit Schokoguss" [ref=e227] [cursor=pointer]:
+            - /url: /r/kuerbiskuchen-mit-schokoguss.html
+          - paragraph [ref=e228]: Kürbis lässt sich nicht nur pikant zubereiten, du kannst auch ganz tollen Kürbiskuchen daraus zaubern. Wenn du magst, dann verfeinere ihn noch mit einer Prise Chai-Gewürz.
+      - listitem [ref=e229]:
+        - img "Buchweizen Brot" [ref=e230]
+        - generic [ref=e231]:
+          - link "Buchweizen Vegane Knäcke mit Karotte und Apfel" [ref=e232] [cursor=pointer]:
+            - /url: /r/buchweizen-knaecke-mit-karotte-und-apfel.html
+          - paragraph [ref=e233]: Aus Buchweizen lassen sich sehr leckere Sachen herstellen. Vor allem, wenn du den Buchweizen aktivierst, sprich keimen lässt, kannst du ihn wunderbar roh weiterverarbeiten. Zum Beispiel zu diesem lecker Knäcke Brot.
+      - listitem [ref=e234]:
+        - img "hafer kekse" [ref=e235]
+        - generic [ref=e236]:
+          - link "Schwedische Vegane Haferkekse" [ref=e237] [cursor=pointer]:
+            - /url: /r/haferkekse.html
+          - paragraph [ref=e238]: Kekse aus nur wenigen Zutaten und das auch noch glutenfrei? Oh yes please! Diese einfachen Haferflocken-Kekse schmecken super und gelingen sehr rasch. Du kannst sie in Schokolade tunken, einfach Plain lassen oder noch ein paar gehackten Nüsse in den Teig mischen.
+      - listitem [ref=e239]:
+        - img "energie balls" [ref=e240]
+        - generic [ref=e241]:
+          - link "Veganes Energiebällchen zum Frühstück" [ref=e242] [cursor=pointer]:
+            - /url: /r/energiebaellchen-zum-fruehstueck.html
+          - paragraph [ref=e243]: Ich kenne viele Menschen, die gar nicht frühstücken mögen. Weils zu früh ist, weil sie keinen Hunger haben oder einfach nicht so bald aufstehen wollen, um noch etwas zu zaubern.
+      - listitem [ref=e244]:
+        - img "dumpling 2776725_1920" [ref=e245]
+        - generic [ref=e246]:
+          - link "Einfache Vegane Kürbisknödel mit Paprikasosse" [ref=e247] [cursor=pointer]:
+            - /url: /r/kuerbisknoedel-mit-paprikasosse.html
+          - paragraph [ref=e248]: Kürbis ist ab Ende September der absolute Star in jeder Küche. Es gibt hinheimlich viele Sorten und sie sind sehr vielfältig einsetzbar.
+      - listitem [ref=e249]:
+        - img "Wildkraut Smoothie" [ref=e250]
+        - generic [ref=e251]:
+          - link "Grüner Veganer Wildkräuter-Saft mit Datteln, Banane und Zitrone" [ref=e252] [cursor=pointer]:
+            - /url: /r/gruener-wildkraeuter-saft-mit-datteln-banane-und-zitrone.html
+          - paragraph [ref=e253]: Löwenzahn, Spitzwegerich, Brennnessel, Schafgarbe und Co. sind nicht nur auf der Wiese schön anzusehen. Auch als Smoothie machen sie sich besonders gut, wenn du deinen Stoffwechsel ankurbeln willst.
+      - listitem [ref=e254]:
+        - img "Haustier" [ref=e255]
+        - generic [ref=e256]:
+          - link "Vegane Natürliche Heilmittel für Haustiere" [ref=e257] [cursor=pointer]:
+            - /url: /r/heilmittel-fuer-haustiere.html
+          - paragraph [ref=e258]: Wunde Pfötchen, gereizte Augen oder ein nervöser Magen - das kennen wir bei unseren Lieblingen doch alle mal. Aber du kannst beruhigt sein, denn auch dagegen ist ein Kraut gewachsen.
+      - listitem [ref=e259]:
+        - img "Rosmarin Peeling" [ref=e260]
+        - generic [ref=e261]:
+          - link "Aktivierendes Vegane Rosmarin Peeling" [ref=e262] [cursor=pointer]:
+            - /url: /r/aktivierendes-rosmarin-peeling.html
+          - paragraph [ref=e263]: Rosmarin kennt man in der Küche sehr gut und in mediterranen Gerichten darf das Nadelkraut nicht fehlen. Doch nicht nur in der Küche macht sich der Rosmarin gut, auch in der Kosmetik hat er viele Benefits.
+      - listitem [ref=e264]:
+        - img "Salbei Wasser" [ref=e265]
+        - generic [ref=e266]:
+          - link "Salbeiwasser Vegane gegen starkes Schwitzen" [ref=e267] [cursor=pointer]:
+            - /url: /r/salbeiwasser.html
+          - paragraph [ref=e268]: An heißen Tagen läuft der Temperaturausgleich deines Körpers auf Hochtouren. Gönn dir auf jeden Fall immer wieder eine kleine Auszeit und hilf deinem Organismus beim Abkühlen. Zum Beispiel mit kühlen Salbei-Umschlägen, die dir gegen übermäßiges Schwitzen helfen.
+      - listitem [ref=e269]:
+        - img "Karotten Aufstrich" [ref=e270]
+        - generic [ref=e271]:
+          - link "Orientalischer Veganer Karottenaufstrich auf Vorrat" [ref=e272] [cursor=pointer]:
+            - /url: /r/orientalischer-karottenaufstrich.html
+          - paragraph [ref=e273]: Karotten sind sehr gesund, schmecken süßlich und können direkt ohne Weiteres gesnackt werden. Wer Karotten im Garten hat, der weiß, dass sie alle gleichzeitig bereit für die Ernte sind und dann wollen sie natürlich auch verarbeitet werden.
+      - listitem [ref=e274]:
+        - img "Calendula Creme" [ref=e275]
+        - generic [ref=e276]:
+          - link "Vegane DIY Calendula Creme" [ref=e277] [cursor=pointer]:
+            - /url: /r/diy-calendula-creme.html
+          - paragraph [ref=e278]: Die sanfte Creme pflegt und regeneriert wunde Stellen und schützt zarte Babyhaut vor Rötungen. Sie ist schnell und einfach selbst herzustellen und du wirst sie lieben.
+      - listitem [ref=e279]:
+        - img "ai/ai gefuellte champignons" [ref=e280]
+        - generic [ref=e281]:
+          - link "Vegane Gefüllte Champignons" [ref=e282] [cursor=pointer]:
+            - /url: /r/gefuellte-champignons.html
+          - paragraph [ref=e283]: Gefüllte Champignons passen super auf den Grill, aber auch aus dem Backrohr sind sie der Renner.
+      - listitem [ref=e284]:
+        - img "one pot pasta" [ref=e285]
+        - generic [ref=e286]:
+          - link "One Vegane Pot Pasta mit Kohlrabi und Erbsen" [ref=e287] [cursor=pointer]:
+            - /url: /r/pasta-kohlrabi-erbsen.html
+          - paragraph [ref=e288]: Kohlrabi ist nicht sonderlich kälteempfindlich und hat von Mai bis November Saison. Die Pasta schmeckt sowohl an einem lauen Sommerabend, als auch bis in den Herbst hinein. Hier lässt sich wunderbar mit unterschiedlichen Kräutern spielen. Die Pasta lässt sich besonders schnell zubereiten und du brauchst nur einen einzigen Topf dazu.
+      - listitem [ref=e289]:
+        - img "DIY Salbe" [ref=e290]
+        - generic [ref=e291]:
+          - link "Vegane DIY Spitzwegerich Salbe gegen Juckreiz" [ref=e292] [cursor=pointer]:
+            - /url: /r/spitzwegerich-salbe.html
+          - paragraph [ref=e293]: Die Inhaltsstoffe des Spitzwegerich wirken sich positiv auf die Wundheilung aus und können auch Juckreiz wunderbar lindern - besonders im Sommer bei Mückenstichen oder auch bei Verbrennungen schafft die DIY Salbe sehr gute Abhilfe.
+      - listitem [ref=e294]:
+        - img "kalte Gurkensuppe" [ref=e295]
+        - generic [ref=e296]:
+          - link "Kalte Vegane Gurkensuppe mit Basilikum" [ref=e297] [cursor=pointer]:
+            - /url: /r/kalte-gurkensuppe.html
+          - paragraph [ref=e298]: Eine leichte Mahlzeit im Sommer oder als feine Vorspeise das ganze Jahr lang, mit dieser kalten Gurkensuppe liegst du immer richtig.
+      - listitem [ref=e299]:
+        - img "Zitronen Deo" [ref=e300]
+        - generic [ref=e301]:
+          - link "Vegane DIY Zitronen Deo" [ref=e302] [cursor=pointer]:
+            - /url: /r/zitronen-deo.html
+          - paragraph [ref=e303]: Das selbst gemachte Deo hemmt die Schweißbildung sowieso Gerüche und sorgt dazu auch noch für gute Laune.
+      - listitem [ref=e304]:
+        - img "erdbeer lassi" [ref=e305]
+        - generic [ref=e306]:
+          - link "Erdbeer Vegane Sommer Lassi" [ref=e307] [cursor=pointer]:
+            - /url: /r/erdbeer-lassi.html
+          - paragraph [ref=e308]: 100g Erdbeeren enthalten 55mg Vitamin C, das ist sogar etwas mehr als in der gleichen Menge Zitronen. Das Vitamin unterstützt nicht nur das Immunsystem, sondern spielt auch in der Verdauung eine zentrale Rolle. Es fördert die Produktion des Enzyms Pepsin, sowie der Magensäure in der Magenschleimhaut.
+      - listitem [ref=e309]:
+        - img "Zitronen Sorbet" [ref=e310]
+        - generic [ref=e311]:
+          - link "Zitronen Vegane Minze Sorbet" [ref=e312] [cursor=pointer]:
+            - /url: /r/zitronensorbet.html
+          - paragraph [ref=e313]: Sorbet lässt sich viel einfacher und rascher als Eiscreme zubereiten, ist aber nicht minder lecker.
+      - listitem [ref=e314]:
+        - img "Beeren Bowle" [ref=e315]
+        - generic [ref=e316]:
+          - link "Beeren Vegane Bowle" [ref=e317] [cursor=pointer]:
+            - /url: /r/beeren-bowle.html
+          - paragraph [ref=e318]: Vor allem im Sommer viel zu trinken ist wichtig. Da darf es aber auch gerne mal eine Abwechslung zu Wasser sein, wenn du nach Feierabend auf deinem Balkon oder der Terrasse noch die letzten Sonnenstrahlen genießt.
+      - listitem [ref=e319]:
+        - img "Brunnenkresse Pesto" [ref=e320]
+        - generic [ref=e321]:
+          - link "Vegane Brunnenkresse-Spinat Pesto" [ref=e322] [cursor=pointer]:
+            - /url: /r/brunnenkresse-spinat-pesto.html
+          - paragraph [ref=e323]: Der Klassiker der italienischen Küche lässt sich nicht nur mit Basilikum herstellen. Auch aus Brunnenkresse kannst du wunderbares Pesto herstellen und es vielseitig einsetzen. Ob als frischer Dip zu Gemüse oder zu Pasta, als Brotaufstrich oder über deine vegane Caprese.
+      - listitem [ref=e324]:
+        - img "Gemuese Carpaccio" [ref=e325]
+        - generic [ref=e326]:
+          - link "Vegane Gemüse Carpaccio mit Cashewcreme" [ref=e327] [cursor=pointer]:
+            - /url: /r/gemuese-carpaccio.html
+          - paragraph [ref=e328]: Der hohe Magnesium Gehalt in Cashewkernen sorgt für ein gut funktionierendes Nervensystem und wirkt sich positiv auf deine Muskulatur aus. Eine rohe Gemüseplatte passt perfekt dazu und schmeckt nicht nur im Hochsommer wundervoll.
+      - listitem [ref=e329]:
+        - img "Eistee" [ref=e330]
+        - generic [ref=e331]:
+          - link "Erfrischender Veganer Eistee mit Minze" [ref=e332] [cursor=pointer]:
+            - /url: /r/eistee-mit-minze.html
+          - paragraph [ref=e333]: Vor allem im Sommer solltest du darauf achten ausreichend zu trinken. Besonders Wasser oder ungesüßte Tees sind hier zu empfehlen.
+      - listitem [ref=e334]:
+        - img "Romanesco Pfanne" [ref=e335]
+        - generic [ref=e336]:
+          - link "Romanesco Vegane Pfanne mit Quinoa und Minz Salsa" [ref=e337] [cursor=pointer]:
+            - /url: /r/romanesco-pfanne.html
+          - paragraph [ref=e338]: Im Sommer muss es schnell gehen, wenn es ums Kochen geht. Keiner will sich bei der Hitze zu lange als notwenig am Herd aufhalten. Da bietet es sich an am Wochenende Getreide oder Pseudo-Getreide vorzukochen und den Rest der Woche nur schnell Gemüse zu ergänzen.
+      - listitem [ref=e339]:
+        - img "grissini" [ref=e340]
+        - generic [ref=e341]:
+          - link "Vegane Kräuter Grissini zum Grillen" [ref=e342] [cursor=pointer]:
+            - /url: /r/kraeuter-grissini.html
+          - paragraph [ref=e343]: Die dünnen, mürben Brotstangen aus dem Piemont erfreuen sich auch bei uns großer Beliebtheit. Zum Knabbern oder einfach als Grillbeilage, ich kann sie mir zu Vielem in unterschiedlichen Varianten super vorstellen.
+      - listitem [ref=e344]:
+        - img "holunder sirup" [ref=e345]
+        - generic [ref=e346]:
+          - link "Sirup Veganer aus Holunderblüten" [ref=e347] [cursor=pointer]:
+            - /url: /r/holundersirup.html
+          - paragraph [ref=e348]: Im Juni ist die Zeit der Holunderblüte gekommen. Am Wegesrand blüht sie überall und es duftet wunderbar. Um diesen Duft ein Bisschen zu konservieren, kannst du sie zum Beispiel zu herrlichem Sirup verarbeiten und dich den restlichen Sommer lang daran erfreuen.
+      - listitem [ref=e349]:
+        - img "seed bomb" [ref=e350]
+        - generic [ref=e351]:
+          - link "Vegane DIY Seedbombs" [ref=e352] [cursor=pointer]:
+            - /url: /r/diy-seedbombs.html
+          - paragraph [ref=e353]: In der Stadt ist es oft für Naturfreunde etwas deprimierend. Wenig grün, hauptsächlich Beton und grau in grau. Auch für Bienen ist das kein Zuckerschlecken und deswegen werden sie auch immer weniger. Mit selbst gebastelten Seed Bombs kannst du nicht nur für dich, sondern auch für die Umwelt etwas Gutes tun.
+      - listitem [ref=e354]:
+        - img "raw brownie" [ref=e355]
+        - generic [ref=e356]:
+          - link "No Vegane Bake Orangen Brownies" [ref=e357] [cursor=pointer]:
+            - /url: /r/raw-brownies.html
+          - paragraph [ref=e358]: Um diese herrlich schokoladigen Brownies ganz ohne Zucker und ohne Backrohr zu machen, brauchst du nur wenige Zutaten und ein bisschen Zeit. Am besten am Vorabend vorbereiten und über Nacht für einen SchokoSnack durchziehen lassen.
+      - listitem [ref=e359]:
+        - img "grill Champignons" [ref=e360]
+        - generic [ref=e361]:
+          - link "Vegane Gefüllte Champignons zum Grillen" [ref=e362] [cursor=pointer]:
+            - /url: /r/grill-champignons.html
+          - paragraph [ref=e363]: Grillen ist eine der besten Methoden im Sommer, um der heißen Küche zu entkommen und trotzdem unheimlich lecker zu speisen. Ein paar Freunde dazu eingeladen und schon ist der laue Sommerabend perfekt.
+      - listitem [ref=e364]:
+        - img "ai/ai gazpacho" [ref=e365]
+        - generic [ref=e366]:
+          - link "Fruchtige Vegane Gazpacho mit Hummus" [ref=e367] [cursor=pointer]:
+            - /url: /r/gazpacho.html
+          - paragraph [ref=e368]: Je wärmer es draußen wird, desto kühler wird, was auf den Tisch kommt. Deshalb ist Suppe eigentlich schon vom Tisch. Doch nicht, wenn du dich an diese leckere Gazpacho hältst, denn sie wird kalt genossen.
+      - listitem [ref=e369]:
+        - img "Reste Salat" [ref=e370]
+        - generic [ref=e371]:
+          - link "Der Veganer beste Reste Salat" [ref=e372] [cursor=pointer]:
+            - /url: /r/reste-salat.html
+          - paragraph [ref=e373]: Die Art und Weise wie wir mit unseren Lebensmitteln umgehen, hat sich in den letzten Jahren drastisch geändert - zum Glück! Wurde früher häufig viel verschwendet, sind wir heutzutage darauf bedacht Reste sinnvoll zu verwerten und sogar noch eigene Gerichte daraus zu zaubern.
+      - listitem [ref=e374]:
+        - img "Kartoffelschale" [ref=e375]
+        - generic [ref=e376]:
+          - link "Chips Vegane aus Kartoffelschalen" [ref=e377] [cursor=pointer]:
+            - /url: /r/kartoffelschalen-chips.html
+          - paragraph [ref=e378]: Zero Waste in der Küche wird ein immer wichtigeres Thema; zum Glück lassen sich aus den meisten Gemüse Resten noch schmackhafte Gerichte zaubern. So wie diese leckeren Chips aus Kartoffelschalen zum Beispiel.
+      - listitem [ref=e379]:
+        - img "edamame hummus" [ref=e380]
+        - generic [ref=e381]:
+          - link "Edamame Vegane Hummus" [ref=e382] [cursor=pointer]:
+            - /url: /r/edamame-hummus.html
+          - paragraph [ref=e383]: Hummus ist ein sehr beliebter Aufstrich, da er schnell gemacht ist und in allen möglichen Kombinationen toll schmeckt. So auch in der grünen Version mit Edamame und Pistazien.
+      - listitem [ref=e384]:
+        - img "vegane oat pancakes" [ref=e385]
+        - generic [ref=e386]:
+          - link "Fluffige Vegane Oatmeal Pancakes" [ref=e387] [cursor=pointer]:
+            - /url: /r/oatmeal-pancakes.html
+          - paragraph [ref=e388]: Am Wochenende darf es auch gerne mal ein aufwändigeres Frühstück sein. Muss aber gar nicht, denn mit unseren fluffigen Haferflocken Pancakes bist du ruckizucki im Frühstückshimmel.
+      - listitem [ref=e389]:
+        - img "Paprikasuppe" [ref=e390]
+        - generic [ref=e391]:
+          - link "Paprikasuppe Vegane mit Vanille" [ref=e392] [cursor=pointer]:
+            - /url: /r/paprikasuppe-vanille.html
+          - paragraph [ref=e393]: Paprika und Vanille harmonieren unerwartet gut zusammen. Die Suppe ist sowohl für die noch kühleren Sommerabende als auch für ganz heiße Tage auf Eis servieret der absolute Bringer.
+      - listitem [ref=e394]:
+        - img "20180413_164137" [ref=e395]
+        - generic [ref=e396]:
+          - link "Knackige Vegane Süsskartoffelpommes mit frischem Spargel" [ref=e397] [cursor=pointer]:
+            - /url: /r/suesskartoffelpommes-mit-spargel.html
+          - paragraph [ref=e398]: Jetzt ist Spargelzeit. Dieses leckere Gemüse frischt den Speiseplan im Frühling immer wieder auf. Dazu sind leckere selbstgemachte Süsskartoffelpommes richtig lecker. Das beste, es ist richtig einfach all das zuzubereiten.
+      - listitem [ref=e399]:
+        - img "blechkuchen rhabarber" [ref=e400]
+        - generic [ref=e401]:
+          - link "Veganer Rhabarber-Erdbeer-Blechkuchen" [ref=e402] [cursor=pointer]:
+            - /url: /r/rhabarber-kuchen.html
+          - paragraph [ref=e403]: Rhabarber hat nur wenig an Kalorien und enthält viele Vitamine. Zum Beispiel Vitamin C und K. Die für die Rotfärbung mancher Sorten verantwortlichen Anthocyane zählen zu den sekundären Pflanzenstoffen und haben zahlreiche gesundheitsförderliche Eigenschaften.
+      - listitem [ref=e404]:
+        - img "Osterlamm1" [ref=e405]
+        - generic [ref=e406]:
+          - link "Veganes Osterlamm" [ref=e407] [cursor=pointer]:
+            - /url: /r/veganes-osterlamm.html
+          - paragraph [ref=e408]: Ostern ist ja vegan ein prinzipiell nicht so einfaches Thema. Wenn das Lämmchen jedoch aus Mehl und Zucker besteht, dann darf es auf der veganen Ostertafel nicht fehlen. Saftig und mit Puderzucker oder einer dunklen Schokolade Glasur bedeckt.
+      - listitem [ref=e409]:
+        - img "Karottensuppe Ostern" [ref=e410]
+        - generic [ref=e411]:
+          - link "Vegane Österliche Karottensuppe" [ref=e412] [cursor=pointer]:
+            - /url: /r/oesterliche-karottensuppe.html
+          - paragraph [ref=e413]: Was könnte sich zum Oster Brunch besser anbieten als eine feine Karottensuppe? Sie ist rasch zubereitet, trifft so gut wie jedermanns Geschmack und du kannst sie nach ganz deinen Vorlieben abschmecken.
+      - listitem [ref=e414]:
+        - img "Reindling" [ref=e415]
+        - generic [ref=e416]:
+          - link "Vegane Kärntner Oster Reindling" [ref=e417] [cursor=pointer]:
+            - /url: /r/kaerntner-reindling.html
+          - paragraph [ref=e418]: Er heißt zwar nicht in allen Teilen Kärntens gleich, darf aber bei keiner Osterjause fehlen - der Kärntner Reindling. Ein süßes Hefegebäck, das saftig gefüllt ist. Einfach lecker!
+      - listitem [ref=e419]:
+        - img "Osterpinzen 1" [ref=e420]
+        - generic [ref=e421]:
+          - link "Vegane Osterpinzen" [ref=e422] [cursor=pointer]:
+            - /url: /r/vegane-osterpinzen.html
+          - paragraph [ref=e423]: Nach der Fastenzeit darf zu Ostern wieder ordentlich geschlemmt werden. Zum Beispiel mit der typisch österreichischen Osterpinze.
+      - listitem [ref=e424]:
+        - img "Basilikumpasta1" [ref=e425]
+        - generic [ref=e426]:
+          - link "Vegane Basilikum-Bärlauch Pasta mit Cashewcreme" [ref=e427] [cursor=pointer]:
+            - /url: /r/baerlauch-pasta.html
+          - paragraph [ref=e428]: Pasta ist immer eine gute Idee und wenn sie noch schmeckt und nach Feierabend schnell zubereitet ist, dann freut man sich umso mehr. Cremige Cashewpaste trifft Basilikum, Tomaten und Bärlauch.
+      - listitem [ref=e429]:
+        - img "Baerlauch Tarte" [ref=e430]
+        - generic [ref=e431]:
+          - link "Schnelle Vegane Bärlauch Tarte" [ref=e432] [cursor=pointer]:
+            - /url: /r/baerlauch-tarte.html
+          - paragraph [ref=e433]: Mit dem Frühling steht auch der Bärlauch vor der Türe. Die Wälder sind bereits prall gefüllt und somit ist es höchste Zeit für ein leckeres, schnelles Rezept.
+      - listitem [ref=e434]:
+        - img "ai/ai vegane carbonara" [ref=e435]
+        - generic [ref=e436]:
+          - link "Vegane Kürbis Carbonara Pasta" [ref=e437] [cursor=pointer]:
+            - /url: /r/vegane-carbonara.html
+          - paragraph [ref=e438]: Pasta mit Sosse als schnelles Feierabend Essen ist immer eine gute Idee. Meist greifen wir hier zum Klassiker, der Tomatensosse, weils einfach hinreissend schnell geht. Dass du aber in der gleichen Zeit auch eine super vegane Carbonara mit Kürbis auftischen kannst, zeigen wir dir heute.
+      - listitem [ref=e439]:
+        - img "orientalische Karottensuppe" [ref=e440]
+        - generic [ref=e441]:
+          - link "Orientalische Vegane Karottensuppe mit Koriander" [ref=e442] [cursor=pointer]:
+            - /url: /r/orientalische-karottensuppe.html
+          - paragraph [ref=e443]: Karotten sind nicht nur unheimlich gesund, sie schmecken auch noch richtig klasse. Als Suppe sind sie nicht nur zur Fastenzeit dein perfekter Begleiter. Schön scharf gewürzt, kannst du die Suppe auch als Office Lunch mitnehmen und deinen Kollegen Hunger machen.
+      - listitem [ref=e444]:
+        - img "ai/ai veganer heringssalat 2" [ref=e445]
+        - generic [ref=e446]:
+          - link "veganer Heringssalat zum Aschermittwoch" [ref=e447] [cursor=pointer]:
+            - /url: /r/veganer-heringssalat-2.html
+          - paragraph [ref=e448]: Ohne Heringsschmaus ist der Fasching nicht aus - dass es dafür gar keine tierischen Produkte braucht und du den Aschermittwoch auch wunderbar vegan begehen kannst, haben wir dir heute mitgebracht.
+      - listitem [ref=e449]:
+        - img "Tortilla Pulled Pork vegan" [ref=e450]
+        - generic [ref=e451]:
+          - link "Vegane BBQ Pulled Jackfruit Wraps" [ref=e452] [cursor=pointer]:
+            - /url: /r/jackfruit-wraps-2.html
+          - paragraph [ref=e453]: Soja, Tofu und Seitan sind längst nicht mehr alleine im Rennen, wenn es um veganen Fleischersatz geht. Relativ neu und komplett natürlich, ist die Jackfruit auf dem Markt und ganz weit vorne.
+      - listitem [ref=e454]:
+        - img "Valentine Ice Cream vegan" [ref=e455]
+        - generic [ref=e456]:
+          - link "Raw Vegan Ice Cream Herzen" [ref=e457] [cursor=pointer]:
+            - /url: /r/ice-cream-herzen.html
+          - paragraph [ref=e458]: Sweets for my Sweet? Wie wäre es mit einer süßen, herzigen Abkühlung zum Valentinstag? Dann liegst du mit diesen roh veganen Himbeer Herzen genau richtig. Als Nachspeise zum Valentinsmenü oder einfach nur als Herzlichkeit zwischendurch (auch zum selbst Vernaschen bestens geeignet).
+      - listitem [ref=e459]:
+        - img "linseneintopf" [ref=e460]
+        - generic [ref=e461]:
+          - link "Veganer Linseneintopf für Hunde (B.A.R.F.)" [ref=e462] [cursor=pointer]:
+            - /url: /r/hund-vegetarischer-eintopf.html
+          - paragraph [ref=e463]: Für die Umsetzung des vegetarischen BARF-Rezepts brauchst du je nach Hundegröße und Futtermenge unterschiedlich viele Komponenten.
+      - listitem [ref=e464]:
+        - img "superfoodmix" [ref=e465]
+        - generic [ref=e466]:
+          - 'link "Vegetarisches Veganes BARF-Rezept für Hunde: Superfood-Mix" [ref=e467] [cursor=pointer]':
+            - /url: /r/hunde-superfood-barf-rezept.html
+          - paragraph [ref=e468]: Für die Umsetzung des vegetarischen BARF-Rezepts brauchst du je nach Hundegröße und Futtermenge unterschiedlich viele Komponenten.
+      - listitem [ref=e469]:
+        - img "hunde vegan rezept" [ref=e470]
+        - generic [ref=e471]:
+          - link "Hund vegan ernähren – so machst du es richtig + Rezept" [ref=e472] [cursor=pointer]:
+            - /url: /r/vegane-ernaehrung-hunde.html
+          - paragraph [ref=e473]: Immer mehr Menschen entscheiden sich dafür, ihr Leben von Grund auf zu ändern und auf tierische Produkte zu verzichten. Kein Wunder, dass viele auch ihre Hunde vegan ernähren möchten.
+      - listitem [ref=e474]:
+        - img "provamel kaesekuchen" [ref=e475]
+        - generic [ref=e476]:
+          - link "Veganer Käsekuchen" [ref=e477] [cursor=pointer]:
+            - /url: /r/veganer-kaesekuchen.html
+          - paragraph [ref=e478]: Mit der neuen Quark Alternative von Provamel eröffnen sich wieder ganz neue Möglichkeiten in der rein pflanzlichen Küche - so wie dieser Käsekuchen!
+      - listitem [ref=e479]:
+        - img "eierlikoer vegan" [ref=e480]
+        - generic [ref=e481]:
+          - link "Roh-veganer Eierlikör" [ref=e482] [cursor=pointer]:
+            - /url: /r/roh-veganer-eierlikoer.html
+          - paragraph [ref=e483]: Eierlikör gibt es auch vegan. Super lecker und dabei auch noch super gesund!
+      - listitem [ref=e484]:
+        - img "spekulatius 1" [ref=e485]
+        - generic [ref=e486]:
+          - link "Vegane Spekulatius" [ref=e487] [cursor=pointer]:
+            - /url: /r/spekulatius.html
+          - paragraph [ref=e488]: Ich weiß nicht, wie es Euch geht, aber Spekulatius gehören definitiv zu unseren Lieblings-Weihnachtskeksen! Wir teilen mit ganzer Freude das Rezept für die köstlichen, veganen Spekulatius mit Euch!
+      - listitem [ref=e489]:
+        - img "matchacookies 1" [ref=e490]
+        - generic [ref=e491]:
+          - link "Weihnachtliche Vegane Matchakekse" [ref=e492] [cursor=pointer]:
+            - /url: /r/matchakekse.html
+          - paragraph [ref=e493]: Super simpel zubereitet! Diese Matcha-Kekse sind ganz einfach zu machen und versüßen Dir die Weihnachtszeit ganz bestimmt! Der Teig ist in nur 10 Minuten fertig, probier's aus!
+      - listitem [ref=e494]:
+        - img "mandelecken" [ref=e495]
+        - generic [ref=e496]:
+          - 'link "Unser Weihnachtsklassiker: Vegane Mandelecken" [ref=e497] [cursor=pointer]':
+            - /url: /r/mandelecken.html
+          - paragraph [ref=e498]: Nuss- bzw. Mandelecken sind der Klassiker schlechthin unter den Weihnachtskeksen. Wir haben nun endlich ein veganes Rezept für Dich kreiert und freuen uns, wenn die Mandelecken Dir genauso gut schmecken!
+      - listitem [ref=e499]:
+        - img "Gluehwein" [ref=e500]
+        - generic [ref=e501]:
+          - link "Veganer Glühwein selbstgemacht!" [ref=e502] [cursor=pointer]:
+            - /url: /r/veganer-gluehwein.html
+          - paragraph [ref=e503]: Lust auf Glühwein? Wir zeigen Dir ein Rezept, das Du ganz einfach zu Hause nachmachen kannst.
+      - listitem [ref=e504]:
+        - img "dessert" [ref=e505]
+        - generic [ref=e506]:
+          - link "Fruchtiges Vegane Schichtdessert mit Darbo Tagtraum" [ref=e507] [cursor=pointer]:
+            - /url: /r/schichtdessert.html
+          - paragraph [ref=e508]: Wir alle kennen diese Tage, wo wir richtig Lust auf ein leckeres Dessert haben, aber einfach Zeit und Muße dazu fehlt, oder?
+      - listitem [ref=e509]:
+        - img "Bananenbrot 1" [ref=e510]
+        - generic [ref=e511]:
+          - link "Bananenbrot Vegane mit Nüssen" [ref=e512] [cursor=pointer]:
+            - /url: /r/bananenbrot-nuesse.html
+          - paragraph [ref=e513]: Einfach köstlich! Das Bananenbrot ist nicht nur unter uns Veganern ein absoluter Hit. Es macht satt, kann einfach immer gegessen werden und schmeckt dazu noch richtig lecker!
+      - listitem [ref=e514]:
+        - img "ai/ai roh koestliche vanillekipferl" [ref=e515]
+        - generic [ref=e516]:
+          - link "Vegane Roh-köstliche Vanillekipferl" [ref=e517] [cursor=pointer]:
+            - /url: /r/roh-koestliche-vanillekipferl.html
+          - paragraph [ref=e518]: "Ihr werdet es nicht glauben, wie gut ungebackene Kekse schmecken: nicht nur vegan, sondern roh-vegan! Probier mal was neues und überrasche Deine Familie mit dieser Variante des altbekannten Klassikers."
+      - listitem [ref=e519]:
+        - img "ai/ai weisse vanille cookies" [ref=e520]
+        - generic [ref=e521]:
+          - link "Vegane Weiße Vanille Cookies mit geheimer Zutat" [ref=e522] [cursor=pointer]:
+            - /url: /r/weisse-vanille-cookies.html
+          - paragraph [ref=e523]: Leckere Kekse mit einem leichten Vanillegeschmack. Mit einer speziellen Zutat, die sie zum super Protein-Lieferant machen!
+      - listitem [ref=e524]:
+        - img "ai/ai rohkost plaetzchen" [ref=e525]
+        - generic [ref=e526]:
+          - link "Helle Vegane und dunkle Rohkost Plätzchen" [ref=e527] [cursor=pointer]:
+            - /url: /r/rohkost-plaetzchen.html
+          - paragraph [ref=e528]: Der rohköstliche Keksteller bekommt Zuwachs von ausgestochenen Plätzchen aus rohen Zutaten! So einfach, so gut und noch dazu so gesund kann nur Rohkost sein.
+      - listitem [ref=e529]:
+        - img "Vegane eierspeis" [ref=e530]
+        - generic [ref=e531]:
+          - link "Vegane Eierspeise" [ref=e532] [cursor=pointer]:
+            - /url: /r/vegane-eierspeise.html
+          - paragraph [ref=e533]: Als Imbiss, zum Brunch, oder als Beilage. Die vegane Eierspeise ist eine richtige Proteinbombe und schmeckt einfach immer! Wir verraten Dir unser Geheimrezept für diese leckere Mahlzeit.
+      - listitem [ref=e534]:
+        - img "Ausstechkekse" [ref=e535]
+        - generic [ref=e536]:
+          - 'link "Wunderbar einfach: Vegane 4-Zutaten-Ausstechkekse" [ref=e537] [cursor=pointer]':
+            - /url: /r/4-zutaten-ausstechkekse.html
+          - paragraph [ref=e538]: Ihr möchtet backen, seid aber keine Fans von komplizierten Rezepten? Kein Problem - diese super leichten Kekse gelingen immer und brauchen nur 4 Zutaten.
+      - listitem [ref=e539]:
+        - img "linzer kekse" [ref=e540]
+        - generic [ref=e541]:
+          - link "Herzige Vegane Linzer Kekse" [ref=e542] [cursor=pointer]:
+            - /url: /r/vegane-linzer-kekse.html
+          - paragraph [ref=e543]: Linzer Kekse oder Plätzchen sind fixer Bestandteil von jedem weihnachtlichen Keksteller. Veganisiert und mit Vollkornmehl schmecken sie noch besser.
+      - listitem [ref=e544]:
+        - img "nusskuchen" [ref=e545]
+        - generic [ref=e546]:
+          - link "Einfacher Veganer Nusskuchen mit Schokoglasur" [ref=e547] [cursor=pointer]:
+            - /url: /r/veganer-nusskuchen.html
+          - paragraph [ref=e548]: "Für diesen Nusskuchen brauchst Du absolut keine Profi-Backkünste. Wir versprechen Dir zwei Dinge: der Kuchen ist easy zubereitet und schmeckt fabelhaft!"
+      - listitem [ref=e549]:
+        - img "avoacdo pasta 1" [ref=e550]
+        - generic [ref=e551]:
+          - link "Leckere Vegane Avocado Pasta!" [ref=e552] [cursor=pointer]:
+            - /url: /r/avocado-pasta.html
+          - paragraph [ref=e553]: Cremig, gesund und super schnell zubereitet! Diese Avocado Sauce ist ein Gedicht und zudem auch noch richtig gesund.
+      - listitem [ref=e554]:
+        - img "champignon 1" [ref=e555]
+        - generic [ref=e556]:
+          - link "Herzhafte Vegane Champignon Sauce mit Reis" [ref=e557] [cursor=pointer]:
+            - /url: /r/reis-champignon-sauce.html
+          - paragraph [ref=e558]: Super einfach, super lecker, super schnell zubereitet! Vegane Hausmannskost ist einfach fein. Viel Spaß beim Nachkochen!
+      - listitem [ref=e559]:
+        - img "Gugelhupf" [ref=e560]
+        - generic [ref=e561]:
+          - link "Veganer Schoko Erdnussbutter Gugelhupf" [ref=e562] [cursor=pointer]:
+            - /url: /r/veganer-schoko-erdnussbutter-gugelhupf.html
+          - paragraph [ref=e563]: Herrlich saftig, schokoladig und super einfach! Erdnussbutter und Schokolade passen wunderbar zusammen. Warum nicht gleich einen Kuchen damit backen?
+      - listitem [ref=e564]:
+        - img "ai/ai herrliches kirsch keks tiramisu" [ref=e565]
+        - generic [ref=e566]:
+          - link "Herrliches Vegane Kirsch Keks Tiramisu" [ref=e567] [cursor=pointer]:
+            - /url: /r/herrliches-kirsch-keks-tiramisu.html
+          - paragraph [ref=e568]: Verführerisches Tiramisu als himmlischer Abschluss eines schönen Dinners oder für einen besonderen Anlass ist immer wieder der Knaller. Wie wäre es mal mit einer neuen veganen Variante?
+      - listitem [ref=e569]:
+        - img "vanilla ice cream cake 1" [ref=e570]
+        - generic [ref=e571]:
+          - link "Veganer Naked Vanilla Ice Cream & Strawberry Cake" [ref=e572] [cursor=pointer]:
+            - /url: /r/vanilla-ice-cream-strawberry-cake.html
+          - paragraph [ref=e573]: Ein unfassbar schöner Kuchen, der noch besser schmeckt! Die Kreation aus glutenfreiem Vanille-Kuchen, Erdbeeren und Almond Dream Vanilla Ice Cream ist zum Dahinschmelzen ♥
+      - listitem [ref=e574]:
+        - img "Himbeer Dessert" [ref=e575]
+        - generic [ref=e576]:
+          - link "Rohkost-Veganer Himbeer-Kuchen" [ref=e577] [cursor=pointer]:
+            - /url: /r/rohkost-himbeer-kuchen.html
+          - paragraph [ref=e578]: Erfrischend, fruchtig und extrem köstlich. Jetzt ist wieder Beeren-Zeit - also her mit dem Kuchen!
+      - listitem [ref=e579]:
+        - img "Ferrero" [ref=e580]
+        - generic [ref=e581]:
+          - link "Selbstgemachte rohvegane Pralinen nach Ferrero Rocher Art" [ref=e582] [cursor=pointer]:
+            - /url: /r/rezept-rohvegane-ferrero-rocher.html
+          - paragraph [ref=e583]: In nur 15 Minuten gerollt. Diese rohköstlichen Pralinen schmecken einfach himmlisch und sind im Nu zubereitet!
+      - listitem [ref=e584]:
+        - img "ice cream cupcakes 1 3" [ref=e585]
+        - generic [ref=e586]:
+          - link "Ice Vegane Cream Dream Cupcakes" [ref=e587] [cursor=pointer]:
+            - /url: /r/ice-cream-dream-cupcakes.html
+          - paragraph [ref=e588]: "Ein unglaublich köstlicher Sommer-Traum wird wahr: schokoladige Muffins + veganes Toffee Eis = Ice Cream Dream Cupcakes"
+      - listitem [ref=e589]:
+        - img "Mandeln" [ref=e590]
+        - generic [ref=e591]:
+          - link "Nussmus mit \"einfachen\" Geräten selber machen" [ref=e592] [cursor=pointer]:
+            - /url: /r/nussmus-selber-machen.html
+          - paragraph [ref=e593]: Mit einem Hochleistungsmixer/Küchenmaschine geht das oft sehr einfach, doch was tun wenn man keinen zu Hause hat und trotzdem Nussmus selbst herstellen möchte!?
+      - listitem [ref=e594]:
+        - img "schoko zucchinikuchen 1" [ref=e595]
+        - generic [ref=e596]:
+          - link "Zucchinikuchen Veganer mit Überraschungseffekt" [ref=e597] [cursor=pointer]:
+            - /url: /r/schoko-zucchinikuchen.html
+          - paragraph [ref=e598]: Die Zutaten dieses unglaublich köstlichen, saftigen Kuchens werden alle überraschen. Erst kosten lassen, dann verraten was drin ist ;)
+      - listitem [ref=e599]:
+        - img "snickers ice cream dream 1" [ref=e600]
+        - generic [ref=e601]:
+          - link "Toffee Vegane Ice Cream Dream Cake" [ref=e602] [cursor=pointer]:
+            - /url: /r/toffee-ice-cream-dream-cake.html
+          - paragraph [ref=e603]: "Halte Dich fest: diese Eistorte mit Schokoboden, Karamelleis auf Mandelbasis, Nüssen, Karamellcreme und Schokoladensauce ist wahrlich ein Sommertraum ♥"
+      - listitem [ref=e604]:
+        - img "Maca Riegel 2" [ref=e605]
+        - generic [ref=e606]:
+          - link "Veganer Power-Rohkostkuchen mit Maca" [ref=e607] [cursor=pointer]:
+            - /url: /r/rohkostkuchen-maca.html
+          - paragraph [ref=e608]: Selbstgemachte Rohkostkuchen als gesunder Snack und für mehr Energie? Was gibt es besseres?
+      - listitem [ref=e609]:
+        - img "Ingwer Sirup" [ref=e610]
+        - generic [ref=e611]:
+          - link "Veganer Detox Ingwer Zitronen Sirup" [ref=e612] [cursor=pointer]:
+            - /url: /r/detox-ingwer-zitronen-sirup.html
+          - paragraph [ref=e613]: Erfrischendes Getränk für warme und kalte Frühlingstage!
+      - listitem [ref=e614]:
+        - img "Tarte" [ref=e615]
+        - generic [ref=e616]:
+          - link "Vegane Köstliche Apfel-Haselnuss Tarte" [ref=e617] [cursor=pointer]:
+            - /url: /r/apfel-haselnuss-tarte.html
+          - paragraph [ref=e618]: Knusprig, super einfach und total lecker! Eine köstliche Apfel-Tarte. Leider macht man sie viel zu selten.
+      - listitem [ref=e619]:
+        - img "Bananebrot" [ref=e620]
+        - generic [ref=e621]:
+          - link "Schnelles Vegane Kokos-Bananenbrot" [ref=e622] [cursor=pointer]:
+            - /url: /r/kokos-bananenbrot.html
+          - paragraph [ref=e623]: Super schnelles und einfaches Bananenbrot mit extra viel Kokos!
+      - listitem [ref=e624]:
+        - img "Roher Haselnusskuchen" [ref=e625]
+        - generic [ref=e626]:
+          - link "Roher Veganer Haselnusskuchen mit Schokocreme" [ref=e627] [cursor=pointer]:
+            - /url: /r/rohkost-haselnusskuchen.html
+          - paragraph [ref=e628]: Mit der Süße aus Datteln und voller Nusspower. Dieser Kuchen hat es in sich!
+      - listitem [ref=e629]:
+        - img "Vanille Milchreis" [ref=e630]
+        - generic [ref=e631]:
+          - link "Veganer Vanillemilchreis mit Himbeeren" [ref=e632] [cursor=pointer]:
+            - /url: /r/vanille-milchreis-himbeeren.html
+          - paragraph [ref=e633]: Nicht nur an kalten Winterabenden sorgt das beste aller Kindheits-Desserts für ein wohlig warmes Gefühl im Bauch. Gepimt mit frischen oder tiefgekühlten Beeren schmeckt Milchreis gleich doppelt so gut - egal zu welcher Tageszeit!
+      - listitem [ref=e634]:
+        - img "Granola 2" [ref=e635]
+        - generic [ref=e636]:
+          - link "Vegane DIY Vanille Mandel Granola" [ref=e637] [cursor=pointer]:
+            - /url: /r/vanille-mandel-granola.html
+          - paragraph [ref=e638]: Knusprig, knuspriger am knusprigsten - Granola! Ein beliebtes Frühstück, ganz einfach selbst gemacht.
+      - listitem [ref=e639]:
+        - img "Matcha Bowl" [ref=e640]
+        - generic [ref=e641]:
+          - link "Matcha Veganer Smoothie Bowl mit Banane und Avocado" [ref=e642] [cursor=pointer]:
+            - /url: /r/matcha-bowl.html
+          - paragraph [ref=e643]: Matcha zum Frühstück aber lieber etwas sättigender? Her mit der grünen Smoothie Bowl!
+      - listitem [ref=e644]:
+        - img "ai/ai roter quinoa mit sellerie apfel salat" [ref=e645]
+        - generic [ref=e646]:
+          - link "Veganer Roter Quinoa mit Sellerie-Apfel-Salat & Tahini-Dressing" [ref=e647] [cursor=pointer]:
+            - /url: /r/roter-quinoa-mit-sellerie-apfel-salat.html
+          - paragraph [ref=e648]: Lust auf Salat zum mitnehmen? Super schnell und toll als Büro-Snack zwischendurch!
+      - listitem [ref=e649]:
+        - img "Leinsamenmilch 1" [ref=e650]
+        - generic [ref=e651]:
+          - link "Vegane Leinsamenmilch selber machen!" [ref=e652] [cursor=pointer]:
+            - /url: /r/leinsamenmilch.html
+          - paragraph [ref=e653]: Möchtest Du Dein veganes Milch-Repertoire erweitern? Dann ist Leinsamenmilch vielleicht genau das Richtige für Dich!
+      - listitem [ref=e654]:
+        - img "jackfruit wraps 1" [ref=e655]
+        - generic [ref=e656]:
+          - link "Vegane würzige Jackfruit Wraps mit Avocado & Spinat" [ref=e657] [cursor=pointer]:
+            - /url: /r/jackfruit-wraps.html
+          - paragraph [ref=e658]: Grüne Jackfruit ist der neue vegane Foodtrend, den es auszuprobieren gilt. Und wahrlich, gut gewürzt schmeckt diese exotische Frucht köstlich.
+      - listitem [ref=e659]:
+        - img "Cashew Riegel" [ref=e660]
+        - generic [ref=e661]:
+          - link "Vegane Mini Cashew Kokos Kakao Riegel" [ref=e662] [cursor=pointer]:
+            - /url: /r/cashew-kokos-kakao-riegel.html
+          - paragraph [ref=e663]: Natürliche süß, einfach zuzubereiten und super praktisch für unterwegs!
+      - listitem [ref=e664]:
+        - img "Mango Schoko Muffins 2" [ref=e665]
+        - generic [ref=e666]:
+          - link "Vegane Schoko-Mango Muffins" [ref=e667] [cursor=pointer]:
+            - /url: /r/schoko-mango-muffins.html
+          - paragraph [ref=e668]: Schokolade und Mango? Eine Traum-Kombination?
+      - listitem [ref=e669]:
+        - img "couscous salat" [ref=e670]
+        - generic [ref=e671]:
+          - link "Veganer Couscous-Salat" [ref=e672] [cursor=pointer]:
+            - /url: /r/veganer-couscous-salat.html
+          - paragraph [ref=e673]: Couscous kann man vielfältig kombinieren. Hier eine Variante mit Avocado. Viel Spaß beim Nachkochen!
+      - listitem [ref=e674]:
+        - img "ai/ai veganes raeuchertofu gulasch" [ref=e675]
+        - generic [ref=e676]:
+          - link "Deftiges, Veganes Räuchertofu Gulasch" [ref=e677] [cursor=pointer]:
+            - /url: /r/veganes-raeuchertofu-gulasch.html
+          - paragraph [ref=e678]: Ein herzhaftes deftiges Gulasch mit einem Stück Brot - mhm da rinnt einem das Wasser im Munde zusammen!
+      - listitem [ref=e679]:
+        - img "Donuts 2 2" [ref=e680]
+        - generic [ref=e681]:
+          - link "Schnelle gefüllte Vegane Cronuts" [ref=e682] [cursor=pointer]:
+            - /url: /r/vegane-cronuts.html
+          - paragraph [ref=e683]: Cronuts, wie der Name schon sagt, besteht dieses hippe Gebäck wie Croissants aus einem Blätterteig und sieht von der Form aus wie ein Donut.
+      - listitem [ref=e684]:
+        - img "Chia Marmelade 2" [ref=e685]
+        - generic [ref=e686]:
+          - link "Fruchtige Vegane Chia-Beeren Marmelade" [ref=e687] [cursor=pointer]:
+            - /url: /r/chia-beeren-marmelade.html
+          - paragraph [ref=e688]: Du hast immer schon nach einer gesunden Marmelade mit wenig Zuckerzusatz gesucht? Dann ist Deine Suche hiermit vorbei!
+      - listitem [ref=e689]:
+        - img "Schoko Chili Shake" [ref=e690]
+        - generic [ref=e691]:
+          - link "Kaffee Veganer Schoko Chili Shake" [ref=e692] [cursor=pointer]:
+            - /url: /r/kaffee-schoko-chili-shake.html
+          - paragraph [ref=e693]: Dieses Getränk heizt Dir an kalten Tagen so richtig ein!
+      - listitem [ref=e694]:
+        - img "Kakao Hafer Cookies" [ref=e695]
+        - generic [ref=e696]:
+          - link "Vegane Kakao-Haferflocken-Cookies" [ref=e697] [cursor=pointer]:
+            - /url: /r/kakao-haferflocken-cookies.html
+          - paragraph [ref=e698]: Vorsicht - Suchtpotential! Ideal als kleiner Snack zwischendurch.
+      - listitem [ref=e699]:
+        - img "Schoko Kokos Kuchen" [ref=e700]
+        - generic [ref=e701]:
+          - link "Veganer Kokos-Schoko Kuchen" [ref=e702] [cursor=pointer]:
+            - /url: /r/veganer-kokos-schoko-kuchen.html
+          - paragraph [ref=e703]: Einfacher, schneller, saftiger Kuchen mit wenig Zuckergehalt!
+      - listitem [ref=e704]:
+        - img "serviettenknoedel 1" [ref=e705]
+        - generic [ref=e706]:
+          - link "Vegane Serviettenknödel" [ref=e707] [cursor=pointer]:
+            - /url: /r/vegane-serviettenknoedel.html
+          - paragraph [ref=e708]: Schnell, einfach und köstlich! Ob als Beilage oder Hauptgericht z.B. mit Pilzsauce - Serviettenknödel mag jede*r, oder?
+      - listitem [ref=e709]:
+        - img "ai/ai fisolen kartoffel gulasch" [ref=e710]
+        - generic [ref=e711]:
+          - link "Veganes Fisolen-Gulasch" [ref=e712] [cursor=pointer]:
+            - /url: /r/fisolen-kartoffel-gulasch.html
+          - paragraph [ref=e713]: Heißes, würziges Gulasch - am besten serviert mit frischen Semmeln (und Bier). Wärmt von innen, gibt Kraft und gute Laune.
+      - listitem [ref=e714]:
+        - img "hirse bowl 1" [ref=e715]
+        - generic [ref=e716]:
+          - link "Goldene Veganes Hirse-Frühstücksbowl mit Früchten" [ref=e717] [cursor=pointer]:
+            - /url: /r/goldene-hirse-fruehstuecksbowl-mit-fruechten.html
+          - paragraph [ref=e718]: Die Sonne in einer Schüssel! Mit diesem sonnengelben Frühstück startet man gestärkt und mit einem warmen Gefühl im Bauch in den Tag.
+      - listitem [ref=e719]:
+        - img "Ayurvedische Tees" [ref=e720]
+        - generic [ref=e721]:
+          - link "Vegane 5 ayurvedische Tees für einen guten Start in den Tag" [ref=e722] [cursor=pointer]:
+            - /url: /r/ayurvedische-tees.html
+          - paragraph [ref=e723]: Manchen Lebensmitteln, sollte man auf Grund ihrer gesundheitsfördernden Eigenschaften, unbedingt einen festen Platz in unserem täglichen Leben einräumen.
+      - listitem [ref=e724]:
+        - img "linseneintopf 1" [ref=e725]
+        - generic [ref=e726]:
+          - link "Veganer Schneller, köstlicher Linseneintopf" [ref=e727] [cursor=pointer]:
+            - /url: /r/linseneintopf.html
+          - paragraph [ref=e728]: Eintöpfe sind im speziell im Winter wunderbar wärmend & nahrhaft. Für diesen Linseneintopf musst Du auch nicht lange in der Küche stehen.
+      - listitem [ref=e729]:
+        - img "Ingwer und Zitrone" [ref=e730]
+        - generic [ref=e731]:
+          - 'link "Die Veganen Vorteile von Ingwer und Zitrone: ein heißer Tipp!" [ref=e732] [cursor=pointer]':
+            - /url: /r/vorteile-ingwer-zitrone.html
+          - paragraph [ref=e733]: Ein Boost fürs Immunsystems - doch diese beiden können noch viel mehr!
+      - listitem [ref=e734]:
+        - img "zitronen knobauch trunk 1" [ref=e735]
+        - generic [ref=e736]:
+          - link "DAS Vegane Geheimrezept gegen Grippe & Erkältungen" [ref=e737] [cursor=pointer]:
+            - /url: /r/geheimrezept-gegen-grippe-erkaeltungen.html
+          - paragraph [ref=e738]: Dieses Rezept kann Dich vor allerlei Infekten bewahren oder Dir helfen sie im Eiltempo zu besiegen. Auch gegen allerlei andere leiden hilft dieses Elixier.
+      - listitem [ref=e739]:
+        - img "Kartoffelsuppe" [ref=e740]
+        - generic [ref=e741]:
+          - link "Vegane Kartoffelsuppe" [ref=e742] [cursor=pointer]:
+            - /url: /r/vegane-kartoffelsuppe.html
+          - paragraph [ref=e743]: "Eine vegane Kartoffelsuppe ganz leicht nachgemacht: Mit diesem Rezept gelingt sie Dir!"
+      - listitem [ref=e744]:
+        - img "Nussstrudel 1" [ref=e745]
+        - generic [ref=e746]:
+          - link "Veganer Nussstrudel" [ref=e747] [cursor=pointer]:
+            - /url: /r/veganer-nussstrudel.html
+          - paragraph [ref=e748]: Der Klassiker Nussstrudel oder Nusspotize, wie wir in Österreich sagen, kann problemlos vegan gebacken werden und schmeckt vorzüglich.
+      - listitem [ref=e749]:
+        - img "Kitchari 3" [ref=e750]
+        - generic [ref=e751]:
+          - link "Ayurvedisches Vegane Kitchari mit Spinat" [ref=e752] [cursor=pointer]:
+            - /url: /r/ayurvedisches-kitchari-mit-spinat.html
+          - paragraph [ref=e753]: Kitchari ist ein wärmendes, indisches Gericht, mit wohltuenden Gewürzen, welche sich besonders positiv auf die Verdauung auswirken. In Indien gilt es deshalb als heilende und reinigende Mahlzeit.
+      - listitem [ref=e754]:
+        - img "Himbeer Porridge 2" [ref=e755]
+        - generic [ref=e756]:
+          - link "Vegane Himbeer-Porridge mit Cacao Nibs" [ref=e757] [cursor=pointer]:
+            - /url: /r/himbeer-porridge.html
+          - paragraph [ref=e758]: Eine gute Möglichkeit die restlichen eingefrorenen Himbeeren des letzten Sommers aufzubrauchen. Ein einfaches und leckeres Frühstücks-Rezept.
+      - listitem [ref=e759]:
+        - img "tempeh" [ref=e760]
+        - generic [ref=e761]:
+          - link "Vegane Köstlicher Tempeh mit Orangen-Glasur" [ref=e762] [cursor=pointer]:
+            - /url: /r/tempeh-orange.html
+          - paragraph [ref=e763]: Tempeh schmeckt köstlich, wenn er richtig zubereitet wird. Probier´s aus!
+      - listitem [ref=e764]:
+        - img "BROWNIES_1" [ref=e765]
+        - generic [ref=e766]:
+          - link "Schnelle Vegane Bananen Brownies mit Kokos-Glasur" [ref=e767] [cursor=pointer]:
+            - /url: /r/bananen-brownies.html
+          - paragraph [ref=e768]: Die Hauptsüße dieser leckeren schnellen Brownies stammt von der enthaltenen Banane! Einfach selbst ausprobieren und staunen.
+      - listitem [ref=e769]:
+        - img "suppenbowl" [ref=e770]
+        - generic [ref=e771]:
+          - link "Vegane Linsensuppe selber machen" [ref=e772] [cursor=pointer]:
+            - /url: /r/rezept-vegane-linsensuppe.html
+          - paragraph [ref=e773]: Winterzeit ist Suppenzeit. Hier ein Rezept für die vegane Linsensuppe!
+      - listitem [ref=e774]:
+        - img "spiraltarte 1 3" [ref=e775]
+        - generic [ref=e776]:
+          - link "Bunte Vegane Spiral-Tarte" [ref=e777] [cursor=pointer]:
+            - /url: /r/bunte-spiral-tarte.html
+          - paragraph [ref=e778]: Wunderhübsch anzusehen ist diese Tarte aus buntem Gemüse! Geht ganz einfach und beeindruckt alle.
+      - listitem [ref=e779]:
+        - img "pilz spinat lasagne" [ref=e780]
+        - generic [ref=e781]:
+          - link "Vegane Spinat-Lasagne mit Ricotta & Pilzen" [ref=e782] [cursor=pointer]:
+            - /url: /r/spinat-lasagne-ricotta-pilze.html
+          - paragraph [ref=e783]: Wer liebt Lasagne denn nicht? Diese Variation mit Spinat, Tofu-Ricotta und Pilzen schmeckt vorzüglich und bietet Abwechslung.
+      - listitem [ref=e784]:
+        - img "waffeln vegan" [ref=e785]
+        - generic [ref=e786]:
+          - link "Vegane Waffeln selber machen" [ref=e787] [cursor=pointer]:
+            - /url: /r/veganer-waffelteig.html
+          - paragraph [ref=e788]: Was kann es besseres geben, als Waffeln zum Frühstück? Damit dein veganer Waffelteig perfekt gelingt, gibt es hier unser Rezept.
+      - listitem [ref=e789]:
+        - img "brownie cheesecake 1" [ref=e790]
+        - generic [ref=e791]:
+          - link "Brownie Vegane meets Cheesecake Torte" [ref=e792] [cursor=pointer]:
+            - /url: /r/brownie-cheesecake-torte.html
+          - paragraph [ref=e793]: "Das Beste aus allen Welten: Brownie Boden mit Kirschen und Cheesecake-Guss & es schmeckt wunderbar!"
+      - listitem [ref=e794]:
+        - img "nussecken vegan" [ref=e795]
+        - generic [ref=e796]:
+          - link "Vegane Nussecken zum Selbermachen" [ref=e797] [cursor=pointer]:
+            - /url: /r/vegane-nussecken.html
+          - paragraph [ref=e798]: Hier ein leckeres Rezept für vegane Nussecken, die sich auf jedem Keksteller gut machen.
+      - listitem [ref=e799]:
+        - img "mandel kokos schneebaelle" [ref=e800]
+        - generic [ref=e801]:
+          - link "Vegane Mandel Kokos Schneebälle by Eat with Andrea" [ref=e802] [cursor=pointer]:
+            - /url: /r/mandel-kokos-kugeln.html
+          - paragraph [ref=e803]: So mögen wir Schneebälle! Dieses wunderbare Rezept für Mandel Kokos Kugeln teilt Bloggerin Eat with Andrea mit uns.
+      - listitem [ref=e804]:
+        - img "matcha kokos mousse 1" [ref=e805]
+        - generic [ref=e806]:
+          - link "Himmlisches Veganes Matcha Kokos Mousse" [ref=e807] [cursor=pointer]:
+            - /url: /r/matcha-kokos-mousse.html
+          - paragraph [ref=e808]: "Diese herrliche Creme vereint, was wir am meisten lieben: Matcha & Kokos! Was könnte es besseres geben als diese zwei Zutaten in einem fluffigen Mousse vereint?"
+      - listitem [ref=e809]:
+        - img "pumpkin spice latte 1" [ref=e810]
+        - generic [ref=e811]:
+          - link "Pumpkin Spice Latte - vegan & selbstgemacht" [ref=e812] [cursor=pointer]:
+            - /url: /r/pumpkin-spice-latte-vegan-rezept.html
+          - paragraph [ref=e813]: Wer Pumpkin Spice Latte auch gerne mal kosten, sich dafür aber nicht bei Starbucks anstellen und dann aus einem Einwegbecher schlürfen will, der ist hier richtig!
+      - listitem [ref=e814]:
+        - img "kaeferbohnen salat 1" [ref=e815]
+        - generic [ref=e816]:
+          - link "Steirischer Veganer Käferbohnensalat" [ref=e817] [cursor=pointer]:
+            - /url: /r/steirischer-kaeferbohnensalat.html
+          - paragraph [ref=e818]: Die Käferbohne ist ein ausgezeichneter Lieferant für pflanzliches Eiweiss, Ballaststoffe und als Draufgabe gibt es noch B-Vitamine.
+      - listitem [ref=e819]:
+        - img "joghurette 1 2" [ref=e820]
+        - generic [ref=e821]:
+          - link "Vegane Riesen-Joghurette mit Himbeeren" [ref=e822] [cursor=pointer]:
+            - /url: /r/vegane-joghurette.html
+          - paragraph [ref=e823]: Vegane Joghurtcreme, fruchtige Himbeeren und Schokolade - eine traumhafte Kombination, die an Yoghurette erinnert.
+      - listitem [ref=e824]:
+        - img "quinoa bowl 1" [ref=e825]
+        - generic [ref=e826]:
+          - link "Vegane köstliche Kokos-Quinoa-Bowl mit Gewürzen & Nüssen" [ref=e827] [cursor=pointer]:
+            - /url: /r/kokos-quinoa-bowl.html
+          - paragraph [ref=e828]: Quinoa sättigt ungemein, da es eine ganze Palette an Nährstoffen enthält. Perfekt für eine nahrhafte, bunte Frühstücksbowl!
+      - listitem [ref=e829]:
+        - img "joya greek yogurt pancakes 1 5" [ref=e830]
+        - generic [ref=e831]:
+          - link "Vegane Süßkartoffel-Pancake Türmchen mit Spinat-Kokosjoghurt-Fülle" [ref=e832] [cursor=pointer]:
+            - /url: /r/suesskartoffel-pancakes.html
+          - paragraph [ref=e833]: Glutenfrei und vegan sind diese Pancakes eine wahre Wonne. Die Kombination von Kokosjoghurt mit Spinat macht die Kombination komplett.
+      - listitem [ref=e834]:
+        - img "kuerbiscremesuppe" [ref=e835]
+        - generic [ref=e836]:
+          - link "Vegane Kürbiscremesuppe aus Hokkaido" [ref=e837] [cursor=pointer]:
+            - /url: /r/kuerbiscremesuppe-hokkaido.html
+          - paragraph [ref=e838]: "Der Klassiker im Herbst, den alle lieben: Kürbiscremesuppe! Mit Hokkaido Kürbis geht es auch noch besonders schnell, da er nicht geschält werden muss."
+      - listitem [ref=e839]:
+        - img "apple pie 1" [ref=e840]
+        - generic [ref=e841]:
+          - link "Veganer Greek-Yoghurt Apple Pie mit Vanilla-Glaze" [ref=e842] [cursor=pointer]:
+            - /url: /r/greek-yoghurt-apple-pie.html
+          - paragraph [ref=e843]: Dieser Kuchen ist herrlich saftig und flaumig zugleich. Die Vanille Glasur ist die Krönung. Ohne Übertreibung der beste Apfelkuchen, den wir je gebacken haben!
+      - listitem [ref=e844]:
+        - img "champignon sauce" [ref=e845]
+        - generic [ref=e846]:
+          - link "Feine, Vegane Champignon-Sauce" [ref=e847] [cursor=pointer]:
+            - /url: /r/champignon-sauce.html
+          - paragraph [ref=e848]: So eine leckere Sauce kann so manches Gericht retten oder gemeinsam mit Pasta oder Gnocchi ein schnelles Essen ergeben.
+      - listitem [ref=e849]:
+        - img "gluecksbrot 1" [ref=e850]
+        - generic [ref=e851]:
+          - link "Veganes Glücksbrot oder Hermann" [ref=e852] [cursor=pointer]:
+            - /url: /r/veganes-gluecksbrot-hermann.html
+          - paragraph [ref=e853]: Wir starten eine vegane Backrevolution! Wer diesen Kuchen backt, darf sich nicht nur was wünschen, es können auch immer 3 Teigansätze weitergeschenkt werden.
+      - listitem [ref=e854]:
+        - img "gluecksbrot 1 2" [ref=e855]
+        - generic [ref=e856]:
+          - link "Ansatz für Veganes Glücksbrot oder Hermann" [ref=e857] [cursor=pointer]:
+            - /url: /r/ansatz-veganes-gluecksbrot.html
+          - paragraph [ref=e858]: Los geht die vegane Backrevolution! Dieser vegane Kuchenansatz wird ähnlich wie Sauerteig vermehrt und 3 Teile davon verschenkt man und selbst wird man mit einem leckeren Kuchen belohnt!
+      - listitem [ref=e859]:
+        - img "IMG_2803" [ref=e860]
+        - generic [ref=e861]:
+          - link "Vegane gefüllte Champignons mit Mozzarella & Tomaten" [ref=e862] [cursor=pointer]:
+            - /url: /r/gefuellte-champignons-mozzarella.html
+          - paragraph [ref=e863]: Riesen-Champignons füllen wir hier mit selbstgemachtem Cashew-Mozzarella und Tomaten. Sehr lecker!
+      - listitem [ref=e864]:
+        - img "matcha tiramisu 1" [ref=e865]
+        - generic [ref=e866]:
+          - link "Vegane Matcha-Kokos-Tiramisu" [ref=e867] [cursor=pointer]:
+            - /url: /r/matcha-kokos-tiramisu.html
+          - paragraph [ref=e868]: Diese Kombination ist himmlisch! Für alle Matcha- & KokosliebhaberInnen ist dieses Tiramisu ein Must!
+      - listitem [ref=e869]:
+        - img "Vegane Sahnetorte 1 4" [ref=e870]
+        - generic [ref=e871]:
+          - link "Traumhafte Vegane Himbeer Joghurt-Sahnetorte" [ref=e872] [cursor=pointer]:
+            - /url: /r/vegane-himbeer-sahnetorte.html
+          - paragraph [ref=e873]: Wie ein Stück vom Himmel - so was von cremig, locker und gleichzeitig fruchtig. Noch dazu wird die Torte ganz ohne backen gezaubert.
+      - listitem [ref=e874]:
+        - img "cannelloni 1 2" [ref=e875]
+        - generic [ref=e876]:
+          - link "Vegane gefüllte Cannelloni mit Spinat & Ricotta" [ref=e877] [cursor=pointer]:
+            - /url: /r/gefuellte-cannelloni.html
+          - paragraph [ref=e878]: Würdest Du auch gerne wieder mal in den Genuss gefüllte Cannelloni kommen? Spinat & Ricotta Fülle gibt es bei uns als vegane Variante. Schmeckt klasse!
+      - listitem [ref=e879]:
+        - img "mozzarella 1" [ref=e880]
+        - generic [ref=e881]:
+          - link "Der beste, Vegane Mozzarella mit Aquafaba" [ref=e882] [cursor=pointer]:
+            - /url: /r/veganer-mozzarella-aquafaba.html
+          - paragraph [ref=e883]: Endlich ein Rezept für selbstgemachten, veganen Mozzarella, der toll schmeckt und sich auch zum Überbacken eignet!
+      - listitem [ref=e884]:
+        - img "pancakes kokos reis 1" [ref=e885]
+        - generic [ref=e886]:
+          - link "Reis Veganes Kokos Pancakes mit Kakao" [ref=e887] [cursor=pointer]:
+            - /url: /r/reis-kokos-pancakes.html
+          - paragraph [ref=e888]: Pancakes sind immer lecker! Als Frühstück oder auch zu jeder anderen Tageszeit. Für mehr Abwechslung haben wir hier ein glutenfreies Rezept für Dich!
+      - listitem [ref=e889]:
+        - img "IMG_2841" [ref=e890]
+        - generic [ref=e891]:
+          - link "Veganer lila Gute Laune Smoothie mit Zwetschken & Mandeln" [ref=e892] [cursor=pointer]:
+            - /url: /r/smoothie-zwetschken-mandeln.html
+          - paragraph [ref=e893]: Ein Smoothie wie flüssiges Powidl mit Marzipan - so lecker!
+      - listitem [ref=e894]:
+        - img "marillenkuchen 1" [ref=e895]
+        - generic [ref=e896]:
+          - link "Veganer Schneller, einfacher Marillenkuchen" [ref=e897] [cursor=pointer]:
+            - /url: /r/schneller-marillenkuchen.html
+          - paragraph [ref=e898]: Herrlich so ein Kuchen mit saftigen Marillen! Und schnell gezaubert ist er obendrein.
+      - listitem [ref=e899]:
+        - img "gefuellte zucchini 1" [ref=e900]
+        - generic [ref=e901]:
+          - link "Vegane gefüllte Zucchini mit Hirse & Pilzen" [ref=e902] [cursor=pointer]:
+            - /url: /r/gefuellte-zucchini.html
+          - paragraph [ref=e903]: Auf der Suche nach einem neuen Zucchini-Rezept? Versuch es mal mit Zucchini gefüllt mit leckerer Hirse.
+      - listitem [ref=e904]:
+        - img "topfenknoedel 1" [ref=e905]
+        - generic [ref=e906]:
+          - link "Vegane Topfenknödel" [ref=e907] [cursor=pointer]:
+            - /url: /r/vegane-topfenknoedel.html
+          - paragraph [ref=e908]: Wenn die Marillen, Zwetschken, Erdbeeren etc. reif sind, schreit es förmlich Topfenknödel und die gehen auch wunderbar vegan!
+      - listitem [ref=e909]:
+        - img "Gebratener Reis 1" [ref=e910]
+        - generic [ref=e911]:
+          - link "Der Veganes leckerste, gebratene Reis mit Geheimzutat" [ref=e912] [cursor=pointer]:
+            - /url: /r/veganer-gebratener-reis.html
+          - paragraph [ref=e913]: Mit der richtigen Würze ist gebratener Reis ein wahres Festmahl. Probier dieses Rezept - Du wirst es nicht mehr missen wollen!
+      - listitem [ref=e914]:
+        - img "kalter hund 1" [ref=e915]
+        - generic [ref=e916]:
+          - link "Veganer Kalter Hund mit Pudding & Himbeeren" [ref=e917] [cursor=pointer]:
+            - /url: /r/kalter-hund-mit-pudding.html
+          - paragraph [ref=e918]: Ein leckerer Sommerkuchen ohne Backen! Pudding, weiße Schokolade, Kekse, fruchtige Himbeeren und dunkle Schokolade ergeben eine traumhafte Kombination.
+      - listitem [ref=e919]:
+        - img "obstbowle" [ref=e920]
+        - generic [ref=e921]:
+          - link "Sommerliche Vegane Obstbowle" [ref=e922] [cursor=pointer]:
+            - /url: /r/obstbowle-sommer.html
+          - paragraph [ref=e923]: Fruchtig und erfrischend ist die Obstbowle zu jeder Gelegenheit ein Hit – und dabei so leicht zu machen!
+      - listitem [ref=e924]:
+        - img "gemueselaibchen 1" [ref=e925]
+        - generic [ref=e926]:
+          - link "Veganes Gemüse-Reis-Laibchen" [ref=e927] [cursor=pointer]:
+            - /url: /r/gemuese-reis-laibchen.html
+          - paragraph [ref=e928]: Diese Laibchen eignen sich als Patties für vegane Burger oder einfach so als Hauptspeise mit einer Sauce und Salat dazu.
+      - listitem [ref=e929]:
+        - img "limettenkuchen 1 2" [ref=e930]
+        - generic [ref=e931]:
+          - link "Veganer Erfrischender, rohköstlicher Limetten Kuchen" [ref=e932] [cursor=pointer]:
+            - /url: /r/rohkost-limetten-kuchen.html
+          - paragraph [ref=e933]: Dieser Kuchen überrascht mit einer ungewohnten, höchst leckeren Geschmacksexplosion im Mund - genau das richtige für diesen Sommer!
+      - listitem [ref=e934]:
+        - img "vitam melasse kuchen 1 3" [ref=e935]
+        - generic [ref=e936]:
+          - link "Veganer Melasse \"Buttermilch\" Kuchen" [ref=e937] [cursor=pointer]:
+            - /url: /r/veganer-melasse-buttermilch-kuchen.html
+          - paragraph [ref=e938]: Melasse ist eine wahre Nährstoffbombe und leistet einen tollen Beitrag um unseren Tagesbedarf an Eisen & Kalzium zu decken. Hier verbacken wir sie in einem leckeren Kuchen.
+      - listitem [ref=e939]:
+        - img "kichererbsen curry 1" [ref=e940]
+        - generic [ref=e941]:
+          - link "Veganes Kichererbsen Curry mit Sommergemüse & Gewürz-Reis" [ref=e942] [cursor=pointer]:
+            - /url: /r/kichererbsen-curry-gewuerz-reis.html
+          - paragraph [ref=e943]: Curry ist so variationsreich und immer wieder lecker. Hier servieren wir es mit einem geschmackvollen Gewürz-Reis.
+      - listitem [ref=e944]:
+        - img "back pea" [ref=e945]
+        - generic [ref=e946]:
+          - link "Rezept für Vegane Backerbsen" [ref=e947] [cursor=pointer]:
+            - /url: /r/rezept-vegane-backerbsen.html
+          - paragraph [ref=e948]: Backerbsen sind die perfekte knusprige Beilage für Suppen und Salate. Ganz leicht lassen sich Backerbsen auch vegan herstellen. Hier erfährst Du wie.
+      - listitem [ref=e949]:
+        - img "milchschnitten 1 2" [ref=e950]
+        - generic [ref=e951]:
+          - link "Vegane Milchschnitten, die sogar gesund sind" [ref=e952] [cursor=pointer]:
+            - /url: /r/vegane-milchschnitten-zuckerfrei.html
+          - paragraph [ref=e953]: "Für alle Kleinen & Großen, die gerne mal wieder mal Milchschnitten essen würden: mit unserem Rezept sind sie vollwertig, zuckerfrei & vegan!"
+      - listitem [ref=e954]:
+        - img "palatschinken 1" [ref=e955]
+        - generic [ref=e956]:
+          - link "Die Veganer einfachsten Pfannkuchen der Welt" [ref=e957] [cursor=pointer]:
+            - /url: /r/einfache-vegane-pfannkuchen.html
+          - paragraph [ref=e958]: Alle lieben Pfannkuchen bzw. Palatschinken! Wer hätte gedacht, dass sie vegan noch einfacher sind?
+      - listitem [ref=e959]:
+        - img "tiramisu vegan 1 4" [ref=e960]
+        - generic [ref=e961]:
+          - link "Veganes Tiramisu" [ref=e962] [cursor=pointer]:
+            - /url: /r/veganes-tiramisu.html
+          - paragraph [ref=e963]: So geht der himmlische Dessert Klassiker Tiramisu auch rein pflanzlich - ganz ohne geschmackliche Abstriche!
+      - listitem [ref=e964]:
+        - img "soja steak" [ref=e965]
+        - generic [ref=e966]:
+          - link "Richtig zarte, Vegane Soja-Steaks!" [ref=e967] [cursor=pointer]:
+            - /url: /r/vegane-soja-steaks.html
+          - paragraph [ref=e968]: Ein gutes, zartes Sojasteak zuzubereiten, braucht viel Geduld und viel Knoblauch. Am besten schon am Vortrag vor dem Grillfest mit dem Marinieren beginnen!
+      - listitem [ref=e969]:
+        - img "zucchini fritters 1" [ref=e970]
+        - generic [ref=e971]:
+          - link "Vegane Schnelle, leckere Zucchini Fritters" [ref=e972] [cursor=pointer]:
+            - /url: /r/zucchini-fritters.html
+          - paragraph [ref=e973]: "Dieses Rezept ist klasse: es geht schnell, man braucht nicht viel und das wichtigste: es schmeckt köstlich!"
+      - listitem [ref=e974]:
+        - img "grill kohlrabi" [ref=e975]
+        - generic [ref=e976]:
+          - link "Grill Vegane Kohlrabi" [ref=e977] [cursor=pointer]:
+            - /url: /r/kohlrabi-grillen.html
+          - paragraph [ref=e978]: Vor kurzem auf einer Grillparty gesehen und hat uns voll überzeugt. Kohlrabi ist ein tolles Grill-Gemüse! Empfehlung!
+      - listitem [ref=e979]:
+        - img "smoothie bowl 1" [ref=e980]
+        - generic [ref=e981]:
+          - link "Bunte Vegane Aronia-Smoothie-Bowl" [ref=e982] [cursor=pointer]:
+            - /url: /r/smoothie-bowl.html
+          - paragraph [ref=e983]: Smoothies zum Löffeln mit bunten Toppings sind ein klasse Frühstück und machen fröhlich.
+      - listitem [ref=e984]:
+        - img "kuchenboden neu 1" [ref=e985]
+        - generic [ref=e986]:
+          - link "Schneller, Veganer Kuchenboden" [ref=e987] [cursor=pointer]:
+            - /url: /r/veganer-kuchenboden.html
+          - paragraph [ref=e988]: Schnell, schnell soll ein Kuchen am Tisch stehen? Dann kommt dieses Rezept gerade recht. In 30min gebacken und mit dem Lieblingsobst belegt und schon fertig!
+      - listitem [ref=e989]:
+        - img "spargelcremesuppe 1" [ref=e990]
+        - generic [ref=e991]:
+          - link "Vegane Spargelcremesuppe" [ref=e992] [cursor=pointer]:
+            - /url: /r/vegane-spargel-creme-suppe.html
+          - paragraph [ref=e993]: Steht die Spargelzeit an, dann ist es Zeit für diese Suppe! Spargelcremesuppe mag jede*r & macht sich immer gut, ob als Vorspeise oder leichte Hauptspeise.
+      - listitem [ref=e994]:
+        - img "wasabi mayo 1" [ref=e995]
+        - generic [ref=e996]:
+          - link "Wasabi Vegane Mayonnaise" [ref=e997] [cursor=pointer]:
+            - /url: /r/wasabi-mayonnaise.html
+          - paragraph [ref=e998]: Japan trifft Frankreich! Der hipste Dip seit Erfindung der Fusions-Küche! Superschnelles 7 Minuten Rezept.
+      - listitem [ref=e999]:
+        - img "snickers torte 1 4" [ref=e1000]
+        - generic [ref=e1001]:
+          - 'link "Vegane Snickers-Torte: roh & wahnsinnig lecker" [ref=e1002] [cursor=pointer]':
+            - /url: /r/snickers-torte-rohkost.html
+          - paragraph [ref=e1003]: "Erdnüsse, Karamell & Schokolade: eine Kombination zum Dahinschmelzen! Und hier wird das ganze sogar noch gesund, denn wir verwenden nur beste Zutaten!"
+      - listitem [ref=e1004]:
+        - img "wildkräuter quiche" [ref=e1005]
+        - generic [ref=e1006]:
+          - link "Vegane Wildkräuterquiche" [ref=e1007] [cursor=pointer]:
+            - /url: /r/wildkraeuter-quiche.html
+          - paragraph [ref=e1008]: Die schnellste und wildeste Quiche der Welt!
+      - listitem [ref=e1009]:
+        - img "macn cheese 1" [ref=e1010]
+        - generic [ref=e1011]:
+          - link "Vegane Mac´n Cheese" [ref=e1012] [cursor=pointer]:
+            - /url: /r/vegane-macn-cheese.html
+          - paragraph [ref=e1013]: "Der Inbegriff von Comfort Food: cremig würzige Sauce und Pasta! Kaum jemand würde dabei erraten, dass es sich um ein veganes Gericht handelt."
+      - listitem [ref=e1014]:
+        - img "tofu laibchen" [ref=e1015]
+        - generic [ref=e1016]:
+          - link "Leckere Vegane Tofu-Mandel-Laibchen" [ref=e1017] [cursor=pointer]:
+            - /url: /r/tofu-mandel-laibchen.html
+          - paragraph [ref=e1018]: Süß mit Apfelmus, Kompott oder frischen Früchten zum Frühstück oder pikant als Hauptspeise mit Gemüse?
+      - listitem [ref=e1019]:
+        - img "sellerieschnitzel 1" [ref=e1020]
+        - generic [ref=e1021]:
+          - link "Veganes Sellerie-Schnitzel" [ref=e1022] [cursor=pointer]:
+            - /url: /r/sellerie-schnitzel.html
+          - paragraph [ref=e1023]: Lust auf etwas fettiges, heißes, handfestes, veganes? Dann probier dieses vegane Schnitzel Rezept! Schmeckt sowohl heiß als auch kalt noch super!
+      - listitem [ref=e1024]:
+        - img "himbeer schoko torte 1 2" [ref=e1025]
+        - generic [ref=e1026]:
+          - link "Herrliche Vegane Himbeer-Schokocreme-Torte" [ref=e1027] [cursor=pointer]:
+            - /url: /r/himbeer-schoko-creme-torte.html
+          - paragraph [ref=e1028]: Von diesem Kuchen können wir gar nicht genug bekommen! Aber wer könnte auch einer glutenfreien Schoko-Torte mit Himbeeren und leckerer Creme widerstehen?
+      - listitem [ref=e1029]:
+        - img "Bowl 1" [ref=e1030]
+        - generic [ref=e1031]:
+          - link "Vegane Soba-Nudel-Bowl mit Spargel" [ref=e1032] [cursor=pointer]:
+            - /url: /r/soba-nudel-bowl.html
+          - paragraph [ref=e1033]: Soba-Nudeln geben mit einer Gemüse-Variation ein super Essen ab, das auch schnell zubereitet ist und ein angenehmes Gefühl im Magen hinterlässt.
+      - listitem [ref=e1034]:
+        - img "loewenzahn salat 1" [ref=e1035]
+        - generic [ref=e1036]:
+          - link "Veganer Löwenzahnsalat mit Kartoffeln & Kürbiskernöl-Dressing" [ref=e1037] [cursor=pointer]:
+            - /url: /r/loewenzahn-salat.html
+          - paragraph [ref=e1038]: Wenn die Wiesen gelb leuchten, ist es Zeit für diesen leckeren, gesunden Salat!
+      - listitem [ref=e1039]:
+        - img "spargel fritatta 1" [ref=e1040]
+        - generic [ref=e1041]:
+          - link "Vegane Spargel-Frittata" [ref=e1042] [cursor=pointer]:
+            - /url: /r/vegane-frittata.html
+          - paragraph [ref=e1043]: Bunt, lecker & so vielseitig! Dieses Rezept für Frittata aus Kichererbsenmehl ist wirklich eine tolle Bereicherung.
+      - listitem [ref=e1044]:
+        - img "Raffaello Torte 1 6" [ref=e1045]
+        - generic [ref=e1046]:
+          - link "Vegane Raffaello-Torte zum Dahinschmelzen" [ref=e1047] [cursor=pointer]:
+            - /url: /r/vegane-raffaello-torte.html
+          - paragraph [ref=e1048]: Feiner Mandel-Biskuit, Kokoscreme und Kokosflocken obendrauf! Und das nicht nur ganz ohne Schokolade, sondern auch ganz ohne tierische Zutaten und ohne weissen Zucker.
+      - listitem [ref=e1049]:
+        - img "bounty kuchen 1" [ref=e1050]
+        - generic [ref=e1051]:
+          - link "Rohveganer Bounty-Kuchen" [ref=e1052] [cursor=pointer]:
+            - /url: /r/rohveganer-bounty-kuchen.html
+          - paragraph [ref=e1053]: Kokos & Schokolade - ein traumhaftes Duo! Dieser Kuchen begeistert alle, die Bounties lieben oder geliebt haben, dabei ist er schnell gemacht und noch dazu rohvegan.
+      - listitem [ref=e1054]:
+        - img "Pizzateig2.0" [ref=e1055]
+        - generic [ref=e1056]:
+          - link "Vegane Knuspriger, selbsgemachter Pizzateig" [ref=e1057] [cursor=pointer]:
+            - /url: /r/pizzateig-vegan-selbstgemacht.html
+          - paragraph [ref=e1058]: Einen Pizzateig selbst zu machen mag zwar schwer klingen, ist es aber gar nicht. Besonders mit diesem einfachen Rezept.
+      - listitem [ref=e1059]:
+        - img "rainbow cake 4 1 2" [ref=e1060]
+        - generic [ref=e1061]:
+          - link "Raindrop Vegane Cake" [ref=e1062] [cursor=pointer]:
+            - /url: /r/raindrop-cake.html
+          - paragraph [ref=e1063]: Mit diesem Rezept musst Du nicht nach Brooklyn oder Japan pilgern, um den so gehypten Raindrop Cake zu probieren!
+      - listitem [ref=e1064]:
+        - img "quinoa auflauf 1" [ref=e1065]
+        - generic [ref=e1066]:
+          - link "Vegane Süßer Quinoa-Auflauf mit Kirschen" [ref=e1067] [cursor=pointer]:
+            - /url: /r/suesser-quinoa-auflauf-mit-kirschen.html
+          - paragraph [ref=e1068]: Quinoa ist so gesund und lecker. Mit diesem süßen Rezept schmeckt´s auch der ganzen Familie!
+      - listitem [ref=e1069]:
+        - img "karotten kokosnuss kuchen 1 2" [ref=e1070]
+        - generic [ref=e1071]:
+          - link "Veganer Rohköstlicher Karotten-Kokos-Kuchen" [ref=e1072] [cursor=pointer]:
+            - /url: /r/rohkost-karotten-kokos-kuchen.html
+          - paragraph [ref=e1073]: Wie ein kleines Stück vom Himmel am Teller! Dieser Kuchen schmeckt umwerfend.
+      - listitem [ref=e1074]:
+        - img "TartareSauce" [ref=e1075]
+        - generic [ref=e1076]:
+          - link "Vegane Sauce Tartare" [ref=e1077] [cursor=pointer]:
+            - /url: /r/vegane-sauce-tartare.html
+          - paragraph [ref=e1078]: Gebackene Champignons, Ofenkartoffeln oder Gemüse Sticks – all das schmeckt gleich doppelt so gut mit dieser einfachen Sauce Tartare als Dip!
+      - listitem [ref=e1079]:
+        - img "salatrollen 1" [ref=e1080]
+        - generic [ref=e1081]:
+          - link "Bunte Veganer Salatrollen mit Erdnuss-Dip" [ref=e1082] [cursor=pointer]:
+            - /url: /r/salatrollen-erdnuss-dip.html
+          - paragraph [ref=e1083]: Sommerlich leicht, bunt, knackig, frisch! Diese vitaminreichen Rollen machen Spaß und bringen gute Laune.
+      - listitem [ref=e1084]:
+        - img "nachos 1" [ref=e1085]
+        - generic [ref=e1086]:
+          - link "Vegane Nachos mit Salsa & Bohnenmus" [ref=e1087] [cursor=pointer]:
+            - /url: /r/vegane-nachos-mit-salsa-bohnenmus.html
+          - paragraph [ref=e1088]: "Für einen geselligen Abend, als Snack oder auch vollständige Mahlzeit: diese veganen Nachos sind der Hit! Unbedingt ausprobieren!"
+      - listitem [ref=e1089]:
+        - img "polenta spargel 1" [ref=e1090]
+        - generic [ref=e1091]:
+          - link "Vegane Bärlauch-Polenta mit Spargel-Pilz-Ragout" [ref=e1092] [cursor=pointer]:
+            - /url: /r/baerlauch-polenta-spargel-pilz-ragout.html
+          - paragraph [ref=e1093]: Alles, was wir am Frühling lieben in einem leckeren Gericht vereint!
+      - listitem [ref=e1094]:
+        - img "gebratener radicchio 1" [ref=e1095]
+        - generic [ref=e1096]:
+          - link "Gebratener Vegane Radicchio" [ref=e1097] [cursor=pointer]:
+            - /url: /r/gebratener-radicchio.html
+          - paragraph [ref=e1098]: Radicchio schmeckt herrlich bitter und macht sich auch gebraten als Beilage sehr gut.
+      - listitem [ref=e1099]:
+        - img "vegane mayo 1" [ref=e1100]
+        - generic [ref=e1101]:
+          - link "Vegane Mayonnaise selbstgemacht" [ref=e1102] [cursor=pointer]:
+            - /url: /r/vegane-mayonnaise.html
+          - paragraph [ref=e1103]: Vegane Mayonnaise ist in 5min zusammengerührt und viel leckerer als gekaufte.
+      - listitem [ref=e1104]:
+        - img "portobello burger 2 1" [ref=e1105]
+        - generic [ref=e1106]:
+          - link "Portobello Vegane Burger mit roten Zwiebeln und Bärlauch" [ref=e1107] [cursor=pointer]:
+            - /url: /r/portobello-burger.html
+          - paragraph [ref=e1108]: Diesen veganen Burger wirst du niemals vergessen! Portobello-Pilze sind praktisch für Burger gemacht!
+      - listitem [ref=e1109]:
+        - img "topfennockerl 1" [ref=e1110]
+        - generic [ref=e1111]:
+          - link "Vegane Topfennockerl" [ref=e1112] [cursor=pointer]:
+            - /url: /r/vegane-topfennockerl.html
+          - paragraph [ref=e1113]: "Lange haben wir darauf gewartet: veganen Topfen bzw. Quark! Nun ist er da. Endlich gibt es wieder Topfennockerl, aber natürlich vegan!"
+      - listitem [ref=e1114]:
+        - img "ai/ai linsen braten" [ref=e1115]
+        - generic [ref=e1116]:
+          - link "Veganer & glutenfreier Linsenbraten" [ref=e1117] [cursor=pointer]:
+            - /url: /r/linsen-braten.html
+          - paragraph [ref=e1118]: Auf der Suche nach einem Festtagsessen, das beweist, dass man von einer veganen Mahlzeit auch richtig satt wird?
+      - listitem [ref=e1119]:
+        - img "gnocchi rosenkohl 1" [ref=e1120]
+        - generic [ref=e1121]:
+          - link "Vegane Gnocchi mit Rosenkohl & Pinienkernen" [ref=e1122] [cursor=pointer]:
+            - /url: /r/gnocchi-mit-rosenkohl-pinienkernen.html
+          - paragraph [ref=e1123]: Wenn es schnell gehen muss, kommen Gnocchis genau recht! Dazu eine schmackhafte Sauce und Gemüse - et voila!
+      - listitem [ref=e1124]:
+        - img "provamel Large PBAQ_PIZZA" [ref=e1125]
+        - generic [ref=e1126]:
+          - link "Pizza Vegane Margarita mit Quark-Öl-Teig" [ref=e1127] [cursor=pointer]:
+            - /url: /r/pizza-margarita-quark-oel-teig.html
+          - paragraph [ref=e1128]: Veganer Quark-Öl-Teig? Ja! Mit der neuen Quark Alternative von Provamel ist das jetzt möglich. Probiert diese Pizza! Schmeckt hervorragend.
+      - listitem [ref=e1129]:
+        - img "lasagne2 1" [ref=e1130]
+        - generic [ref=e1131]:
+          - link "Vegane Lasagne" [ref=e1132] [cursor=pointer]:
+            - /url: /r/vegane-lasagne.html
+          - paragraph [ref=e1133]: Jede*r liebt Lasagne! Und diese Lasagne werden sogar nicht Veganer lieben.
+      - listitem [ref=e1134]:
+        - img "pecan karamell 4 1 2" [ref=e1135]
+        - generic [ref=e1136]:
+          - link "Veganer Rohköstlicher Pecan-Karamell-Kuchen" [ref=e1137] [cursor=pointer]:
+            - /url: /r/rohkost-pecan-karamell-kuchen.html
+          - paragraph [ref=e1138]: Pecannüsse, Dattel-Karamellcreme und Schoko - Diese fabelhaften Törtchen aus nichts außer besten Zutaten sind zum Niederknien!
+      - listitem [ref=e1139]:
+        - img "Bananenpizza" [ref=e1140]
+        - generic [ref=e1141]:
+          - link "Vegane Süße Bananenpizza" [ref=e1142] [cursor=pointer]:
+            - /url: /r/suesse-bananenpizza.html
+          - paragraph [ref=e1143]: Pizza muss nicht immer pikant sein! Besonders kleinen Schleckermäulern schmeckt die süße Version des Gerichts garantiert.
+      - listitem [ref=e1144]:
+        - img "cola slaw 1" [ref=e1145]
+        - generic [ref=e1146]:
+          - link "Veganer Coleslaw" [ref=e1147] [cursor=pointer]:
+            - /url: /r/veganer-coleslaw.html
+          - paragraph [ref=e1148]: Cremiger Krautsalat auf amerikanische Art! Probiert ihn aus, ihr werdet ihn lieben!
+      - listitem [ref=e1149]:
+        - img "gugelhupf 1" [ref=e1150]
+        - generic [ref=e1151]:
+          - link "Der flaumigste, Vegane Marmorgugelhupf" [ref=e1152] [cursor=pointer]:
+            - /url: /r/veganer-marmorgugelhupf.html
+          - paragraph [ref=e1153]: So flaumig und locker ganz ohne Eier? Mit diesem Rezept wirst Du nicht nur die Verwandtschaft zum Staunen bringen, sondern auch selbst überrascht sein!
+      - listitem [ref=e1154]:
+        - img "Schokobananen" [ref=e1155]
+        - generic [ref=e1156]:
+          - link "Knackige Vegane Schoko-Bananen" [ref=e1157] [cursor=pointer]:
+            - /url: /r/schoko-bananen.html
+          - paragraph [ref=e1158]: Wenn wir von Schoko-Bananen schwärmen, meinen wir nicht die glibberigen Süßigkeiten aus dem Supermarkt, sondern außen knackig und innen weiche, rasch gemachte Schoko-Bananen.
+      - listitem [ref=e1159]:
+        - img "thunfisch aufstrich 1" [ref=e1160]
+        - generic [ref=e1161]:
+          - link "Veganer \"Thunfisch\"-Aufstrich" [ref=e1162] [cursor=pointer]:
+            - /url: /r/veganer-thunfisch-aufstrich.html
+          - paragraph [ref=e1163]: Thunfisch-Salat bzw. Aufstrich vegan? Ja, warum denn nicht! Ein Rezept für alle, die den Geschmack des Meeres vermisst haben.
+      - listitem [ref=e1164]:
+        - img "Sachertorte 1" [ref=e1165]
+        - generic [ref=e1166]:
+          - link "Vegane Schokoladentorte nach Sacher Art" [ref=e1167] [cursor=pointer]:
+            - /url: /r/vegane-schokoladen-torte-sacher-art.html
+          - paragraph [ref=e1168]: "Ein himmlisches, veganes Rezept für die bekannte, dekadente Spezialität der Wiener Küche: Schokoladen-Torte mit Marillen-Marmelade!"
+      - listitem [ref=e1169]:
+        - img "ai/ai veganer doener selbstgemacht" [ref=e1170]
+        - generic [ref=e1171]:
+          - link "Veganer Döner selbstgemacht" [ref=e1172] [cursor=pointer]:
+            - /url: /r/veganer-doener-selbstgemacht.html
+          - paragraph [ref=e1173]: Da Döner zu jeder Tages- und Mahlzeit schmeckt und damit Ihr nicht immer ins Restaurant reisen müsst um einen zu bekommen, hier unser einfaches Döner Grundrezept.
+      - listitem [ref=e1174]:
+        - img "schoko mousse 1" [ref=e1175]
+        - generic [ref=e1176]:
+          - 'link "Schoko-Mousse: schnell, einfach & rohvegan" [ref=e1177] [cursor=pointer]':
+            - /url: /r/schoko-mousse.html
+          - paragraph [ref=e1178]: Diese Schoko Creme ist einfach herrlich und noch dazu rohvegan und in wenigen Minuten gemixt!
+      - listitem [ref=e1179]:
+        - img "Mango Mousse" [ref=e1180]
+        - generic [ref=e1181]:
+          - link "Herrliches Veganes Mango-Kokos-Mousse" [ref=e1182] [cursor=pointer]:
+            - /url: /r/mango-kokos-mousse.html
+          - paragraph [ref=e1183]: Ein exotischer Traum aus Kokos und Mango wird wahr!
+      - listitem [ref=e1184]:
+        - img "nudelpfanne" [ref=e1185]
+        - generic [ref=e1186]:
+          - link "Bunte, Vegane Winter-Nudelpfanne" [ref=e1187] [cursor=pointer]:
+            - /url: /r/nudel-pfanne.html
+          - paragraph [ref=e1188]: Gerade im Winter fehlt es uns manchmal etwas an Farbe im Essen. Diese bunte Nudelpfanne ist da genau das Richtige!
+      - listitem [ref=e1189]:
+        - img "ofen krapfen 1" [ref=e1190]
+        - generic [ref=e1191]:
+          - link "Vegane Ofenkrapfen" [ref=e1192] [cursor=pointer]:
+            - /url: /r/vegane-ofenkrapfen.html
+          - paragraph [ref=e1193]: Krapfen gehören zur Faschingszeit einfach dazu! Mit diesem Rezept sind sie auch vegan und fettarm.
+      - listitem [ref=e1194]:
+        - img "Pink Smoothie" [ref=e1195]
+        - generic [ref=e1196]:
+          - link "Pink Veganer Chocolate Smoothie" [ref=e1197] [cursor=pointer]:
+            - /url: /r/pink-chocolate-smoothie.html
+          - paragraph [ref=e1198]: Rote Rübe zum Frühstück? Bei dieser Farbe und dem schokoladigen Geschmack kann keiner widerstehen! Durch die rohe Rübe kommt Ihr dabei auch noch in den Genuss aller in ihr enthaltenen Mineralstoffe und Vitamine.
+      - listitem [ref=e1199]:
+        - img "budda bowl" [ref=e1200]
+        - generic [ref=e1201]:
+          - link "Buddha Vegane Bowl – Eine Schüssel voll Glück." [ref=e1202] [cursor=pointer]:
+            - /url: /r/buddha-bowl.html
+          - paragraph [ref=e1203]: Eine große Schüssel gefüllt mit Vitaminen, Kohlenhydraten und allem, was Du für eine gesunde, leckere Mahlzeit brauchst.
+      - listitem [ref=e1204]:
+        - img "lebkuchen tiramisu 1" [ref=e1205]
+        - generic [ref=e1206]:
+          - link "Leckeres Veganer Lebkuchen-Tiramisu" [ref=e1207] [cursor=pointer]:
+            - /url: /r/lebkuchen-tiramisu.html
+          - paragraph [ref=e1208]: Schenkt trocken gewordenen Keksen mit diesem Dessert eine zweite Chance. Ihr werdet überrascht sein, wie lecker das ist.
+      - listitem [ref=e1209]:
+        - img "erdnuss eintopf 1" [ref=e1210]
+        - generic [ref=e1211]:
+          - link "Herzhafter Veganer Erdnusseintopf" [ref=e1212] [cursor=pointer]:
+            - /url: /r/erdnusseintopf.html
+          - paragraph [ref=e1213]: "Genau das richtige für die kalte Jahreszeit: ein wärmender Eintopf, der ein wohliges Gefühl im Bauch hinterlässt!"
+      - listitem [ref=e1214]:
+        - img "rote gruetze 1" [ref=e1215]
+        - generic [ref=e1216]:
+          - link "Vegane rote Grütze mit Sago & Beeren" [ref=e1217] [cursor=pointer]:
+            - /url: /r/vegane-rote-gruetze.html
+          - paragraph [ref=e1218]: Vegane rote Grütze mit richtigen Früchten schmeckt so viel besser als das, was wir von früher kennen. Probiert es aus!
+      - listitem [ref=e1219]:
+        - img "nutroast" [ref=e1220]
+        - generic [ref=e1221]:
+          - link "Veganer Nussbraten oder die beste glutenfreie Pizza überhaupt" [ref=e1222] [cursor=pointer]:
+            - /url: /r/veganer-nussbraten.html
+          - paragraph [ref=e1223]: Wir lieben Nussbraten. Da er aber oft etwas trocken wird, haben wir ihn diesmal etwas flacher gemacht und mit vielen Köstlichkeiten belegt.
+      - listitem [ref=e1224]:
+        - img "Schokochip cookies" [ref=e1225]
+        - generic [ref=e1226]:
+          - link "Vegane Sündhaft leckere Schokochip-Cookies" [ref=e1227] [cursor=pointer]:
+            - /url: /r/schokochip-cookies.html
+          - paragraph [ref=e1228]: Außen knuspriger Keks gespickt mit Schokostückchen, innen weiche Schokoladencreme, diese Kekse machen süchtig!
+      - listitem [ref=e1229]:
+        - img "Kraeuterlikoer" [ref=e1230]
+        - generic [ref=e1231]:
+          - link "Selbstgemachter Vegane Kräuterschnaps" [ref=e1232] [cursor=pointer]:
+            - /url: /r/selbstgemachter-kraeuterschnaps.html
+          - paragraph [ref=e1233]: Wie wäre es mit selbst gemachtem Kräuterschnaps? Dieses Rezept räumt den Magen auf!
+      - listitem [ref=e1234]:
+        - img "grünkohlsalat 2 1" [ref=e1235]
+        - generic [ref=e1236]:
+          - link "Veganer Grünkohl-Käferbohnen-Salat" [ref=e1237] [cursor=pointer]:
+            - /url: /r/gruenkohl-kaeferbohnen-salat.html
+          - paragraph [ref=e1238]: Dieser Salat ist sehr schmackhaft, ausgiebig und steckt voller Nährstoffe.
+      - listitem [ref=e1239]:
+        - img "gefuellte paprika" [ref=e1240]
+        - generic [ref=e1241]:
+          - link "Gefüllte Paprika mit veganem \\\"Reisfleisch\\" [ref=e1242] [cursor=pointer]:
+            - /url: /r/gefuellte-paprika.html
+          - paragraph [ref=e1243]: Gefüllte Paprika sind einer der Klassiker, die problemlos auch in eine vegane Variante verwandelt werden können. Wir füllen sie mit Reis und Sojaschnetzeln.
+      - listitem [ref=e1244]:
+        - img "schoko bananen kuchen" [ref=e1245]
+        - generic [ref=e1246]:
+          - link "Vegane Rohköstliche Schoko-Bananen-Creme-Schnitten" [ref=e1247] [cursor=pointer]:
+            - /url: /r/schoko-bananen-creme-kuchen.html
+          - paragraph [ref=e1248]: "Dieser Kuchen hat uns den krönenden Abschluss für 2015 beschert: ein nussiger Boden mit Schoko-Creme, Bananen und göttlicher Kokoscreme!"
+      - listitem [ref=e1249]:
+        - img "Blumenkohl Semmeln" [ref=e1250]
+        - generic [ref=e1251]:
+          - link "Getreidefreie Vegane Semmeln aus Blumenkohl" [ref=e1252] [cursor=pointer]:
+            - /url: /r/getreidefreie-semmeln-blumenkohl.html
+          - paragraph [ref=e1253]: Leckere Semmeln ganz ohne Getreide! Diese Blumenkohl-Semmeln müsst Ihr probieren.
+      - listitem [ref=e1254]:
+        - img "wind rings 366294_1280" [ref=e1255]
+        - generic [ref=e1256]:
+          - link "Vegane Windringe" [ref=e1257] [cursor=pointer]:
+            - /url: /r/vegane-windringe.html
+          - paragraph [ref=e1258]: Ein Ding der Unmöglichkeit? Nein! Wer Windringe als Christbaumschmuck oder süße Weihnachtsnascherei vermisst, für den haben wir hier ein veganes Rezept!
+      - listitem [ref=e1259]:
+        - img "brot" [ref=e1260]
+        - generic [ref=e1261]:
+          - link "Vegane Roggen-Sauerteigbrot selber backen" [ref=e1262] [cursor=pointer]:
+            - /url: /r/roggen-sauerteigbrot.html
+          - paragraph [ref=e1263]: Frisches Sauerteig-Brot komplett selbst gemacht, schmeckt nicht nur super, sondern macht einen auch etwas stolz auf das Ergebnis.
+      - listitem [ref=e1264]:
+        - img "Marzipanschnecken" [ref=e1265]
+        - generic [ref=e1266]:
+          - link "Vegane Schokoladige Marzipanschnecken" [ref=e1267] [cursor=pointer]:
+            - /url: /r/marzipanschnecken.html
+          - paragraph [ref=e1268]: Ihr liebt Marzipan und Schokolade? Dann werdet Ihr diese knackigen Schoko-Marzipan-Pralinen unwiderstehlich finden.
+      - listitem [ref=e1269]:
+        - img "Mohn Pralinen" [ref=e1270]
+        - generic [ref=e1271]:
+          - link "Glutenfreie Vegane Mohn Pralinen" [ref=e1272] [cursor=pointer]:
+            - /url: /r/mohn-pralinen.html
+          - paragraph [ref=e1273]: Für alle die Mohn lieben ein absolutes Muss und dazu noch in 15 min komplett fertig! So lecker, so einfach!
+      - listitem [ref=e1274]:
+        - img "tabouleh 2 1" [ref=e1275]
+        - generic [ref=e1276]:
+          - link "Veganer Walnuss-Tofu & glasierte Süßkartoffen auf Granatapfel-Taboulé" [ref=e1277] [cursor=pointer]:
+            - /url: /r/walnuss-tofu-suesskartoffen-taboule.html
+          - paragraph [ref=e1278]: Bei diesem Gericht treffen exotische Geschmackswelten aufeinander, die überraschend toll miteinander harmonieren.
+      - listitem [ref=e1279]:
+        - img "bratapfel pancakes 1" [ref=e1280]
+        - generic [ref=e1281]:
+          - link "Glutenfreie Vegane Bratapfel-Pancakes" [ref=e1282] [cursor=pointer]:
+            - /url: /r/glutenfreie-bratapfel-pancakes.html
+          - paragraph [ref=e1283]: Bratäpfel und Pancakes in einem zum Frühstück! So fängt der Tag doppelt gut an.
+      - listitem [ref=e1284]:
+        - img "baerentatzen" [ref=e1285]
+        - generic [ref=e1286]:
+          - link "Vegane Bärentatzen" [ref=e1287] [cursor=pointer]:
+            - /url: /r/vegane-baerentatzen.html
+          - paragraph [ref=e1288]: Diese schokoladigen Plätzchen bereichern jedes Weihnachten und die Bären müssen dafür auch nicht herhalten.
+      - listitem [ref=e1289]:
+        - img "Vanillekipferl1" [ref=e1290]
+        - generic [ref=e1291]:
+          - 'link "Vegane Einfach, weihnachtlich: Vanillekipferl" [ref=e1292] [cursor=pointer]':
+            - /url: /r/vanillekipferl.html
+          - paragraph [ref=e1293]: Egal ob Ihr Kindheitserinnerungen nachbacken möchtet oder einfach Vanille LiebhaberInnen seid, diese einfachen Kipferl sind der ideale Keksgenuss für junge und alte Backhasen.
+      - listitem [ref=e1294]:
+        - img "walnuss marzipan plaetzchen" [ref=e1295]
+        - generic [ref=e1296]:
+          - link "Vegane Walnuss Marzipan Plätzchen" [ref=e1297] [cursor=pointer]:
+            - /url: /r/walnuss-marzipan-plaetzchen.html
+          - paragraph [ref=e1298]: "Darf auf keinem Weihnachtsteller fehlen: leckere Plätzchen mit Marzipan und Walnüssen."
+      - listitem [ref=e1299]:
+        - img "violette kartoffeln 1" [ref=e1300]
+        - generic [ref=e1301]:
+          - link "Violette Vegane Fächerkartoffeln mit Thymian" [ref=e1302] [cursor=pointer]:
+            - /url: /r/faecher-kartoffeln.html
+          - paragraph [ref=e1303]: Diese Kartoffeln geben eine prächtige Beilage ab und können nach Belieben mit verschiedenen, weiteren Zutaten gefüllt werden.
+      - listitem [ref=e1304]:
+        - img "Orangen Dattel Konfekt" [ref=e1305]
+        - generic [ref=e1306]:
+          - link "Weihnachtliches Vegane Orangen Dattel Konfekt" [ref=e1307] [cursor=pointer]:
+            - /url: /r/orangen-dattel-konfekt.html
+          - paragraph [ref=e1308]: Das Aroma von Orangen, Datteln und weihnachtlichen Gewürzen macht diese kleinen Pralinen zur perfekten Weihnachtssüßigkeit ganz ohne weißen Zucker.
+      - listitem [ref=e1309]:
+        - img "ai/ai gluehwein kuchen im glas oder muffins" [ref=e1310]
+        - generic [ref=e1311]:
+          - link "Veganer Glühwein Kuchen im Glas oder Muffins" [ref=e1312] [cursor=pointer]:
+            - /url: /r/gluehwein-kuchen-im-glas-oder-muffins.html
+          - paragraph [ref=e1313]: Ein Kuchen im Glas macht sich großartig als Präsent. In einem Rexglas hält er sich lange und das Glas kann wiederverwendet werden. Natürlich lassen sich mit demselben Rezept aber auch Muffins oder ein Kuchen ohne Glas machen.
+      - listitem [ref=e1314]:
+        - img "vegan Butter" [ref=e1315]
+        - generic [ref=e1316]:
+          - link "Vegane Butter ganz einfach selbstgemacht" [ref=e1317] [cursor=pointer]:
+            - /url: /r/vegane-butter-rezept.html
+          - paragraph [ref=e1318]: Endlich wieder Butter am Brot! Diese vegane Butter schmeckt immer, ist gesund und schnell gemacht!
+      - listitem [ref=e1319]:
+        - img "rumkugeln" [ref=e1320]
+        - generic [ref=e1321]:
+          - link "Vegane Köstlich cremige Rumkugeln" [ref=e1322] [cursor=pointer]:
+            - /url: /r/rumkugeln.html
+          - paragraph [ref=e1323]: Wer nicht so gerne backt, wird dieses einfache Rezept lieben. Schokolade + Rum = extra fröhliche Weihnachten!
+      - listitem [ref=e1324]:
+        - img "pizza schnecken 1" [ref=e1325]
+        - generic [ref=e1326]:
+          - 'link "Vegane Pizzaschnecken: schnell & einfach" [ref=e1327] [cursor=pointer]':
+            - /url: /r/schnelle-pizzaschnecken.html
+          - paragraph [ref=e1328]: "Perfekt als Snack, schnelles Abendessen, für Parties, Picknicks und andere Gelegenheiten: vegane Pizzaschnecken!"
+      - listitem [ref=e1329]:
+        - img "Bananenkekse" [ref=e1330]
+        - generic [ref=e1331]:
+          - link "Vegane Baby-Bananen-Haferkekse" [ref=e1332] [cursor=pointer]:
+            - /url: /r/baby-bananen-haferkekse.html
+          - paragraph [ref=e1333]: Backen mit Kleinkindern ist meistens aufwendig und chaotisch. Nicht so mit unseren super leichten Bananenkeksen aus nur zwei Zutaten.
+      - listitem [ref=e1334]:
+        - img "apfel karamell cheesecake2 2" [ref=e1335]
+        - generic [ref=e1336]:
+          - link "Vegane Rohköstlicher Bratapfel-Cheesecake" [ref=e1337] [cursor=pointer]:
+            - /url: /r/rohkost-bratapfel-cheesecake.html
+          - paragraph [ref=e1338]: Rohkost Cheesecake meets Bratapfel! Leckere Cashew-Creme auf Nussboden getoppt mit Dattel-Karamell und Apfelstücken mit viel Gewürzen - unwiderstehlich!
+      - listitem [ref=e1339]:
+        - img "Kohlsprossen 1" [ref=e1340]
+        - generic [ref=e1341]:
+          - link "Vegane leckere Kohlsprossen mit Linsen & Räuchertofu" [ref=e1342] [cursor=pointer]:
+            - /url: /r/kohlsprossen-raeuchertofu.html
+          - paragraph [ref=e1343]: Kohlsprossen (auch bekannt als Rosenkohl bzw. Sprossenkohl) ist reich an Vitaminen, Eiweiß, Eisen und Calzium. Und mit diesem deftigen Rezept superlecker zubereitet.
+      - listitem [ref=e1344]:
+        - img "Mung Bohnen Dhal 1" [ref=e1345]
+        - generic [ref=e1346]:
+          - link "Mung Veganes Bohnen Dal mit Safranreis" [ref=e1347] [cursor=pointer]:
+            - /url: /r/mung-bohnen-dal-safranreis.html
+          - paragraph [ref=e1348]: So schmackhaft und sehr sättigend ist dieses Gericht bestehend aus Mung Bohnen und gelben Reis.
+      - listitem [ref=e1349]:
+        - img "veganer Baumkuchen2 neu" [ref=e1350]
+        - generic [ref=e1351]:
+          - link "Vegane ungarische Baumkuchen" [ref=e1352] [cursor=pointer]:
+            - /url: /r/vegane-ungarische-baumkuchen.html
+          - paragraph [ref=e1353]: Baumkuchen sind so köstlich, dass es schade ist das ganze Jahr auf den Weihnachtsmarkt warten zu müssen um sie zu essen. Jetzt könnt Ihr sie auch ganz leicht selber machen.
+      - listitem [ref=e1354]:
+        - img "ai/ai naehrstoffreiche gemuesebruehe" [ref=e1355]
+        - generic [ref=e1356]:
+          - link "Vegane Nährstoffreiche Gemüsebrühe" [ref=e1357] [cursor=pointer]:
+            - /url: /r/naehrstoffreiche-gemuesebruehe.html
+          - paragraph [ref=e1358]: Vielseitig, schmackhaft und gesund! Diese Gemüsebrühe steckt voller Vitamine, Mineral- und Nährstoffe!
+      - listitem [ref=e1359]:
+        - img "violette kartoffeln 1 3" [ref=e1360]
+        - generic [ref=e1361]:
+          - link "Ofenkartoffeln Vegane mal anders" [ref=e1362] [cursor=pointer]:
+            - /url: /r/ofen-kartoffeln.html
+          - paragraph [ref=e1363]: Kartoffeln sind eine beliebte Beilage, aber als leckere Ofenkartoffeln mit dem gewissen Extra und einem Dip dazu gehen sie auch als Hauptspeise durch.
+      - listitem [ref=e1364]:
+        - img "soja gulasch meine basis 1" [ref=e1365]
+        - generic [ref=e1366]:
+          - link "Das perfekte, Vegane Gulasch im Brotlaib" [ref=e1367] [cursor=pointer]:
+            - /url: /r/soja-gulasch.html
+          - paragraph [ref=e1368]: Gulasch - auf Parties ein beliebter Mitternachtssnack und auch ansonsten ein willkommenes, schmackhaftes Gericht, das wir hier vegan zum Besten geben!
+      - listitem [ref=e1369]:
+        - img "curry meine basis 1" [ref=e1370]
+        - generic [ref=e1371]:
+          - link "Veganes Grünkohl-Kichererbsen-Curry mit karamellisierten Süßkartoffeln" [ref=e1372] [cursor=pointer]:
+            - /url: /r/gruenkohl-kichererbsen-curry-mit-suesskartoffeln.html
+          - paragraph [ref=e1373]: Ein würziges Kokos-Curry ist in der kalten Jahreszeit das perfekte Comfort Food! Mit unserem Rezept gehen wir zwar eine Abkürzung, das Ergebnis wird Euch garantiert überzeugen!
+      - listitem [ref=e1374]:
+        - img "apple pie 474954_1280" [ref=e1375]
+        - generic [ref=e1376]:
+          - link "Der einfachste Vegane Apfel-Streusel-Kuchen" [ref=e1377] [cursor=pointer]:
+            - /url: /r/einfacher-apfel-streusel-kuchen.html
+          - paragraph [ref=e1378]: Ein Apfelkuchen mit nur fünf Zutaten, der leicht zu machen ist und schmeckt? Haben wir hier!
+      - listitem [ref=e1379]:
+        - img "pilzsuppe 1" [ref=e1380]
+        - generic [ref=e1381]:
+          - link "Wilde, Vegane Pilzsuppe" [ref=e1382] [cursor=pointer]:
+            - /url: /r/vegane-pilzsuppe.html
+          - paragraph [ref=e1383]: Eine leckere, kräftige Suppe aus wilden Pilzen. Das Beste was unser Wald zu bieten hat. Lasst es euch schmecken!
+      - listitem [ref=e1384]:
+        - img "ai/ai rosa smoothie schoene haut" [ref=e1385]
+        - generic [ref=e1386]:
+          - link "Rosa Veganer Smoothie für strahlend schöne Haut" [ref=e1387] [cursor=pointer]:
+            - /url: /r/rosa-smoothie-schoene-haut.html
+          - paragraph [ref=e1388]: Schönheit kommt bekanntlich von innen und deshalb schlürfen wir uns mit diesem rosa Smoothie so richtig schön!
+      - listitem [ref=e1389]:
+        - img "basier neu 1" [ref=e1390]
+        - generic [ref=e1391]:
+          - link "Das perfekte, Vegane Baiser bzw. Meringue" [ref=e1392] [cursor=pointer]:
+            - /url: /r/veganer-baiser-meringue.html
+          - paragraph [ref=e1393]: Ihr werdet staunen! Ganz ohne Eiweiss zaubern wir hier veganen Baiser.
+      - listitem [ref=e1394]:
+        - img "bananen chia pudding vegan" [ref=e1395]
+        - generic [ref=e1396]:
+          - link "Vegane Bananen-Creme mit Schoko-Chia-Pudding" [ref=e1397] [cursor=pointer]:
+            - /url: /r/bananen-creme-dessert.html
+          - paragraph [ref=e1398]: Ein Rohkost-Dessert vom Feinsten, dabei ist es noch so schnell zubereitet und schmeckt super.
+      - listitem [ref=e1399]:
+        - img "maulwurfskuchen 1" [ref=e1400]
+        - generic [ref=e1401]:
+          - link "Veganer Maulwurfkuchen" [ref=e1402] [cursor=pointer]:
+            - /url: /r/veganer-maulwurfkuchen-2.html
+          - paragraph [ref=e1403]: Schoko, Bananen & Creme mit noch mehr Schoko - Was gibt es besseres?
+      - listitem [ref=e1404]:
+        - generic [ref=e1405]:
+          - link "Veganer herbstlicher Auflauf mit Kürbis & Grünkohl" [ref=e1406] [cursor=pointer]:
+            - /url: /r/auflauf-mit-kuerbis-gruenkohl.html
+          - paragraph [ref=e1407]: Butternuss-Kürbis, Kartoffeln und Grünkohl vereinen sich hier zu diesem leckeren Auflauf!
+      - listitem [ref=e1408]:
+        - img "ai/ai zwiebelrostbraten blumenkohl pueree" [ref=e1409]
+        - generic [ref=e1410]:
+          - link "Veganer Zwiebelrostbraten mit Blumenkohl-Püree" [ref=e1411] [cursor=pointer]:
+            - /url: /r/zwiebelrostbraten-blumenkohl-pueree.html
+          - paragraph [ref=e1412]: Manchmal mag man was Deftiges! Ein Zwiebelrostbraten aus Soja-Medaillons dazu Püree vom Blumenkohl kommt dann wie gerufen.
+      - listitem [ref=e1413]:
+        - img "Schokofudge Kuchen" [ref=e1414]
+        - generic [ref=e1415]:
+          - link "Super Vegane saftige, glutenfreie Schoko-Fudge-Brownies" [ref=e1416] [cursor=pointer]:
+            - /url: /r/glutenfreier-schoko-fudge-brownies.html
+          - paragraph [ref=e1417]: "Diese Brownies sind total saftig und kommt ganz ohne Mehl und Zucker aus. Ihr Geheimnis: Schwarze Bohnen!"
+      - listitem [ref=e1418]:
+        - img "vanille kokos mandeln 1" [ref=e1419]
+        - generic [ref=e1420]:
+          - link "Vegane Vanille- & Matcha-Kokos-Mandeln" [ref=e1421] [cursor=pointer]:
+            - /url: /r/vanille-matcha-kokos-mandeln.html
+          - paragraph [ref=e1422]: Ja, die schmecken so lecker, wie es klingt! Probiert diese rohköstlich ummantelten Mandeln unbedingt aus. Eignet sich auch wunderbar zum Verschenken.
+      - listitem [ref=e1423]:
+        - img "gruehnkohl chips 1" [ref=e1424]
+        - generic [ref=e1425]:
+          - link "Selbstgemachte Vegane Grünkohl-Chips" [ref=e1426] [cursor=pointer]:
+            - /url: /r/gruenkohl-chips-rezept.html
+          - paragraph [ref=e1427]: Grünkohl findet sich immer wieder unter den Top 3 Gemüsesorten mit den meisten Nährstoffen. Als Chips knabbert man noch mehr davon.
+      - listitem [ref=e1428]:
+        - img "ai/ai schwedische zimtschnecken" [ref=e1429]
+        - generic [ref=e1430]:
+          - 'link "Vegane Kanelbullar: Leckere schwedische Zimtschnecken" [ref=e1431] [cursor=pointer]':
+            - /url: /r/schwedische-zimtschnecken.html
+          - paragraph [ref=e1432]: Soooo lecker! Unser Lieblingsrezept für die besten, schwedischen Zimtschnecken teilen wir gerne mit Euch!
+      - listitem [ref=e1433]:
+        - img "panierter parasol" [ref=e1434]
+        - generic [ref=e1435]:
+          - link "Vegan panierter Parasol" [ref=e1436] [cursor=pointer]:
+            - /url: /r/panierter-parasol.html
+          - paragraph [ref=e1437]: Selbst gefundene Pilze schmecken doch am Besten! Und wenn sie dann noch vegan paniert sind... mhmmm! Also schnell auf in den Wald und losgesucht.
+      - listitem [ref=e1438]:
+        - img "polenta pfifferlinge 1" [ref=e1439]
+        - generic [ref=e1440]:
+          - link "Vegane Rosmarin-Polenta mit Pfifferling-Rahmsauce" [ref=e1441] [cursor=pointer]:
+            - /url: /r/polenta-mit-pfifferling-rahmsauce.html
+          - paragraph [ref=e1442]: Polenta mit Pilzen - was für eine leckere Kombination! Am besten schmeckt´s natürlich, wenn man die Pilze selbst gefunden hat.
+      - listitem [ref=e1443]:
+        - img "ai/ai veganer feta rucola bohnen salat" [ref=e1444]
+        - generic [ref=e1445]:
+          - link "Veganer Feta auf Rucola-Bohnen-Couscous Salat" [ref=e1446] [cursor=pointer]:
+            - /url: /r/veganer-feta-rucola-bohnen-salat.html
+          - paragraph [ref=e1447]: Endlich eine einfache Art veganen Feta zu machen. In diesem Salat schmeckt er besonders gut!
+      - listitem [ref=e1448]:
+        - img "ai/ai glutenfreier himbeer schoko kuchen" [ref=e1449]
+        - generic [ref=e1450]:
+          - link "Glutenfreie Vegane Himbeer-Schoko Cremeschnitten" [ref=e1451] [cursor=pointer]:
+            - /url: /r/glutenfreier-himbeer-schoko-kuchen.html
+          - paragraph [ref=e1452]: Wow, wow und nochmals WOW! Seidige Schoko-Creme küsst fruchtige Himbeeren und das gebettet auf einem flaumigen, glutenfreien Kuchen.
+      - listitem [ref=e1453]:
+        - img "ai/ai steinpilzsuppe" [ref=e1454]
+        - generic [ref=e1455]:
+          - link "Vegane Steinpilz-Zwiebel-Suppe mit Kartoffeln" [ref=e1456] [cursor=pointer]:
+            - /url: /r/steinpilzsuppe.html
+          - paragraph [ref=e1457]: Eine ideal Herbstsuppe mit Kartoffeln, Zwiebeln, Pilzen und einem Hauch von Ingwer.
+      - listitem [ref=e1458]:
+        - img "ai/ai ungarisches sauerkraut" [ref=e1459]
+        - generic [ref=e1460]:
+          - link "Veganes Ungarisches Sauerkraut mit Räuchertofu" [ref=e1461] [cursor=pointer]:
+            - /url: /r/ungarisches-sauerkraut.html
+          - paragraph [ref=e1462]: "Sauerkraut: Vitamin A, B, C und Mineralstoffe - Hier in einer schmackhaft, deftigen ungarischen Variation."
+      - listitem [ref=e1463]:
+        - img "ai/ai chai smoothie" [ref=e1464]
+        - generic [ref=e1465]:
+          - link "Herrlicher Veganer Chai-Smoothie" [ref=e1466] [cursor=pointer]:
+            - /url: /r/chai-smoothie.html
+          - paragraph [ref=e1467]: Hier verfeinern wir unseren Smoothie mit schmackhaften Gewürzen. So wird aus dem Green Smoothie ein Chai Smoothie.
+      - listitem [ref=e1468]:
+        - img "ai/ai gegrillter spaghetti kuerbis mit letscho" [ref=e1469]
+        - generic [ref=e1470]:
+          - link "Gegrillter Veganer Spaghetti-Kürbis mit Letscho" [ref=e1471] [cursor=pointer]:
+            - /url: /r/gegrillter-spaghetti-kuerbis-mit-letscho.html
+          - paragraph [ref=e1472]: Der Spaghetti-Kürbis ist unser besonderer Favorit unter der Kübis-Auswahl, die der Herbst mit sich bringt. Gegrillt schmeckt er besonders gut.
+      - listitem [ref=e1473]:
+        - img "ai/ai broccoli kartoffel suppe" [ref=e1474]
+        - generic [ref=e1475]:
+          - link "Cremige Vegane Broccoli-Kartoffel-Suppe" [ref=e1476] [cursor=pointer]:
+            - /url: /r/broccoli-kartoffel-suppe.html
+          - paragraph [ref=e1477]: Schnell, einfach und dabei so überaus schmackhaft! Broccoli und Kartoffeln geben ein tolles Team ab in dieser Cremesuppe.
+      - listitem [ref=e1478]:
+        - generic [ref=e1479]:
+          - link "Schokolade Vegane + Banane = Die besten Bananenbrot-Kekse aller Zeiten" [ref=e1480] [cursor=pointer]:
+            - /url: /r/schokolade-bananen-kekse.html
+          - paragraph [ref=e1481]: Wer gerne Bananenbrot ist, aber nicht immer gleich einen ganzen Kuchen backen will, wird diese Kekse lieben.
+      - listitem [ref=e1482]:
+        - img "ai/ai schwarzer reis gemuese" [ref=e1483]
+        - generic [ref=e1484]:
+          - link "Bunte Veganes Gemüse-Bowl mit schwarzem Reis" [ref=e1485] [cursor=pointer]:
+            - /url: /r/schwarzer-reis-gemuese.html
+          - paragraph [ref=e1486]: Lauter buntes frisches Gemüse und dazu schwarzer Reis. Sieht nicht nur super aus, sondern schmeckt auch so!
+      - listitem [ref=e1487]:
+        - img "ai/ai tortillas salsa verde gemuese" [ref=e1488]
+        - generic [ref=e1489]:
+          - link "Vegane Mais-Tortillas mit Salsa Verde & karamelisiertem Gemüse" [ref=e1490] [cursor=pointer]:
+            - /url: /r/tortillas-salsa-verde-gemuese.html
+          - paragraph [ref=e1491]: Wir lieben die mexikanische Küche, jedoch minus das Fleisch und übermäßiges Fett. Aus dem Grund kochen wir am liebsten selbst mexikanisch auf.
+      - listitem [ref=e1492]:
+        - img "ai/ai tofu scramble" [ref=e1493]
+        - generic [ref=e1494]:
+          - link "Buntes Vegane Tofu-Scramble" [ref=e1495] [cursor=pointer]:
+            - /url: /r/tofu-scramble.html
+          - paragraph [ref=e1496]: Wenn Du es noch nicht versucht hast, weisst Du nicht was Du verpasst! Dieses Tofu-Gericht ist nicht nur eine schmackhafte Alternative zu Rührei, auch ohne diese Verbindung zu ziehen schmeckt es ausgezeichnet.
+      - listitem [ref=e1497]:
+        - img "ai/ai zwetschgenknoedel quarkteig" [ref=e1498]
+        - generic [ref=e1499]:
+          - link "Zwetschgenknödel mit veganem Quarkteig" [ref=e1500] [cursor=pointer]:
+            - /url: /r/zwetschgenknoedel-quarkteig.html
+          - paragraph [ref=e1501]: Mit diesen leckeren Obstknödel erwachen Kindheitserinnerungen! So wie damals, aber noch besser, denn die hier sind vegan.
+      - listitem [ref=e1502]:
+        - img "zucchinikuchen 1" [ref=e1503]
+        - generic [ref=e1504]:
+          - link "Glutenfreier Veganer Zucchini-Kokos-Schoko-Kuchen" [ref=e1505] [cursor=pointer]:
+            - /url: /r/glutenfreier-zucchini-kokos-schoko-kuchen.html
+          - paragraph [ref=e1506]: Was bleibt da noch zu sagen? Er schmeckt so herrlich, saftig schokoladig wie der Name klingt und kommt ohne Gluten & Haushaltszucker aus.
+      - listitem [ref=e1507]:
+        - img "ai/ai frozen matcha shake" [ref=e1508]
+        - generic [ref=e1509]:
+          - link "Frozen Veganer Matcha Shake" [ref=e1510] [cursor=pointer]:
+            - /url: /r/frozen-matcha-shake.html
+          - paragraph [ref=e1511]: Wenn es für unseren geliebten Matcha Latte zu heiß ist, mixen wir uns eine erfrischende Version davon, die unglaublich lecker & cremig schmeckt!
+      - listitem [ref=e1512]:
+        - img "ai/ai pesto rueben blaettern" [ref=e1513]
+        - generic [ref=e1514]:
+          - link "Pesto Vegane aus Rüben-Blättern" [ref=e1515] [cursor=pointer]:
+            - /url: /r/pesto-rueben-blaettern.html
+          - paragraph [ref=e1516]: Nicht wegwerfen, essen! Die Blätter von Roter Bete, Karotten oder auch Radieschen lassen sich ganz einfach zu einem leckeren Pesto mixen.
+      - listitem [ref=e1517]:
+        - img "ai/ai buchweizen pancakes" [ref=e1518]
+        - generic [ref=e1519]:
+          - link "Leckere Vegane Buchweizen-Pancakes" [ref=e1520] [cursor=pointer]:
+            - /url: /r/buchweizen-pancakes.html
+          - paragraph [ref=e1521]: "Unser neues Lieblingsfrühstück: Pancakes aus Buchweizen. Glutenfrei, zuckerfrei und trotzdem lecker und fluffig!"
+      - listitem [ref=e1522]:
+        - img "chili sauce 1" [ref=e1523]
+        - generic [ref=e1524]:
+          - link "Vegane Grüne Dynamit Salsa mit Chili" [ref=e1525] [cursor=pointer]:
+            - /url: /r/dynamit-salsa.html
+          - paragraph [ref=e1526]: Die explosive Mischung ergeben grüne Chilis, Zwiebeln und Petersilie. Die feurigen Salsa verleiht Speisen Pepp und hat außerdem einen positiven Effekt auf Deine Gesundheit.
+      - listitem [ref=e1527]:
+        - generic [ref=e1528]:
+          - link "Vegane Auberginen-Gulasch mit Polenta" [ref=e1529] [cursor=pointer]:
+            - /url: /r/auberginen-gulasch-polenta.html
+          - paragraph [ref=e1530]: Polenta mit Auberginen und dem besonderen Extra durch Rhabarber und Granatapfel!
+      - listitem [ref=e1531]:
+        - img "ai/ai hanf brennnessel pesto" [ref=e1532]
+        - generic [ref=e1533]:
+          - link "Vegane Hanf-Brennnessel-Pesto" [ref=e1534] [cursor=pointer]:
+            - /url: /r/hanf-brennnessel-pesto.html
+          - paragraph [ref=e1535]: Mit diesem schmackhaften Pesto kommt Ihr in den vollen Genuss der inneren Werte von der Brennnessel, die voller Eisen uvm. steckt. Und keine Sorge, es brennt nicht!
+      - listitem [ref=e1536]:
+        - img "ai/ai glutenfreier crumble" [ref=e1537]
+        - generic [ref=e1538]:
+          - link "Glutenfreier Vegane Zwetschken-Kokos-Crumble" [ref=e1539] [cursor=pointer]:
+            - /url: /r/glutenfreier-crumble.html
+          - paragraph [ref=e1540]: Die Zwetschken sind reif! Zur Abwechslung gibt es statt Kuchen mal Zwetschken-Crumble. Das geht super schnell und schmeckt köstlich.
+      - listitem [ref=e1541]:
+        - img "lauch spaghetti 1" [ref=e1542]
+        - generic [ref=e1543]:
+          - link "Vegane Spaghetti Carbonara mit Lauch-Kokos-Sauce" [ref=e1544] [cursor=pointer]:
+            - /url: /r/carbonara-rezept.html
+          - paragraph [ref=e1545]: Ein schnelles und super leckeres, vollwertiges Rezept, das auch für Hobbyköche geeignet ist.
+      - listitem [ref=e1546]:
+        - img "ai/ai veganer apfelkuchen" [ref=e1547]
+        - generic [ref=e1548]:
+          - link "Veganer Apfelkuchen" [ref=e1549] [cursor=pointer]:
+            - /url: /r/veganer-apfelkuchen.html
+          - paragraph [ref=e1550]: Apfel Kuchen auf amerikanische Art. Dieser Apple Pie sieht nicht nur gut aus, sondern schmeckt auch so!
+      - listitem [ref=e1551]:
+        - img "ai/ai schoko mousse tarte" [ref=e1552]
+        - generic [ref=e1553]:
+          - link "Glutenfreie Veganes Schokomousse-Tarte" [ref=e1554] [cursor=pointer]:
+            - /url: /r/schoko-mousse-tarte.html
+          - paragraph [ref=e1555]: Knackige Hasselnüsse kombiniert mit cremiger Schokolade. Ein Kuchen zum Verlieben!
+      - listitem [ref=e1556]:
+        - img "ai/ai raffiniertes veganes sushi" [ref=e1557]
+        - generic [ref=e1558]:
+          - link "Raffiniertes Veganes Sushi" [ref=e1559] [cursor=pointer]:
+            - /url: /r/raffiniertes-veganes-sushi.html
+          - paragraph [ref=e1560]: Unsere Vorschläge für ein etwas ausgefalleneres veganes Sushi.
+      - listitem [ref=e1561]:
+        - img "ai/ai schokoladige traumtorte" [ref=e1562]
+        - generic [ref=e1563]:
+          - link "Schokoladige Vegane Traumtorte" [ref=e1564] [cursor=pointer]:
+            - /url: /r/schokoladige-traumtorte.html
+          - paragraph [ref=e1565]: Das Besondere kann ganz einfach sein. Diese Torte ist schnell gemacht wirkt aber durch die Rosenblätter wie ein kleines Kunstwerk für besondere Anlässe.
+      - listitem [ref=e1566]:
+        - img "ai/ai kokos gemuese mit mungbohnen" [ref=e1567]
+        - generic [ref=e1568]:
+          - link "Buntes Vegane Kokos-Gemüse mit Mungbohnen" [ref=e1569] [cursor=pointer]:
+            - /url: /r/kokos-gemuese-mit-mungbohnen.html
+          - paragraph [ref=e1570]: So einfach, so bunt und so lecker! Mungbohnen sind eine herrliche Abwechslung und eine gute Eiweiss-Quelle und bei dem Gemüse kann man je nach Saison variieren.
+      - listitem [ref=e1571]:
+        - img "ai/ai rohkosttoertchen mit cashewcreme" [ref=e1572]
+        - generic [ref=e1573]:
+          - link "Wunderbare Vegane Rohkosttörtchen mit Cashewcreme" [ref=e1574] [cursor=pointer]:
+            - /url: /r/rohkosttoertchen-mit-cashewcreme.html
+          - paragraph [ref=e1575]: "Lecker fruchtig und cremig, diese kleinen Käsekuchen sind wahre Wunderwerke: Einfach Mixen und schon ist der Kuchen fertig."
+      - listitem [ref=e1576]:
+        - img "ai/ai veganer nusszopf" [ref=e1577]
+        - generic [ref=e1578]:
+          - link "Veganer Nusszopf" [ref=e1579] [cursor=pointer]:
+            - /url: /r/veganer-nusszopf.html
+          - paragraph [ref=e1580]: Ganz frisch ist dieser Nusszopf besonders gut. Er lässt sich aber auch in Scheiben einfrieren und dann im Toaster wieder auftauen.
+      - listitem [ref=e1581]:
+        - img "ai/ai rohkost blackforest eis" [ref=e1582]
+        - generic [ref=e1583]:
+          - 'link "Veganes Avocado-Nicecream: Blackforest-Eis" [ref=e1584] [cursor=pointer]':
+            - /url: /r/rohkost-blackforest-eis.html
+          - paragraph [ref=e1585]: "So cremig, so schokoladig und dazu fruchtige Kirschen: Schwarzwälder Kirschtorte als sommerliche Eis-Version!"
+      - listitem [ref=e1586]:
+        - img "ai/ai weisse pizza kokoscreme" [ref=e1587]
+        - generic [ref=e1588]:
+          - link "Vegane Weiße Pizza (Pizza bianca) mit Kokoscreme" [ref=e1589] [cursor=pointer]:
+            - /url: /r/weisse-pizza-kokoscreme.html
+          - paragraph [ref=e1590]: Richtig gute Pizza geht auch ohne Käse und Tomatensoße, einfach Kokosmilch verwenden!
+      - listitem [ref=e1591]:
+        - img "Rohkost Couscous" [ref=e1592]
+        - generic [ref=e1593]:
+          - link "Roh-veganes Tabouleh" [ref=e1594] [cursor=pointer]:
+            - /url: /r/roh-veganes-tabouleh.html
+          - paragraph [ref=e1595]: Glutenfreier, Rohkost-Couscous aus Blumenkohl mit Kräutern, Tomaten und Gurke und schon habt ihr einen leckeren Rohkost-Salat!
+      - listitem [ref=e1596]:
+        - img "rohkost schwarzwaelder kirschtorte 1" [ref=e1597]
+        - generic [ref=e1598]:
+          - link "Schwarzwälder Kirschtorte Raw Vegan Style" [ref=e1599] [cursor=pointer]:
+            - /url: /r/schwarzwaelder-kirschtorte-rohkost.html
+          - paragraph [ref=e1600]: Schokolade & Kirschen - eine herrliche Kombination! Noch besser wird´s hier mit diesen leckeren, gesunden, rohköstlichen Zutaten.
+      - listitem [ref=e1601]:
+        - img "tortillas 1" [ref=e1602]
+        - generic [ref=e1603]:
+          - link "Schnelle Vegane Gemüse-Tortillas" [ref=e1604] [cursor=pointer]:
+            - /url: /r/gemuese-tortillas.html
+          - paragraph [ref=e1605]: "Tortillas sind so praktisch: schnell sind sie zubereitet und schmecken immer! Statt den bekannten Quesadillas füllen wir sie hier mit Gemüse."
+      - listitem [ref=e1606]:
+        - img "ai/ai einfacher erdbeer kuchen" [ref=e1607]
+        - generic [ref=e1608]:
+          - link "Einfacher Veganer Erdbeer-Kuchen mit Macadamia-Vanille-Creme" [ref=e1609] [cursor=pointer]:
+            - /url: /r/einfacher-erdbeer-kuchen.html
+          - paragraph [ref=e1610]: Herrlich so ein veganer Erdbeer-Kuchen! Dieses Rezept geht noch dazu schnell und einfach von der Hand und schmeckt köstlich.
+      - listitem [ref=e1611]:
+        - img "ai/ai sonnenblumenkern risotto" [ref=e1612]
+        - generic [ref=e1613]:
+          - link "Veganes Zitronen-Kräuter-Risotto aus Sonnenblumenkernen" [ref=e1614] [cursor=pointer]:
+            - /url: /r/sonnenblumenkern-risotto.html
+          - paragraph [ref=e1615]: "Was für eine angenehme Überraschung: Sonnenblumenkerne anstatt Reis im Risotto schmecken fabelhaft und stecken noch dazu voller Power!"
+      - listitem [ref=e1616]:
+        - img "ai/ai himbeer kokos trifle" [ref=e1617]
+        - generic [ref=e1618]:
+          - link "Veganes Himbeer-Kokos-Trifle" [ref=e1619] [cursor=pointer]:
+            - /url: /r/himbeer-kokos-trifle.html
+          - paragraph [ref=e1620]: "Für die Kokos-Aficionados unter Euch: ein herrliches Dessert mit einer dreifachen Portion Kokos, dazu frisch fruchtige Himbeeren und obendrauf Streusel."
+      - listitem [ref=e1621]:
+        - img "ai/ai no meat balls sauce preiselbeeren" [ref=e1622]
+        - generic [ref=e1623]:
+          - link "Vegane No-Meat-Balls mit heller Sauce & Preiselbeeren" [ref=e1624] [cursor=pointer]:
+            - /url: /r/no-meat-balls-sauce-preiselbeeren.html
+          - paragraph [ref=e1625]: Fleischbällchen à la Köttbullar, aber vegan! Für alle, die Meatballs vermissen, haben wir eine vegane Version kreiert.
+      - listitem [ref=e1626]:
+        - img "taco mit faschiertem 1" [ref=e1627]
+        - generic [ref=e1628]:
+          - link "Vegane Tacos mit Salsa & Guacamole" [ref=e1629] [cursor=pointer]:
+            - /url: /r/vegane-tacos-salsa-guacamole.html
+          - paragraph [ref=e1630]: Jetzt wird´s mexikanisch! Diese leckeren, würzigen, jedoch rein pflanzlich gefüllten Tacos lassen nichts vermissen und schmecken toll.
+      - listitem [ref=e1631]:
+        - img "ai/ai auberginen tuermchen falafeln" [ref=e1632]
+        - generic [ref=e1633]:
+          - link "Vegane Auberginen-Türmchen mit Falafeln" [ref=e1634] [cursor=pointer]:
+            - /url: /r/auberginen-tuermchen-falafeln.html
+          - paragraph [ref=e1635]: Orientalische Vorspeisen mit einem mediterranen Hauch! Diesmal servieren wir Euch Falafel und Hummus mal mit gegrillter Melanzani.
+      - listitem [ref=e1636]:
+        - img "ai/ai selbstgemachter veganer kaese nuss soja fettfrei" [ref=e1637]
+        - generic [ref=e1638]:
+          - 'link "Selbstgemachter Veganer Käse: nuss-, soja- & fettfrei" [ref=e1639] [cursor=pointer]':
+            - /url: /r/selbstgemachter-veganer-kaese-nuss-soja-fettfrei.html
+          - paragraph [ref=e1640]: Dieses Käse Rezept mit geräuchertem Paprika wird Euch überraschen, denn es kommt ganz ohne Nüsse aus. Der Käse lässt sich gut schneiden und auch reiben.
+      - listitem [ref=e1641]:
+        - img "ai/ai suesskartoffel spaghetti mit gebackenem blumenkohl" [ref=e1642]
+        - generic [ref=e1643]:
+          - link "Vegane Süßkartoffel-Spaghetti mit gebackenem Blumenkohl" [ref=e1644] [cursor=pointer]:
+            - /url: /r/suesskartoffel-spaghetti-mit-gebackenem-blumenkohl.html
+          - paragraph [ref=e1645]: Zur Abwechslung gibt es Spaghetti aus Süßkartoffel, dazu glutenfrei & fettarm gebackenen Blumenkohl.
+      - listitem [ref=e1646]:
+        - img "ai/ai cevapcici spiesse mit grillgemuese" [ref=e1647]
+        - generic [ref=e1648]:
+          - link "Vegane Cevapcici-Spieße mit Grillgemüse" [ref=e1649] [cursor=pointer]:
+            - /url: /r/cevapcici-spiesse-mit-grillgemuese.html
+          - paragraph [ref=e1650]: Sojagranulat ist so vielseitig. Diesmal haben wir leckere Cevapcici daraus gezaubert und auf buntem Grillgemüse gebettet.
+      - listitem [ref=e1651]:
+        - img "ai/ai rohkost erdbeer macadamia torte" [ref=e1652]
+        - generic [ref=e1653]:
+          - link "Rohköstliche Vegane Erdbeer-Macadamia-Torte" [ref=e1654] [cursor=pointer]:
+            - /url: /r/rohkost-erdbeer-macadamia-torte.html
+          - paragraph [ref=e1655]: Rohkost kann so herrlich dekandent sein! Diese Torte ist eine wahre Pracht und schmeckt himmlisch.
+      - listitem [ref=e1656]:
+        - img "ai/ai life changing bread glutenfreies brot" [ref=e1657]
+        - generic [ref=e1658]:
+          - 'link "Veganes Life Changing Bread: weizen- & glutenfrei" [ref=e1659] [cursor=pointer]':
+            - /url: /r/life-changing-bread-glutenfreies-brot.html
+          - paragraph [ref=e1660]: Auf der Suche nach einer Alternative zu Brot? Ob es Dein Leben verändern wird, wissen wir nicht, aber es schmeckt gut und ist weizen- & glutenfrei.
+      - listitem [ref=e1661]:
+        - img "ai/ai spinat frittata mit saurer sahne aus sonnenblumenkernen" [ref=e1662]
+        - generic [ref=e1663]:
+          - link "Vegane Spinat-Frittata mit saurer Sahne aus Sonnenblumenkernen" [ref=e1664] [cursor=pointer]:
+            - /url: /r/spinat-frittata-mit-saurer-sahne-aus-sonnenblumenkernen.html
+          - paragraph [ref=e1665]: Was für eine Bereicherung für die schnelle, vegane Küche! Frittata aus Kichererbsenmehl schmeckt vorzüglich und lässt sich gut mit verschiedenen Gemüsesorten zubereiten.
+      - listitem [ref=e1666]:
+        - img "ai/ai erdnussbutter chocolate chip blondies" [ref=e1667]
+        - generic [ref=e1668]:
+          - link "Vegane Erdnussbutter-Chocolate-Chip-Blondies ohne Mehl" [ref=e1669] [cursor=pointer]:
+            - /url: /r/erdnussbutter-chocolate-chip-blondies.html
+          - paragraph [ref=e1670]: Zur Abwechslung zu unseren heißgeliebten Brownies probieren wir hier mal Blondies. Aber etwas Schoko darf nicht fehlen. Das ganze ist auch mehl- zucker- und glutenfrei.
+      - listitem [ref=e1671]:
+        - img "ai/ai spargel vegane sauce hollandaise" [ref=e1672]
+        - generic [ref=e1673]:
+          - link "Weißer Spargel mit Veganer Sauce Hollandaise" [ref=e1674] [cursor=pointer]:
+            - /url: /r/spargel-vegane-sauce-hollandaise.html
+          - paragraph [ref=e1675]: Wir lieben die Spargelzeit und deshalb nutzen wir sie so gut es geht! Diesmal gibt es den Klassiker Sauce Hollandaise dazu, aber natürlich vegan.
+      - listitem [ref=e1676]:
+        - img "ai/ai burger ohne fleischersatz" [ref=e1677]
+        - generic [ref=e1678]:
+          - link "Veganer Burger ohne Fleischersatz" [ref=e1679] [cursor=pointer]:
+            - /url: /r/burger-ohne-fleischersatz.html
+          - paragraph [ref=e1680]: Manchmal müssen es einfach richtig gute Burger sein. Bei uns sind sie ohne Fleischersatz wie Sojagranulat, Seitan oder Tofu und ohne Semmel noch dazu glutenfrei.
+      - listitem [ref=e1681]:
+        - img "ai/ai mango kokos schicht pudding" [ref=e1682]
+        - generic [ref=e1683]:
+          - link "Mango Vegane Kokos Schicht-Pudding" [ref=e1684] [cursor=pointer]:
+            - /url: /r/mango-kokos-schicht-pudding.html
+          - paragraph [ref=e1685]: Fruchtige Mango und cremige Kokos lassen einen von fernen exotischen Ländern träumen. Seine Wackelpudding-Konsistenz verdangt dieser Pudding dem pflanzlichen Geliermittel Agar Agar.
+      - listitem [ref=e1686]:
+        - img "aquafaba eis tonka himbeere 1" [ref=e1687]
+        - generic [ref=e1688]:
+          - link "Veganes Marshmallow-Eis mit Tonkabohne & Himbeeren" [ref=e1689] [cursor=pointer]:
+            - /url: /r/marshmallow-eis-mit-tonkabohne-himbeeren.html
+          - paragraph [ref=e1690]: Cremiges Eis ganz ohne Eismaschine herzustellen war noch nie so einfach! Ihr werdet überrascht sein, wie sich leckeres, veganes Eis mit Aquafaba zaubern lässt.
+      - listitem [ref=e1691]:
+        - img "ai/ai apfelrosen muffins" [ref=e1692]
+        - generic [ref=e1693]:
+          - 'link "Vegane Apfelrosen-Muffins: einfach & so hübsch" [ref=e1694] [cursor=pointer]':
+            - /url: /r/apfelrosen-muffins.html
+          - paragraph [ref=e1695]: Das ist das ideale Rezept, will man jemandem mit seinen Backkünsten beeindrucken. Dabei ist es ganz einfach, geht schnell und noch dazu braucht man nicht viel.
+      - listitem [ref=e1696]:
+        - img "brot selberbacken 1" [ref=e1697]
+        - generic [ref=e1698]:
+          - link "Selbstgebackenes Veganes Vollkornbrot mit Sauerteig" [ref=e1699] [cursor=pointer]:
+            - /url: /r/selbstgebackenes-vollkornbrot-mit-sauerteig.html
+          - paragraph [ref=e1700]: Wenn man sich erstmal drüber traut, eigenes Brot zu backen, merkt man schnell, dass es weniger aufwendig ist als gedacht und noch dazu zahlt sich die Mühe aus, denn was schmeckt besser als frisches Brot?
+      - listitem [ref=e1701]:
+        - img "ai/ai gefuellte fladen" [ref=e1702]
+        - generic [ref=e1703]:
+          - link "Vegane gefüllte Fladen mit Kichererbsen & Spinat" [ref=e1704] [cursor=pointer]:
+            - /url: /r/gefuellte-fladen.html
+          - paragraph [ref=e1705]: Kleine Fladen (oder fast schon Semmeln) mit Kichererben und Spinat.
+      - listitem [ref=e1706]:
+        - img "ai/ai loewenzahn kapern" [ref=e1707]
+        - generic [ref=e1708]:
+          - link "Vegane Löwenzahn-Kapern" [ref=e1709] [cursor=pointer]:
+            - /url: /r/loewenzahn-kapern.html
+          - paragraph [ref=e1710]: Wir lieben selbstgemachtes, vor allem dann wenn man die Zutaten dafür auch noch selbst auf der Wiese pflücken kann. "Kapern" aus eingelegten Löwenzahnknospen passen herrlich auf einen Vorspeisenteller.
+      - listitem [ref=e1711]:
+        - img "ai/ai veganer ricotta frischkaese macadamia" [ref=e1712]
+        - generic [ref=e1713]:
+          - link "Veganer Ricotta oder Frischkäse aus Macadamia-Nüssen" [ref=e1714] [cursor=pointer]:
+            - /url: /r/veganer-ricotta-frischkaese-macadamia.html
+          - paragraph [ref=e1715]: So lecker und sehr cremig, dieser milde Nusskäse aus Macadamias, die auch die Königin der Nüsse genannt werden und das nicht ohne Grund!
+      - listitem [ref=e1716]:
+        - img "ai/ai veganer eischnee aquafaba" [ref=e1717]
+        - generic [ref=e1718]:
+          - link "Innovativer, Veganer Eischnee ohne Eiersatzprodukte" [ref=e1719] [cursor=pointer]:
+            - /url: /r/veganer-eischnee-aquafaba.html
+          - paragraph [ref=e1720]: "Klingt unglaublich, klappt aber wunderbar: das Abtropfwasser von Kichererbsen oder auch Bohnen lässt sich zu Schnee aufschlagen, aus dem man sogar Baiser machen kann!"
+      - listitem [ref=e1721]:
+        - img "ai/ai vegane reise suedafrika" [ref=e1722]
+        - generic [ref=e1723]:
+          - link "Vegane Rund-Reise durch Südafrika + Rezept" [ref=e1724] [cursor=pointer]:
+            - /url: /r/vegane-reise-suedafrika.html
+          - paragraph [ref=e1725]: Südafrika entdecken und dabei immer entspannt vegan Essen, ist dank go'n joy africa und Veggie Events jetzt kein Problem mehr.
+      - listitem [ref=e1726]:
+        - img "ai/ai baerlauch falafel" [ref=e1727]
+        - generic [ref=e1728]:
+          - link "Vegane Schnelle, leckere Bärlauch-Falafel" [ref=e1729] [cursor=pointer]:
+            - /url: /r/baerlauch-falafel.html
+          - paragraph [ref=e1730]: Wir nutzen die Bärlauch-Zeit in vollen Zügen! Diesmal gibt es leckere, extra grüne Falafel gebettet auf einem bunten, frühlingshaften Salat.
+      - listitem [ref=e1731]:
+        - img "ai/ai ananas kuchen upside" [ref=e1732]
+        - generic [ref=e1733]:
+          - link "Veganer Ananas-Kuchen Upside down" [ref=e1734] [cursor=pointer]:
+            - /url: /r/ananas-kuchen-upside.html
+          - paragraph [ref=e1735]: "Geht blitzschnell, sieht super aus und schmeckt auch so: veganer Ananas-Kuchen!"
+      - listitem [ref=e1736]:
+        - img "ai/ai baerlauch creme suppe" [ref=e1737]
+        - generic [ref=e1738]:
+          - link "Schmackhafte Vegane Bärlauch-Creme-Suppe" [ref=e1739] [cursor=pointer]:
+            - /url: /r/baerlauch-creme-suppe.html
+          - paragraph [ref=e1740]: "So schmeckt der Frühling: kräftig, frisch & grün! Wir nutzen die Bärlauch-Zeit und kochen ein leckeres Cremesüppchen."
+      - listitem [ref=e1741]:
+        - img "ai/ai schoko tarte mit mandeln" [ref=e1742]
+        - generic [ref=e1743]:
+          - link "Vegane Schoko-Tarte mit Mandeln" [ref=e1744] [cursor=pointer]:
+            - /url: /r/schoko-tarte-mit-mandeln.html
+          - paragraph [ref=e1745]: Schokolade, Mandeln und ein Hauch von Orange. Diese glutenfreie Schokotarte versüßt jeden Tag, auch ohne extra Zucker!
+      - listitem [ref=e1746]:
+        - img "ai/ai schokopralinen gewissen extra" [ref=e1747]
+        - generic [ref=e1748]:
+          - link "Schokopralinen Vegane mit dem gewissen Extra" [ref=e1749] [cursor=pointer]:
+            - /url: /r/schokopralinen-gewissen-extra.html
+          - paragraph [ref=e1750]: Super lecker, ohne Zucker und mit Gemüse? Ja richtig! In diesen schokoladigen Pralinen steckt eine Rote Beete.
+      - listitem [ref=e1751]:
+        - generic [ref=e1752]:
+          - link "Vegane zucker- & glutenfreie Karotten-Chia-Cupcakes" [ref=e1753] [cursor=pointer]:
+            - /url: /r/zucker-glutenfrei-karotten-chia-cupcakes.html
+          - paragraph [ref=e1754]: Verführerische Cupcakes, aber diesmal auf gesund getrimmt, ganz ohne Zucker und Gluten für bewusste Genießer.
+      - listitem [ref=e1755]:
+        - img "Rhababer Torte" [ref=e1756]
+        - generic [ref=e1757]:
+          - link "Vegane Rhababer-Champagner-Torte" [ref=e1758] [cursor=pointer]:
+            - /url: /r/vegane-rhababer-champagner-torte.html
+          - paragraph [ref=e1759]: Was für ein hübscher Hingucker! Dieses frühlingshaft-festliche Rezept passend zur startenden Rhababer-Zeit hat uns Ida vom Knusperkabinett zukommen lassen.
+      - listitem [ref=e1760]:
+        - img "ai/ai guacamole" [ref=e1761]
+        - generic [ref=e1762]:
+          - link "Vegane Frühlingshafte Guacamole" [ref=e1763] [cursor=pointer]:
+            - /url: /r/guacamole.html
+          - paragraph [ref=e1764]: Avocados sind ein wahrer Segen und so vielseitig! Guacamole, den leckeren Aufstrich, haben wir hier zur Abwechslung mal etwas bunter gemacht & doppelt so lecker!
+      - listitem [ref=e1765]:
+        - img "ai/ai im veganen schlemmerhimmel" [ref=e1766]
+        - generic [ref=e1767]:
+          - 'link "Gewinnspiel: Im veganen Schlemmerhimmel" [ref=e1768] [cursor=pointer]':
+            - /url: /r/im-veganen-schlemmerhimmel.html
+          - paragraph [ref=e1769]: Ein veganes Kochbuch, das die ganz persönliche Geschichte seiner Autorin Antje Fernengel, erzählt. 3x könnt Ihr es auch gewinnen!
+      - listitem [ref=e1770]:
+        - img "ai/ai bananenbrot" [ref=e1771]
+        - generic [ref=e1772]:
+          - 'link "Der Vegane Klassiker: Bananenbrot" [ref=e1773] [cursor=pointer]':
+            - /url: /r/bananenbrot.html
+          - paragraph [ref=e1774]: "Gerade an grauen Tagen ein super Stimmungsaufheller: Bananenbrot bzw. Bananenkuchen!"
+      - listitem [ref=e1775]:
+        - img "ai/ai eis sandwich macadamia kokos cookies" [ref=e1776]
+        - generic [ref=e1777]:
+          - link "Veganes Eis-Sandwich mit glutenfreien Macadamia-Kokos-Cookies" [ref=e1778] [cursor=pointer]:
+            - /url: /r/eis-sandwich-macadamia-kokos-cookies.html
+          - paragraph [ref=e1779]: Der Sommer steht bevor und wir suchen kreative Arten Eis mal anders zu genießen. Statt Eis am Stiel gibt bei uns glutenfreie & fettarme Eis-Sandwiches.
+      - listitem [ref=e1780]:
+        - img "ai/ai panna cotta torte leckerschmecker kuechenfee" [ref=e1781]
+        - generic [ref=e1782]:
+          - link "Sommerliche Vegane Panna Cotta-Torte von der leckerschmecker Küchenfee" [ref=e1783] [cursor=pointer]:
+            - /url: /r/panna-cotta-torte-leckerschmecker-kuechenfee.html
+          - paragraph [ref=e1784]: Holt euch mit dieser veganen Torte den Sommer auf den Teller, frisch, leicht und wahnsinnig lecker.
+      - listitem [ref=e1785]:
+        - img "ai/ai dattel mandel kuchen" [ref=e1786]
+        - generic [ref=e1787]:
+          - link "Veganer Dattel-Mandel Kuchen, gluten- & zuckerfrei" [ref=e1788] [cursor=pointer]:
+            - /url: /r/dattel-mandel-kuchen.html
+          - paragraph [ref=e1789]: Saftiger Kuchen, nur mit Datteln gesüßt und statt Mehl kommen gemahlene Mandeln rein. Einfach zu mixen und ein super gesunder Energielieferant!
+      - listitem [ref=e1790]:
+        - img "ai/ai himbeer schoko kuchen" [ref=e1791]
+        - generic [ref=e1792]:
+          - link "Veganer Himbeer-Kuchen mit Schokosplittern" [ref=e1793] [cursor=pointer]:
+            - /url: /r/himbeer-schoko-kuchen.html
+          - paragraph [ref=e1794]: Fruchtig, schokoladiger Rührkuchen der uns, dank gefrorenen Himbeeren, an den Sommer erinnert.
+      - listitem [ref=e1795]:
+        - img "ai/ai mandel schoko kuchen" [ref=e1796]
+        - generic [ref=e1797]:
+          - link "Glutenfreier Veganer Mandel-Schoko-Kuchen" [ref=e1798] [cursor=pointer]:
+            - /url: /r/mandel-schoko-kuchen.html
+          - paragraph [ref=e1799]: Super saftiger Schokokuchen aus Mandeln und Kakao. Dank dem Ahornsirup nicht nur glutenfrei, sonder auch zuckerfrei.
+      - listitem [ref=e1800]:
+        - img "ai/ai wok gemuese tofu" [ref=e1801]
+        - generic [ref=e1802]:
+          - link "Buntes Vegane Wok-Gemüse mit Tofu-Ecken" [ref=e1803] [cursor=pointer]:
+            - /url: /r/wok-gemuese-tofu.html
+          - paragraph [ref=e1804]: Wenn es mal schnell gehen sollen, ist ein Wok die Rettung! Einfach alles rein, kurz braten, würzen und schon fertig.
+      - listitem [ref=e1805]:
+        - img "ai/ai kartoffelsalat rezept vegan" [ref=e1806]
+        - generic [ref=e1807]:
+          - 'link "Kartoffelsalat: vegan & lecker" [ref=e1808] [cursor=pointer]':
+            - /url: /r/kartoffelsalat-rezept-vegan.html
+          - paragraph [ref=e1809]: "Picknick, Grillfest oder einfach als Beilage? Der Klassiker Kartoffelsalat darf da nicht fehlen. Achtung: nur wenn man ihn selbst macht, weiss man auch genau, dass keine Fleischbrühe drin gelandet ist."
+      - listitem [ref=e1810]:
+        - img "ai/ai fettarme ofen pommes" [ref=e1811]
+        - generic [ref=e1812]:
+          - link "Fettarme Vegane Ofen-Pommes" [ref=e1813] [cursor=pointer]:
+            - /url: /r/fettarme-ofen-pommes.html
+          - paragraph [ref=e1814]: Pommes sind schon lecker, aber müssen sie immer in Fett gebadet werden? Nein!!! Selbstgemachte Pommes aus dem Backofen schmecken auch super und sind gesünder.
+      - listitem [ref=e1815]:
+        - img "kartoffel taler 3 1" [ref=e1816]
+        - generic [ref=e1817]:
+          - link "Knusprige Vegane Kartoffel-Taler mit Frischecreme & Avocado" [ref=e1818] [cursor=pointer]:
+            - /url: /r/knusprige-kartoffel-taler-mit-frischecreme-avocado.html
+          - paragraph [ref=e1819]: "Das beste aus allen Welten: knusprige Mini-Kartoffelpuffer mit leckerem veganen Frischkäse, Pinienkernen und einem frischen Avocado-Gemüse-Mix als Füllung."
+      - listitem [ref=e1820]:
+        - img "ai/ai kohlrabi pasta mit cashew getrocknete tomaten creme" [ref=e1821]
+        - generic [ref=e1822]:
+          - link "Vegane Kohlrabi-Pasta mit Cashew & getrocknete Tomaten Creme" [ref=e1823] [cursor=pointer]:
+            - /url: /r/kohlrabi-pasta-mit-cashew-getrocknete-tomaten-creme.html
+          - paragraph [ref=e1824]: Frisch wie der Frühling, der hoffentlich bald Einzug hält! Für diese Kombination braucht es zwar nicht viele Zutaten oder Zubereitungszeit, es schmeckt aber unsagbar lecker!
+      - listitem [ref=e1825]:
+        - generic [ref=e1826]:
+          - link "Veganer süßer Hirse-Auflauf mit Kokos & Vanille-Kirschen" [ref=e1827] [cursor=pointer]:
+            - /url: /r/suesser-hirse-auflauf-mit-kokos-vanille-kirschen.html
+          - paragraph [ref=e1828]: Wir sollten viel mehr Hirse essen, ist sie doch eine der mineralstoffreichsten Getreidesorten der Welt. Bei diesem süßen Auflauf freut sich jeder, wenn sie öfter auf den Tisch kommt!
+      - listitem [ref=e1829]:
+        - img "orange cheesecake" [ref=e1830]
+        - generic [ref=e1831]:
+          - link "Vegane Rohköstlicher Orangen-Schoko Cheesecake" [ref=e1832] [cursor=pointer]:
+            - /url: /r/raw-orange-schoko-cheesecake.html
+          - paragraph [ref=e1833]: Rohkost-Cheesecake ist vielseitig und immer wieder himmlisch lecker. Diese Variante mit Schoko-Nuss-Boden und Orangen-Cashew-Creme wird auch Euch umhauen!
+      - listitem [ref=e1834]:
+        - img "ai/ai baby bok choi salat" [ref=e1835]
+        - generic [ref=e1836]:
+          - link "Veganer Baby-Bok Choi Salat mit Tofu & Sesam" [ref=e1837] [cursor=pointer]:
+            - /url: /r/baby-bok-choi-salat.html
+          - paragraph [ref=e1838]: Pak Choi als Salat? Oh ja! Knackig frisch in Kombination mit Tofu, Sesam, Ingwer und einem Sojasaucen-Dressing bringt er Abwechslung auf den Salatteller.
+      - listitem [ref=e1839]:
+        - img "ai/ai energy boosting smoothie" [ref=e1840]
+        - generic [ref=e1841]:
+          - link "Veganer Energy-Boosting-Smoothie von gourmetmakery" [ref=e1842] [cursor=pointer]:
+            - /url: /r/energy-boosting-smoothie.html
+          - paragraph [ref=e1843]: Um Rohkost und vieles mehr dreht sich Silkes Blog gourmetmakery, wo Ihr unbedingt mal vorbeischauen solltet. Für uns hat sie diesen energiereichen Smoothie mit Sprossen kreiert.
+      - listitem [ref=e1844]:
+        - img "ai/ai schoko fudge kuchen" [ref=e1845]
+        - generic [ref=e1846]:
+          - link "Veganer gluten- & zuckerfreier Schoko-Fudge-Kuchen" [ref=e1847] [cursor=pointer]:
+            - /url: /r/schoko-fudge-kuchen.html
+          - paragraph [ref=e1848]: Super schokoladig und ganz einfach. Schokocreme + Schokoboden = Unser neuer veganer Sonntagskuchen.
+      - listitem [ref=e1849]:
+        - img "ai/ai golden milk shake mit kurkuma" [ref=e1850]
+        - generic [ref=e1851]:
+          - link "Golden Veganer Milk Shake mit Kurkuma" [ref=e1852] [cursor=pointer]:
+            - /url: /r/golden-milk-shake-mit-kurkuma.html
+          - paragraph [ref=e1853]: Kurkuma in einem Getränk klingt gewöhnungsbedürftig. Ganz gegen diese Annahme schmeckt es lecker und ist aufgrund seiner entzündungshemmenden Wirkung ein tolles Naturheilmittel.
+      - listitem [ref=e1854]:
+        - img "ai/ai vegane biskuitroulade" [ref=e1855]
+        - generic [ref=e1856]:
+          - link "Vegane Biskuitroulade" [ref=e1857] [cursor=pointer]:
+            - /url: /r/vegane-biskuitroulade.html
+          - paragraph [ref=e1858]: Veganer Biskuit ist kein Problem, Roulade ist jedoch etwas trickreicher. Wir haben die Herausforderung für Euch gemeistert!
+      - listitem [ref=e1859]:
+        - img "ai/ai rohkoestliche cupcakes nach boris lauser" [ref=e1860]
+        - generic [ref=e1861]:
+          - link "Vegane Rohköstliche Cupcakes nach Boris Lauser" [ref=e1862] [cursor=pointer]:
+            - /url: /r/rohkoestliche-cupcakes-nach-boris-lauser.html
+          - paragraph [ref=e1863]: Habt Ihr schon mal Nussmilch gemacht und nicht gewusst wohin mit dem Trester? Mit dem wunderbaren Rezept , das Boris Lausers neuem Buch Go Raw - Be Alive! entstammt, ist das Problem gelöst!
+      - listitem [ref=e1864]:
+        - img "ai/ai saure wurst vegan" [ref=e1865]
+        - generic [ref=e1866]:
+          - link "Saure Wurst, aber vegan!" [ref=e1867] [cursor=pointer]:
+            - /url: /r/saure-wurst-vegan.html
+          - paragraph [ref=e1868]: Ja, inzwischen kann man alles veganisieren, auch die Klassiker der nicht-veganen Küche. Vegan schmeckts gleich doppelt gut!
+      - listitem [ref=e1869]:
+        - img "braune sauce" [ref=e1870]
+        - generic [ref=e1871]:
+          - link "Vegane Bratensauce" [ref=e1872] [cursor=pointer]:
+            - /url: /r/vegane-braten-sauce.html
+          - paragraph [ref=e1873]: Ganz viele Gerichte leben erst richtig auf, wenn sie von einer leckeren, schmackhaften Sauce begleitet werden.
+      - listitem [ref=e1874]:
+        - img "ai/ai schneller veganer pizza kranz" [ref=e1875]
+        - generic [ref=e1876]:
+          - link "Schneller, Veganer Pizza-Kranz" [ref=e1877] [cursor=pointer]:
+            - /url: /r/schneller-veganer-pizza-kranz.html
+          - paragraph [ref=e1878]: Perfekt für das nächste Picknick oder das Grillfest! Für den Pizza-Kranz braucht Ihr nämlich nur genau 2 Zutaten, nicht einmal viel Küchenerfahren und doch sieht er toll aus und schmeckt auch so.
+      - listitem [ref=e1879]:
+        - img "pastinakensuppe" [ref=e1880]
+        - generic [ref=e1881]:
+          - link "Die beste & einfachste Vegane Topinambur-Suppe" [ref=e1882] [cursor=pointer]:
+            - /url: /r/topinambur-suppe.html
+          - paragraph [ref=e1883]: Zwiebeln, Knoblauch, Topinambur und einen Mixer. Mehr braucht Ihr für diese leckere, einfache Suppe nicht.
+      - listitem [ref=e1884]:
+        - img "ai/ai kartoffel knoedel spinat tofu" [ref=e1885]
+        - generic [ref=e1886]:
+          - link "Vegane Kartoffelknödel mit Spinat-Tofu-Fülle" [ref=e1887] [cursor=pointer]:
+            - /url: /r/kartoffel-knoedel-spinat-tofu.html
+          - paragraph [ref=e1888]: Wir mögen Spinat, wir mögen Tofu, wir mögen Knödel. Ein Rezept welches all dies vereint.
+      - listitem [ref=e1889]:
+        - img "ai/ai apfelkuchen zum trinken" [ref=e1890]
+        - generic [ref=e1891]:
+          - link "Apfelkuchen Veganer zum Trinken" [ref=e1892] [cursor=pointer]:
+            - /url: /r/apfelkuchen-zum-trinken.html
+          - paragraph [ref=e1893]: Apfelkuchen zum Frühstück? Warum nicht? Unsere trinkbare Apfeklkuchen-Smoothie Version ist speziell für Back- und Kau-Faule ein Hit!
+      - listitem [ref=e1894]:
+        - img "lava cake eis 1" [ref=e1895]
+        - generic [ref=e1896]:
+          - link "Warmer Veganes Lava Cake mit Lupinen-Eis" [ref=e1897] [cursor=pointer]:
+            - /url: /r/lava-cake-mit-eis.html
+          - paragraph [ref=e1898]: "Besser wird ein Dessert nicht: warmer Schokokuchen mit flüssigem Kern, Schokocreme und obendrauf eine Kugel veganes Vanille-Eis!"
+      - listitem [ref=e1899]:
+        - img "ai/ai veganes huehner frikassee" [ref=e1900]
+        - generic [ref=e1901]:
+          - link "Veganes Hühnerfrikassee" [ref=e1902] [cursor=pointer]:
+            - /url: /r/veganes-huehner-frikassee.html
+          - paragraph [ref=e1903]: Habt Ihr es vermisst? Frikassee schmeckt vegan genau so wie damals, wenn nicht besser!
+      - listitem [ref=e1904]:
+        - img "ai/ai veganer cashew feta" [ref=e1905]
+        - generic [ref=e1906]:
+          - link "Veganer Cashew-Feta" [ref=e1907] [cursor=pointer]:
+            - /url: /r/veganer-cashew-feta.html
+          - paragraph [ref=e1908]: Salat mit Feta wollen auch wir nicht missen, daher haben wir uns auf die Suche nach einem veganen Feta-Rezept gemacht - mit Erfolg!
+      - listitem [ref=e1909]:
+        - img "ai/ai bolognese" [ref=e1910]
+        - generic [ref=e1911]:
+          - link "Vegane Bolognese" [ref=e1912] [cursor=pointer]:
+            - /url: /r/bolognese.html
+          - paragraph [ref=e1913]: Ein schnelles & schmackhaftes Rezept für vegane Bolognese, für Spaghetti oder andere Pasta.
+      - listitem [ref=e1914]:
+        - img "ai/ai winterlicher gruenkohl eintopf" [ref=e1915]
+        - generic [ref=e1916]:
+          - link "Winterlicher Veganer Grünkohl-Eintopf" [ref=e1917] [cursor=pointer]:
+            - /url: /r/winterlicher-gruenkohl-eintopf.html
+          - paragraph [ref=e1918]: Im Winter können wir etwas wärmendes mit der Extra-Portion Nährstoffen gut brauchen. Da bietet sich dieses Gemüse-Gericht an.
+      - listitem [ref=e1919]:
+        - img "ai/ai veganes reisfleisch" [ref=e1920]
+        - generic [ref=e1921]:
+          - link "Veganes Reisfleisch nach Serbischer Art" [ref=e1922] [cursor=pointer]:
+            - /url: /r/veganes-reisfleisch.html
+          - paragraph [ref=e1923]: Serbisches Reisfleisch - ein einfaches, sättigendes Rezept, wo man praktisch nichts falsch machen kann.
+      - listitem [ref=e1924]:
+        - img "ai/ai fettarmer schoko kuchen" [ref=e1925]
+        - generic [ref=e1926]:
+          - link "Saftiger, fettarmer, Veganer Schokokuchen" [ref=e1927] [cursor=pointer]:
+            - /url: /r/fettarmer-schoko-kuchen.html
+          - paragraph [ref=e1928]: "Ein leckerer, flaumiger Schokokuchen ganz ohne Margarine oder Öl, sondern mit Kokosmilch! Das Rezept stammt von der Königin der veganen Desserts: Fran Costigan."
+      - listitem [ref=e1929]:
+        - img "ai/ai veganes suppenfondue" [ref=e1930]
+        - generic [ref=e1931]:
+          - link "Veganes Suppenfondue" [ref=e1932] [cursor=pointer]:
+            - /url: /r/veganes-suppenfondue.html
+          - paragraph [ref=e1933]: Ein Suppenfondue ist wohl das sozialste aller Festessen. Es ist ein typisch, klassisches Silvesteressen, nur besser weil vegan.
+      - listitem [ref=e1934]:
+        - img "ai/ai veganer schoko banoffee pie" [ref=e1935]
+        - generic [ref=e1936]:
+          - 'link "Der beste Vegane Kuchen: Schoko-Banoffee Pie" [ref=e1937] [cursor=pointer]':
+            - /url: /r/veganer-schoko-banoffee-pie.html
+          - paragraph [ref=e1938]: "Probiert ihn und Ihr werdet sehen: wir haben nicht übertrieben! Die Kombination von flaumigem Schoko-Kuchen, Creme, Bananen und Sahne ist einfach traumhaft."
+      - listitem [ref=e1939]:
+        - img "ai/ai bunte tofu hors doeuvre" [ref=e1940]
+        - generic [ref=e1941]:
+          - link "Bunte Vegane Tofu hors d'oeuvre" [ref=e1942] [cursor=pointer]:
+            - /url: /r/bunte-tofu-hors-doeuvre.html
+          - paragraph [ref=e1943]: Ein wahrer Hingucker sind diese lustigen hors d'oeuvre aus Curry-Tofu, Rote Bete-Humus und violettem Blumenkohl.
+      - listitem [ref=e1944]:
+        - img "feldsalat deluxe" [ref=e1945]
+        - generic [ref=e1946]:
+          - link "Veganer Feldsalat Deluxe mit Kräuterseitlingen & Orangen-Dressing" [ref=e1947] [cursor=pointer]:
+            - /url: /r/feldsalat-deluxe-mit-kraeuterseitlingen-orangen-dressing.html
+          - paragraph [ref=e1948]: Uns wird Salat niemals fad, denn wir treiben´s bunt! Diese Feldsalat-Variante kombiniert Karotten-Streifen und Kräuterseitlinge mit einem fruchtigen Dressing.
+      - listitem [ref=e1949]:
+        - img "ai/ai vegane bethmaennchen" [ref=e1950]
+        - generic [ref=e1951]:
+          - link "Vegane Bethmännchen" [ref=e1952] [cursor=pointer]:
+            - /url: /r/vegane-bethmaennchen.html
+          - paragraph [ref=e1953]: Die kleinen, super leckeren veganen Marzipankugeln lassen sich blitzschnell backen.
+      - listitem [ref=e1954]:
+        - img "ai/ai lavendel zitronen sorbet" [ref=e1955]
+        - generic [ref=e1956]:
+          - link "Vegane Lavendel-Zitronen-Sorbet" [ref=e1957] [cursor=pointer]:
+            - /url: /r/lavendel-zitronen-sorbet.html
+          - paragraph [ref=e1958]: Ein leichtes Dessert, das sich als krönender Abschluss für ein feierliches Mahl anbietet, denn ein Sorbet geht immer noch.
+      - listitem [ref=e1959]:
+        - img "ai/ai dinkel cannelloni gefuellt mit pilzen" [ref=e1960]
+        - generic [ref=e1961]:
+          - link "Vegane Dinkel-Cannelloni gefüllt mit Pilzen" [ref=e1962] [cursor=pointer]:
+            - /url: /r/dinkel-cannelloni-gefuellt-mit-pilzen.html
+          - paragraph [ref=e1963]: Ein vollwertiges Pasta-Gericht der Extraklasse und auch noch so einfach zuzubereiten! Wollt Ihr jemand für vegane Küche begeistern? Dann probiert es mit diesem Rezept!
+      - listitem [ref=e1964]:
+        - img "ai/ai rotkraut suppe mit preiselbeeren maroni" [ref=e1965]
+        - generic [ref=e1966]:
+          - link "Vegane Rotkraut-Suppe mit Preiselbeeren & Maroni" [ref=e1967] [cursor=pointer]:
+            - /url: /r/rotkraut-suppe-mit-preiselbeeren-maroni.html
+          - paragraph [ref=e1968]: Unglaublich, wie lecker diese Cremesuppe mit Rotkraut schmeckt. Die Preiselbeeren verleihen dem ganzen eine fruchtige Note und die Maronis sind das i-Tüpfelchen.
+      - listitem [ref=e1969]:
+        - img "ai/ai selbstgemachtes veganes baileys" [ref=e1970]
+        - generic [ref=e1971]:
+          - link "Selbstgemachtes, Veganes Baileys" [ref=e1972] [cursor=pointer]:
+            - /url: /r/selbstgemachtes-veganes-baileys.html
+          - paragraph [ref=e1973]: Viel leichter, aber ohne geschmackliche Abstriche! Vegane Irish Cream ist einfacher selbst gemischt als man denken möchte.
+      - listitem [ref=e1974]:
+        - img "ai/ai rote rueben aufstrich" [ref=e1975]
+        - generic [ref=e1976]:
+          - link "Rote Veganer Beete Aufstrich" [ref=e1977] [cursor=pointer]:
+            - /url: /r/rote-rueben-aufstrich.html
+          - paragraph [ref=e1978]: Aus nur 5 Zutaten lässt sich dieser Brotaufstrich aus Roten Rüben ganz schnell selber machen und sorgt für farbige Abwechslung auf dem Frühstückstisch.
+      - listitem [ref=e1979]:
+        - img "Brotaufstrich_Pastinake" [ref=e1980]
+        - generic [ref=e1981]:
+          - link "Pastinaken Veganer Thymian Aufstrich" [ref=e1982] [cursor=pointer]:
+            - /url: /r/pastinaken-thymian-aufstrich.html
+          - paragraph [ref=e1983]: Dieser Brotaufstrich aus Pastinaken, Thymian und Sonnenblumenkernen, lässt sich ganz einfach selbst machen und schmeckt richtig lecker!
+      - listitem [ref=e1984]:
+        - img "ai/ai sonnenblumenkern aufstrich" [ref=e1985]
+        - generic [ref=e1986]:
+          - link "Basis Veganer Sonnenblumenkern-Aufstrich" [ref=e1987] [cursor=pointer]:
+            - /url: /r/sonnenblumenkern-aufstrich.html
+          - paragraph [ref=e1988]: Sonnenblumenkerne + Öl + Salz = leckerer, günstiger Brotaufstrich! Für mehr Abwechslung lässt sich dieser Aufstrich einfach durch ein paar Gewürze oder Gemüse variieren.
+      - listitem [ref=e1989]:
+        - img "ai/ai apfel karamell kuchen mit zimt sternen" [ref=e1990]
+        - generic [ref=e1991]:
+          - link "Veganer Apfel-Karamell Kuchen mit Zimt-Sternen" [ref=e1992] [cursor=pointer]:
+            - /url: /r/apfel-karamell-kuchen-mit-zimt-sternen.html
+          - paragraph [ref=e1993]: Der herrliche Geruch nach Äpfeln und Zimt liegt in der Luft! Mit dieser weihnachtliche Kreation punktet man bei klein & groß gleichermaßen.
+      - listitem [ref=e1994]:
+        - img "kerze" [ref=e1995]
+        - generic [ref=e1996]:
+          - link "Vegane Kerzen selber machen" [ref=e1997] [cursor=pointer]:
+            - /url: /r/vegane-kerzen-selber-machen.html
+          - paragraph [ref=e1998]: Diese Kerzen aus Soja Wachs lassen sich je nach Geschmack, durch verschiedene Gläser oder Düfte variieren und sind das perfekte Weihnachtsgeschenk.
+      - listitem [ref=e1999]:
+        - img "ai/ai rosenkohl rezept" [ref=e2000]
+        - generic [ref=e2001]:
+          - link "Vegane Gedünsteter Rosenkohl" [ref=e2002] [cursor=pointer]:
+            - /url: /r/rosenkohl-rezept.html
+          - paragraph [ref=e2003]: Kohlsprossen, Sprossenkohl, Rosenkohl, drei Namen für das gleiche Wintergemüse - Zubereitet nach dem einfachsten Rezept jemals.
+      - listitem [ref=e2004]:
+        - img "ai/ai rohkost superfood riegel" [ref=e2005]
+        - generic [ref=e2006]:
+          - link "Vegane Rohkost-Superfood-Riegel" [ref=e2007] [cursor=pointer]:
+            - /url: /r/rohkost-superfood-riegel.html
+          - paragraph [ref=e2008]: Perfekt als energiereicher Snack zwischendurch, befriedigt super das Verlangen nach Süßem ganz ohne Zucker und höchst beliebt bei Kindern.
+      - listitem [ref=e2009]:
+        - img "ai/ai blitzschnelle zimt schnecken" [ref=e2010]
+        - generic [ref=e2011]:
+          - link "Blitzschnelle Vegane Zimt-Schnecken" [ref=e2012] [cursor=pointer]:
+            - /url: /r/blitzschnelle-zimt-schnecken.html
+          - paragraph [ref=e2013]: Stundenlang in der Küche zu stehen ist ja nicht jedermanns Sache oder manchmal muss es auch einfach schnell gehen z.B. wenn sich spontan Besuch ankündigt. Dafür ist dieses Rezept ideal!
+      - listitem [ref=e2014]:
+        - img "pure raw rezept 1" [ref=e2015]
+        - generic [ref=e2016]:
+          - link "Vegane Rohköstliches, asiatisches Gemüse mit Blumenkohl-Timbale" [ref=e2017] [cursor=pointer]:
+            - /url: /r/asiatisches-gemuese-mit-blumenkohl-timbale.html
+          - paragraph [ref=e2018]: Bunter geht es kaum, ein echter Hingucker mit Gute-Laune-Faktor! Diese leckere Rohkost-Kreation stammt aus Kirstin Knufmann´s Buch Raw!
+      - listitem [ref=e2019]:
+        - img "ai/ai marzipankuchen wir backen vegan" [ref=e2020]
+        - generic [ref=e2021]:
+          - link "Marzipankuchen aus \\\"Wir backen vegan\\" [ref=e2022] [cursor=pointer]:
+            - /url: /r/marzipankuchen-wir-backen-vegan.html
+          - paragraph [ref=e2023]: "Ein kleiner marzipaniger Vorgeschmack auf das neue Backbuch: Wir backen vegan. Von Zimtsternen, Cupcakes, Torten bis hin zu Windringen hier findet jedes Schleckermäulchen das passende."
+      - listitem [ref=e2024]:
+        - img "ai/ai speck knoedel" [ref=e2025]
+        - generic [ref=e2026]:
+          - link "Vegane \"Speck\"-Knödel mit Räuchertofu" [ref=e2027] [cursor=pointer]:
+            - /url: /r/speck-knoedel.html
+          - paragraph [ref=e2028]: Räuchertofu und Zwiebel als Füllung, Kartoffelteig drumherum. Fertig ist die deftige Herbstmahlzeit.
+      - listitem [ref=e2029]:
+        - img "ai/ai spaghetti kuerbis mit soja baellchen" [ref=e2030]
+        - generic [ref=e2031]:
+          - link "Vegane Spaghetti-Kürbis mit Soja-Bällchen" [ref=e2032] [cursor=pointer]:
+            - /url: /r/spaghetti-kuerbis-mit-soja-baellchen.html
+          - paragraph [ref=e2033]: Mal was anderes als normale Pasta! Spaghetti-Kürbis schmeckt so lecker und ist dabei sehr kalorienarm.
+      - listitem [ref=e2034]:
+        - img "ai/ai schoko cookies aus schwarzen bohnen" [ref=e2035]
+        - generic [ref=e2036]:
+          - link "Vegane Schoko-Cookies aus schwarzen Bohnen" [ref=e2037] [cursor=pointer]:
+            - /url: /r/schoko-cookies-aus-schwarzen-bohnen.html
+          - paragraph [ref=e2038]: Schwarze Bohnen, Chia Samen und Zartbitterschokolade. Kann das schmecken? Klar, super lecker sogar!
+      - listitem [ref=e2039]:
+        - img "ai/ai cordon bleu" [ref=e2040]
+        - generic [ref=e2041]:
+          - link "Veganes Cordon Bleu" [ref=e2042] [cursor=pointer]:
+            - /url: /r/cordon-bleu.html
+          - paragraph [ref=e2043]: Jawohl, auch vegan braucht man nicht auf das Sonntagsschnitzel verzichten und sogar Cordon bleu geht rein pflanzlich!
+      - listitem [ref=e2044]:
+        - img "wurzelgemuese pommes 1" [ref=e2045]
+        - generic [ref=e2046]:
+          - link "Herbstliche Vegane Wurzelgemüse-Pommes mit Kokos-Lemon-Dip" [ref=e2047] [cursor=pointer]:
+            - /url: /r/wurzelgemuese-pommes-mit-kokos-lemon-dip.html
+          - paragraph [ref=e2048]: Herrlich, wie diese bunten Gemüsesticks in den exotischen Dip getaucht die Geschmacksknospen zum Singen bringen.
+      - listitem [ref=e2049]:
+        - img "Chiapudding mit Tonkabohne" [ref=e2050]
+        - generic [ref=e2051]:
+          - link "Veganer Schoko-Chiapudding mit Tonkabohne & Birne" [ref=e2052] [cursor=pointer]:
+            - /url: /r/schoko-chia-pudding-mit-tonkabohne-birne.html
+          - paragraph [ref=e2053]: Ob Frühstück oder Dessert - wer den feinen Geschmack von Tonka mag, wird sich in dieses einfache Rezept verlieben!
+      - listitem [ref=e2054]:
+        - img "ai/ai lebkuchen pancakes mit himbeer cranberry sauce" [ref=e2055]
+        - generic [ref=e2056]:
+          - link "Veganer Lebkuchen-Pancakes mit Himbeer-Cranberry-Sauce" [ref=e2057] [cursor=pointer]:
+            - /url: /r/lebkuchen-pancakes-mit-himbeer-cranberry-sauce.html
+          - paragraph [ref=e2058]: Glutenfreie Pancakes aus Buchweizenmehl mit Gewürzen und einer leckeren, fruchtigen Sauce - wer könnte da widerstehen?
+      - listitem [ref=e2059]:
+        - img "ai/ai halloween bananen geister" [ref=e2060]
+        - generic [ref=e2061]:
+          - 'link "Veganes Halloween-Rezept: Lustige Bananen-Geister" [ref=e2062] [cursor=pointer]':
+            - /url: /r/halloween-bananen-geister.html
+          - paragraph [ref=e2063]: Auf der Suche nach einer lustigen, aber einfachen & gesunden Rezept-Idee für Halloween? Probier diese Bananen-Geister im Kokosflocken-Kleid aus!
+      - listitem [ref=e2064]:
+        - img "ai/ai gefuellte grusel paprika" [ref=e2065]
+        - generic [ref=e2066]:
+          - link "Vegane Gefüllte Grusel-Paprika" [ref=e2067] [cursor=pointer]:
+            - /url: /r/gefuellte-grusel-paprika.html
+          - paragraph [ref=e2068]: Mit diesen lustigen Paprika-Gesichtern, gefüllt mit nährstoffreicher Hirse, wünschen wir Euch ein fröhliches Halloween-Fest!
+      - listitem [ref=e2069]:
+        - img "ai/ai gruenkohl salat mit granatapfel avocado" [ref=e2070]
+        - generic [ref=e2071]:
+          - link "Veganer Grünkohl-Salat mit Granatapfel & Avocado" [ref=e2072] [cursor=pointer]:
+            - /url: /r/gruenkohl-salat-mit-granatapfel-avocado.html
+          - paragraph [ref=e2073]: Grünkohl ist auch abgesehen von grünen Smoothies roh ganz gut genießbar, wie zum Beispiel hier als nährstoffreicher Salat!
+      - listitem [ref=e2074]:
+        - img "ai/ai rote beete aus dem ofen" [ref=e2075]
+        - generic [ref=e2076]:
+          - link "Rote Vegane Beete aus dem Ofen" [ref=e2077] [cursor=pointer]:
+            - /url: /r/rote-beete-aus-dem-ofen.html
+          - paragraph [ref=e2078]: Wer das leicht erdige Aroma der roten Beete liebt, wird von dem Wurzelgemüse aus dem Ofen begeistert sein!
+      - listitem [ref=e2079]:
+        - img "ai/ai reisnudeln mit romanesco sautierten pilzen" [ref=e2080]
+        - generic [ref=e2081]:
+          - link "Vegane Reisnudeln mit Romanesco & sautierten Pilzen" [ref=e2082] [cursor=pointer]:
+            - /url: /r/reisnudeln-mit-romanesco-sautierten-pilzen.html
+          - paragraph [ref=e2083]: Ein schnelles, leckeres, glutenfreies Gericht, das mit schmackhaftem Gemüse punktet, sollte jeder in seinem Kochrepertoire haben.
+      - listitem [ref=e2084]:
+        - img "ai/ai kohlrabi pasta mit pistazien pesto" [ref=e2085]
+        - generic [ref=e2086]:
+          - link "Vegane Kohlrabi-Pasta mit Pistazien-Pesto" [ref=e2087] [cursor=pointer]:
+            - /url: /r/kohlrabi-pasta-mit-pistazien-pesto.html
+          - paragraph [ref=e2088]: Kohlrabi ist eine tolle Abwechslung zu Zucchini-Spaghetti und lässt sich wegen dem milden Geschmack super kombinieren. Einfach rohköstlich!
+      - listitem [ref=e2089]:
+        - img "ai/ai gruener smoothie mit gruenkohl" [ref=e2090]
+        - generic [ref=e2091]:
+          - link "Veganer Grüner Smoothie mit Grünkohl" [ref=e2092] [cursor=pointer]:
+            - /url: /r/gruener-smoothie-mit-gruenkohl.html
+          - paragraph [ref=e2093]: Wer hat sich noch nicht daran gewagt? Jetzt aber los, denn grüne Smoothies bringen die Extraportion Nährstoffe und sind lecker!
+      - listitem [ref=e2094]:
+        - img "ai/ai becherkuchen" [ref=e2095]
+        - generic [ref=e2096]:
+          - link "Veganer Becherkuchen" [ref=e2097] [cursor=pointer]:
+            - /url: /r/becherkuchen.html
+          - paragraph [ref=e2098]: Jeder sollte ein Rezept im Ärmel haben, mit dem man so rasch wie möglich einen Kuchen zaubert, so wie diesen hier!
+      - listitem [ref=e2099]:
+        - img "ai/ai kartoffel strudel mit pfifferlingen" [ref=e2100]
+        - generic [ref=e2101]:
+          - link "Vegane Kartoffel-Strudel mit Pfifferlingen" [ref=e2102] [cursor=pointer]:
+            - /url: /r/kartoffel-strudel-mit-pfifferlingen.html
+          - paragraph [ref=e2103]: Wollt Ihr jemanden davon überzeugen, wie schmackhaft die vegane Küche sein kann? Dann ist das hier das richtige Rezept!
+      - listitem [ref=e2104]:
+        - img "ai/ai veganer quark auflauf mit birnen pinienkernen" [ref=e2105]
+        - generic [ref=e2106]:
+          - link "Veganer Birnen-Quark-Auflauf mit Vanille & Pinienkernen" [ref=e2107] [cursor=pointer]:
+            - /url: /r/veganer-quark-auflauf-mit-birnen-pinienkernen.html
+          - paragraph [ref=e2108]: Quark vegan? Kein Problem, da würde kaum jemand den Unterschied merken so lecker wie dieser Auflauf schmeckt!
+      - listitem [ref=e2109]:
+        - img "ai/ai diy knetmasse" [ref=e2110]
+        - generic [ref=e2111]:
+          - link "Vegane DIY Knetmasse" [ref=e2112] [cursor=pointer]:
+            - /url: /r/diy-knetmasse.html
+          - paragraph [ref=e2113]: Indoor-Aktivitäten gewinnen in der kühleren Jahreszeit wieder an Reiz. Für Kinder ist Knete ein Riesenspaß. Wie man die selbermacht? Ganz leicht!
+      - listitem [ref=e2114]:
+        - img "kichererbsen tofu 2" [ref=e2115]
+        - generic [ref=e2116]:
+          - link "Vegane Kichererbsen-Tofu" [ref=e2117] [cursor=pointer]:
+            - /url: /r/kichererbsen-tofu.html
+          - paragraph [ref=e2118]: Tofu geht auch ohne Soja! Die Burmesische Variante besteht rein aus Kichererbsen und Gewürzen und steckt voller Eiweiß.
+      - listitem [ref=e2119]:
+        - img "tiramisu rohkost" [ref=e2120]
+        - generic [ref=e2121]:
+          - link "Vegane Rohköstliches Tiramisu" [ref=e2122] [cursor=pointer]:
+            - /url: /r/rohkost-tiramisu.html
+          - paragraph [ref=e2123]: Tiramisu ist ein Dessert der ganz besonderen Art, nur leider weit entfernt von vegan & gesund. Das kann man ändern!
+      - listitem [ref=e2124]:
+        - img "pina colada" [ref=e2125]
+        - generic [ref=e2126]:
+          - link "Vegane Pina Colada" [ref=e2127] [cursor=pointer]:
+            - /url: /r/vegane-pina-colada.html
+          - paragraph [ref=e2128]: Sogar in vielen Cocktails verstecken sich unvegane Zutaten. Selbst mixen heißt daher unsere Devise!
+      - listitem [ref=e2129]:
+        - img "ai/ai rote beete ravioli mit cashew kaese fuellung" [ref=e2130]
+        - generic [ref=e2131]:
+          - link "Rote Vegane Beete-Ravioli mit Cashew-Käse-Füllung" [ref=e2132] [cursor=pointer]:
+            - /url: /r/rote-beete-ravioli-mit-cashew-kaese-fuellung.html
+          - paragraph [ref=e2133]: Nicht nur eine Augenweide, sondern auch ein tolles Geschmackserlebnis sind diese rohköstlichen Raviolis aus frischer roter Beete.
+      - listitem [ref=e2134]:
+        - img "ai/ai rohkost feigen kokos tart" [ref=e2135]
+        - generic [ref=e2136]:
+          - link "Vegane Rohköstliche Feigen-Kokos-Tart" [ref=e2137] [cursor=pointer]:
+            - /url: /r/rohkost-feigen-kokos-tart.html
+          - paragraph [ref=e2138]: "Frische Feigen auf Cashew-Creme gebettet auf einem Kokos-Boden: eine umwerfende Kombination!"
+      - listitem [ref=e2139]:
+        - img "mais chia cracker" [ref=e2140]
+        - generic [ref=e2141]:
+          - link "Rohkost Vegane Mais-Cracker mit Hanfsamen" [ref=e2142] [cursor=pointer]:
+            - /url: /r/rohkost-mais-cracker.html
+          - paragraph [ref=e2143]: Mit diesen weit entfernten Verwandten der Tortilla Chips spart man sich ungesunde Fette, dafür bekommt man alle enthaltenen plus die Bonus-Nährstoffe der Hanfsamen ab.
+      - listitem [ref=e2144]:
+        - img "ai/ai schoko kichererbsen brownie" [ref=e2145]
+        - generic [ref=e2146]:
+          - link "Veganer gluten- & zuckerfreier Schokoladen-Brownie" [ref=e2147] [cursor=pointer]:
+            - /url: /r/schoko-kichererbsen-brownie.html
+          - paragraph [ref=e2148]: Diese mehlfreien Brownies schmecken nicht nur gut, sie sind auch noch glutenfrei, ohne Zucker, kalorienarm und proteinreich dank Kichererbsen.
+      - listitem [ref=e2149]:
+        - img "brotsalat" [ref=e2150]
+        - generic [ref=e2151]:
+          - link "Panzanella Veganer - italienischer Brotsalat" [ref=e2152] [cursor=pointer]:
+            - /url: /r/brotsalat.html
+          - paragraph [ref=e2153]: Leckerer italienischer Brotsalat ist genial um altes Weissbrot zu verwerten und schmeckt vorzüglich mit gegrilltem Gemüse.
+      - listitem [ref=e2154]:
+        - img "ai/ai braunhirse salat" [ref=e2155]
+        - generic [ref=e2156]:
+          - link "Veganer Braunhirse-Salat mit Brunnenkresse & Birne" [ref=e2157] [cursor=pointer]:
+            - /url: /r/braunhirse-salat.html
+          - paragraph [ref=e2158]: Braunhirse ist aufgrund ihres hohen Nährstoffgehalts ein sehr beliebtes, natürliches Nahrungsergänzungsmittel, das roh verzehrt wird - so wie hier zum Beispiel als Salat.
+      - listitem [ref=e2159]:
+        - img "ai/ai chia pudding mit obstsalat" [ref=e2160]
+        - generic [ref=e2161]:
+          - link "Leckerer Veganer Chia-Pudding mit Obstsalat" [ref=e2162] [cursor=pointer]:
+            - /url: /r/chia-pudding-mit-obstsalat.html
+          - paragraph [ref=e2163]: Chia-Samen sind die Stars unter den Superfoods und bringen eine ganze Palette an Nährstoffen mit sich. In den leckeren Chia-Pudding könnte man sich glatt verlieben.
+      - listitem [ref=e2164]:
+        - img "ai/ai feigen dessert" [ref=e2165]
+        - generic [ref=e2166]:
+          - link "Feigen Vegane mit Sauerrahm-Creme und Pistazien" [ref=e2167] [cursor=pointer]:
+            - /url: /r/feigen-dessert.html
+          - paragraph [ref=e2168]: Feigen sind ein richtiges Good-Mood-Food, denn sie helfen durch ihren Magnesium- und Zinkgehalt Stress abzubauen und die Stimmung zu heben!
+      - listitem [ref=e2169]:
+        - img "ai/ai schoko trueffel" [ref=e2170]
+        - generic [ref=e2171]:
+          - link "Vegane Rohköstliche Schoko-Trüffel" [ref=e2172] [cursor=pointer]:
+            - /url: /r/schoko-trueffel.html
+          - paragraph [ref=e2173]: Das Größte und Wunderbarste ist das Einfachste! Das belegen diese himmlischen, zart schmelzenden Schokoladen-Trüffel, die aus nur 3 Zutaten gezaubert werden.
+      - listitem [ref=e2174]:
+        - img "ai/ai glutenfreier zwetschgen kuchen mit pudding" [ref=e2175]
+        - generic [ref=e2176]:
+          - link "Glutenfreier Veganer Zwetschgenkuchen mit Pudding" [ref=e2177] [cursor=pointer]:
+            - /url: /r/glutenfreier-zwetschgen-kuchen-mit-pudding.html
+          - paragraph [ref=e2178]: Pudding macht jeden Obstkuchen für Kinder (und meist auch für die Großen) um Welten besser! Das Rezept für diese Zwetschgenwähe haben wir aus der Schweiz mitgebracht, bei uns ist es jedoch glutenfrei & vegan.
+      - listitem [ref=e2179]:
+        - img "ai/ai holunder goji smoothie" [ref=e2180]
+        - generic [ref=e2181]:
+          - link "Veganer Holunder-Goji-Smoothie" [ref=e2182] [cursor=pointer]:
+            - /url: /r/holunder-goji-smoothie.html
+          - paragraph [ref=e2183]: Satt violett hängen sie nun an den Sträuchern - die Holunderbeeren, die mit ihrem hohen Vitamin C Gehalt unser Immunsystem stärken, während es in den Herbst geht.
+      - listitem [ref=e2184]:
+        - img "ai/ai bunter salat mit pfifferlingen haselnuessen" [ref=e2185]
+        - generic [ref=e2186]:
+          - link "Bunter Veganer Salat mit Pfifferlingen & Haselnüssen" [ref=e2187] [cursor=pointer]:
+            - /url: /r/bunter-salat-mit-pfifferlingen-haselnuessen.html
+          - paragraph [ref=e2188]: Habt Ihr Pfifferlinge schon mal ungekocht gegessen? Ihr werdet überrascht sein, um welchen tollen Geschmack frische Pilze einen Salat bereichern können.
+      - listitem [ref=e2189]:
+        - img "ai/ai schnelle soja milch selbermachen" [ref=e2190]
+        - generic [ref=e2191]:
+          - link "Schnelle Vegane Soja-Milch mit einem Hauch von Vanille" [ref=e2192] [cursor=pointer]:
+            - /url: /r/schnelle-soja-milch-selbermachen.html
+          - paragraph [ref=e2193]: Hast Du schon mal Sojamilch selbst gemacht? Nein?! Na dann los! Mit dem Rezept geht es ruckzuck und man kann mit Gewürznoten spielend nach Lust und Belieben mehr Geschmack hineinzaubern.
+      - listitem [ref=e2194]:
+        - img "ai/ai rohkost gemuese chips selbstgemacht" [ref=e2195]
+        - generic [ref=e2196]:
+          - link "Vegane Rohkost-Gemüse-Chips selbstgemacht" [ref=e2197] [cursor=pointer]:
+            - /url: /r/rohkost-gemuese-chips-selbstgemacht.html
+          - paragraph [ref=e2198]: Wer sich in Grünkohl-Chips verliebt hat, der sollte unbedingt mal unser Rezept für selbstgemachte, bunt durchgemischte Gemüse-Chips versuchen!
+      - listitem [ref=e2199]:
+        - generic [ref=e2200]:
+          - link "Veganes Kürbis-Kokos-Eis mit weißer Schokolade" [ref=e2201] [cursor=pointer]:
+            - /url: /r/kokos-kuerbis-eis.html
+          - paragraph [ref=e2202]: Nicht nur in Curries bringen Kürbis und Kokos gemeinsam tolle Geschmackserlebnisse, sondern auch in der Welt des Süßen sind sie ein traumhaftes Paar.
+      - listitem [ref=e2203]:
+        - img "ai/ai rohkost pasta mit kaese sauce" [ref=e2204]
+        - generic [ref=e2205]:
+          - link "Vegane Rohkost-Pasta mit \"Käse\"-Sauce" [ref=e2206] [cursor=pointer]:
+            - /url: /r/rohkost-pasta-mit-kaese-sauce.html
+          - paragraph [ref=e2207]: "Meine neuste Entdeckung aus der spiralisierten Rohkostwelt: Kohlrabi-Pasta! Gemeinsam mit der Sauce aus Cashew-Creme aka rohvegane Käsesauce ein sensationelles Paar."
+      - listitem [ref=e2208]:
+        - img "ai/ai schokoladen kokos eis deluxe" [ref=e2209]
+        - generic [ref=e2210]:
+          - link "Veganes Schokoladen-Kokos-Eis deluxe" [ref=e2211] [cursor=pointer]:
+            - /url: /r/schokoladen-kokos-eis-deluxe.html
+          - paragraph [ref=e2212]: I scream, you scream - we all scream for vegan Chocolate-Coconut Ice Cream! Ob Sommer oder nicht, Eis ist immer wunderbar, vor allem bei so einer köstlichen Kombination.
+      - listitem [ref=e2213]:
+        - img "ai/ai bounty selbstgemacht" [ref=e2214]
+        - generic [ref=e2215]:
+          - link "Vegane Rohköstliche Bounty-Riegel selbstgemacht" [ref=e2216] [cursor=pointer]:
+            - /url: /r/bounty-selbstgemacht.html
+          - paragraph [ref=e2217]: Vermisst Ihr sie auch, die leckeren Kokos-Schoko-Riegel? Leider ist nicht mal die zartbitter Version davon vegan, daher haben wir sie jetzt einfach selbst gemacht und zwar rohvegan und ohne Zucker!
+      - listitem [ref=e2218]:
+        - img "ai/ai thailaendischer pilz salat" [ref=e2219]
+        - generic [ref=e2220]:
+          - link "Veganer Thailändischer Pilz-Salat" [ref=e2221] [cursor=pointer]:
+            - /url: /r/thailaendischer-pilz-salat.html
+          - paragraph [ref=e2222]: Hast Du Lust mal was neues zu probieren? Dieses thailändische Rezept bringt viele Geschmackskomponenten zusammen und ist ein wahrer Gaumenkitzel.
+      - listitem [ref=e2223]:
+        - img "ai/ai dinkelvollkorn pfannkuchen" [ref=e2224]
+        - generic [ref=e2225]:
+          - 'link "Pfannkuchen bzw. Palatschinken: vegan & vollwertig" [ref=e2226] [cursor=pointer]':
+            - /url: /r/dinkelvollkorn-pfannkuchen.html
+          - paragraph [ref=e2227]: Was wäre das Leben ohne Pfannkuchen!?! Abwechslungsreich süß oder pikant gefüllt sind sie allseits beliebt und in der vollwertigen, veganen Variante auch sehr nahrhaft.
+      - listitem [ref=e2228]:
+        - img "ai/ai semmelknoedel mit pfifferling rahm sauce" [ref=e2229]
+        - generic [ref=e2230]:
+          - link "Vegane Semmelknödel mit Pfifferling-Rahm-Sauce" [ref=e2231] [cursor=pointer]:
+            - /url: /r/semmelknoedel-mit-pfifferling-rahm-sauce.html
+          - paragraph [ref=e2232]: Semmelknödel sind einer der allseits beliebten Klassiker, die auch ganz einfach und schnell vegan zubereitet sind. Dazu eine schmackhafte Pilz-Sauce und fertig ist ein wunderbares Gericht!
+      - listitem [ref=e2233]:
+        - img "ai/ai gruener smoothie zuckermelonen spinat" [ref=e2234]
+        - generic [ref=e2235]:
+          - 'link "Doppelt Veganer grün: Zuckermelonen-Spinat-Smoothie" [ref=e2236] [cursor=pointer]':
+            - /url: /r/gruener-smoothie-zuckermelonen-spinat.html
+          - paragraph [ref=e2237]: So erfrischend und dabei so puristisch! Süße Zuckermelone meets chlorophyllreichen Spinat - ein großartiges Team für einen leckeren Smoothie.
+      - listitem [ref=e2238]:
+        - img "ai/ai suesskartoffel rote bete pasta cashew sour creme" [ref=e2239]
+        - generic [ref=e2240]:
+          - link "Vegane Süßkartoffel- & rote Bete Pasta mit Cashew Sour Creme" [ref=e2241] [cursor=pointer]:
+            - /url: /r/suesskartoffel-rote-bete-pasta-cashew-sour-creme.html
+          - paragraph [ref=e2242]: Wer hätte gedacht, dass Süßkartoffeln auch roh ganz ausgezeichnet schmecken? Und auch rote Bete schmeckt toll. Gemeinsam bringen sie richtig Farbe auf den Teller.
+      - listitem [ref=e2243]:
+        - img "ai/ai schoko creme toertchen" [ref=e2244]
+        - generic [ref=e2245]:
+          - link "Vegane 3-fach Schoko-Creme-Törtchen mit Chia & Heidelbeeren" [ref=e2246] [cursor=pointer]:
+            - /url: /r/schoko-creme-toertchen.html
+          - paragraph [ref=e2247]: Himmlisch rohköstlich, super-schokoladig und cremig, jedoch ohne konventionellen Zucker! Mit Chiasamen und Kakao wird der Kuchen zu einer gesunden Energiebombe.
+      - listitem [ref=e2248]:
+        - img "ai/ai glutenfreie mais pasta brokkoli pilze" [ref=e2249]
+        - generic [ref=e2250]:
+          - link "Glutenfreie Vegane Mais-Pasta mit Brokkoli und Pilzen" [ref=e2251] [cursor=pointer]:
+            - /url: /r/glutenfreie-mais-pasta-brokkoli-pilze.html
+          - paragraph [ref=e2252]: Habt Ihr schon mal Nudeln aus Mais probiert? Das ist nicht nur bei Glutenunverträglichkeit toll, sondern schmeckt auch wirklich lecker. Dazu gibt´s knackigen Brokkoli und schmackhafte Kräuter-Seitlinge.
+      - listitem [ref=e2253]:
+        - img "ai/ai pad thai rohkost" [ref=e2254]
+        - generic [ref=e2255]:
+          - link "Veganes Pad Thai, aber roh!" [ref=e2256] [cursor=pointer]:
+            - /url: /r/pad-thai-rohkost.html
+          - paragraph [ref=e2257]: Pad Thai ist der Klassiker, der thailändischen Küche! Hier haben wir das leckere Gericht in eine bunte Rohkost-Variante umgewandelt.
+      - listitem [ref=e2258]:
+        - img "ai/ai gemuese curry mit kokosmilch tofu" [ref=e2259]
+        - generic [ref=e2260]:
+          - link "Buntes Vegane Gemüse-Curry mit Kokosmilch und Tofu" [ref=e2261] [cursor=pointer]:
+            - /url: /r/gemuese-curry-mit-kokosmilch-tofu.html
+          - paragraph [ref=e2262]: Einmal quer durch den Garten bitte! Dieses bunte herzerwärmende Gemüse-Curry ist perfekt für die Verwertung von Gemüse und bringt alle Farben auf den Teller!
+      - listitem [ref=e2263]:
+        - generic [ref=e2264]:
+          - link "Veganes Frischkorn-Frühstücksbrei mit Beeren" [ref=e2265] [cursor=pointer]:
+            - /url: /r/frischkorn-getreidebrei-mit-beeren.html
+          - paragraph [ref=e2266]: Hättest Du gerne mal etwas Abwechslung und Farbe in der Frühstücksroutine? Na dann los! Beeren verleihen dem Getreidebrei Kolorit und einen sommerlichen Geschmack.
+      - listitem [ref=e2267]:
+        - img "rohe lasagne" [ref=e2268]
+        - generic [ref=e2269]:
+          - link "Vegane Rohköstliche Lasagne mit Avocado-Pesto" [ref=e2270] [cursor=pointer]:
+            - /url: /r/rohkoestliche-lasagne-mit-avocado-pesto.html
+          - paragraph [ref=e2271]: Eine rohe Interpretation des allseits beliebten, italienischen Klassikers! Diese Zucchini-Lasagne vereint die leckersten Zutaten der kalten Küche für richtige Feinschmecker.
+      - listitem [ref=e2272]:
+        - img "ai/ai rohveganes nutella" [ref=e2273]
+        - generic [ref=e2274]:
+          - link "Rohveganer Nougat-Aufstrich aka No-tella" [ref=e2275] [cursor=pointer]:
+            - /url: /r/rohveganes-nutella.html
+          - paragraph [ref=e2276]: Wessen Augen beginnen bei dem Anblick von Schoko- bzw. Nougatcreme nicht zu leuchten? Da die meisten käuflichen Produkte voller ungesunder, unveganer Zutaten stecken, haben wir unser eigenes, zucker- und palmölfreies Nutella gemacht!
+      - listitem [ref=e2277]:
+        - img "ai/ai kokos matcha latte" [ref=e2278]
+        - generic [ref=e2279]:
+          - link "Vegane Kokos-Matcha-Latte" [ref=e2280] [cursor=pointer]:
+            - /url: /r/kokos-matcha-latte.html
+          - paragraph [ref=e2281]: Wer braucht nicht manchmal auch einen kleinen Energie-Kick? Matcha ist da die tollste Alternative zu Kaffee und diversen Engergy Drinks, vor allem wenn er auch noch so herrlich schmeckt wie unser Kokos Matcha Latte!
+      - listitem [ref=e2282]:
+        - img "ai/ai veganes frozen yoghurt selbstgemacht" [ref=e2283]
+        - generic [ref=e2284]:
+          - link "Veganes Frozen Yoghurt selbstgemacht" [ref=e2285] [cursor=pointer]:
+            - /url: /r/veganes-frozen-yoghurt-selbstgemacht.html
+          - paragraph [ref=e2286]: Manchmal bieten Froyo Läden inzwischen auch schon eine vegane Variante an, aber ganz einfach hat man es auch selbst gezaubert.
+      - listitem [ref=e2287]:
+        - img "ai/ai schnelles wok gemuese mit seitan" [ref=e2288]
+        - generic [ref=e2289]:
+          - link "Schnelles Vegane Wok-Gemüse mit Seitan-Würfel" [ref=e2290] [cursor=pointer]:
+            - /url: /r/schnelles-wok-gemuese-mit-seitan.html
+          - paragraph [ref=e2291]: Bunt und lecker! Wenn´s mal schnell gehen soll, reicht auch aus, was die Gemüselade bzw. der Garten hergibt. Dazu etwas Seitan und schon hat man ein schmackhaftes Mahl.
+      - listitem [ref=e2292]:
+        - img "ai/ai zitronen lassi" [ref=e2293]
+        - generic [ref=e2294]:
+          - link "Erfrischendes Vegane Zitronen-Lassi" [ref=e2295] [cursor=pointer]:
+            - /url: /r/zitronen-lassi.html
+          - paragraph [ref=e2296]: Veganes Lassi? Kein Problem! Auch das beliebte Joghurt-Getränk veganisieren wir mit Links. Im Sommer bietet es eine willkommene Erfrischung, wenn man sich mal eine Pause gönnt und die Füsse hochlegt.
+      - listitem [ref=e2297]:
+        - img "ai/ai artischocken pinienkernen minze" [ref=e2298]
+        - generic [ref=e2299]:
+          - link "Vegane Baby-Artischocken mit Pinienkernen & Minze" [ref=e2300] [cursor=pointer]:
+            - /url: /r/artischocken-pinienkernen-minze.html
+          - paragraph [ref=e2301]: Vegane Antipasti at it´s best! Wer Artischocken gerne mag, wird von diesem einfachen Rezept begeistert sein.
+      - listitem [ref=e2302]:
+        - img "ai/ai rohkoestiche zucchini leinsamen cracker" [ref=e2303]
+        - generic [ref=e2304]:
+          - link "Vegane Rohköstliche Zucchini-Leinsamen-Cracker" [ref=e2305] [cursor=pointer]:
+            - /url: /r/rohkoestiche-zucchini-leinsamen-cracker.html
+          - paragraph [ref=e2306]: Cracker sind total praktisch! Sie schmecken super, sind ein tolles Rohkostlebensmittel2Go, variantenreich und halten ewig!
+      - listitem [ref=e2307]:
+        - img "ai/ai kokos panna cotta" [ref=e2308]
+        - generic [ref=e2309]:
+          - link "Vegane Kokos-Panna Cotta mit Granatapfel oder Johannisbeeren" [ref=e2310] [cursor=pointer]:
+            - /url: /r/kokos-panna-cotta.html
+          - paragraph [ref=e2311]: Herrlich leicht und herrlich einfach! Panna Cotta mit dem verführerischen Geschmack von Kokos und erfrischenden Beeren!
+      - listitem [ref=e2312]:
+        - img "Guglhupfminis 2" [ref=e2313]
+        - generic [ref=e2314]:
+          - 'link "Mamas Liebling: Veganer Mini-Guglhupf" [ref=e2315] [cursor=pointer]':
+            - /url: /r/mini-guglhupf.html
+          - paragraph [ref=e2316]: Gugelhopf, Napfkuchen, Topfkuchen, Radonkuchen oder auf gut österreichisch Guglhupf - der Kuchen mit der typischen "Puddingform" hat viele Namen, aber beim Geschmack sind sich alle einig! Super also, dass der Klassiker auch in veganer Version lecker schmeckt.
+      - listitem [ref=e2317]:
+        - img "ai/ai tempeh auf okra gemuese" [ref=e2318]
+        - generic [ref=e2319]:
+          - link "Gebratener Vegane Tempeh auf Okra-Gemüse" [ref=e2320] [cursor=pointer]:
+            - /url: /r/tempeh-auf-okra-gemuese.html
+          - paragraph [ref=e2321]: Der nussig schmeckende Tempeh und auch Okras gelten hierzulande noch als Exoten. Das sollte man sofort ändern und beides ausprobieren - am besten gemeinsam!
+      - listitem [ref=e2322]:
+        - img "ai/ai zitronen gurken granita" [ref=e2323]
+        - generic [ref=e2324]:
+          - link "Erfrischendes Vegane Zitronen-Gurken Granita" [ref=e2325] [cursor=pointer]:
+            - /url: /r/zitronen-gurken-granita.html
+          - paragraph [ref=e2326]: Dieses sizilianische Dessert auf Wasserbasis bietet im Sommer eine bezaubernde Erfrischung, die viel kalorienärmer ausfällt als Eis und mit unserem Rezept blitzschnell zubereitet ist.
+      - listitem [ref=e2327]:
+        - img "ai/ai rohkoestliche raffaello" [ref=e2328]
+        - generic [ref=e2329]:
+          - link "Vegane Rohköstliche Raffaello" [ref=e2330] [cursor=pointer]:
+            - /url: /r/rohkoestliche-raffaello.html
+          - paragraph [ref=e2331]: Nicht nur ohne Schokolade, sondern auch ohne konventionellen Zucker und Aromazusätze, Milchpulver&Co! Unsere Rohkost-Raffaellos sind schnell gemacht und einfach zauberhaft.
+      - listitem [ref=e2332]:
+        - img "mohn muffins" [ref=e2333]
+        - generic [ref=e2334]:
+          - link "Schnelle Vegane Mohn-Aprikosen-Muffins" [ref=e2335] [cursor=pointer]:
+            - /url: /r/mohn-aprikosen-muffins.html
+          - paragraph [ref=e2336]: Mohn trifft auf Marille und das in einem veganen Muffin! So schnell wie sie gebacken sind, sind sie auch verzehrt. Da bleibt nichts übrig.
+      - listitem [ref=e2337]:
+        - img "Salat" [ref=e2338]
+        - generic [ref=e2339]:
+          - link "Roher Vegane Alltag - Leckere Gerichte Für Jeden Tag" [ref=e2340] [cursor=pointer]:
+            - /url: /r/rohkost-alltags-rezepte.html
+          - paragraph [ref=e2341]: "Wir lüften ein weiteres Geheimnis der rohen Küche: was esse ich nur jeden Tag? Die kalte Küche hat viel mehr zu bieten als man anfangs annehmen möchte!"
+      - listitem [ref=e2342]:
+        - img "ai/ai sommerliche zucchini nudeln" [ref=e2343]
+        - generic [ref=e2344]:
+          - link "Sommerliche Vegane Zucchini-Nudeln" [ref=e2345] [cursor=pointer]:
+            - /url: /r/sommerliche-zucchini-nudeln.html
+          - paragraph [ref=e2346]: Rucola, Pinienkerne, getrocknete Tomaten und Oliven verleihen diesen Zucchini-Spaghetti einen buntes Kolorit. So einfach und köstlich kann Rohkost sein!
+      - listitem [ref=e2347]:
+        - img "Gazpacho" [ref=e2348]
+        - generic [ref=e2349]:
+          - link "Vegane Goji-Gazpacho" [ref=e2350] [cursor=pointer]:
+            - /url: /r/goji-gazpacho.html
+          - paragraph [ref=e2351]: Ein heißen Sommertagen ein toller Genuss! Eine kalte Gemüsesuppe um das Superfood Goji bereichert, energetisiert und erfrischt zugleich - einfach herrlich!
+      - listitem [ref=e2352]:
+        - img "ai/ai diy muesli" [ref=e2353]
+        - generic [ref=e2354]:
+          - link "Vegane DIY Müsli as you wish" [ref=e2355] [cursor=pointer]:
+            - /url: /r/diy-muesli.html
+          - paragraph [ref=e2356]: Hast Du schon mal nachgelesen, was bei den meisten Müslis drinnensteckt? Getarnte Zuckerbomben sind das zumeist. Selbstmachen geht schnell und da bestimmst Du, was reinkommt!
+      - listitem [ref=e2357]:
+        - img "ai/ai ribiselkuchen mit schneehaube" [ref=e2358]
+        - generic [ref=e2359]:
+          - link "Veganer Ribisel- bzw. roter Johannisbeerkuchen mit Schneehaube" [ref=e2360] [cursor=pointer]:
+            - /url: /r/ribiselkuchen-mit-schneehaube.html
+          - paragraph [ref=e2361]: Habt Ihr den guten Ribiselkuchen mit der Schneehaube schon vermisst? Das hat jetzt auf alle Fälle ein Ende, denn der Schnee lässt sich auch vegan zaubern.
+      - listitem [ref=e2362]:
+        - img "ai/ai rohkost snickers" [ref=e2363]
+        - generic [ref=e2364]:
+          - link "Snickers - rohköstlich & vegan!" [ref=e2365] [cursor=pointer]:
+            - /url: /r/rohkost-snickers.html
+          - paragraph [ref=e2366]: Wer hat nicht insgeheim auch mal Lust einfach in einen Schokoriegel zu beißen? Das muss ja nicht unbedingt ungesunder Süßkram sein - nein - rohvegan schmeckt´s doch viel, viel besser!
+      - listitem [ref=e2367]:
+        - img "karamell creme" [ref=e2368]
+        - generic [ref=e2369]:
+          - link "Vegane Karamell Dream Cream mit Macadamia-Splittern" [ref=e2370] [cursor=pointer]:
+            - /url: /r/karamell-dream-cream.html
+          - paragraph [ref=e2371]: Wow! So cremig und lecker karamellig, dabei ganz ohne Zucker! Denn den Geschmack liefern süße Medjoul-Datteln.
+      - listitem [ref=e2372]:
+        - generic [ref=e2373]:
+          - link "Vegane Hirse-Brei mit Schokolade und Vanille-Aprikosen" [ref=e2374] [cursor=pointer]:
+            - /url: /r/hirse-brei-schokolade-vanille-aprikosen.html
+          - paragraph [ref=e2375]: Hirse ist ein großartiges Getreide ganz ohne Gluten, dafür mit einer Menge an Mineralstoffen und Spurenelementen. Als süßer Brei gemeinsam mit Schokolade und Obst schmeckt es auch Groß & Klein!
+      - listitem [ref=e2376]:
+        - img "ai/ai seitan selbermachen" [ref=e2377]
+        - generic [ref=e2378]:
+          - 'link "Vegane Küchen-Basics: Seitan selbermachen" [ref=e2379] [cursor=pointer]':
+            - /url: /r/seitan-selbermachen.html
+          - paragraph [ref=e2380]: Mithilfe von Seitan-Pulver kann selbst ganz einfach schmackhafte Seitanprodukte zaubern und individuell verfeinern. Noch dazu ist das viel billiger als Fertigprodukte zu kaufen.
+      - listitem [ref=e2381]:
+        - img "ai/ai glutenfreie pancakes" [ref=e2382]
+        - generic [ref=e2383]:
+          - 'link "Veganes Frühstück deluxe: einfache, glutenfreie Kokos-Pancakes" [ref=e2384] [cursor=pointer]':
+            - /url: /r/glutenfreie-pancakes.html
+          - paragraph [ref=e2385]: Bitte einmal Frühstück ans Bett! Mit diesen leckeren fluffigen, glutenfreien Pancakes könnt Ihr Eure Liebsten verwöhnen oder Euch verwöhnen lassen.
+      - listitem [ref=e2386]:
+        - img "ai/ai brennnessel lasagne mit pilzen" [ref=e2387]
+        - generic [ref=e2388]:
+          - link "Brennnessel Vegane Lasagne mit Pilzen" [ref=e2389] [cursor=pointer]:
+            - /url: /r/brennnessel-lasagne-mit-pilzen.html
+          - paragraph [ref=e2390]: Brennnessel sind schmackhaft und überaus gesund. Noch dazu kann man sie beim Spaziergang sammeln und zu tollen Gerichten verwerten wie dieser Lasagne.
+      - listitem [ref=e2391]:
+        - img "ai/ai seitan steaks feurige mayo" [ref=e2392]
+        - generic [ref=e2393]:
+          - link "Marinierte Vegane Seitan-Steaks mit feuriger Mayo" [ref=e2394] [cursor=pointer]:
+            - /url: /r/seitan-steaks-feurige-mayo.html
+          - paragraph [ref=e2395]: Herzhaftes vom Grill, aber bitte vegan und mit viel Geschmack! Lecker marinierter Seitan eignet sich da ganz hervorragend und dazu gibt´s selbstgemachte, vegane Mayo.
+      - listitem [ref=e2396]:
+        - img "ai/ai mandel schoko beeren toertchen" [ref=e2397]
+        - generic [ref=e2398]:
+          - link "Vegane Mandel-Schoko-Törtchen mit Beeren" [ref=e2399] [cursor=pointer]:
+            - /url: /r/mandel-schoko-beeren-toertchen.html
+          - paragraph [ref=e2400]: Ein so traumhaft sommerlicher Kuchen mit leckerem Mandel-Brownie Boden, einer erfrischenden Creme und Beeren on Top - damit lässt sich ein schöner Tag feiern!
+      - listitem [ref=e2401]:
+        - img "ai/ai green smoothie ice cream" [ref=e2402]
+        - generic [ref=e2403]:
+          - link "Veganer Green-Smoothie Ice Cream" [ref=e2404] [cursor=pointer]:
+            - /url: /r/green-smoothie-ice-cream.html
+          - paragraph [ref=e2405]: Grüne Smoothies mal anders! Bei hochsommerlichen Temperaturen ist ein erfrischendes Eis immer eine willkommene Abkühlung. Mit dem grünen Smoothie Eis genießt man Eis und Salat in einem!
+      - listitem [ref=e2406]:
+        - img "ai/ai fruchtiger schafgarben salat" [ref=e2407]
+        - generic [ref=e2408]:
+          - link "Fruchtiger Veganer Schafgarben-Salat" [ref=e2409] [cursor=pointer]:
+            - /url: /r/fruchtiger-schafgarben-salat.html
+          - paragraph [ref=e2410]: Die Schafgarbe für diesen schmackhaften und gesunden Salat kann man bei einem schönen Spaziergang über die Wiese pflücken. Mit Orange und Aprikosen wird daraus eine fruchtige Abwechslung!
+      - listitem [ref=e2411]:
+        - img "ai/ai gegrillter spargel mit polenta schnitten" [ref=e2412]
+        - generic [ref=e2413]:
+          - link "Gegrillter Vegane Spargel mit Polenta-Schnitten" [ref=e2414] [cursor=pointer]:
+            - /url: /r/gegrillter-spargel-mit-polenta-schnitten.html
+          - paragraph [ref=e2415]: Spargel ist nicht nur ein kulinarischer Leckerbissen, sondern auch gesund und einfach zuzubereiten. Zu dem grünen, gegrillten Spargel servieren wir hier leckere Polenta-Ecken mit Rosmarin.
+      - listitem [ref=e2416]:
+        - img "ai/ai rohkost pizza" [ref=e2417]
+        - generic [ref=e2418]:
+          - link "Vegane Rohkost-Pizza" [ref=e2419] [cursor=pointer]:
+            - /url: /r/rohkost-pizza.html
+          - paragraph [ref=e2420]: Diese Raw Power Pizza vereint die Kräfte von gekeimter Quinoa, frischem Gemüse und aromatischen Kräutern. Lasst sie Euch schmecken und fühlt Euch nachhaltig gestärkt!
+      - listitem [ref=e2421]:
+        - img "ai/ai russischer zupfkuchen einfach vegan" [ref=e2422]
+        - generic [ref=e2423]:
+          - link "Russischer Zupfkuchen, einfach & vegan" [ref=e2424] [cursor=pointer]:
+            - /url: /r/russischer-zupfkuchen-einfach-vegan.html
+          - paragraph [ref=e2425]: Den wollen wir natürlich nicht missen! Unsere vegane Variante zählt weitaus weniger Kalorien als die nicht-vegane Sahne- und Butterbombe. So könnt Ihr ruhigen Gewissens genießen!
+      - listitem [ref=e2426]:
+        - img "ai/ai cashew joghurt" [ref=e2427]
+        - generic [ref=e2428]:
+          - link "Vegane Cashew-Joghurt" [ref=e2429] [cursor=pointer]:
+            - /url: /r/cashew-joghurt.html
+          - paragraph [ref=e2430]: Endlich ein sojafreies veganes Joghurt, das richtig cremig und erfrischend schmeckt! Dieses selbstgemachte Cashew-Joghurt ist sensationell.
+      - listitem [ref=e2431]:
+        - img "ai/ai vegane cevapcici frikadellen" [ref=e2432]
+        - generic [ref=e2433]:
+          - link "Vegane Cevapcici oder Frikadellen" [ref=e2434] [cursor=pointer]:
+            - /url: /r/vegane-cevapcici-frikadellen.html
+          - paragraph [ref=e2435]: Ja, auch Cevapcici und Frikadellen lassen sich auf rein pflanzlicher Basis selbst machen. Sie lassen sich auch toll auf den Grill schmeissen oder alternativ im Backrohr zubereiten.
+      - listitem [ref=e2436]:
+        - img "ai/ai mango eis" [ref=e2437]
+        - generic [ref=e2438]:
+          - link "Fruchtig Veganes leckeres Mangoeis" [ref=e2439] [cursor=pointer]:
+            - /url: /r/mango-eis.html
+          - paragraph [ref=e2440]: Schlicht, einfach und doch so ein Geschmackserlebnis! Dieses himmlische Softeis kommt mit ganz genau 3 Zutaten aus.
+      - listitem [ref=e2441]:
+        - img "ai/ai schnelle obstknoedel" [ref=e2442]
+        - generic [ref=e2443]:
+          - link "Schnelle Vegane Obstknödel" [ref=e2444] [cursor=pointer]:
+            - /url: /r/schnelle-obstknoedel.html
+          - paragraph [ref=e2445]: An manchen Tagen reicht die Zeit einfach nicht, um groß aufzukochen und doch kann man in Nullkommanichts ein tolles Essen wie diese leckeren Knödel zaubern.
+      - listitem [ref=e2446]:
+        - img "ai/ai vegane geburtstagstorte" [ref=e2447]
+        - generic [ref=e2448]:
+          - link "Vegane Geburtstagstorte" [ref=e2449] [cursor=pointer]:
+            - /url: /r/vegane-geburtstagstorte.html
+          - paragraph [ref=e2450]: "Diese Torte vereint alles, was sich Kinder- und auch die meisten Erwachsenenherzen normal so wünschen: einen Schokokuchen, Puddingcreme und natürlich was schönes buntes obendrauf!"
+      - listitem [ref=e2451]:
+        - img "ai/ai fingerfood spargel tofu paeckchen" [ref=e2452]
+        - generic [ref=e2453]:
+          - 'link "Veganes Fingerfood: Spargel-Tofu-Päckchen" [ref=e2454] [cursor=pointer]':
+            - /url: /r/fingerfood-spargel-tofu-paeckchen.html
+          - paragraph [ref=e2455]: Der Sommer ruft und mit ihm die Picknick- und Gartenparty-Zeit! Fingerfood lebe hoch. Frisch, knackig und praktisch zu essen sind diese Päckchen gefüllt mit frischem Spargel und Tofu.
+      - listitem [ref=e2456]:
+        - img "Mohnnudeln1" [ref=e2457]
+        - generic [ref=e2458]:
+          - link "Glutenfreie Vegane Mohnnudeln" [ref=e2459] [cursor=pointer]:
+            - /url: /r/glutenfreie-mohnnudeln.html
+          - paragraph [ref=e2460]: Wer kann schon dem Duft von frisch gewälzten und noch warmen Mohnnudeln widerstehen? Eben, wir auch nicht. Und unsere gluten- und weizenfreie Version schmeckt gleich doppelt so gut, weil auch empfindliche Mägen sie gut vertragen.
+      - listitem [ref=e2461]:
+        - img "ai/ai schneller veganer obstkuchen" [ref=e2462]
+        - generic [ref=e2463]:
+          - link "Schneller, Veganer Obstkuchen" [ref=e2464] [cursor=pointer]:
+            - /url: /r/schneller-veganer-obstkuchen.html
+          - paragraph [ref=e2465]: Herrlich so ein flaumiger Kuchen mit saftigem Obst obendrauf! Was gibt es im Sommer schöneres als bei Kaffee und frisch gebackenem Obstkuchen die Sonne zu genießen?
+      - listitem [ref=e2466]:
+        - img "ai/ai gegrilltes gemuese" [ref=e2467]
+        - generic [ref=e2468]:
+          - link "Gegrilltes Vegane Gemüse mit Rosmarin" [ref=e2469] [cursor=pointer]:
+            - /url: /r/gegrilltes-gemuese.html
+          - paragraph [ref=e2470]: "Die Grillsaison startet. Was gibt es da besseres als geschmackvoll mariniertes Gemüse vom Grill? Hier ein Rezept für Euch frei nach Kochabo.at:"
+      - listitem [ref=e2471]:
+        - img "ai/ai rohkoestliches eiskonfekt" [ref=e2472]
+        - generic [ref=e2473]:
+          - link "Veganes Rohköstliches Eiskonfekt" [ref=e2474] [cursor=pointer]:
+            - /url: /r/rohkoestliches-eiskonfekt.html
+          - paragraph [ref=e2475]: Wie wäre es mal mit selbstgemachtem Eiskonfekt zum Dessert oder einfach mal so? Das ist einfach und mal was anderes als gekauftes Eis. Dabei kannst Du Dich auch kreativ mit Toppings austoben.
+      - listitem [ref=e2476]:
+        - img "ai/ai selbstgemachtes kokosnuss joghurt rejuvelac" [ref=e2477]
+        - generic [ref=e2478]:
+          - link "Selbstgemachtes Vegane Kokosnuss-Joghurt mit Rejuvelac" [ref=e2479] [cursor=pointer]:
+            - /url: /r/selbstgemachtes-kokosnuss-joghurt-rejuvelac.html
+          - paragraph [ref=e2480]: Wir haben ein Rezept kreiert, wofür es keine frischen Kokosnüsse braucht. Dem Ergebnis merkt man das nicht an. Es wird cremig und hat eine super Konsistenz!
+      - listitem [ref=e2481]:
+        - img "ai/ai rohkoestlicher quinoa salat" [ref=e2482]
+        - generic [ref=e2483]:
+          - link "Veganer Rohköstlicher Quinoa-Salat" [ref=e2484] [cursor=pointer]:
+            - /url: /r/rohkoestlicher-quinoa-salat.html
+          - paragraph [ref=e2485]: Quinoa ist ja an sich schon ein wahrer Superhero, gekeimt strotzt es aber noch zusätzlich vor enzymatischer Kraft und schmeckt großartig!
+      - listitem [ref=e2486]:
+        - img "ai/ai veganer rohkost kaese rezept" [ref=e2487]
+        - generic [ref=e2488]:
+          - link "Gereifter Vegane Rohkost-Käse aus Nüssen" [ref=e2489] [cursor=pointer]:
+            - /url: /r/veganer-rohkost-kaese-rezept.html
+          - paragraph [ref=e2490]: So cremig, so voll Geschmack und dabei nur aus rohen pflanzlichen Zutaten - kaum zu glauben! Die Zubereitung ist simpel, jedoch braucht man etwas Geduld.
+      - listitem [ref=e2491]:
+        - img "mango dhal" [ref=e2492]
+        - generic [ref=e2493]:
+          - link "Rohköstliches Veganes Mango-Dhal" [ref=e2494] [cursor=pointer]:
+            - /url: /r/rohkoestliches-mango-dhal.html
+          - paragraph [ref=e2495]: Fruchtig, energiereich & rohvegan ist das Mango-Dhal, dessen Rezept uns von Tilia´s little uncooked Restaurant verraten wurde.
+      - listitem [ref=e2496]:
+        - img "ai/ai kraeuter limonade" [ref=e2497]
+        - generic [ref=e2498]:
+          - link "Die Vegane beste Kräuter-Limonade, selbstgemacht!" [ref=e2499] [cursor=pointer]:
+            - /url: /r/kraeuter-limonade.html
+          - paragraph [ref=e2500]: "Spritzig & erfrischend: nicht nur die beste Limonade - nein - wohl auch die gesündeste! Da können sich herkömmliche Limos verstecken."
+      - listitem [ref=e2501]:
+        - img "ai/ai rejuvelac" [ref=e2502]
+        - generic [ref=e2503]:
+          - 'link "Veganes Rejuvelac: probiotisch & spritzig" [ref=e2504] [cursor=pointer]':
+            - /url: /r/rejuvelac.html
+          - paragraph [ref=e2505]: Habt Ihr schon von Rejuvelac gehört? Dabei handelt es sich nicht nur um ein enzymreiches, fermentiertes und überaus gesundes Getränk, sondern es kann auch als Starter für pflanzliches Joghurt und Käse eingesetzt werden.
+      - listitem [ref=e2506]:
+        - img "ai/ai rohkost schokoladen fondue" [ref=e2507]
+        - generic [ref=e2508]:
+          - link "Vegane Rohköstliches Schokoladen-Fondue" [ref=e2509] [cursor=pointer]:
+            - /url: /r/rohkost-schokoladen-fondue.html
+          - paragraph [ref=e2510]: Herrlich! Frische Früchte in eine dickflüssige, schokoladige Sauce gedippt, ob als Dessert, zum Frühstück oder einfach mal zwischendurch!
+      - listitem [ref=e2511]:
+        - img "ai/ai gesunde vegane margarine selbst gemacht" [ref=e2512]
+        - generic [ref=e2513]:
+          - link "Gesunde, Vegane Margarine, selbst gemacht!" [ref=e2514] [cursor=pointer]:
+            - /url: /r/gesunde-vegane-margarine-selbst-gemacht.html
+          - paragraph [ref=e2515]: Palmölfrei, Rohkost, bio - as you wish! Endlich ein einfaches Rezept für Margarine, das schnell geht und mit nur 2 Zutaten auskommt.
+      - listitem [ref=e2516]:
+        - img "spargel quinoa risotto" [ref=e2517]
+        - generic [ref=e2518]:
+          - link "Veganes Quinoa-Risotto mit grünem Spargel und Champignons" [ref=e2519] [cursor=pointer]:
+            - /url: /r/spargel-quinoa-risotto.html
+          - paragraph [ref=e2520]: Quinoa ist eine der besten pflanzlichen Eiweissquellen und enthält außerdem alle neun essentiellen Aminosäuren. Gemeinsam mit Gemüse wird darauf ein schmackhaftes und äußerst gesundes Risotto.
+      - listitem [ref=e2521]:
+        - img "ai/ai zucchinicremesuppe" [ref=e2522]
+        - generic [ref=e2523]:
+          - link "Vegane Einfache, schmackhafte Zucchinicremesuppe" [ref=e2524] [cursor=pointer]:
+            - /url: /r/zucchinicremesuppe.html
+          - paragraph [ref=e2525]: Sommerlich und voller Aromen ist diese Suppe! Auch die Zubereitung kostet nicht viel Mühe und man kann gut verwerten, was man in der Gemüselade findet.
+      - listitem [ref=e2526]:
+        - img "hafermilch" [ref=e2527]
+        - generic [ref=e2528]:
+          - link "Selbstgemachte Vegane Hafermilch ohne kochen!" [ref=e2529] [cursor=pointer]:
+            - /url: /r/selbstgemachte-hafermilch-rohkost.html
+          - paragraph [ref=e2530]: Auf der Suche nach einer Alternative zur Milch aus Soja, stößt man neben Mandel- auch auf Hafermilch. Wie Du sie selber in Rohkost-Qualität machen kannst, erfährst Du hier!
+      - listitem [ref=e2531]:
+        - img "ai/ai hafer soja laibchen" [ref=e2532]
+        - generic [ref=e2533]:
+          - link "Vegane Hafer-Soja-Laibchen" [ref=e2534] [cursor=pointer]:
+            - /url: /r/hafer-soja-laibchen.html
+          - paragraph [ref=e2535]: Hafermilch selbst zu machen geht ganz einfach und den Rückstand kann man auch gleich für Laibchen weiterverwerten. Upcycling nennt sich das!
+      - listitem [ref=e2536]:
+        - img "ai/ai vollwert gemuesekuchen" [ref=e2537]
+        - generic [ref=e2538]:
+          - link "Vollwertiger Veganer Gemüsekuchen" [ref=e2539] [cursor=pointer]:
+            - /url: /r/vollwert-gemuesekuchen.html
+          - paragraph [ref=e2540]: Viel Gemüse, ein fluffiger Vollkornteig, mediterrane Gewürze – mit diesem Gemüsekuchen holt man sich die Sonne in die Küche und in den Magen!
+      - listitem [ref=e2541]:
+        - img "ai/ai carmargue reis mit pilzen" [ref=e2542]
+        - generic [ref=e2543]:
+          - link "Roter Veganes Carmargue Reis mit Pilzen und getrockneten Tomaten" [ref=e2544] [cursor=pointer]:
+            - /url: /r/carmargue-reis-mit-pilzen.html
+          - paragraph [ref=e2545]: Das Gericht bringt Farbe und Abwechslung in die Reisküche!
+      - listitem [ref=e2546]:
+        - img "ai/ai zitronen pasta spargel erbsen" [ref=e2547]
+        - generic [ref=e2548]:
+          - link "Vegane Zitronen-Pasta mit grünem Spargel & Erbsen" [ref=e2549] [cursor=pointer]:
+            - /url: /r/zitronen-pasta-spargel-erbsen.html
+          - paragraph [ref=e2550]: Herrlich und sehr einfach ist diese Pasta, die frisch schmeckt wie der Frühling! Nutzt die Spargelsaison solange sie anhält.
+      - listitem [ref=e2551]:
+        - img "ai/ai marmor kuchen gugelhupf" [ref=e2552]
+        - generic [ref=e2553]:
+          - 'link "Ein Klassiker vegan & vollwertig: Marmorkuchen bzw. -gugelhupf" [ref=e2554] [cursor=pointer]':
+            - /url: /r/marmor-kuchen-gugelhupf.html
+          - paragraph [ref=e2555]: Marmorkuchen ist der Klassiker unter den Kuchen und auch vegan ganz einfach zu zaubern. Keiner würde bei der rein pflanzlichen Variante einen Unterschied merken.
+      - listitem [ref=e2556]:
+        - img "ai/ai zitronen minz pesto" [ref=e2557]
+        - generic [ref=e2558]:
+          - link "Veganes Minzpesto mit zitroniger Note" [ref=e2559] [cursor=pointer]:
+            - /url: /r/zitronen-minz-pesto.html
+          - paragraph [ref=e2560]: Da lässt sich die Sonne blicken und auf der Terrasse wuchert schon die Minze. Bei Euch auch? Na dann los, versucht das sommerlich, erfrischende Minz-Pesto!
+      - listitem [ref=e2561]:
+        - img "ai/ai veganer mozzarella selbstgemacht" [ref=e2562]
+        - generic [ref=e2563]:
+          - link "Veganer Mozzarella selbstgemacht" [ref=e2564] [cursor=pointer]:
+            - /url: /r/veganer-mozzarella-selbstgemacht.html
+          - paragraph [ref=e2565]: Endlich haben wir ein Rezept gefunden, das 1. ganz einfach geht, 2. mit wenigen Zutaten auskommt und 3. überzeugend roh-köstlich schmeckt!
+      - listitem [ref=e2566]:
+        - img "ai/ai himbeer kokos cheesecake" [ref=e2567]
+        - generic [ref=e2568]:
+          - link "Vegane Rohköstlicher Himbeer-Kokos-Cheesecake" [ref=e2569] [cursor=pointer]:
+            - /url: /r/himbeer-kokos-cheesecake.html
+          - paragraph [ref=e2570]: Himmlisch! Ein verführerischer Kuchen, so frisch, fruchtig, exotisch, dabei cremig und das ganze ist auch noch Rohkost! Probiert ihn doch einfach selbst!
+      - listitem [ref=e2571]:
+        - img "ai/ai buntes gemuese sushi" [ref=e2572]
+        - generic [ref=e2573]:
+          - link "Buntes Vegane Gemüsesushi" [ref=e2574] [cursor=pointer]:
+            - /url: /r/buntes-gemuese-sushi.html
+          - paragraph [ref=e2575]: Crudités mal anders. In dieser Form schmeckt rohes Gemüse doch gleich viel besser! Rohkost-Sushi macht sich als Vorspeise oder als leichte Mahlzeit gut.
+      - listitem [ref=e2576]:
+        - img "ai/ai veganer camembert" [ref=e2577]
+        - generic [ref=e2578]:
+          - link "Veganer Camembert mit Mohn" [ref=e2579] [cursor=pointer]:
+            - /url: /r/veganer-camembert.html
+          - paragraph [ref=e2580]: Ja, Ihr habt richtig gelesen. Zwar ist die vegane Version nicht ganz so cremig wie sein nicht-veganes Pendant, dafür enthält er auch nur gesunde Fette.
+      - listitem [ref=e2581]:
+        - img "ai/ai kaiserschmarrn vegan" [ref=e2582]
+        - generic [ref=e2583]:
+          - link "Kaiserschmarrn vegan" [ref=e2584] [cursor=pointer]:
+            - /url: /r/kaiserschmarrn-vegan.html
+          - paragraph [ref=e2585]: Was für ein herrliches Rezept! Einfacher könnte es auch kaum sein. Dabei werden Kindheitserinnerungen wieder wahr.
+      - listitem [ref=e2586]:
+        - img "ai/ai gebackener blumenkohl fettarm" [ref=e2587]
+        - generic [ref=e2588]:
+          - link "Gebackenes Veganes Blumenkohl-Steak mit Parmesan & Pinienkernen" [ref=e2589] [cursor=pointer]:
+            - /url: /r/gebackener-blumenkohl-fettarm.html
+          - paragraph [ref=e2590]: "So einfach, so lecker und so hübsch: Blumenkohl schmackhaft mariniert und im Rohr gebacken! Dazu gibt es veganen Nussparmesan und Pinienkerne."
+      - listitem [ref=e2591]:
+        - img "spargel tart" [ref=e2592]
+        - generic [ref=e2593]:
+          - link "Vegane Spargel-Kartoffel-Tarte nach Jamie Oliver" [ref=e2594] [cursor=pointer]:
+            - /url: /r/spargel-kartoffel-tarte-jamie-oliver.html
+          - paragraph [ref=e2595]: Jamie Oliver´s Rezepte haben immer einen besonderen Twist. Leider sind nur wenige Kreationen ohne tierische Zutaten. Diese leckere Tart haben wir veganisiert!
+      - listitem [ref=e2596]:
+        - img "ai/ai erdbeer fruchtplunder" [ref=e2597]
+        - generic [ref=e2598]:
+          - link "Vegane 5 Minuten Erdbeer-Fruchtplunder" [ref=e2599] [cursor=pointer]:
+            - /url: /r/erdbeer-fruchtplunder.html
+          - paragraph [ref=e2600]: Es soll schnell gehen und trotzdem beeindrucken? Mit diesen veganen Fruchtplundern liegst Du bei klein und gross goldrichtig!
+      - listitem [ref=e2601]:
+        - img "ai/ai overnight oats toertchen" [ref=e2602]
+        - generic [ref=e2603]:
+          - link "Overnight Veganes Oats Frühstücks-Törtchen mit Erdbeeren" [ref=e2604] [cursor=pointer]:
+            - /url: /r/overnight-oats-toertchen.html
+          - paragraph [ref=e2605]: Würdet Ihr auch gerne mal so ein Frühstück ans Bett gebracht bekommen? Overnight Oats in Törtchen-Form gebracht mit frischen Erdbeeren - so lässt sich der Tag starten!
+      - listitem [ref=e2606]:
+        - img "ai/ai vegane calamari" [ref=e2607]
+        - generic [ref=e2608]:
+          - link "Vegane panierte Calamari mit Petersilkartoffeln" [ref=e2609] [cursor=pointer]:
+            - /url: /r/vegane-calamari.html
+          - paragraph [ref=e2610]: Vegane Tintenfisch-Ringe ohne Tinte, Fisch und leer gefischte Meere. Paniert mit MyEy, Vollkorn-Semmelbrösel und Dinkelmehl, dazu Petersilkartoffeln. Schmecken Kindern, Erwachsenen und sogar Leuten, die nicht glauben können, dass das vegan ist.
+      - listitem [ref=e2611]:
+        - img "Brokkoli Sesam" [ref=e2612]
+        - generic [ref=e2613]:
+          - link "Vegane Sesam-Brokkoli" [ref=e2614] [cursor=pointer]:
+            - /url: /r/sesam-brokkoli.html
+          - paragraph [ref=e2615]: "Brokkoli strotzt nur so vor guten Eigenschaften: Neben Kalium, Calcium, Eisen, Zink und diversen anderen wichtigen Vitaminen enthält er nur wenig Kalorien. Dafür darf das Dressing etwas cremiger ausfallen: Der kohlige Brokkoli wird von einem samtig-zitronigen Tahini-Dressing umhüllt."
+      - listitem [ref=e2616]:
+        - img "ai/ai pikante knabbernuesse" [ref=e2617]
+        - generic [ref=e2618]:
+          - link "Pikante Vegane Knabbernüsse" [ref=e2619] [cursor=pointer]:
+            - /url: /r/pikante-knabbernuesse.html
+          - paragraph [ref=e2620]: "Das ideale Mitbringsel für einen Abend in geselliger Runde oder der perfekte Snack für den gemütlichen Filmabend zu Hause: knusprige Nüsse – süßlich, scharf, mit einem leichten Raucharoma."
+      - listitem [ref=e2621]:
+        - img "ai/ai wildkraeuter suppe" [ref=e2622]
+        - generic [ref=e2623]:
+          - link "Vegane Grüne Frühlingssuppe mit Wildkräutern" [ref=e2624] [cursor=pointer]:
+            - /url: /r/wildkraeuter-suppe.html
+          - paragraph [ref=e2625]: Saftig grün ist es und überall sprießt es. Nutzt die Zeit und sammelt frische schmackhafte Kräuter und lasst Euch den Frühling schmecken!
+      - listitem [ref=e2626]:
+        - img "ai/ai baerlauch frischkaese roellchen" [ref=e2627]
+        - generic [ref=e2628]:
+          - link "Vegane Rohköstliche Bärlauch-Frischkäse-Röllchen" [ref=e2629] [cursor=pointer]:
+            - /url: /r/baerlauch-frischkaese-roellchen.html
+          - paragraph [ref=e2630]: Frisch und fröhlich schnell gerollt sind diese Röllchen aus frischem Bärlauch und Cashew-Frischkäse. Das schmeckt nach Frühling!
+      - listitem [ref=e2631]:
+        - img "ai/ai erdbeer whoopies" [ref=e2632]
+        - generic [ref=e2633]:
+          - link "Sahnige Vegane Erdbeer-Whoopies" [ref=e2634] [cursor=pointer]:
+            - /url: /r/erdbeer-whoopies.html
+          - paragraph [ref=e2635]: Whoop Whoop Whoopies! Bei diesem Rezept kann man nicht viel falsch machen und das Ergebnis wird alle, ob klein oder groß, schlichtweg begeistern.
+      - listitem [ref=e2636]:
+        - img "ai/ai kokos sahne frosting" [ref=e2637]
+        - generic [ref=e2638]:
+          - link "Vegane Kokos-Sahne oder -Frosting" [ref=e2639] [cursor=pointer]:
+            - /url: /r/kokos-sahne-frosting.html
+          - paragraph [ref=e2640]: Eine vegane Sahne, die genau aus einer einzigen Zutat besteht? Ganz ohne Zusatzstoffe? Ja, wir haben die Lösung für das vegane Sahne-Dilemma gefunden!
+      - listitem [ref=e2641]:
+        - img "ai/ai baerlauch pesto vollkorn spagetthi" [ref=e2642]
+        - generic [ref=e2643]:
+          - link "Schmackhaftes Vegane Bärlauch-Pesto mit Vollkorn-Spagetthi" [ref=e2644] [cursor=pointer]:
+            - /url: /r/baerlauch-pesto-vollkorn-spagetthi.html
+          - paragraph [ref=e2645]: Die Bärlauch-Zeit muss man nutzen, denn sie vergeht schneller als einem oftmals lieb ist. Ein leckeres Pesto ist daraus schnell gezaubert und ergibt mit Vollkorn-Nudeln ein tolles, gesundes Essen.
+      - listitem [ref=e2646]:
+        - img "ai/ai french toast" [ref=e2647]
+        - generic [ref=e2648]:
+          - 'link "Veganer French Toast: simpel & herrlich" [ref=e2649] [cursor=pointer]':
+            - /url: /r/french-toast.html
+          - paragraph [ref=e2650]: Nur noch hart gewordenes Brot zu hause? Perfekt! Mit ein paar weiteren Zutaten lässt sich daraus ein Luxus-Frühstück zaubern!
+      - listitem [ref=e2651]:
+        - img "ai/ai vollkorn osterpinzen osterhasen" [ref=e2652]
+        - generic [ref=e2653]:
+          - link "Schnelle Vegane Vollkorn-Osterpinzen und -Osterhasen" [ref=e2654] [cursor=pointer]:
+            - /url: /r/vollkorn-osterpinzen-osterhasen.html
+          - paragraph [ref=e2655]: Dieses blitzschnelle, vollwertige Rezept für einen veganen Hefeteig lässt sich super für jegliche Art von Ostergebäck einsetzen. Wir haben es mit Pinzen und Häschen versucht.
+      - listitem [ref=e2656]:
+        - img "ai/ai baerlauch wraps" [ref=e2657]
+        - generic [ref=e2658]:
+          - link "Bärlauch-Wraps mit veganem Ricotta" [ref=e2659] [cursor=pointer]:
+            - /url: /r/baerlauch-wraps.html
+          - paragraph [ref=e2660]: "Wenn´s im Wald und auf den Wiesen nach Knoblauch riecht, dann ist sie da: die Bärlauch-Zeit! So manches frühlingshafte Gericht lässt sich aus den schmackhaften Blättern zaubern."
+      - listitem [ref=e2661]:
+        - img "ai/ai veganer ricotta" [ref=e2662]
+        - generic [ref=e2663]:
+          - link "Veganer Ricotta" [ref=e2664] [cursor=pointer]:
+            - /url: /r/veganer-ricotta.html
+          - paragraph [ref=e2665]: Ha, wer hätte das gedacht, dass veganer Ricotta so einfach zu machen ist und dabei so großartig schmeckt? Fettarm ist er noch dazu!
+      - listitem [ref=e2666]:
+        - img "ai/ai anti aging smoothie" [ref=e2667]
+        - generic [ref=e2668]:
+          - 'link "Pink Veganer ist das neue grün: Anti-Aging Smoothie" [ref=e2669] [cursor=pointer]':
+            - /url: /r/anti-aging-smoothie.html
+          - paragraph [ref=e2670]: "Zum Frühstück oder mal zwischendurch: dieser knallig pinke Smoothie steckt voller Antioxidantien und pflanzlicher Powerstoffe, die wie ein Jungbrunnen wirken!"
+      - listitem [ref=e2671]:
+        - img "Bratkartoffeln Ofen" [ref=e2672]
+        - generic [ref=e2673]:
+          - link "Bratkartoffeln Vegane aus dem Ofen" [ref=e2674] [cursor=pointer]:
+            - /url: /r/bratkartoffeln-ofen.html
+          - paragraph [ref=e2675]: Für Bratkartoffeln benötigt man sicher nicht unbedingt ein eigenes Rezept. Diese fettarme Version beinhaltet jedoch eine kleine Geheimzutat, die den Bratkartoffeln einen schmackhaften Twist verleiht.
+      - listitem [ref=e2676]:
+        - img "ai/ai rotwein gewuerz birnen" [ref=e2677]
+        - generic [ref=e2678]:
+          - link "Rotwein Vegane Gewürz Birnen" [ref=e2679] [cursor=pointer]:
+            - /url: /r/rotwein-gewuerz-birnen.html
+          - paragraph [ref=e2680]: Mal was anderes als Bratäpfel und eine gute Idee um eine offene Flasche Rotwein zu verwerten! Diese lecker duftenden Rotweinbirnen machen sich als leichter Abschluss eines festlichen Menüs ausgezeichnet.
+      - listitem [ref=e2681]:
+        - img "ai/ai gruenkern baellchen letscho" [ref=e2682]
+        - generic [ref=e2683]:
+          - link "Vegane Grünkern-Bällchen auf Letscho" [ref=e2684] [cursor=pointer]:
+            - /url: /r/gruenkern-baellchen-letscho.html
+          - paragraph [ref=e2685]: "Ein Rezept das niemand missen sollte: Grünkern Bällchen schmecken herrlich zu Gemüse oder anstatt \"Meatballs\" mit Tomatensauce auf Spaghetti."
+      - listitem [ref=e2686]:
+        - img "ai/ai rohvegane bunte ostereier" [ref=e2687]
+        - generic [ref=e2688]:
+          - link "Rohvegane bunte Ostereier" [ref=e2689] [cursor=pointer]:
+            - /url: /r/rohvegane-bunte-ostereier.html
+          - paragraph [ref=e2690]: "Mit etwas Kreativität lassen sich auch Osterbräuche veganisieren und nicht nur das: sogar rohköstlich sind unsere Ostereier und blitzschnell geht es noch dazu!"
+      - listitem [ref=e2691]:
+        - img "ai/ai pina colada schokolade" [ref=e2692]
+        - generic [ref=e2693]:
+          - link "Pina Vegane Colada Schokolade" [ref=e2694] [cursor=pointer]:
+            - /url: /r/pina-colada-schokolade.html
+          - paragraph [ref=e2695]: Getrocknete Ananas trifft auf Kokosgeschmack und das in einer Schokolade. Da werden Südsee-Träume wahr!
+      - listitem [ref=e2696]:
+        - img "ai/ai reisnudeln mit gemuese und tofu" [ref=e2697]
+        - generic [ref=e2698]:
+          - link "Reisnudeln Veganes mit Gemüse und Tofu" [ref=e2699] [cursor=pointer]:
+            - /url: /r/reisnudeln-mit-gemuese-und-tofu.html
+          - paragraph [ref=e2700]: Ein leichtes asiatisches Gericht mit viel frischem Gemüse, knackigen Sprossen und leckeren Tofuwürfeln, jedoch im Gegensatz zu den üblichen gebratenen Nudeln fettarm!
+      - listitem [ref=e2701]:
+        - img "ai/ai zitrus fenchel feldsalat" [ref=e2702]
+        - generic [ref=e2703]:
+          - link "Veganer Fröhlicher Zitrus-Fenchel-Feldsalat" [ref=e2704] [cursor=pointer]:
+            - /url: /r/zitrus-fenchel-feldsalat.html
+          - paragraph [ref=e2705]: Soviele schöne Farben auf einem Teller und erst die verschiedenen Geschmäcker, die hier zusammentreffen und herrlich harmonieren.
+      - listitem [ref=e2706]:
+        - img "Saukraut 2" [ref=e2707]
+        - generic [ref=e2708]:
+          - link "Vegane Sauerkraut-Auflauf" [ref=e2709] [cursor=pointer]:
+            - /url: /r/sauerkraut-auflauf.html
+          - paragraph [ref=e2710]: Kartoffeln und Sauerkraut sind genau das Richtige an einem kalten und nassen Tag, wenn man etwas Herzhaftes möchte, das sowohl Körper als auch Seele wärmt und nährt. Gut also, dass dieser Auflauf gleich mit beiden Soulfood-Pflanzen aufwartet!
+      - listitem [ref=e2711]:
+        - img "KO Muffins 1" [ref=e2712]
+        - generic [ref=e2713]:
+          - link "Vegane K.O.-Muffins oder Kichererbse trifft Orange" [ref=e2714] [cursor=pointer]:
+            - /url: /r/kichererbsen-orangen-muffins.html
+          - paragraph [ref=e2715]: Keine Sorge, bei diesen Muffins geht bestimmt keiner K.O.! Aber umwerfend lecker und richtig saftig sind sie allemal. Was sie noch besonderer macht? Aufgrund des Kichererbsenmehls sind sie auch für die glutenfreie Kaffeetafel wunderbar geeignet.
+      - listitem [ref=e2716]:
+        - img "ai/ai feldsalat mit erbsen und sprossen" [ref=e2717]
+        - generic [ref=e2718]:
+          - link "Veganer Feldsalat mit Erbsen und Sprossen" [ref=e2719] [cursor=pointer]:
+            - /url: /r/feldsalat-mit-erbsen-und-sprossen.html
+          - paragraph [ref=e2720]: Die Mischung klingt vielleicht etwas außergewöhnlich, schmeckt aber umso besser. Das schmackhafte Dressing rundet den Geschmack ab.
+      - listitem [ref=e2721]:
+        - img "zucchini roellchen" [ref=e2722]
+        - generic [ref=e2723]:
+          - 'link "Vegane Antipasti: Zucchiniröllchen" [ref=e2724] [cursor=pointer]':
+            - /url: /r/vegane-antipasti-zucchiniroellchen.html
+          - paragraph [ref=e2725]: "Herrlich frisch und ein ein schöner Hingucker: gefüllte Zucchiniröllchen mit Balsamico und Olivenöl mariniert ergibt eine hübsche Vorspeise."
+      - listitem [ref=e2726]:
+        - img "White Chocolate Tarte" [ref=e2727]
+        - generic [ref=e2728]:
+          - link "White Vegane Chocolate Lemon Tarte" [ref=e2729] [cursor=pointer]:
+            - /url: /r/white-chocolate-lemon-tarte.html
+          - paragraph [ref=e2730]: "Eine kulinarische Verführung von Surdham Göb: Die süße Creme mit einer zitronigen Note lässt einen von Sommer und Wärme träumen. Sie zergeht auf der Zunge und ist eine unglaubliche Geschmacksexplosion. Das Rezept stammt aus seinem Buch \"Meine vegane Küche\"."
+      - listitem [ref=e2731]:
+        - img "ai/ai asiatische reisnudelsuppe" [ref=e2732]
+        - generic [ref=e2733]:
+          - link "Asiatische Vegane Reisnudelsuppe mit knackigem Gemüse" [ref=e2734] [cursor=pointer]:
+            - /url: /r/asiatische-reisnudelsuppe.html
+          - paragraph [ref=e2735]: So eine Nudelsuppe ist ein wahrer Seelenschmeichler. Sie wärmt, macht angenehm satt und schmeckt hervorragend!
+      - listitem [ref=e2736]:
+        - img "ai/ai kokos safran reis zuckerschoten" [ref=e2737]
+        - generic [ref=e2738]:
+          - link "Veganes Kokos-Safran Reis mit Zuckerschoten" [ref=e2739] [cursor=pointer]:
+            - /url: /r/kokos-safran-reis-zuckerschoten.html
+          - paragraph [ref=e2740]: "Orientalische Gewürze, der exotische Geschmack von Kokos, Nüsse, Rosinen und knackige Zuckerschoten: eine aufregende Mischung!"
+      - listitem [ref=e2741]:
+        - img "ai/ai glutenfreier karottenkuchen" [ref=e2742]
+        - generic [ref=e2743]:
+          - link "Saftiger Veganer glutenfreier Karottenkuchen" [ref=e2744] [cursor=pointer]:
+            - /url: /r/glutenfreier-karottenkuchen.html
+          - paragraph [ref=e2745]: Dieser Kuchen ist schnell und einfach gebacken und toll für jeden Anlass. Auch ohne besonderen Anlass ist der Kuchen allein Grund genug zu feiern!
+      - listitem [ref=e2746]:
+        - img "ai/ai falafel trilogie" [ref=e2747]
+        - generic [ref=e2748]:
+          - link "Bunte Vegane Falafel Trilogie" [ref=e2749] [cursor=pointer]:
+            - /url: /r/falafel-trilogie.html
+          - paragraph [ref=e2750]: Falafel und Humus sind oftmals die einzige Rettung für Veganer*innen, die es so ziemlich überall gibt, auch am Imbissstand um die Ecke. Selbstgemacht schmecken Falafel aber noch viel besser!
+      - listitem [ref=e2751]:
+        - img "ai/ai thailaendischer papaya salat" [ref=e2752]
+        - generic [ref=e2753]:
+          - link "Veganer Thailändischer Papaya-Salat" [ref=e2754] [cursor=pointer]:
+            - /url: /r/thailaendischer-papaya-salat.html
+          - paragraph [ref=e2755]: Dieser scharfe Salat aus grünen Papayas ist in Thailand überall erhältlich und allseits beliebt. Leider ist er kaum ohne Fischsauce zu bekommen, daher machen wir ihn selbst!
+      - listitem [ref=e2756]:
+        - img "ai/ai scharfer glas nudelsalat" [ref=e2757]
+        - generic [ref=e2758]:
+          - link "Scharfer Veganer Glas-Nudelsalat" [ref=e2759] [cursor=pointer]:
+            - /url: /r/scharfer-glas-nudelsalat.html
+          - paragraph [ref=e2760]: "Der Salat hat es in sich: Knoblauch, Zwiebel und Chilis verleihen ihm den feurigen Geschmack und machen ihn zu einem gesunden Essen, das natürliche Antibiotika enthält."
+      - listitem [ref=e2761]:
+        - img "ai/ai rohvegane brownies mit vanilleeis" [ref=e2762]
+        - generic [ref=e2763]:
+          - link "Rohvegane Brownies mit Vanilleeis" [ref=e2764] [cursor=pointer]:
+            - /url: /r/rohvegane-brownies-mit-vanilleeis.html
+          - paragraph [ref=e2765]: Eine herrliche Kombination, die sich bewährt hat, aber diesmal roh und vegan! Chocolate meets Vanilla - diese Geschmacksexplosion wird jeden Genießer in pure Glückseligkeit versetzen.
+      - listitem [ref=e2766]:
+        - img "veganer Heringssalat" [ref=e2767]
+        - generic [ref=e2768]:
+          - link "Veganer Heringssalat" [ref=e2769] [cursor=pointer]:
+            - /url: /r/veganer-heringssalat.html
+          - paragraph [ref=e2770]: Aufgrund ihres hohen Vitamin B-, Kalium-, Eisen- und vor allem Folsäuregehalts ist die Rote Bete ein Gemüse, das für jeden Tisch nicht nur optisch eine Bereicherung ist.
+      - listitem [ref=e2771]:
+        - img "ai/ai miigan soy protex rezept gewinnspiel" [ref=e2772]
+        - generic [ref=e2773]:
+          - link "Vegane Sesam-Soja-Schnetzel mit Miigan Soy Protex + Gewinnspiel" [ref=e2774] [cursor=pointer]:
+            - /url: /r/miigan-soy-protex-rezept-gewinnspiel.html
+          - paragraph [ref=e2775]: Vegan ist nicht teuer! Pflanzliche Proteinquellen wie Bohnen oder texturiertes Soja sind allemal billiger als Fleisch und können vielfältig und schmackhaft zubereitet werden.
+      - listitem [ref=e2776]:
+        - img "ai/ai okra erdnuss eintopf" [ref=e2777]
+        - generic [ref=e2778]:
+          - link "Veganer Okra-Erdnuss-Eintopf" [ref=e2779] [cursor=pointer]:
+            - /url: /r/okra-erdnuss-eintopf.html
+          - paragraph [ref=e2780]: Zur Abwechslung mal ein westafrikanisches Gericht, das wir hier auf vegane Weise ausprobiert und für sehr sehr schmackhaft empfunden haben.
+      - listitem [ref=e2781]:
+        - img "ai/ai farbenfroher gemuese salat" [ref=e2782]
+        - generic [ref=e2783]:
+          - link "Farbenfroher Veganer Gemüse-Salat" [ref=e2784] [cursor=pointer]:
+            - /url: /r/farbenfroher-gemuese-salat.html
+          - paragraph [ref=e2785]: Bunt wie der Regenbogen und mit einer Menge Vitalstoffen ausgerüstet, bringt dieser Salat eine willkommene Abwechslung auf den Tisch.
+      - listitem [ref=e2786]:
+        - img "ai/ai green curry" [ref=e2787]
+        - generic [ref=e2788]:
+          - link "Veganes Green Curry mit Kokosmilch und knackigem Gemüse" [ref=e2789] [cursor=pointer]:
+            - /url: /r/green-curry.html
+          - paragraph [ref=e2790]: Die exotische Synergie von Kokosmilch mit vielen aromatischen Gewürzen und dem frischen, noch knackigem Gemüse ist wie ein Kurzurlaub auf einer thailändischen Insel.
+      - listitem [ref=e2791]:
+        - img "ai/ai rohkoestlicher apfel trifle" [ref=e2792]
+        - generic [ref=e2793]:
+          - link "Rohköstliches Veganes Apfel Trifle" [ref=e2794] [cursor=pointer]:
+            - /url: /r/rohkoestlicher-apfel-trifle.html
+          - paragraph [ref=e2795]: Ein Traum aus Äpfeln, Creme und Karamell! Ein Dessert ganz ohne Zucker oder andere ungesunde Zutaten. Frisch, fröhlich, roköstlich!
+      - listitem [ref=e2796]:
+        - img "Ofenfalafel" [ref=e2797]
+        - generic [ref=e2798]:
+          - link "Fettarme Vegane Ofen-Falafel" [ref=e2799] [cursor=pointer]:
+            - /url: /r/ofen-falafel.html
+          - paragraph [ref=e2800]: Falafel sind nicht nur bei Veganern ein beliebter Straßensnack. Schnell und leicht zu bekommen, aber meistens unglaublich fettig! Eine gute Variante ist es, die Bällchen im Ofen zu backen.
+      - listitem [ref=e2801]:
+        - img "ai/ai mamas apfelbrot" [ref=e2802]
+        - generic [ref=e2803]:
+          - link "Vegane Mama´s Apfelbrot" [ref=e2804] [cursor=pointer]:
+            - /url: /r/mamas-apfelbrot.html
+          - paragraph [ref=e2805]: Für diejenigen, die auf Orangeat und Zitronat verzichten können, eine tolle Alternative zu Stollen. Apfelbrot ist lange haltbar und kann auf Vorrat gebacken werden.
+      - listitem [ref=e2806]:
+        - img "ai/ai vollkorn focaccia" [ref=e2807]
+        - generic [ref=e2808]:
+          - link "Vegane Vollkorn-Focaccia mit Tomaten und Rosmarin" [ref=e2809] [cursor=pointer]:
+            - /url: /r/vollkorn-focaccia.html
+          - paragraph [ref=e2810]: Frisches noch warmes Brot ist schon was herrliches! Focaccia ist schnell selbst gebacken und noch dazu kann man sie so mit Vollkornmehl zubereiten. Probier´s mal aus!
+      - listitem [ref=e2811]:
+        - img "ai/ai orangen marzipan kuchen" [ref=e2812]
+        - generic [ref=e2813]:
+          - link "Veganer Orangen-Marzipan-Kuchen" [ref=e2814] [cursor=pointer]:
+            - /url: /r/orangen-marzipan-kuchen.html
+          - paragraph [ref=e2815]: Schauspielerin und Moderatorin Jasmin Devi von der der Online Backshow "Vegan Backen mit Jasmin" hat uns dieses wunderbare Rezept für eine Marzipan-Torte mit Orangen Nuance zukommen lassen.
+      - listitem [ref=e2816]:
+        - img "ai/ai rohvegane cannelloni mit marinierten pilzen" [ref=e2817]
+        - generic [ref=e2818]:
+          - link "Rohvegane Cannelloni mit marinierten Pilzen" [ref=e2819] [cursor=pointer]:
+            - /url: /r/rohvegane-cannelloni-mit-marinierten-pilzen.html
+          - paragraph [ref=e2820]: Rohveganes Essen ist nicht nur Salat! Es kann auch eine herrlich raffinierte Speise sein wie diese Cannelloni mit schmackhaften Pilzen.
+      - listitem [ref=e2821]:
+        - img "ai/ai mandel matcha schokolade" [ref=e2822]
+        - generic [ref=e2823]:
+          - link "Vegane Mandel-Schokolade in 2 Varianten" [ref=e2824] [cursor=pointer]:
+            - /url: /r/mandel-matcha-schokolade.html
+          - paragraph [ref=e2825]: Weisse Schokolade einmal mit pinken Akzenten mit einer himbeerigen Blütenmischung, die andere Variante mit Matcha. Kostet Euch durch!
+      - listitem [ref=e2826]:
+        - img "ai/ai reis basilikum baellchen" [ref=e2827]
+        - generic [ref=e2828]:
+          - link "Veganes Reis-Basilikum-Bällchen à la Attila" [ref=e2829] [cursor=pointer]:
+            - /url: /r/reis-basilikum-baellchen.html
+          - paragraph [ref=e2830]: "Ein toller Snack oder etwas für die Lunchbox: diese vollwertigen Vegan for Youth Reisbällchen sind nicht nur sehr schmackhaft, sondern auch sättigend."
+      - listitem [ref=e2831]:
+        - img "ai/ai gruenkohl rezept" [ref=e2832]
+        - generic [ref=e2833]:
+          - link "Schneller schmackhafter Veganer Grünkohl" [ref=e2834] [cursor=pointer]:
+            - /url: /r/gruenkohl-rezept.html
+          - paragraph [ref=e2835]: Grünkohl ist ein tolles Wintergemüse, das sich nicht nur für grüne Smoothies eignet, sondern auch als schmackhaftes Gemüsegericht.
+      - listitem [ref=e2836]:
+        - img "ai/ai veganer topfenstrudel" [ref=e2837]
+        - generic [ref=e2838]:
+          - link "Veganer Topfenstrudel" [ref=e2839] [cursor=pointer]:
+            - /url: /r/veganer-topfenstrudel.html
+          - paragraph [ref=e2840]: Ha, auch Topfenstrudel lässt sich veganisieren! Während Apfelstrudel oft überraschend vegan ausfällt, war es bislang nicht so einfach den Topfen (öster. für Quark) gegen etwas pflanzliches auszutauschen.
+      - listitem [ref=e2841]:
+        - img "ai/ai zucchini nudeln sauce walnuss parmesan" [ref=e2842]
+        - generic [ref=e2843]:
+          - link "Vegane Zucchini-Nudeln mit frischer Sauce und Walnuss Parmesan" [ref=e2844] [cursor=pointer]:
+            - /url: /r/zucchini-nudeln-sauce-walnuss-parmesan.html
+          - paragraph [ref=e2845]: Das Zucchini-Nudeln so gut schmecken können, glaubt man kaum, hat man sie nicht selbst mal ausprobiert. Mit dieser frisch-fruchtigen Sauce und Parmesan obendrauf ergibt es ein tolles leichtes Mittagessen.
+      - listitem [ref=e2846]:
+        - img "ai/ai dunkle schokolade superfoods" [ref=e2847]
+        - generic [ref=e2848]:
+          - link "Dunkle Vegane Schokolade mit Superfoods" [ref=e2849] [cursor=pointer]:
+            - /url: /r/dunkle-schokolade-superfoods.html
+          - paragraph [ref=e2850]: Schokolade selbst gehört zu den Superfoods! Zuckerfrei und nur mit den besten, rohen Zutaten wird Schokolade zu einem gesunden Vergnügen und einem großartigen Geschmackserlebnis.
+      - listitem [ref=e2851]:
+        - img "proteinshake" [ref=e2852]
+        - generic [ref=e2853]:
+          - link "Veganer Proteinshake mit Himbeeren" [ref=e2854] [cursor=pointer]:
+            - /url: /r/veganer-protein-shake.html
+          - paragraph [ref=e2855]: Du willst die leckersten, eiweißhaltigsten Proteinshakes selber machen? Dieser vegane, selbstgemachte Proteinshake rühmt sich mit gewaltigen 40g Protein bei wenigen Kohlenhydraten, hochwertigen Fetten und einer Eintrittskarte in den Himbeer-Himmel.
+      - listitem [ref=e2856]:
+        - img "waffle 878198_1280" [ref=e2857]
+        - generic [ref=e2858]:
+          - link "Knusprige Vegane Vollkorn Waffeln" [ref=e2859] [cursor=pointer]:
+            - /url: /r/vollkorn-waffeln.html
+          - paragraph [ref=e2860]: Ach wen erinnert das nicht an ein herrliches Sonntagsfrühstück! Frische warme knusprige Waffeln und der Tag ist schön.
+      - listitem [ref=e2861]:
+        - img "ai/ai gesunde hirse laibchen" [ref=e2862]
+        - generic [ref=e2863]:
+          - link "Gesunde Vegane Hirse Laibchen" [ref=e2864] [cursor=pointer]:
+            - /url: /r/gesunde-hirse-laibchen.html
+          - paragraph [ref=e2865]: Hirse ist nicht nur glutenfrei, sondern bringt auch ansonsten eine Menge Mineralstoffe mit sich. Noch dazu schmeckt sie sehr lecker.
+      - listitem [ref=e2866]:
+        - img "ai/ai trinkschokolade roh vegan" [ref=e2867]
+        - generic [ref=e2868]:
+          - 'link "Die allerbeste Trinkschokolade: rohvegan!" [ref=e2869] [cursor=pointer]':
+            - /url: /r/trinkschokolade-roh-vegan.html
+          - paragraph [ref=e2870]: "Der Geschmack wird Euch verhexen und für Stunden auf Wolke 7 verfrachten, weil es ganz einfach traumhaft gut schmeckt. Achtung: extreme Suchtgefahr!"
+      - listitem [ref=e2871]:
+        - img "ai/ai rohvegane chocolate brownies" [ref=e2872]
+        - generic [ref=e2873]:
+          - link "Rohvegane Chocolate Brownies" [ref=e2874] [cursor=pointer]:
+            - /url: /r/rohvegane-chocolate-brownies.html
+          - paragraph [ref=e2875]: "Diese Brownies müsst Ihr unbedingt versuchen, aber Achtung: danach gibt es kein zurück, denn sie stellen so ziemlich alle ihre gebackenen Verwandten in den Schatten."
+      - listitem [ref=e2876]:
+        - img "ai/ai veganes omelette" [ref=e2877]
+        - generic [ref=e2878]:
+          - link "Veganes MyEy Omelette mit Pilz Käse Füllung" [ref=e2879] [cursor=pointer]:
+            - /url: /r/veganes-omelette.html
+          - paragraph [ref=e2880]: Ein Omelette, so wie damals, mit einer schmackhaften Füllung aus Pilzen und veganem Käse! Mit MyEy geht das ganz hervorragend und zwar rein pflanzlich.
+      - listitem [ref=e2881]:
+        - img "ai/ai vegane weisse schokolade aroniabeeren" [ref=e2882]
+        - generic [ref=e2883]:
+          - link "Vegane weiße Schokolade mit Aroniabeeren" [ref=e2884] [cursor=pointer]:
+            - /url: /r/vegane-weisse-schokolade-aroniabeeren.html
+          - paragraph [ref=e2885]: Vegane weiße Schokolade? Ja! Mit unserem Geheimrezept wirst Du Veganer*innen, Rohköstler*innen und Allesesser*innen gleichermaßen begeistern!
+      - listitem [ref=e2886]:
+        - img "ai/ai gruenkern suppe" [ref=e2887]
+        - generic [ref=e2888]:
+          - link "Vegane Kräftigende Grünkern-Suppe" [ref=e2889] [cursor=pointer]:
+            - /url: /r/gruenkern-suppe.html
+          - paragraph [ref=e2890]: Grünkern schmeckt super! Der gedarrte Dinkel macht auch Suppen zu einem schmackhaften und zugleich sättigenden Erlebnis.
+      - listitem [ref=e2891]:
+        - img "ai/ai vegane griessnockerlsuppe" [ref=e2892]
+        - generic [ref=e2893]:
+          - link "Vegane Grießnockerlsuppe" [ref=e2894] [cursor=pointer]:
+            - /url: /r/vegane-griessnockerlsuppe.html
+          - paragraph [ref=e2895]: "Ein Klassiker der Wiener Küche und eine schöne Kindheitserinnerung: Grießnockerlsuppe. Auch vegan ist sie einfach zubereitet und schmeckt herrlich."
+      - listitem [ref=e2896]:
+        - img "ai/ai gefuellte drachenfrucht" [ref=e2897]
+        - generic [ref=e2898]:
+          - link "Vegane Gefüllte Drachenfrucht" [ref=e2899] [cursor=pointer]:
+            - /url: /r/gefuellte-drachenfrucht.html
+          - paragraph [ref=e2900]: Die Drachenfrucht, auch Pitaya genannt, sticht durch ihre leuchtende Farbe in jedem Obstregal heraus. Hier erfährst Du wie Du daraus ein leckeres schnelles Dessert zauberst.
+      - listitem [ref=e2901]:
+        - img "ai/ai lebkuchen mandarinen schichtdessert" [ref=e2902]
+        - generic [ref=e2903]:
+          - link "Veganer Lebkuchen-Mandarinen-Schichtdessert" [ref=e2904] [cursor=pointer]:
+            - /url: /r/lebkuchen-mandarinen-schichtdessert.html
+          - paragraph [ref=e2905]: Habt Ihr noch Kekse übrig und keiner kann sie mehr sehen? Dann sei kreativ und mach was neues draus wie zum Beispiel dieses traumhafte Schichtdessert!
+      - listitem [ref=e2906]:
+        - img "ai/ai apfel zimt schnecken" [ref=e2907]
+        - generic [ref=e2908]:
+          - link "Vegane Apfel-Zimt-Schnecken" [ref=e2909] [cursor=pointer]:
+            - /url: /r/apfel-zimt-schnecken.html
+          - paragraph [ref=e2910]: Riechst Du auch schon den Zimt? Mhmm warme Hefeschnecken mit einer zimtigen Apfelfülle, wer möchte da nicht sofort reinbeißen?
+      - listitem [ref=e2911]:
+        - img "Roher Pilzburger" [ref=e2912]
+        - generic [ref=e2913]:
+          - link "Rohkost-Vegane Burger aus Portobello-Pilzen" [ref=e2914] [cursor=pointer]:
+            - /url: /r/rohkost-pilz-burger.html
+          - paragraph [ref=e2915]: Saftige Pilzkappen, würzig mariniert, ersetzen hier das Burgerbrötchen. Gefüllt wird das ganze mit knackig frischem Gemüse und Cashew Käse.
+      - listitem [ref=e2916]:
+        - img "Pizza bianca" [ref=e2917]
+        - generic [ref=e2918]:
+          - link "Vegane Pizza Bianca mit Dinkelvollkorn-Teig" [ref=e2919] [cursor=pointer]:
+            - /url: /r/pizza-bianca-dinkelvollkorn-teig.html
+          - paragraph [ref=e2920]: Manchmal macht die Not erfinderisch und altbekannte Rezepte weichen der Experimentierfreudigkeit und Kreativität. Manchmal wird man dabei selbst von seinem Einfallsreichtum positiv überrascht.
+      - listitem [ref=e2921]:
+        - img "Tacos" [ref=e2922]
+        - generic [ref=e2923]:
+          - link "Vegane Tacos mit Guacamole und schwarzem Bohnenpüree" [ref=e2924] [cursor=pointer]:
+            - /url: /r/tacos-guacamole-bohnenpueree.html
+          - paragraph [ref=e2925]: "Hier zeigt sich mexikanisches Essen von seiner besten Seite: Mais-Tacos vollgefüllt mit Frijoles und Guacamole, dazu eine Menge frisches knackiges Gemüse und obendrauf noch etwas Crema!"
+      - listitem [ref=e2926]:
+        - img "ai/ai orangen parfait beerenspiegel kumquats" [ref=e2927]
+        - generic [ref=e2928]:
+          - link "Vegane Orangenflöckchen Parfait mit Beerenspiegel und Kumquats" [ref=e2929] [cursor=pointer]:
+            - /url: /r/orangen-parfait-beerenspiegel-kumquats.html
+          - paragraph [ref=e2930]: Aus der Suche nach einem schnellen Dessert mit großer Wirkung? Dieses Parfait mit Orangen-Note schmeckt himmlisch cremig und wird alle beeindrucken!
+      - listitem [ref=e2931]:
+        - img "ai/ai veganes tomaten kaese fondue" [ref=e2932]
+        - generic [ref=e2933]:
+          - link "Veganes Tomaten-Käse Fondue" [ref=e2934] [cursor=pointer]:
+            - /url: /r/veganes-tomaten-kaese-fondue.html
+          - paragraph [ref=e2935]: "Das perfekte Essen für den Silvesterabend oder sonstige festliche Gelegenheiten: gesellig, lustig, sehr lecker und natürlich vegan!"
+      - listitem [ref=e2936]:
+        - img "ai/ai roh vegane schoko creme" [ref=e2937]
+        - generic [ref=e2938]:
+          - 'link "Rohvegane Schoko-Creme: nur 3 Zutaten!" [ref=e2939] [cursor=pointer]':
+            - /url: /r/roh-vegane-schoko-creme.html
+          - paragraph [ref=e2940]: Schokoladen Mousse ist kein sündiges, omnivores Privileg! Herrlich cremig in der Konsistenz mit natürlichen Süßungsmitteln statt Zucker - dieses verführerische vegane Dessert ist einfach grandios.
+      - listitem [ref=e2941]:
+        - img "carpaccio" [ref=e2942]
+        - generic [ref=e2943]:
+          - link "Buntes Veganes Wurzel-Carpaccio mit Kürbiskernöl-Dots + Gewinnspiel!" [ref=e2944] [cursor=pointer]:
+            - /url: /r/wurzel-carpaccio-kuerbiskernoel-gewinnspiel.html
+          - paragraph [ref=e2945]: Herbstliche Rüben, Rettich und Co machen sich fein gehobelt super als bunter Appetizer. Der faszinierende Querschnitt des Wurzelgemüses macht wirklich was her. Das i-Tüpfelchen macht das Kürbiskernöl aus, das Ihr hier auch gewinnen könnt!
+      - listitem [ref=e2946]:
+        - img "ai/ai mediterrane polenta mit gegrilltem paprika" [ref=e2947]
+        - generic [ref=e2948]:
+          - link "Mediterrane Vegane Polenta mit gegrilltem Paprika" [ref=e2949] [cursor=pointer]:
+            - /url: /r/mediterrane-polenta-mit-gegrilltem-paprika.html
+          - paragraph [ref=e2950]: Polenta war schon in der Küche des alten Roms beliebt und galt später in Europa lange Zeit als Arme-Leute-Essen. So gut kann man also trotz geringem Budget schlemmen.
+      - listitem [ref=e2951]:
+        - img "zimtsterne" [ref=e2952]
+        - generic [ref=e2953]:
+          - link "Rohvegane Zimtsterne" [ref=e2954] [cursor=pointer]:
+            - /url: /r/rohvegane-zimtsterne.html
+          - paragraph [ref=e2955]: Zimtsterne einmal anders und zwar rohvegan! Nur 5 Zutaten werden benötigt, um diese weihnachtlichen Kekse zu zaubern.
+      - listitem [ref=e2956]:
+        - img "ai/ai apfel joghurt toertchen" [ref=e2957]
+        - generic [ref=e2958]:
+          - link "Blitzschnelles Veganes Apfel-Joghurt-Törtchen" [ref=e2959] [cursor=pointer]:
+            - /url: /r/apfel-joghurt-toertchen.html
+          - paragraph [ref=e2960]: Es geht so schnell als könnte man zaubern und dabei schaut es auch noch toll aus! Wer dieser Augenweide noch eines drauf setzen will, kann es auch nach der Kunst der Rohkost gestalten.
+      - listitem [ref=e2961]:
+        - img "ai/ai diy lippenpeeling" [ref=e2962]
+        - generic [ref=e2963]:
+          - link "Vegane DIY Lippenpeeling mit Vanillenote" [ref=e2964] [cursor=pointer]:
+            - /url: /r/diy-lippenpeeling.html
+          - paragraph [ref=e2965]: „Rote Lippen soll man küssen…“ – aber wenn sie rau und rissig sind? Mit diesem selbstgemachten Lippenpeeling bist du immer kussbereit. Mach doch gleich mehr davon und verschenke es gleich zu Weihnachten – die Beschenkten (und ihre PartnerInnen) werden sich freuen!
+      - listitem [ref=e2966]:
+        - img "ai/ai immunol" [ref=e2967]
+        - generic [ref=e2968]:
+          - link "Vegane Power für die Abwehrkräfte" [ref=e2969] [cursor=pointer]:
+            - /url: /r/immunol.html
+          - paragraph [ref=e2970]: Die Kälte und der vorweihnachtliche Stress nagen am Immunsystem. Schnupfennasen haben Hochkonjunktur. Wer nicht gerne krank ist, sollte vorbeugen!
+      - listitem [ref=e2971]:
+        - img "ai/ai dinkel schoko cookies" [ref=e2972]
+        - generic [ref=e2973]:
+          - link "Bio-vegane Dinkel-Schoko-Cookies" [ref=e2974] [cursor=pointer]:
+            - /url: /r/dinkel-schoko-cookies.html
+          - paragraph [ref=e2975]: Herzlichen Dank an Mäggi vom Bioveganversand für dieses leckere Cookie Rezept, für das nur die allerbesten, biologischen Zutaten in Frage kommen.
+      - listitem [ref=e2976]:
+        - img "ai/ai kartoffel auflauf violett" [ref=e2977]
+        - generic [ref=e2978]:
+          - link "Veganer Kartoffel-Auflauf in Violett" [ref=e2979] [cursor=pointer]:
+            - /url: /r/kartoffel-auflauf-violett.html
+          - paragraph [ref=e2980]: Wenn Dir Kartoffeln zu langweilig sind, probier´s doch mal mit violetten! Nicht nur die Farbe, sondern auch der Geschmack unterscheiden sich von der altbekannten Kartoffel.
+      - listitem [ref=e2981]:
+        - img "ai/ai vegane rouladen mit wurzelgemuese" [ref=e2982]
+        - generic [ref=e2983]:
+          - link "Vegane Rouladen mit Wurzelgemüse" [ref=e2984] [cursor=pointer]:
+            - /url: /r/vegane-rouladen-mit-wurzelgemuese.html
+          - paragraph [ref=e2985]: Diese Rouladen aus Soja Big Steaks sind der Hammer! Ob sie ihrem nicht-veganen Pendant ähneln ist dabei ganz einerlei, sie schmecken einfach großartig vegan wie sie sind!
+      - listitem [ref=e2986]:
+        - img "ai/ai mohn mandarinen pudding" [ref=e2987]
+        - generic [ref=e2988]:
+          - link "Veganer Mohn-Mandarinen-Pudding" [ref=e2989] [cursor=pointer]:
+            - /url: /r/mohn-mandarinen-pudding.html
+          - paragraph [ref=e2990]: Mohn und Mandarinen, ein tolles Dream-Team für ein etwas außergewöhnlicheres Dessert!
+      - listitem [ref=e2991]:
+        - img "ai/ai vegane spiegeleier" [ref=e2992]
+        - generic [ref=e2993]:
+          - link "Vegane Spiegeleier" [ref=e2994] [cursor=pointer]:
+            - /url: /r/vegane-spiegeleier.html
+          - paragraph [ref=e2995]: Da staunt Ihr, was? Mit der neuen rein pflanzlichen Ei-Alternative MyEy ist das nun auch möglich.
+      - listitem [ref=e2996]:
+        - img "ai/ai vegane traumstuecke" [ref=e2997]
+        - generic [ref=e2998]:
+          - link "Vegane Traumstücke in 3 Farben" [ref=e2999] [cursor=pointer]:
+            - /url: /r/vegane-traumstuecke.html
+          - paragraph [ref=e3000]: Der delikate Geschmack des gemahlenen Grüntees verleiht dem Gebäck auch eine wunderbare Farbe, die den Keksteller etwas bunter macht.
+      - listitem [ref=e3001]:
+        - generic [ref=e3002]:
+          - link "Vegane Matcha-Mandel-Trüffel" [ref=e3003] [cursor=pointer]:
+            - /url: /r/matcha-mandel-trueffel.html
+          - paragraph [ref=e3004]: Grün weiße Pralinen mit einer hellen Schicht mit einem zarten Hauch von Orange und Vanille getopt von einer delikaten grünen Schicht mit feinem Matcha Pulver, unwiderstehlich!
+      - listitem [ref=e3005]:
+        - img "ai/ai gemuese toertchen im strudelteignest" [ref=e3006]
+        - generic [ref=e3007]:
+          - link "Vegane Gemüse-Törtchen im Strudelteignest" [ref=e3008] [cursor=pointer]:
+            - /url: /r/gemuese-toertchen-im-strudelteignest.html
+          - paragraph [ref=e3009]: Eine besonders hübsche Vorspeise, die dennoch schnell zubereitet ist, dank veganem Strudelteig aus dem Kühlregal.
+      - listitem [ref=e3010]:
+        - generic [ref=e3011]:
+          - link "Rohkost-Veganer Power-Tower" [ref=e3012] [cursor=pointer]:
+            - /url: /r/rohkost-power-tower.html
+          - paragraph [ref=e3013]: Andere nennen es Salat. Die Formgebung macht den Unterschied! Buntes Gemüse wird aufgeschichtet zu einem Rohkost Turm und begeistert so als köstliche Vorspeise oder rohes stand alone Mahl.
+      - listitem [ref=e3014]:
+        - generic [ref=e3015]:
+          - link "Vegane DIY Rohkost Senf" [ref=e3016] [cursor=pointer]:
+            - /url: /r/diy-rohkost-senf.html
+          - paragraph [ref=e3017]: Nicht jeder mag es Süß! Oder zumindest nicht immer! Selbstgemachter Senf ist ein super Geschenk für alle die nicht auf Sußzeug stehen, und einfach zum Selbermachen.
+      - listitem [ref=e3018]:
+        - generic [ref=e3019]:
+          - link "Gefüllter Veganer Braten mit glasierten Süßkartoffeln" [ref=e3020] [cursor=pointer]:
+            - /url: /r/veganer-braten-mit-glasierten-suesskartoffeln.html
+          - paragraph [ref=e3021]: Ein feiner Braten aus Seitan, gefüllt mit schmackhaften Shiitake Pilzen und Pinienkernen, dazu gesunde Süßkartoffeln mit Sesam - was für ein großartiges Festessen!
+      - listitem [ref=e3022]:
+        - generic [ref=e3023]:
+          - link "Rohvegane Mozartkugeln oder Nougat Marzipan Pralinen" [ref=e3024] [cursor=pointer]:
+            - /url: /r/roh-vegane-mozart-kugeln.html
+          - paragraph [ref=e3025]: "Haltet Euch fest! Diese Pralinen sind ein wahrer Traum von einer rohveganen Nascherei. Der Nougat-Kern wird umhüllt von Marzipan und den Abschluss bildet eine knackige Schicht Schokolade. Pst: Super zu verschenken!"
+      - listitem [ref=e3026]:
+        - generic [ref=e3027]:
+          - link "Veganes Spritzgebäck von Vegan durch jede Saison" [ref=e3028] [cursor=pointer]:
+            - /url: /r/veganes-spritzgebaeck-von-vegan-durch-jede-saison.html
+          - paragraph [ref=e3029]: "Mit Grüßen aus Jen´s Backstube gibt es heute ein Weihnachtskeks-Rezept für Euch: veganes Spritzgebäck, ein Klassiker am Keksteller!"
+      - listitem [ref=e3030]:
+        - generic [ref=e3031]:
+          - link "Vegane Gemüsecremesuppe mit Tempeh Croutons" [ref=e3032] [cursor=pointer]:
+            - /url: /r/gemuesecremesuppe-mit-tempeh.html
+          - paragraph [ref=e3033]: Als Vorspeise oder auch mal als Hauptgericht aus allem was das Gemüsefach zu bieten hat, bringt eine cremige Gemüsesuppe wohlige Wärme von innen. Mit den Tempeh Croutons ist es auch ein nahrhaftes Mahl.
+      - listitem [ref=e3034]:
+        - generic [ref=e3035]:
+          - link "Veganer Hirse-Türmchen mit fruchtigem Rotkraut-Salat" [ref=e3036] [cursor=pointer]:
+            - /url: /r/hirse-tuermchen-fruchtigem-rotkraut-salat.html
+          - paragraph [ref=e3037]: Hirse ist furchtbar gesund und schmeckt noch dazu ausgezeichnet. Mit dem bunten Rohkost-Salat aus Rotkraut, fein säuerlichen Äpfeln und Karotten wird daraus ein schönes buntes Essen mit einer Extra-Portion an Nährstoffen.
+      - listitem [ref=e3038]:
+        - generic [ref=e3039]:
+          - link "Vegane DIY Badepralinen - “Naschen” ohne Reue" [ref=e3040] [cursor=pointer]:
+            - /url: /r/diy-badepralinen.html
+          - paragraph [ref=e3041]: Wer gerne mit Selbstgemachtem zu Weihnachten Freude bereitet oder auch sich selbst mal etwas Gutes tun möchte, sollte diese sprudelnden Badepralinen ausprobieren. Einfach zu machen und individuell variierbar, geben sie nicht nur für VeganerInnen ein tolles Geschenk ab!
+      - listitem [ref=e3042]:
+        - img "ai/ai recipe 2013 12 03 geschmorte artischocken orangen sauce mit kartoffelpueree" [ref=e3043]
+        - generic [ref=e3044]:
+          - link "Geschmorte Vegane Artischocken in Orangen-Sauce mit Kartoffelpüree" [ref=e3045] [cursor=pointer]:
+            - /url: /r/geschmorte-artischocken-orangen-sauce-mit-kartoffelpueree.html
+          - paragraph [ref=e3046]: Artischocken sind schneller zubereitet als gedacht. In einem schmackhaften Wein-Orangensud geschmort, schmecken sie hervorragend. Dazu gibt es cremiges Kartoffelpüree.
+      - listitem [ref=e3047]:
+        - img "ai/ai weihnachtliche schokokugeln" [ref=e3048]
+        - generic [ref=e3049]:
+          - link "Weihnachtliche Vegane Schokokugeln" [ref=e3050] [cursor=pointer]:
+            - /url: /r/weihnachtliche-schokokugeln.html
+          - paragraph [ref=e3051]: Backen ist nicht deine Stärke? Kein Problem! Diese Schokokugeln kommen ganz ohne Backofen aus und sind ein Hit bei jedem Weihnachtsfest.
+      - listitem [ref=e3052]:
+        - img "tartlettes" [ref=e3053]
+        - generic [ref=e3054]:
+          - link "Vegane Kaki Chia Tartlettes" [ref=e3055] [cursor=pointer]:
+            - /url: /r/kaki-chia-tartlettes.html
+          - paragraph [ref=e3056]: Kakis, Sharons oder Persimonen sind während der Herbstezeit überall zu haben. Richtig gut zu essen sind sie, wenn sie schon weich sind. Dann kann man sie auslöffeln oder wer mal Lust auf was neues hat, kann es mit diesen Tartlettes versuchen.
+      - listitem [ref=e3057]:
+        - img "ai/ai diy zwetschgen krampus" [ref=e3058]
+        - generic [ref=e3059]:
+          - link "Vegane DIY Zwetschgenkrampus" [ref=e3060] [cursor=pointer]:
+            - /url: /r/diy-zwetschgen-krampus.html
+          - paragraph [ref=e3061]: "In Bayern und Österreich wird der Nikolaus traditionell von einer wilden Horde begleitet: den Krampussen. Auch wenn sich niemand einen Besuch von den wilden Gesellen wünscht, ist es eine nette Idee selbst einen aus Trockenobst zu basteln."
+      - listitem [ref=e3062]:
+        - img "veganer ei aufstrich" [ref=e3063]
+        - generic [ref=e3064]:
+          - link "Veganer Ei-Aufstrich" [ref=e3065] [cursor=pointer]:
+            - /url: /r/veganer-ei-aufstrich.html
+          - paragraph [ref=e3066]: Oh ja, richtig gelesen! Keiner wird Euch glauben, dass der Aufstrich nie ein Ei gesehen hat. So authentisch schmeckt dieser gefälschte Ei Aufstrich.
+      - listitem [ref=e3067]:
+        - img "ai/ai vegane kaese spaetzle" [ref=e3068]
+        - generic [ref=e3069]:
+          - link "Vegane Käse-Spätzle" [ref=e3070] [cursor=pointer]:
+            - /url: /r/vegane-kaese-spaetzle.html
+          - paragraph [ref=e3071]: Spätzle, Knöpfli oder auch Spatzen genannt sind nicht nur eine schwäbische Spezialität. Auch anderswo erfreuen sie sich höchster Beliebtheit. Noch dazu braucht man nur wenige Zutaten, die man meist auf Vorrat hat.
+      - listitem [ref=e3072]:
+        - img "tofu spinat blumenkohl" [ref=e3073]
+        - generic [ref=e3074]:
+          - 'link "Vegane Küchen Basics: Gebackener Tofu" [ref=e3075] [cursor=pointer]':
+            - /url: /r/gebackener-tofu.html
+          - paragraph [ref=e3076]: Wenn Du Tofu geschmacklos findest, dann hast Du vielleicht noch nicht die richtige Zubereitunsart gefunden. Probiers mal mit diesem einfachen, schmackhaften Rezept!
+      - listitem [ref=e3077]:
+        - img "ai/ai bunte gemuese suppe quinoa" [ref=e3078]
+        - generic [ref=e3079]:
+          - link "Bunte Vegane Gemüsesuppe mit Quinoa für kalte Tage" [ref=e3080] [cursor=pointer]:
+            - /url: /r/bunte-gemuese-suppe-quinoa.html
+          - paragraph [ref=e3081]: In der kühleren Jahreszeit wünscht man sich manchmal etwas wärme- und kraftspendendes in einem. Diese reichhaltige Suppe mit buntem Gemüse und wertvollem Quinoa schafft beides.
+      - listitem [ref=e3082]:
+        - img "ai/ai himbeereis aus 2 zutaten" [ref=e3083]
+        - generic [ref=e3084]:
+          - link "Veganes Himbeereis aus 2 Zutaten" [ref=e3085] [cursor=pointer]:
+            - /url: /r/himbeereis-aus-2-zutaten.html
+          - paragraph [ref=e3086]: Ein fruchtiges Eis ist immer ein toller Abschluss eines schönen Dinners. Wer würde da auf die Idee kommen, dass es sich sogar um Rohkost handelt? Schnell und einfach zubereitet ist es noch dazu.
+      - listitem [ref=e3087]:
+        - img "ai/ai pad thai mit shiitake pilzen" [ref=e3088]
+        - generic [ref=e3089]:
+          - link "Veganes Pad Thai mit Shiitake Pilzen" [ref=e3090] [cursor=pointer]:
+            - /url: /r/pad-thai-mit-shiitake-pilzen.html
+          - paragraph [ref=e3091]: Pad Thai ist ein schnelles, leichtes Essen. Die Grundzutaten kann man hervorragend erweitern. Außer dem frischen knackigen Gemüse verwenden wir noch nahrhafte und sehr schmackhafte Shiitake Pilze.
+      - listitem [ref=e3092]:
+        - img "ai/ai recipe 2013 11 24 schneefloeckchen torte quitten birnen karamelisierten nuessen" [ref=e3093]
+        - generic [ref=e3094]:
+          - link "Vegane Schneeflöckchen Torte mit Quitten, Birnen und karamellisierten Nüssen" [ref=e3095] [cursor=pointer]:
+            - /url: /r/schneefloeckchen-torte-quitten-birnen-karamelisierten-nuessen.html
+          - paragraph [ref=e3096]: Kennt Ihr diese Schaumtorten bei denen man sofort Lust auf eine Tortenschlacht bekommt? Das hier ist keine von der Sorte! Da stecken viel zu viele gute Sachen drinnen. Auf den nussige Biskuitboden kommt eine Schicht Quitten-Birnen Mus, gefolgt von einer luftig lockeren Soja-Yoghurt Creme und obendrauf gibt es noch karamellisierte Nüsse!
+      - listitem [ref=e3097]:
+        - img "attila hildmann vegan for youth rezept" [ref=e3098]
+        - generic [ref=e3099]:
+          - 'link "Vegan for Youth Rezept: Ofenkartoffel 2.0" [ref=e3100] [cursor=pointer]':
+            - /url: /r/vegan-youth-rezept-ofenkartoffel-2-0.html
+          - paragraph [ref=e3101]: Mit nährstoffreichem veganen Essen die Zeit zurückdrehen! Das ist das Ziel von Attila Hildmanns 60 Tage Challenge, bei der anspruchsvolle Gourmets nicht zu kurz kommen. Wir haben eines der herrlichen Rezepte ausprobiert!
+      - listitem [ref=e3102]:
+        - img "ai/ai vegane macarons" [ref=e3103]
+        - generic [ref=e3104]:
+          - link "Vegane Macarons" [ref=e3105] [cursor=pointer]:
+            - /url: /r/vegane-macarons.html
+          - paragraph [ref=e3106]: "Da wird Backkunst zur Popkultur: schreiend bunte Macarons erobern die Welt. Vegan gab es sie bisher noch nicht. Dank MyEy ist das jetzt aber auch möglich!"
+      - listitem [ref=e3107]:
+        - img "ai/ai fruity cake pops candy apples" [ref=e3108]
+        - generic [ref=e3109]:
+          - link "Vegane fruity Cake Pops & Candy Apples" [ref=e3110] [cursor=pointer]:
+            - /url: /r/fruity-cake-pops-candy-apples.html
+          - paragraph [ref=e3111]: Cake Pops erfreuen sich höchster Beliebtheit bei klein und groß. Die Verbindung aus Lollie und Kuchen haben wir etwas abgewandelt. Es geht schnell, schmeckt herrlich und ist gesund. Versucht es aus!
+      - listitem [ref=e3112]:
+        - img "Veganes Zwiebelschmalz" [ref=e3113]
+        - generic [ref=e3114]:
+          - link "Veganes Zwiebelschmalz" [ref=e3115] [cursor=pointer]:
+            - /url: /r/veganes-zwiebelschmalz.html
+          - paragraph [ref=e3116]: Garantiert ohne Palmöl und ohne Hefe, ist selbst gemachtes Zwiebelschmalz einfach herzustellen und mindestens genauso lecker, wenn nicht leckerer, als die Fertigvariante!
+      - listitem [ref=e3117]:
+        - img "ai/ai veganer ei schnee" [ref=e3118]
+        - generic [ref=e3119]:
+          - link "Veganer Ei-Schnee" [ref=e3120] [cursor=pointer]:
+            - /url: /r/veganer-ei-schnee.html
+          - paragraph [ref=e3121]: Schaumrollen, Biskuit, Kaiserschmarrn vegan! Unglaublich oder? Ja, auch Eischnee ist nun dank dem neuen natürlichen Ei-Ersatz MyEy vegan möglich. Überzeugt Euch selbst davon!
+      - listitem [ref=e3122]:
+        - img "ai/ai veganer cheeseburger mit selbstgemachter mayo" [ref=e3123]
+        - generic [ref=e3124]:
+          - link "Veganer Cheeseburger mit selbstgemachter Mayo" [ref=e3125] [cursor=pointer]:
+            - /url: /r/veganer-cheeseburger-mit-selbstgemachter-mayo.html
+          - paragraph [ref=e3126]: Ein klassischer Burger hat mit Fleisch nicht viel zu tun. Das beweist dieses tolle Rezept für einen Cheese-Burger mit einem Patty aus Seitan und Soja. Dazu gibt es selbstgemachte vegane Mayonnaise.
+      - listitem [ref=e3127]:
+        - img "ai/ai rohkost wraps" [ref=e3128]
+        - generic [ref=e3129]:
+          - link "Regenbogen Vegane Wraps mit Falafel- und Gemüsefülle" [ref=e3130] [cursor=pointer]:
+            - /url: /r/rohkost-wraps.html
+          - paragraph [ref=e3131]: Diese bunten Rollen stecken voller Vitamine und Vitalstoffe! Rohkost eben!
+      - listitem [ref=e3132]:
+        - img "martini gansl" [ref=e3133]
+        - generic [ref=e3134]:
+          - link "Vegane Martinsgans" [ref=e3135] [cursor=pointer]:
+            - /url: /r/martinsgans.html
+          - paragraph [ref=e3136]: Festtagsessen die Zweite. Eine vegane Gans hat uns nicht gereicht, deshalb gleich nochmal das gleiche und doch anders. Viel Knoblauch, schön knusprig und erfolgreich an Großeltern getestet.
+      - listitem [ref=e3137]:
+        - img "ai/ai kartoffelknoedel mit rotkraut" [ref=e3138]
+        - generic [ref=e3139]:
+          - link "Deftige Vegane Kartoffelknödel mit Rotkraut" [ref=e3140] [cursor=pointer]:
+            - /url: /r/kartoffelknoedel-mit-rotkraut.html
+          - paragraph [ref=e3141]: Für den nötigen Vitaminkick im Winter brauchen wir keine importierten exotischen Früchte. Unser heimisches Wintergemüse, wie das Rotkraut versorgt uns bestens mit Vitaminen! Wer hat Lust auf Kartoffelknödel mit Rotkraut bekommen?
+      - listitem [ref=e3142]:
+        - img "ai/ai brataepfel mit nuessen" [ref=e3143]
+        - generic [ref=e3144]:
+          - link "Herbstliche Vegane Bratäpfel mit Nüssen" [ref=e3145] [cursor=pointer]:
+            - /url: /r/brataepfel-mit-nuessen.html
+          - paragraph [ref=e3146]: Der herrliche Duft nach Zimt und Äpfeln liegt in der Luft. Bratäpfel sind ein tolles, schnelles Dessert für einen gemütlichen Herbst- oder Winterabend! Da werden Kindheitserinnerungen wahr.
+      - listitem [ref=e3147]:
+        - img "gans rotkraut" [ref=e3148]
+        - generic [ref=e3149]:
+          - link "Glasierte Vegane Gans mit Rotkraut und Maroni" [ref=e3150] [cursor=pointer]:
+            - /url: /r/vegane-gans-rotkraut.html
+          - paragraph [ref=e3151]: Am 11. November ist Martinstag. Traditionell landet da eine Gans am Tisch. Wir haben eine vegane Interpretation der Martinsgans für Euch! Ganz ohne Gans!
+      - listitem [ref=e3152]:
+        - img "ai/ai glutenfreie vanille pancakes mit aepfeln" [ref=e3153]
+        - generic [ref=e3154]:
+          - link "Glutenfreie Vegane Vanille Pancakes mit zweierlei Äpfeln" [ref=e3155] [cursor=pointer]:
+            - /url: /r/glutenfreie-vanille-pancakes-mit-aepfeln.html
+          - paragraph [ref=e3156]: Willst Du jemanden mit einem Frühstück in den 7. Himmel katapultieren? Dann ist das Rezept genau das richtige! Diese Pancakes mit leckerer veganer Creme aus saurer Sahne, Sirup und frischen Früchten schmecken fabelhaft.
+      - listitem [ref=e3157]:
+        - img "wackelpudding" [ref=e3158]
+        - generic [ref=e3159]:
+          - link "Veganer Grüner Wackelpudding" [ref=e3160] [cursor=pointer]:
+            - /url: /r/gruener-wackelpudding.html
+          - paragraph [ref=e3161]: Experimentelles Smoothie-Mixen endet so manches mal mit einer Überraschung - glücklicherweise meist positiven Überraschungen und neuen Geschmackserlebnissen.
+      - listitem [ref=e3162]:
+        - img "ai/ai pueree von der steckruebe bratlinge" [ref=e3163]
+        - generic [ref=e3164]:
+          - 'link "Schnelle Vegane Küche: Püree von der Steckrübe mit mexikanischen Bratlingen" [ref=e3165] [cursor=pointer]':
+            - /url: /r/pueree-von-der-steckruebe-bratlinge.html
+          - paragraph [ref=e3166]: "Alte Gemüsesorte neu entdeckt: die Steckrübe ist ein tolles Wintergemüse, das bei uns etwas in Vergessenheit geraten ist. Außen violett und innen weiß-gelb sticht sie einem am Markt gleich ins Auge."
+      - listitem [ref=e3167]:
+        - img "Zwiebelsuppe" [ref=e3168]
+        - generic [ref=e3169]:
+          - link "Vegane Französische Zwiebelsuppe" [ref=e3170] [cursor=pointer]:
+            - /url: /r/franzoesische-zwiebelsuppe.html
+          - paragraph [ref=e3171]: Vegane Zwiebelsuppe ist ja nicht unbedingt so außergewöhnlich. Die Krönung der Suppe mit getoastetem Weißbrot und geschmolzenem veganem Käse, das macht es aus!
+      - listitem [ref=e3172]:
+        - img "ai/ai veganes mousse au chocolat" [ref=e3173]
+        - generic [ref=e3174]:
+          - link "Veganes Mousse au Chocolat" [ref=e3175] [cursor=pointer]:
+            - /url: /r/veganes-mousse-au-chocolat.html
+          - paragraph [ref=e3176]: "Die letzte Hürde ist genommen: Veganismus hat nichts mehr mit Verzicht zu tun, seit es nun auch veganen Eyschnee gibt! Auch himmlisch locker luftiges Mousse au Chocolat ist nun rein pflanzlich möglich."
+      - listitem [ref=e3177]:
+        - img "maroni spekulatius tiramisu" [ref=e3178]
+        - generic [ref=e3179]:
+          - link "Veganes Spekulatius-Maroni-Tiramisu" [ref=e3180] [cursor=pointer]:
+            - /url: /r/spekulatius-maroni-tiramisu.html
+          - paragraph [ref=e3181]: Ein herbstliches Dessert, das die Geschmacksknospen zum Singen bringt. Vegane Maroni-Creme, Spekulatius-Kekse und obendrauf noch Schokolade - da kann keiner widerstehen.
+      - listitem [ref=e3182]:
+        - img "ai/ai cashew frisch kaese saure sahne" [ref=e3183]
+        - generic [ref=e3184]:
+          - 'link "Veganer Cashew Käse oder saure Sahne: raw & fresh" [ref=e3185] [cursor=pointer]':
+            - /url: /r/cashew-frisch-kaese-saure-sahne.html
+          - paragraph [ref=e3186]: "Veganer Käse ist zwar inzwischen leicht zu kriegen, aber der hier ist was ganz besonderes: ein schnell zuzubereitender Frischkäse aus nahrhaften Cashew-Kernen."
+      - listitem [ref=e3187]:
+        - img "rote beete suppe" [ref=e3188]
+        - generic [ref=e3189]:
+          - link "Vegane Rote-Beete-Suppe" [ref=e3190] [cursor=pointer]:
+            - /url: /r/rote-beete-suppe.html
+          - paragraph [ref=e3191]: Rote Rüben, auch Rote Bete/Beete, Rohnen, Randen genannt, bringen nicht nur ein optisches Highlight auf den Teller, sondern auch den Super-Boost an Vitaminen und Mineralstoffen. Noch dazu schmecken sie sehr gut.
+      - listitem [ref=e3192]:
+        - img "kartoffe puffer" [ref=e3193]
+        - generic [ref=e3194]:
+          - link "Leckere Vegane Kartoffelpuffer" [ref=e3195] [cursor=pointer]:
+            - /url: /r/kartoffelpuffer.html
+          - paragraph [ref=e3196]: Kartoffelpuffer sind immer ein Knaller! Kinder lieben sie. Je nach Geschmack lassen sie sich süß mit Apfelmus oder herzhaft genießen.
+      - listitem [ref=e3197]:
+        - img "ai/ai rohvegane nougat pralinen" [ref=e3198]
+        - generic [ref=e3199]:
+          - link "Rohvegane Nougat Pralinen" [ref=e3200] [cursor=pointer]:
+            - /url: /r/rohvegane-nougat-pralinen.html
+          - paragraph [ref=e3201]: Das Zeug schmeckt so unsagbar gut, danach möchte man nie mehr etwas mit anderen Süßigkeiten zu tun haben! Dass es sich dabei um Rohkost handelt, ist kaum zu fassen.
+      - listitem [ref=e3202]:
+        - img "Apfel Quitten Pies" [ref=e3203]
+        - generic [ref=e3204]:
+          - link "Vegane Apfel-Quitten Mini Pies von Seitan is my motor" [ref=e3205] [cursor=pointer]:
+            - /url: /r/apfel-quitten-mini-pies.html
+          - paragraph [ref=e3206]: Ein perfekter, auf der Zunge zergehender Mürbeteig und eine fruchtig, aromatische Füllung aus Quitten und Äpfeln machen diese Mini-Pies zum besonderen Herbstnachtisch. Ein köstliches Rezept von der tollen Bloggerin und passionierten Bäckerin Mihl von Seitan is my motor!
+      - listitem [ref=e3207]:
+        - img "veganer lebkuchen" [ref=e3208]
+        - generic [ref=e3209]:
+          - link "Vegane Lebkuchenherzen" [ref=e3210] [cursor=pointer]:
+            - /url: /r/vegane-lebkuchen-herzen.html
+          - paragraph [ref=e3211]: Der erste Lebkuchen ist ein sicheres Zeichen, dass die kalte Jahreszeit uns erreicht hat und damit auch Weihnachten näher rückt. Edler Kakao im Teig gibt den herrlich schokoladigen Geschmack, überzogen mit einer feinen Kruste aus Zuckerglasur, aromatisiert mit echtem ätherischen Orangenöl.
+      - listitem [ref=e3212]:
+        - img "ai/ai endiviensalat mit warmen kartoffeln und zitronen tahin dressing" [ref=e3213]
+        - generic [ref=e3214]:
+          - link "Veganer Endiviensalat mit warmen Kartoffeln und Zitronen-Tahin Dressing" [ref=e3215] [cursor=pointer]:
+            - /url: /r/endiviensalat-mit-warmen-kartoffeln-und-zitronen-tahin-dressing.html
+          - paragraph [ref=e3216]: Reich an Kalium, Kalzium, Vitamin A und Ballaststoffen bringt Endiviensalat eine willkommene Abwechslung in die Salatschüssel. Saisonal ist er erhältlich von Mai bis Dezember, aber oft auch schon das ganze Jahr über.
+      - listitem [ref=e3217]:
+        - img "vegane schokolade selbst gemacht" [ref=e3218]
+        - generic [ref=e3219]:
+          - link "Vegane Schokolade selbst machen" [ref=e3220] [cursor=pointer]:
+            - /url: /r/vegane-schokolade-selbst-machen.html
+          - paragraph [ref=e3221]: Wolltest Du nicht immer schon mal ausprobieren Schokolade oder köstliche Pralinen selbst zu machen? Das ist die Gelegenheit! Die fair gehandelten Zutaten dafür erhältst Du im praktischen Set bei ChocQlate!
+      - listitem [ref=e3222]:
+        - img "Tofu Herz1" [ref=e3223]
+        - generic [ref=e3224]:
+          - link "DIY Vegane Sojamilch & Veganer Tofu" [ref=e3225] [cursor=pointer]:
+            - /url: /r/tofu-sojamilch-selber-machen.html
+          - paragraph [ref=e3226]: "Sojamilch & Tofu selbst machen? Geht eigentlich recht einfach und der große Vorteil: man kann dem Tofu schon während der Zubereitung weitere individuelle Zutaten wie Kräuter und Gewürze beimengen."
+      - listitem [ref=e3227]:
+        - img "lulo shake" [ref=e3228]
+        - generic [ref=e3229]:
+          - 'link "Veganer Lulo-Shake: der beste Fruchtshake überhaupt" [ref=e3230] [cursor=pointer]':
+            - /url: /r/lulo-shake.html
+          - paragraph [ref=e3231]: "Ja, Ihr habt schon richtig gelesen: Lulo heißt die Frucht! In manchen südamerikanischen Ländern ist sie auch als Naranjilla bekannt. Leider ist sie bei uns sehr selten erhältlich, aber wenn sie Euch unterkommt, dann schlagt zu!"
+      - listitem [ref=e3232]:
+        - img "ai/ai kirsch eis" [ref=e3233]
+        - generic [ref=e3234]:
+          - link "Gesundes Veganes Kirsch-Eis in 2 Minuten" [ref=e3235] [cursor=pointer]:
+            - /url: /r/kirsch-eis.html
+          - paragraph [ref=e3236]: Der Sommer muss noch lange nicht zu Ende sein! Zumindest Eis geht immer noch. Vorallem wenn es sich um so eine einfache und gesunde Variante handelt!
+      - listitem [ref=e3237]:
+        - img "ai/ai hummus rezept" [ref=e3238]
+        - generic [ref=e3239]:
+          - link "Hummus Vegane selber gemacht in 4 Varianten" [ref=e3240] [cursor=pointer]:
+            - /url: /r/hummus-rezept.html
+          - paragraph [ref=e3241]: Für viele VeganerInnen gehört Humus, auch Hummus, Humos oder Homus geschrieben, zu den Grundnahrungsmitteln. Wenn es irgendwo sonst nichts veganes gibt, dann zumindest Humus. Durch die verschiedenen Sorten wird es auch nie langweilig.
+      - listitem [ref=e3242]:
+        - img "ai/ai french toast mit kuerbis" [ref=e3243]
+        - generic [ref=e3244]:
+          - link "Veganer French Toast mit Kürbis und Mandelsplittern" [ref=e3245] [cursor=pointer]:
+            - /url: /r/french-toast-mit-kuerbis.html
+          - paragraph [ref=e3246]: Kürbis im French Toast - kaum zu glauben, oder? Aber der vegane Auflauf aus altbackenem Brot, Kürbis und Gewürzen schmeckt so himmlisch, dass man sich nichts anderes mehr zum Frühstück wünscht.
+      - listitem [ref=e3247]:
+        - img "ai/ai kokos makronen" [ref=e3248]
+        - generic [ref=e3249]:
+          - link "Vegane Kokos-Makronen reloaded" [ref=e3250] [cursor=pointer]:
+            - /url: /r/kokos-makronen.html
+          - paragraph [ref=e3251]: Baiser-Makronen in schreienden Farben haben irgendwie mal Kultstatus erreicht, dabei handelt es sich nur um eingefärbte Eischneemasse mit Buttercreme. Unsere vegane Version besteht aus natürlich gefärbtem Kokos und schmeckt nach Karibik!
+      - listitem [ref=e3252]:
+        - img "ai/ai kuerbis muffins" [ref=e3253]
+        - generic [ref=e3254]:
+          - link "Kürbismuffins mit veganem Sauerrahm Frosting" [ref=e3255] [cursor=pointer]:
+            - /url: /r/kuerbis-muffins.html
+          - paragraph [ref=e3256]: Kürbis ist so vielseitig - ja - sogar in Muffins macht er sich gut. Gemeinsam mit der Geschmacksnote von vielen Gewürzen und der Haube aus Sauerrahm entsteht eine außergewöhnliche herbstliche Köstlichkeit.
+      - listitem [ref=e3257]:
+        - img "ai/ai gemuese pfannkuchen" [ref=e3258]
+        - generic [ref=e3259]:
+          - link "Lustige Vegane Gemüsepfannkuchen" [ref=e3260] [cursor=pointer]:
+            - /url: /r/gemuese-pfannkuchen.html
+          - paragraph [ref=e3261]: Für Kinder vegane Gerichte zu kochen, die gut ankommen und dabei auch noch gesund sind, ist nicht immer einfach. Diese kindererprobte Pfannkuchen-Variante deckt alle Wünsche ab.
+      - listitem [ref=e3262]:
+        - img "vegane shrimps" [ref=e3263]
+        - generic [ref=e3264]:
+          - link "Vegane Shrimps mit Pinienkernen auf Erbsenpüree" [ref=e3265] [cursor=pointer]:
+            - /url: /r/vegane-shrimps-erbsenpueree.html
+          - paragraph [ref=e3266]: Shrimps aus rein pflanzlichen Zutaten sind nicht jedermans Sache. Bei uns hat die Neugier gesiegt und wir haben sie ausprobiert.
+      - listitem [ref=e3267]:
+        - img "ai/ai raw cheesecake pflaumen" [ref=e3268]
+        - generic [ref=e3269]:
+          - link "Veganer Raw Cheesecake mit Pflaumen" [ref=e3270] [cursor=pointer]:
+            - /url: /r/raw-cheesecake-pflaumen.html
+          - paragraph [ref=e3271]: Rohköstlich, dieser bezaubernde Kuchen, der hauptsächlich aus gesunden Nüssen besteht. Der Mandelboden lässt Marzipan-Gefühle aufkommen und die Creme lässt einen dahinschmelzen!
+      - listitem [ref=e3272]:
+        - img "ai/ai pink coconut curry" [ref=e3273]
+        - generic [ref=e3274]:
+          - link "Veganes Pink Coconut Curry" [ref=e3275] [cursor=pointer]:
+            - /url: /r/pink-coconut-curry.html
+          - paragraph [ref=e3276]: Um dieses Curry zur Lieblingsspeise zu erklären, muss pink nicht Deine Lieblingsfarbe sein. Vielleicht wird sie es aber! Den Farbeffekt liefern übrigens rote Rüben.
+      - listitem [ref=e3277]:
+        - img "ai/ai rotes pesto cucina vegana" [ref=e3278]
+        - generic [ref=e3279]:
+          - link "Rotes Pesto nach Cucina Vegana" [ref=e3280] [cursor=pointer]:
+            - /url: /r/rotes-pesto-cucina-vegana.html
+          - paragraph [ref=e3281]: Pesto muss nicht immer grün sein! Pesto rosso ist eine tolle Abwechslung, vorallem dann wenn man kein frisches Basilikum zur Hand hat. Die getrockneten Tomaten mit den Haselnüssen und weiteren typischen Zutaten der italienischen Küche ergeben eine geschmacksintensive und harmonische Verbindung.
+      - listitem [ref=e3282]:
+        - img "ai/ai pizza schnecken" [ref=e3283]
+        - generic [ref=e3284]:
+          - link "Pizzaschnecken Vegane mit Pesto rosso" [ref=e3285] [cursor=pointer]:
+            - /url: /r/pizza-schnecken.html
+          - paragraph [ref=e3286]: Gibt es jemanden, der keine Pizza mag? Wahrscheinlich nicht! Hier haben wir der Pizza zur Abwechslung mal eine andere Form verliehen.
+      - listitem [ref=e3287]:
+        - img "Flammkuchen1" [ref=e3288]
+        - generic [ref=e3289]:
+          - link "Veganer feiger Kürbisflammkuchen von Cookies&Style" [ref=e3290] [cursor=pointer]:
+            - /url: /r/kuerbisflammkuchen.html
+          - paragraph [ref=e3291]: Gleich noch ein wunderbares Rezept von einer unserer LieblingsköchInnen! Cookies&Style beehrt uns mit einem leckeren Flammkuchen mit Kürbis und Feigen.
+      - listitem [ref=e3292]:
+        - img "karottenkuchen" [ref=e3293]
+        - generic [ref=e3294]:
+          - link "Veganer Rawsome Carrot Cake mit Cashew-Frosting" [ref=e3295] [cursor=pointer]:
+            - /url: /r/rawsome-carrot-cake.html
+          - paragraph [ref=e3296]: Lasst uns Kuchen essen! Dieses wunderbare Rezept für rohen Karottenkuchen kommt von der großartigen Raw Food Kreationistin und Bloggerin Emily. Ihr Blog This Rawsome Vegan Life macht Lust darauf sich nur mehr von Kuchen zu ernähren, rohem Kuchen wohlgemerkt.
+      - listitem [ref=e3297]:
+        - img "ai/ai kuerbis pastinaken fritten minzdip" [ref=e3298]
+        - generic [ref=e3299]:
+          - link "Vegane Kürbis-Pastinaken Fritten mit Safran und Minzdip" [ref=e3300] [cursor=pointer]:
+            - /url: /r/kuerbis-pastinaken-fritten-minzdip.html
+          - paragraph [ref=e3301]: Kürbisschnitze und Pastinakenstifte, lecker mariniert mit Safran und weiteren Gewürzen, knusprig aus dem Backrohr! Dazu ein leichtes Haydari aus Sojayoghurt und frischer Minze als Dip und die Welt ist schön.
+      - listitem [ref=e3302]:
+        - img "kartoffelgratin" [ref=e3303]
+        - generic [ref=e3304]:
+          - 'link "Kartoffelgratin mit Käsehaube: vegan ohne Kompromisse!" [ref=e3305] [cursor=pointer]':
+            - /url: /r/kartoffelgratin-mit-kaesehaube.html
+          - paragraph [ref=e3306]: Der leckere Auflauf aus Kartoffeln mit etwas Lauch und mit geschmolzenem Violife Käse obendrauf, der schmeckt immer noch vorzüglich, wenn nicht besser durch die rein pflanzlichen Zutaten. Der Inbegriff von Comfort Food!
+      - listitem [ref=e3307]:
+        - img "Gute Laune Cookies1" [ref=e3308]
+        - generic [ref=e3309]:
+          - link "Gute Laune Cookies von veganpassion" [ref=e3310] [cursor=pointer]:
+            - /url: /r/gute-laune-cookies.html
+          - paragraph [ref=e3311]: "Auf dem Blog veganpassion begeistert Stina uns schon lange mit ihren fabelhafte Backrezepten. Im Oktober erscheint ihr gleichnamiges Backbuch, das vom VEBU bereits zum Kochbuch des Jahres nominiert wurde. Wir haben bereits einen kleinen Vorgeschmack für Euch:"
+      - listitem [ref=e3312]:
+        - img "ai/ai getreidebrei" [ref=e3313]
+        - generic [ref=e3314]:
+          - link "Das Vegane morgendliche Glück liegt im Getreidebrei" [ref=e3315] [cursor=pointer]:
+            - /url: /r/getreidebrei.html
+          - paragraph [ref=e3316]: "Ein vollwertiges, sättigendes Frühstück - im Winter warm, im Sommer kühl - variationsreich je nach Lust und Laune und auch bei Kindern höchst beliebt: Getreidebrei!"
+      - listitem [ref=e3317]:
+        - img "cashewmilch" [ref=e3318]
+        - generic [ref=e3319]:
+          - link "Vegane Cashew-Milch einfach selbst gemacht" [ref=e3320] [cursor=pointer]:
+            - /url: /r/cashew-milch.html
+          - paragraph [ref=e3321]: Hier einmal ein Rezept für eine pflanzliche Milch, die Ihr nicht im Geschäft findet. Cashews zeichnen sich durch ihren milden, süßen Geschmack und ihren hohen Magnesium- und Eisenanteil aus.
+      - listitem [ref=e3322]:
+        - img "tacos1" [ref=e3323]
+        - generic [ref=e3324]:
+          - link "Bunt Vegane gefüllte Tacos mit Avocado-Creme" [ref=e3325] [cursor=pointer]:
+            - /url: /r/tacos-avocado-creme.html
+          - paragraph [ref=e3326]: Ein schnelles Abendessen gefällig, das über einen Salat hinausgeht? Die einzelnen Zutaten für die Tacos sind schnell vorbereitet und das Füllen übernimmt jeder nach Herzenslust selbst.
+      - listitem [ref=e3327]:
+        - img "ai/ai tofu knoedel sauerrahm spiegel" [ref=e3328]
+        - generic [ref=e3329]:
+          - link "Nussig Vegane zimtige Tofu-Knödel auf Sauerrahm-Spiegel" [ref=e3330] [cursor=pointer]:
+            - /url: /r/tofu-knoedel-sauerrahm-spiegel.html
+          - paragraph [ref=e3331]: Eine tolle Alternative zu dem aufwendigen Kartoffel- und unveganem Quarkteig bietet dieses Rezept. Nussig-zimtig umhüllt und auf einem erfrischend leckeren Spiegel gebettet, servieren wir hier Tofu-Knödel.
+      - listitem [ref=e3332]:
+        - img "raw choco bites" [ref=e3333]
+        - generic [ref=e3334]:
+          - link "Rohe Vegane Schoko-Bissen mit Cremehaube" [ref=e3335] [cursor=pointer]:
+            - /url: /r/rohe-schoko-bissen.html
+          - paragraph [ref=e3336]: "Kaum einer wird erraten, was sich in der Creme auf den himmlisch schokoladigen Bissen versteckt! Und auch wenn Du es weisst, ist es kaum zu glauben: Avocado liefert die cremig herrliche Textur für das Schoko-Frosting."
+      - listitem [ref=e3337]:
+        - img "ai/ai kuerbis creme suppe" [ref=e3338]
+        - generic [ref=e3339]:
+          - link "Vegane Gesundmach-Suppe mit Kürbis und Hirse" [ref=e3340] [cursor=pointer]:
+            - /url: /r/kuerbis-creme-suppe.html
+          - paragraph [ref=e3341]: "Kaum geht der Sommer zu Ende, beginnt der erste Anflug der Krankheitswelle. Schnupfen, Husten und alles was man sonst so nicht haben will, sind omnipräsent. Was man dagegen tun kann? Hier ein Suppen-Rezept zur Bekämpfung und Prävention:"
+      - listitem [ref=e3342]:
+        - img "kuerbis risotto 1" [ref=e3343]
+        - generic [ref=e3344]:
+          - link "Einfaches Veganes Kürbis-Risotto mit Safran" [ref=e3345] [cursor=pointer]:
+            - /url: /r/kuerbis-risotto.html
+          - paragraph [ref=e3346]: Endlich gibt es wieder Kürbis in Hülle und Fülle und in all seinen Variationen. Neben köstlichen Cremesuppen lassen sich auch noch viele andere Rezepte aus Kürbis zaubern so wie dieses leckere Risotto!
+      - listitem [ref=e3347]:
+        - img "Seitan Herz" [ref=e3348]
+        - generic [ref=e3349]:
+          - link "Vegane Seitan-Herzilein auf zitronigem Erbsenpüree" [ref=e3350] [cursor=pointer]:
+            - /url: /r/seitan-plaetzchen-erbsenpueree.html
+          - paragraph [ref=e3351]: Ja, wir lieben Seitan und wie bunt man es mit Weizensteaks treiben kann, zeigt das farbenfrohe Rezept. Nicht nur ein Hingucker, sondern auch ein super Geschmackserlebenis und zwar mit ganz natürlichen Zutaten!
+      - listitem [ref=e3352]:
+        - img "raw oreos Edward Kimber" [ref=e3353]
+        - generic [ref=e3354]:
+          - link "Oreos Vegane gesunde Verwandte" [ref=e3355] [cursor=pointer]:
+            - /url: /r/oreos-gesunde-verwandte.html
+          - paragraph [ref=e3356]: Natürlich naschen wir alle mal gerne und ja, Oreos sind vegan. Wer sich aber auch hier gesundheitlich was gutes tun will, der kann sich selbst was zaubern - es geht auch ganz schnell - versprochen!
+      - listitem [ref=e3357]:
+        - img "ai/ai brennnessel spinat" [ref=e3358]
+        - generic [ref=e3359]:
+          - link "Vegane Brennnessel-Spinat" [ref=e3360] [cursor=pointer]:
+            - /url: /r/brennnessel-spinat.html
+          - paragraph [ref=e3361]: Wusstest Du, dass in Brennesseln eine Menge Eiweiß steckt? Und nicht nur das, die jungen Triebe schmecken auch vorzüglich als Spinat zubereitet und liefern neben Protein auch noch so einiges mehr an Vitaminen und Vitalstoffen.
+      - listitem [ref=e3362]:
+        - img "mangold wickel" [ref=e3363]
+        - generic [ref=e3364]:
+          - link "Vegane Mangold-Wickel mit Pilzfüllung" [ref=e3365] [cursor=pointer]:
+            - /url: /r/mangold-wickel-mit-pilzfuellung.html
+          - paragraph [ref=e3366]: Eat your greens! heißt es so schön und damit ist nicht nur Spinat gemeint. Auch Mangold ist vielseitig einsetzbar und lässt sich in herrliche vegane Kreationen verwandeln wie zum Beispiel in diese Mangold-Wickel gefüllt mit Pilzen.
+      - listitem [ref=e3367]:
+        - img "kuchen im glas" [ref=e3368]
+        - generic [ref=e3369]:
+          - link "Kuchen Veganer im Glas mit beeriger Sauce" [ref=e3370] [cursor=pointer]:
+            - /url: /r/kuchen-im-glas-beeren-sauce.html
+          - paragraph [ref=e3371]: "Berge von Kuchen nach einer Party, die am nächsten Tag schmecken wie der Name \"Überbleibsel\" klingt? Hier eine grandiose Idee für deren Verwertung:"
+      - listitem [ref=e3372]:
+        - img "apfelstrudel" [ref=e3373]
+        - generic [ref=e3374]:
+          - link "Apfelstrudel Vegane im Tofu-Mürbteig" [ref=e3375] [cursor=pointer]:
+            - /url: /r/apfelstrudel-tofu-muerbteig.html
+          - paragraph [ref=e3376]: Jeder kennt wohl den klassischen Topfen-Mürbteig, der besonders für den hausgemachten Apfelstrudel sehr beliebt ist. Gute Nachricht, dieser lässt sich prima veganisieren und ist genauso lecker wie damals.
+      - listitem [ref=e3377]:
+        - img "laugenstangerl zwiebelschmalz apfel" [ref=e3378]
+        - generic [ref=e3379]:
+          - link "Vegane Jausenzeit" [ref=e3380] [cursor=pointer]:
+            - /url: /r/jause.html
+          - paragraph [ref=e3381]: "Kochen ist schön, einfach mal zu jausnen aber auch. Veganen Aufstrich und Aufschnitt gibts ja schon zu Hauf, die richtige Kombination machts aber aus. Hier ein paar Inspirationen für die nächste bunte Jause oder Füllung der Lunchbox:"
+      - listitem [ref=e3382]:
+        - img "ai/ai rohveganer apfelkuchen" [ref=e3383]
+        - generic [ref=e3384]:
+          - 'link "Veganer Herbstgenuss: Rohköstlicher Apfelkuchen" [ref=e3385] [cursor=pointer]':
+            - /url: /r/rohveganer-apfelkuchen.html
+          - paragraph [ref=e3386]: Ein frischer fröhlicher Apfelkuchen, bei dem nichts schief gehen kann und dabei ist er so einfach und so gut!
+      - listitem [ref=e3387]:
+        - img "birnen marzipan kuchen" [ref=e3388]
+        - generic [ref=e3389]:
+          - link "Vegane Birnen-Marzipan-Tarte mit Pflaumen-Sauce" [ref=e3390] [cursor=pointer]:
+            - /url: /r/birnen-marzipan-tarte.html
+          - paragraph [ref=e3391]: "Wer nach einem etwas außergewöhnlicheren Rezept für einen fruchtigen Kuchen sucht, der ist hier richtig: blitzschnell in der Zubereitung, ein begeisterungswürdiges vorzügliches Resultat und das mal wieder ohne backen."
+      - listitem [ref=e3392]:
+        - img "schwarz weisse seitan sticks" [ref=e3393]
+        - generic [ref=e3394]:
+          - link "Vegane Seitan-Sticks in schwarz weiß" [ref=e3395] [cursor=pointer]:
+            - /url: /r/seitan-sticks.html
+          - paragraph [ref=e3396]: "Toll als Beilage, Topping oder Snack zwischendurch: herzhafte Seitan Streifen, die in einer knusprigen Panier aus Sesam und Schwarzkümmel stecken. Das ergibt nicht nur einen super Farbeffekt, sondern auch einen außergewöhnlich delikaten Geschmack."
+      - listitem [ref=e3397]:
+        - img "ai/ai rohe blaubeer cupcakes" [ref=e3398]
+        - generic [ref=e3399]:
+          - link "Himmlische Vegane rohe Blaubeer Cupcakes" [ref=e3400] [cursor=pointer]:
+            - /url: /r/rohe-blaubeer-cupcakes.html
+          - paragraph [ref=e3401]: Glück in Cupcake-Form! Nicht nur eine Augenweide und eine Freude für den Geschmacksinn, sondern noch dazu gesund sind sie. Das liegt an den natürlichen Zutaten, die hier mal ungebacken bleiben.
+      - listitem [ref=e3402]:
+        - img "polenta schnitten pilzragout" [ref=e3403]
+        - generic [ref=e3404]:
+          - link "Vegane Rosmarin-Polenta auf Pilzragout" [ref=e3405] [cursor=pointer]:
+            - /url: /r/polenta-schnitten-pilzragout.html
+          - paragraph [ref=e3406]: "Nach einem erfolgreichen Ausflug in den Wald bietet sich dieses äußerst schmackhafte Gericht an, um seine Fünde zu verwerten: herzhafte Pilze auf Polentaschnitten oder andersrum."
+      - listitem [ref=e3407]:
+        - img "rotweinkuchen" [ref=e3408]
+        - generic [ref=e3409]:
+          - link "Gugelhupf Vegane mit Schwips und Walnüssen" [ref=e3410] [cursor=pointer]:
+            - /url: /r/rotweingugelhupf-mit-walnuessen.html
+          - paragraph [ref=e3411]: Ein betörender Kuchen für Erwachsene only, versteht sich! Das Aroma des Rotweins macht sich in dem Gugelhupf ausgezeichnet in Kombination mit Zimt und Walnüssen. Wirklich köstlich!
+      - listitem [ref=e3412]:
+        - img "ai/ai sommerrollen" [ref=e3413]
+        - generic [ref=e3414]:
+          - link "Frische Vegane fröhliche Sommerrollen mit Tofu" [ref=e3415] [cursor=pointer]:
+            - /url: /r/sommerrollen.html
+          - paragraph [ref=e3416]: "Sie sind bunt, sie sind frisch und es macht einen Mordsspaß sie zu rollen: Sommerrollen oder auch frische Frühlingsrollen genannt sind eine super Fingerfood-Vorspeise für gesellige kulinarische Anlässe."
+      - listitem [ref=e3417]:
+        - img "ai/ai bohnen salat zitrusdressing" [ref=e3418]
+        - generic [ref=e3419]:
+          - link "Veganer Weißer Bohnensalat mit grünen Oliven und Zitrusdressing" [ref=e3420] [cursor=pointer]:
+            - /url: /r/bohnen-salat-zitrusdressing.html
+          - paragraph [ref=e3421]: "Perfekt für die Lunchbox, zum Grillfest, Picknick oder einfach mal so. Diese Protein-Bombe ist schnell zubereitet und das beste daran: dieser Salat ist nach einigen Stunden sogar noch besser und freut sich über lange Zieh-Zeiten."
+      - listitem [ref=e3422]:
+        - img "ai/ai beeren biskuit kuchen" [ref=e3423]
+        - generic [ref=e3424]:
+          - link "Veganer Biskuitkuchen mit Beeren" [ref=e3425] [cursor=pointer]:
+            - /url: /r/beeren-biskuit-kuchen.html
+          - paragraph [ref=e3426]: Ja, auch Biskuit geht ganz ohne Ei! Sogar ganz einfach nur mit Wasser und etwas mehr Backpulver und voilà, schon ist ein toller luftiger Obstkuchen gezaubert.
+      - listitem [ref=e3427]:
+        - img "ai/ai pilz quiche" [ref=e3428]
+        - generic [ref=e3429]:
+          - link "Vegane Pilz-Quiche" [ref=e3430] [cursor=pointer]:
+            - /url: /r/pilz-quiche.html
+          - paragraph [ref=e3431]: "Ein einfaches (wenn auch nicht unbedingt schnelles) Rezept mit Großer Wirkung: Diese Quiche ist absolut köstlich und kann sehr einfach variiert werden."
+      - listitem [ref=e3432]:
+        - img "ai/ai mandel pralinen" [ref=e3433]
+        - generic [ref=e3434]:
+          - 'link "Oh Vegane so lecker: Mandel Pralineés" [ref=e3435] [cursor=pointer]':
+            - /url: /r/mandel-pralinen.html
+          - paragraph [ref=e3436]: Selbst gemachte Mandelmilch ist herrlich, aber was mit dem ausgequetschten Überresten? Keine Sorge, da wird nichts verschwendet. Gemolkene Mandelreste upcyclen und tolle Pralinen zaubern!
+      - listitem [ref=e3437]:
+        - img "mandelmilch1" [ref=e3438]
+        - generic [ref=e3439]:
+          - link "Vegane Pflanzenmilch selbst gemacht" [ref=e3440] [cursor=pointer]:
+            - /url: /r/vegane-milch-selbst-gemacht.html
+          - paragraph [ref=e3441]: "Aus Nüssen, Samen oder Getreide Milch herzustellen ist keine Hexerei. Das schöne daran: man bestimmt selbst die Zutaten und die Qualität: bio, Rohkost, gesüßt oder gewürzt..."
+      - listitem [ref=e3442]:
+        - img "baklava" [ref=e3443]
+        - generic [ref=e3444]:
+          - link "Vegane Baklava" [ref=e3445] [cursor=pointer]:
+            - /url: /r/baklava.html
+          - paragraph [ref=e3446]: Die in vielen Ländern traditionelle Nachspeise ist auch problemlos vegan zubereitbar. So kommt auch zuhause Urlaubsfeeling auf.
+      - listitem [ref=e3447]:
+        - img "caponata" [ref=e3448]
+        - generic [ref=e3449]:
+          - link "Vegane Caponata Siciliana" [ref=e3450] [cursor=pointer]:
+            - /url: /r/caponata-siciliana.html
+          - paragraph [ref=e3451]: Frisches Gemüse gibt es auf der Mittelmeerinsel in Hülle und Fülle. Auch an entsprechend leckeren Rezepten fehlt es nicht.
+      - listitem [ref=e3452]:
+        - img "ai/ai veganer hefezopf" [ref=e3453]
+        - generic [ref=e3454]:
+          - link "Veganer Hefezopf bzw. Striezel" [ref=e3455] [cursor=pointer]:
+            - /url: /r/veganer-hefezopf.html
+          - paragraph [ref=e3456]: In Österreich und Bayern heißt er Striezel, ansonsten meist Hefezopf. Wichtiger als der Name ist aber der köstliche Geschmack.
+      - listitem [ref=e3457]:
+        - img "pinakbet" [ref=e3458]
+        - generic [ref=e3459]:
+          - 'link "Pinakbet: Veganes Kokos Gemüse mit Mungbohnen" [ref=e3460] [cursor=pointer]':
+            - /url: /r/kokos-gemuse-mungbohnen.html
+          - paragraph [ref=e3461]: Ein Gruß aus der philippinischen Küche. "Pinakbet", wie das Kokosgemüse im Original heißt, ist leider eines der wenigen veganen philippinischen Gerichte, dafür umso leckerer.
+      - listitem [ref=e3462]:
+        - img "ai/ai kurbis kokos linsen suppe" [ref=e3463]
+        - generic [ref=e3464]:
+          - link "Feine Vegane Kürbis-Kokos-Linsen-Suppe" [ref=e3465] [cursor=pointer]:
+            - /url: /r/kurbis-kokos-linsen-suppe.html
+          - paragraph [ref=e3466]: Die drei Hauptkomponenten der Suppe ergeben ein sehr ausgewogenes Geschmackserlebnis. Diese wunderbare Cremesuppe ist nicht nur ausgesprochen schmackhaft, sie hinterlässt auch ein angenehm wohliges Gefühl in der Magengegend.
+      - listitem [ref=e3467]:
+        - img "ai/ai strawberry cheesecake" [ref=e3468]
+        - generic [ref=e3469]:
+          - link "Sommerlicher Veganer Strawberry Cheesecake" [ref=e3470] [cursor=pointer]:
+            - /url: /r/strawberry-cheesecake.html
+          - paragraph [ref=e3471]: Dieser Kuchen mit dem Rohkostboden aus feinsten Zutaten und dem frischen Seidentofu-Belag begeistert einfach jedeN GenießerIn - so lecker, so sommerlich frisch und so eine Augenweide noch dazu!
+      - listitem [ref=e3472]:
+        - img "ai/ai rohkost kuchenboden" [ref=e3473]
+        - generic [ref=e3474]:
+          - link "Veganer Roh-köstlicher Kuchenboden" [ref=e3475] [cursor=pointer]:
+            - /url: /r/rohkost-kuchenboden.html
+          - paragraph [ref=e3476]: Dieser Rohkost-Boden ist eine hervorragende Basis für verschiedene kreative Kuchen. Schnell und einfach lässt er sich zaubern, ganz ohne backen, ganz ohne Mehl, ganz ohne Zucker.
+      - listitem [ref=e3477]:
+        - img "ai/ai eis am stiel" [ref=e3478]
+        - generic [ref=e3479]:
+          - 'link "Bunte Vegane Abkühlung: DIY Eis am Stiel" [ref=e3480] [cursor=pointer]':
+            - /url: /r/eis-am-stiel.html
+          - paragraph [ref=e3481]: "Fruchtig - fröhlich - bunt: Eis am Stiel ist eine herrliche Erfrischung an heißen Sommertagen. Am besten eignen sich vollreife Früchte dafür, so spart man gleich noch den Zucker."
+      - listitem [ref=e3482]:
+        - img "breakfast shakes" [ref=e3483]
+        - generic [ref=e3484]:
+          - link "Vegane Frozen Breakfast Smoothies" [ref=e3485] [cursor=pointer]:
+            - /url: /r/frozen-breakfast-smoothies.html
+          - paragraph [ref=e3486]: Sommerliches Frühstück für sonnige Laune. Schnell gemixt und mit einer super Dosis an Vitaminen für einen beschwingten Start in den Tag.
+      - listitem [ref=e3487]:
+        - img "aprikosen kokos eis1" [ref=e3488]
+        - generic [ref=e3489]:
+          - link "Fruchtig Veganes cremiges Aprikosen-Kokos Eis" [ref=e3490] [cursor=pointer]:
+            - /url: /r/aprikosen-kokos-eis.html
+          - paragraph [ref=e3491]: Die Kombination von fruchtigen Aprikosen mit cremiger Kokosnuss - ein bisher eher unbekanntes Dream-Team unter den Eissorten.
+      - listitem [ref=e3492]:
+        - img "veganes tom yum" [ref=e3493]
+        - generic [ref=e3494]:
+          - link "Vegane Tom Yum Suppe" [ref=e3495] [cursor=pointer]:
+            - /url: /r/tom-yum.html
+          - paragraph [ref=e3496]: Tom Yum ohne Shrimppaste, Fischsauce, Glutamat & Co ganz einfach selbst gemacht. Die einzige Herausforderung liegt in der Beschaffung der Zutaten, aber auch dafür gibt es einfache Lösungen.
+      - listitem [ref=e3497]:
+        - img "ai/ai gegrillte champignons" [ref=e3498]
+        - generic [ref=e3499]:
+          - link "Gegrillte Vegane Lavendel-Lemon-Chili-Champignons" [ref=e3500] [cursor=pointer]:
+            - /url: /r/gegrillte-champignons.html
+          - paragraph [ref=e3501]: "Ob vom Grill oder aus dem Backrohr, als leichte Hauptmahlzeit oder Salat-Topping - gegrillte Champignons machen sich immer gut. Wichtig: auf die Marinade kommt es an!"
+      - listitem [ref=e3502]:
+        - img "ai/ai schoko mohn cheesecake" [ref=e3503]
+        - generic [ref=e3504]:
+          - link "Herrlich Vegane frischer Schoko-Mohn Cheesecake" [ref=e3505] [cursor=pointer]:
+            - /url: /r/schoko-mohn-cheesecake.html
+          - paragraph [ref=e3506]: Mohn & Schokolade bzw. Kakao - eine altbekannte tolle Mischung, die wir hier verwenden für einen Kuchen, den man nicht mal backen muss.
+      - listitem [ref=e3507]:
+        - img "ai/ai bananen schnitten" [ref=e3508]
+        - generic [ref=e3509]:
+          - link "Vegane Bananenschnitten" [ref=e3510] [cursor=pointer]:
+            - /url: /r/bananen-schnitten.html
+          - paragraph [ref=e3511]: Das Bananenschnitte-Rezept sieht zwar auf den ersten Blick kompliziert aus, in Wirklichkeit ist man aber wirklich easy & schnell fertig, da nichts auskühlen muss! Super lecker!
+      - listitem [ref=e3512]:
+        - img "ai/ai kartoffel gulasch" [ref=e3513]
+        - generic [ref=e3514]:
+          - link "Vegane Kartoffelgulasch" [ref=e3515] [cursor=pointer]:
+            - /url: /r/kartoffel-gulasch.html
+          - paragraph [ref=e3516]: Eine herzhafte Vor- oder Hauptspeise aus preisgünstigen und alltäglichen Zutaten. Soja- und glutenfrei.
+      - listitem [ref=e3517]:
+        - img "matcha sesam shake" [ref=e3518]
+        - generic [ref=e3519]:
+          - link "Veganer RambaZamba Frozen Matcha-Sesam-Shake" [ref=e3520] [cursor=pointer]:
+            - /url: /r/sesam-matcha-shake.html
+          - paragraph [ref=e3521]: Als sommerliches Frühstück oder energiereiche Zwischenmahlzeit bringt der Shake auch müde Geister wieder auf Hochtouren. Er schmeckt nicht nur unglaublich lecker - nein, er verleiht auch ungeahnte Kräfte und Energie.
+      - listitem [ref=e3522]:
+        - img "vegane hirse pizza" [ref=e3523]
+        - generic [ref=e3524]:
+          - link "Schnelle Vegane Hirse-Pizza" [ref=e3525] [cursor=pointer]:
+            - /url: /r/schnelle-hirse-pizza.html
+          - paragraph [ref=e3526]: Hirse steckt voller positiver Inhaltsstoffe und sollte viel öfter auf unserem Speiseplan stehen. Im Gegensatz zu vielen anderen Getreidesorten ist Hirse basisch und glutenfrei.
+      - listitem [ref=e3527]:
+        - img "pad thai vegan" [ref=e3528]
+        - generic [ref=e3529]:
+          - link "Veganes Pad Thai mit grünem Spargel" [ref=e3530] [cursor=pointer]:
+            - /url: /r/veganes-pad-thai.html
+          - paragraph [ref=e3531]: Pad Thai ist der Klassiker der thailändischen Küche und lässt sich wunderbar in ein tolles veganes Geschmackserlebnis umkreieren.
+      - listitem [ref=e3532]:
+        - img "pilzspaghetti" [ref=e3533]
+        - generic [ref=e3534]:
+          - link "Spaghetti Vegane mit Champignon-Sahnesauce" [ref=e3535] [cursor=pointer]:
+            - /url: /r/spaghetti-pilz-sahnesauce.html
+          - paragraph [ref=e3536]: Ein herrlich pilzig-deftiges Gericht - schnell zubereitet und unendlich variierbar.
+      - listitem [ref=e3537]:
+        - img "oedenburger" [ref=e3538]
+        - generic [ref=e3539]:
+          - link "Vegane Ödenburger Nudelauflauf" [ref=e3540] [cursor=pointer]:
+            - /url: /r/odenburger-nudelauflauf.html
+          - paragraph [ref=e3541]: Eine völlig zu unrecht eher unbekannte Süßspeise aus K&K-Zeiten - nur minimal adaptiert.
+      - listitem [ref=e3542]:
+        - img "ai/ai gemuese schnitzel" [ref=e3543]
+        - generic [ref=e3544]:
+          - link "Knusprige Gemüseschnitzel vegan paniert" [ref=e3545] [cursor=pointer]:
+            - /url: /r/gemuese-schnitzel.html
+          - paragraph [ref=e3546]: Panieren ohne Ei ist überhaupt kein Problem. Ganz im Gegenteil, es funktioniert ganz hervorragend mit Sellerie, Zucchinis, Champignons oder auch mit Sojaschnitzeln.
+      - listitem [ref=e3547]:
+        - img "CYMERA_20130527_125728" [ref=e3548]
+        - generic [ref=e3549]:
+          - link "Red Velvet Muffins - natürlich vegan" [ref=e3550] [cursor=pointer]:
+            - /url: /r/red-velvet-muffins.html
+          - paragraph [ref=e3551]: Schokoladig, samtig weich und ein farblicher Hingucker, dabei kommen wir ganz ohne Lebenmittelfarbe aus und machen die Muffins sogar noch gesünder dabei!
+      - listitem [ref=e3552]:
+        - img "pasta rucola pinienkerne 1" [ref=e3553]
+        - generic [ref=e3554]:
+          - link "Die leckerste & schnellste Vegane Pasta mit Rucola und Pinienkernen" [ref=e3555] [cursor=pointer]:
+            - /url: /r/pasta-rucola-pinienkernen.html
+          - paragraph [ref=e3556]: Dieses Pasta-Rezept ist eine echte Bereicherung für jede Küche - vegan oder nicht! Es geht blitzschnell und beeindruckt trotzdem jeden Gast.
+      - listitem [ref=e3557]:
+        - img "CYMERA_20130526_182544" [ref=e3558]
+        - generic [ref=e3559]:
+          - 'link "Reis Kokos Pancakes: glutenfrei und vegan" [ref=e3560] [cursor=pointer]':
+            - /url: /r/reis-kokos-pancakes-glutenfrei-und-vegan.html
+          - paragraph [ref=e3561]: Inspiriert vom philippinischen Reiskuchen haben wir hier traumhaft leckere Reis-Pancakes gezaubert.
+      - listitem [ref=e3562]:
+        - img "ai/ai mandel dattel kugeln" [ref=e3563]
+        - generic [ref=e3564]:
+          - link "Vegane Mandel-Dattel-Kugeln" [ref=e3565] [cursor=pointer]:
+            - /url: /r/mandel-dattel-kugeln.html
+          - paragraph [ref=e3566]: Rohkostsüßigkeiten zum Naschen zwischendurch
+      - listitem [ref=e3567]:
+        - img "dalmakhani" [ref=e3568]
+        - generic [ref=e3569]:
+          - link "Veganes Dal Makhani" [ref=e3570] [cursor=pointer]:
+            - /url: /r/dal-makhani.html
+          - paragraph [ref=e3571]: Butterlinsen nach traditioneller Panjabi Art
+      - listitem [ref=e3572]:
+        - img "hollersaft" [ref=e3573]
+        - generic [ref=e3574]:
+          - link "Holundersirup Veganer mit Steviasüße" [ref=e3575] [cursor=pointer]:
+            - /url: /r/holundersirup-stevia.html
+          - paragraph [ref=e3576]: Holunderblütensirup selbst herzustellen ist keine Hexerei. Dabei auf Zucker zu verzichten auch nicht.
+      - listitem [ref=e3577]:
+        - img "vegan loewanzahnsirup" [ref=e3578]
+        - generic [ref=e3579]:
+          - link "DIY Löwenzahnsirup - Veganer \\\"Honig\\" [ref=e3580] [cursor=pointer]:
+            - /url: /r/lowenzahnsirup.html
+          - paragraph [ref=e3581]: Als veganer Ersatz für Honig kann selbstgemachter Löwenzahnsirup dienen. Durch sein herbes Aroma ist er sehr geschmackvoll.
+      - listitem [ref=e3582]:
+        - img "CAM00014" [ref=e3583]
+        - generic [ref=e3584]:
+          - link "Knackiger Veganer Kichererbsen-Sprossen-Salat" [ref=e3585] [cursor=pointer]:
+            - /url: /r/kichererbsen-sprossen-salat.html
+          - paragraph [ref=e3586]: Dieser Salat liefert nicht nur einen Protein, sondern auch einen Vitamin Boost! Das Geheimnis liegt aber im zitronigen Dressing, das sich ausgezeichnet in Kombination mit Hülsenfrüchten entfaltet und so ein tolles Geschmackserlebnis zaubert.
+      - listitem [ref=e3587]:
+        - img "donauwellen vegan 1 2" [ref=e3588]
+        - generic [ref=e3589]:
+          - 'link "Donauwellen: schokoladig und vegan" [ref=e3590] [cursor=pointer]':
+            - /url: /r/donauwellen.html
+          - paragraph [ref=e3591]: Der Kuchen hat alles was man sich wünscht. Er ist schokoladig, cremig, fruchtig und eignet sich auch hervorragend für Geburtstage.
+      - listitem [ref=e3592]:
+        - img "PHOTO_20130327_104428" [ref=e3593]
+        - generic [ref=e3594]:
+          - link "Sommerliche Vegane Rhabarber-Muffins" [ref=e3595] [cursor=pointer]:
+            - /url: /r/rhababer-muffins.html
+          - paragraph [ref=e3596]: Rhabarber-Kompott und Kuchen mit Streusel sind etwas tolles, aber mit etwas Kreativität lässt sich aus Rhabarber auch noch viel mehr machen. Hier ein einfaches, schnelles Rezept, das auch Kinder lieben.
+      - listitem [ref=e3597]:
+        - img "chocchippie" [ref=e3598]
+        - generic [ref=e3599]:
+          - link "Veganer Chocolate Cream Pie" [ref=e3600] [cursor=pointer]:
+            - /url: /r/chocolate-cream-pie.html
+          - paragraph [ref=e3601]: Seidentofu eignet sich hervorragend als Basis für schokoladige Crémes und damit für vegane Leckereien. Dem Chocolate Cream Pie kann keineR widerstehen.
+      - listitem [ref=e3602]:
+        - img "ai/ai rote beete salat" [ref=e3603]
+        - generic [ref=e3604]:
+          - link "Frischer Veganer Rote-Beete-Salat" [ref=e3605] [cursor=pointer]:
+            - /url: /r/rote-beete-salat.html
+          - paragraph [ref=e3606]: Eisenmangel war gestern! Rote Beete wirkt blutbildend und liefert auch ansonsten so einige Vitamine.
+      - listitem [ref=e3607]:
+        - img "vegane banane schoko muffins feature" [ref=e3608]
+        - generic [ref=e3609]:
+          - link "Einfache Vegane Bananen-Schokolade Muffins" [ref=e3610] [cursor=pointer]:
+            - /url: /r/bananen-schokolade-muffins.html
+          - paragraph [ref=e3611]: Muffins sind toll und jedeR mag sie - auch vegan! Sie gehen schnell, sind einfach zu backen, mitzunehmen und zu essen. Schokolade in Kombination mit Banane - wer bekommt da nicht Lust sofort loszubacken?
+  - contentinfo [ref=e3612]:
+    - paragraph [ref=e3613]: VeganBlatt • Alle Rechte vorbehalten
+    - paragraph [ref=e3614]:
+      - link "Impressum" [ref=e3615] [cursor=pointer]:
+        - /url: /impressum.html
+      - text: •
+      - link "Datenschutz" [ref=e3616] [cursor=pointer]:
+        - /url: /impressum.html#datenschutz
+```
