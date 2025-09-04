@@ -1,5 +1,5 @@
 ---
-title: "uvegane DIY Zitronen Deo"
+title: "Vegane DIY Zitronen Deo"
 date: "2019-07-24 11:55:50"
 modified: "2019-09-16 21:12:18"
 slug: "zitronen-deo"

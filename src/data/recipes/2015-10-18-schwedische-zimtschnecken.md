@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Kanelbullar: Leckere schwedische Zimtschnecken'
+title: 'Vegane Kanelbullar: Leckere schwedische Zimtschnecken'
 date: '2015-10-18 07:07:30'
 modified: '2017-12-14 16:28:32'
 slug: schwedische-zimtschnecken

@@ -1,5 +1,5 @@
 ---
-title: "uvegane 5 ayurvedische Tees für einen guten Start in den Tag"
+title: "Vegane 5 ayurvedische Tees für einen guten Start in den Tag"
 date: "2017-01-24 12:48:06"
 modified: "2017-01-24 16:08:14"
 slug: "ayurvedische-tees"

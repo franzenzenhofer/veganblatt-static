@@ -1,5 +1,5 @@
 ---
-title: "uvegane Rosmarin-Polenta mit Pfifferling-Rahmsauce"
+title: "Vegane Rosmarin-Polenta mit Pfifferling-Rahmsauce"
 date: "2015-10-16 07:39:03"
 modified: "2015-10-17 01:13:28"
 slug: "polenta-mit-pfifferling-rahmsauce"

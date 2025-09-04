@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Einfache, schmackhafte Zucchinicremesuppe'
+title: 'Vegane Einfache, schmackhafte Zucchinicremesuppe'
 date: '2014-05-15 08:04:31'
 modified: '2014-06-09 22:34:12'
 slug: zucchinicremesuppe

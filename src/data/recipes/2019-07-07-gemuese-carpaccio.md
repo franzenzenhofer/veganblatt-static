@@ -1,5 +1,5 @@
 ---
-title: "uvegane Gemüse Carpaccio mit Cashewcreme"
+title: "Vegane Gemüse Carpaccio mit Cashewcreme"
 date: "2019-07-07 19:19:47"
 modified: "2020-09-20 20:00:44"
 slug: "gemuese-carpaccio"

@@ -1,5 +1,5 @@
 ---
-title: "uveganer Grünkohl-Käferbohnen-Salat"
+title: "Veganer Grünkohl-Käferbohnen-Salat"
 date: "2016-01-08 09:45:56"
 modified: "2016-01-08 12:03:26"
 slug: "gruenkohl-kaeferbohnen-salat"

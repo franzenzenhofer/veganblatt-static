@@ -1,5 +1,5 @@
 ---
-title: "uvegane K.O.-Muffins oder Kichererbse trifft Orange"
+title: "Vegane K.O.-Muffins oder Kichererbse trifft Orange"
 date: "2014-03-26 09:00:05"
 modified: "2014-03-28 09:34:31"
 slug: "kichererbsen-orangen-muffins"

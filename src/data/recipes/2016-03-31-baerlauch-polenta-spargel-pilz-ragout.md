@@ -1,5 +1,5 @@
 ---
-title: "uvegane Bärlauch-Polenta mit Spargel-Pilz-Ragout"
+title: "Vegane Bärlauch-Polenta mit Spargel-Pilz-Ragout"
 date: "2016-03-31 14:41:40"
 modified: "2016-04-27 19:33:36"
 slug: "baerlauch-polenta-spargel-pilz-ragout"

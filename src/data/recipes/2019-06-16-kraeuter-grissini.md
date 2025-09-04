@@ -1,5 +1,5 @@
 ---
-title: "uvegane Kräuter Grissini zum Grillen"
+title: "Vegane Kräuter Grissini zum Grillen"
 date: "2019-06-16 10:08:15"
 modified: "2019-06-14 19:15:48"
 slug: "kraeuter-grissini"
