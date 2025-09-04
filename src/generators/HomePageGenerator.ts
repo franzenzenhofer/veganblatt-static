@@ -120,7 +120,7 @@ export class HomePageGenerator {
     const stats = await contentStats.getStats(this.config.srcDir);
     const description = contentStats.generateDescription(stats);
     
-    const html = this.template.generateLayout('Home', pageContent, 'css/styles.css', {
+    const html = this.template.generateLayout('Vegane Rezepte, Artikel & Tipps', pageContent, 'css/styles.css', {
       url: '/',
       description,
       type: 'website',

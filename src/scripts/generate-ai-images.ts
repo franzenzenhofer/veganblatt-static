@@ -13,7 +13,7 @@ const execAsync = promisify(exec);
 // Load environment variables
 dotenv.config();
 
-interface RecipeData {
+interface ContentData {
   title: string;
   slug: string;
   excerpt: string;
@@ -35,7 +35,15 @@ interface ImageMetadata {
   uploadDate: string;
 }
 
-class VeganFoodImageGenerator {
+type ContentType = 'recipe' | 'article';
+
+interface GeneratorOptions {
+  type: ContentType;
+  limit?: number;
+  skipExisting?: boolean;
+}
+
+class VeganContentImageGenerator {
   private genAI: GoogleGenerativeAI;
   private model: any;
   private generatedCount = 0;
@@ -77,24 +85,29 @@ class VeganFoodImageGenerator {
     return new Set(files);
   }
 
-  async generateImagesForRecipes(limit = 5, skipExisting = true): Promise<void> {
-    await this.log('🎨 Starting AI Image Generation for Vegan Recipes');
+  async generateImages(options: GeneratorOptions): Promise<void> {
+    const { type, limit = 5, skipExisting = true } = options;
+    const contentName = type === 'recipe' ? 'Vegan Recipes' : 'Vegan Articles';
+    
+    await this.log(`🎨 Starting AI Image Generation for ${contentName}`);
     await this.log('Using PAID Gemini API - Professional mode');
     
     // Get existing images
     const existingImages = skipExisting ? await this.getExistingImages() : new Set();
     await this.log(`Found ${existingImages.size} existing AI images`);
     
-    // Find recipes without featured images
-    const recipesDir = '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes';
-    const files = await fs.readdir(recipesDir);
+    // Find content without featured images
+    const contentDir = type === 'recipe' 
+      ? '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes'
+      : '/Users/franzenzenhofer/dev/veganblatt-static/src/data/articles';
+    const files = await fs.readdir(contentDir);
     
-    const recipesWithoutImages: string[] = [];
+    const contentWithoutImages: string[] = [];
     
     for (const file of files) {
       if (!file.endsWith('.md')) continue;
       
-      const content = await fs.readFile(path.join(recipesDir, file), 'utf-8');
+      const content = await fs.readFile(path.join(contentDir, file), 'utf-8');
       const { data } = matter(content);
       
       if (!data.featuredImage) {
@@ -103,20 +116,20 @@ class VeganFoodImageGenerator {
         const expectedFilename = `ai-${slug}.jpg`;
         
         if (!existingImages.has(expectedFilename)) {
-          recipesWithoutImages.push(file);
+          contentWithoutImages.push(file);
         }
       }
     }
     
-    await this.log(`Found ${recipesWithoutImages.length} recipes needing images`);
+    await this.log(`Found ${contentWithoutImages.length} ${type}s needing images`);
     
-    // Process only the first 'limit' recipes
-    const recipesToProcess = recipesWithoutImages.slice(0, limit);
+    // Process only the first 'limit' items
+    const itemsToProcess = contentWithoutImages.slice(0, limit);
     
-    for (let i = 0; i < recipesToProcess.length; i++) {
-      const recipeFile = recipesToProcess[i];
+    for (let i = 0; i < itemsToProcess.length; i++) {
+      const contentFile = itemsToProcess[i];
       
-      await this.log(`\n📝 Processing [${i + 1}/${recipesToProcess.length}]: ${recipeFile}`);
+      await this.log(`\n📝 Processing [${i + 1}/${itemsToProcess.length}]: ${contentFile}`);
       
       // Small delay between requests
       if (i > 0) {
@@ -125,7 +138,7 @@ class VeganFoodImageGenerator {
       }
       
       try {
-        await this.generateImageForRecipe(recipeFile);
+        await this.generateImageForContent(contentFile, type);
         this.generatedCount++;
         await this.log(`   ✅ SUCCESS - Total generated: ${this.generatedCount}`);
       } catch (error: any) {
@@ -142,14 +155,19 @@ class VeganFoodImageGenerator {
     await this.printFinalReport();
   }
 
-  private async generateImageForRecipe(recipeFile: string): Promise<void> {
-    // Load recipe data
-    const recipePath = path.join('/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes', recipeFile);
-    const content = await fs.readFile(recipePath, 'utf-8');
-    const { data, content: markdown } = matter(content) as { data: RecipeData; content: string };
+  private async generateImageForContent(contentFile: string, type: ContentType): Promise<void> {
+    // Load content data
+    const contentDir = type === 'recipe' 
+      ? '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes'
+      : '/Users/franzenzenhofer/dev/veganblatt-static/src/data/articles';
+    const contentPath = path.join(contentDir, contentFile);
+    const content = await fs.readFile(contentPath, 'utf-8');
+    const { data, content: markdown } = matter(content) as { data: ContentData; content: string };
     
-    // Create professional food photography prompt
-    const prompt = this.createModernFoodPhotographyPrompt(data);
+    // Create appropriate prompt based on content type
+    const prompt = type === 'recipe' 
+      ? this.createFoodPhotographyPrompt(data)
+      : this.createArticleImagePrompt(data, markdown);
     await this.log(`   📸 Generating with optimized prompt (${prompt.length} chars)`);
     
     // Generate the image
@@ -172,7 +190,7 @@ class VeganFoodImageGenerator {
     }
     
     // Save the image
-    const slug = data.slug || recipeFile.replace('.md', '');
+    const slug = data.slug || contentFile.replace('.md', '');
     const filename = `ai-${slug}.jpg`;
     const imagePath = path.join('/Users/franzenzenhofer/dev/veganblatt-static/public/i/ai', filename);
     
@@ -188,12 +206,61 @@ class VeganFoodImageGenerator {
     const metadata = await this.createImageMetadata(filename, data);
     await this.saveMetadata(metadata);
     
-    // Update recipe file
-    await this.updateRecipeWithImage(recipeFile, filename);
-    await this.log(`   📝 Updated recipe with image`);
+    // Update content file
+    await this.updateContentWithImage(contentFile, filename, type);
+    await this.log(`   📝 Updated ${type} with image`);
   }
 
-  private createModernFoodPhotographyPrompt(data: RecipeData): string {
+  private createArticleImagePrompt(data: ContentData, markdown: string): string {
+    const title = data.title;
+    const excerpt = data.excerpt || '';
+    
+    // Extract key topics from content for better context
+    const contentPreview = markdown.substring(0, 500);
+    
+    return `Create a modern, professional vegan lifestyle photograph for a VEGAN BLOG ARTICLE.
+
+CRITICAL REQUIREMENTS:
+✅ NO TEXT, LABELS, WRITING, WORDS, OR LETTERS ANYWHERE
+✅ NO HUMANS IN THE IMAGE - lifestyle and objects only
+✅ ALL ABOUT VEGAN LIFESTYLE AND THEMES
+✅ Article: "${title}" - ${excerpt}
+✅ EVERYTHING 100% VEGAN - no animal products visible
+✅ Square format 1024x1024 for center cropping
+
+ARTICLE CONTEXT:
+${contentPreview.substring(0, 200)}...
+
+VISUAL STYLE:
+- Clean, modern, editorial photography
+- Natural lighting, bright and inviting
+- Minimalist Scandinavian aesthetic
+- Professional blog/magazine quality
+- Shallow depth of field for artistic effect
+
+COMPOSITION:
+- CENTERED COMPOSITION for perfect cropping
+- Main subject takes 60% of center frame
+- Equal spacing on all sides
+- Clean backgrounds (white, wood, marble)
+- No clutter, minimal props
+
+SUBJECT MATTER (choose appropriate for article):
+- Fresh vegetables and fruits artistically arranged
+- Plant-based ingredients in bowls or jars
+- Vegan pantry items and superfoods
+- Green smoothies, plant milk, fresh juices
+- Sustainable lifestyle items (reusable bags, bamboo)
+- Kitchen scenes with vegan ingredients
+- Nature elements (leaves, herbs, flowers)
+
+MOOD:
+Fresh, healthy, sustainable, ethical, modern, clean.
+Convey the positive vegan lifestyle message.
+Professional blogger/influencer quality.`;
+  }
+
+  private createFoodPhotographyPrompt(data: ContentData): string {
     const title = data.title;
     const ingredients = data.recipe?.ingredients?.join(', ') || '';
     const excerpt = data.excerpt || '';
@@ -248,12 +315,12 @@ Make viewers immediately crave this vegan dish.
 Professional food blogger/cookbook quality.`;
   }
 
-  private async createImageMetadata(filename: string, recipeData: RecipeData): Promise<ImageMetadata> {
+  private async createImageMetadata(filename: string, contentData: ContentData): Promise<ImageMetadata> {
     return {
       filename,
       copyright: '© Bild AI generiert zu Illustrationszwecken',
       source: 'Gemini 2.5 Flash Image Preview',
-      altText: recipeData.title,
+      altText: contentData.title,
       aiGenerated: true,
       model: 'gemini-2.5-flash-image-preview',
       uploadDate: new Date().toISOString()
@@ -287,9 +354,12 @@ ${metadata.copyright}
     await fs.writeFile(metadataPath, content);
   }
 
-  private async updateRecipeWithImage(recipeFile: string, imageFilename: string): Promise<void> {
-    const recipePath = path.join('/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes', recipeFile);
-    let content = await fs.readFile(recipePath, 'utf-8');
+  private async updateContentWithImage(contentFile: string, imageFilename: string, type: ContentType): Promise<void> {
+    const contentDir = type === 'recipe' 
+      ? '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes'
+      : '/Users/franzenzenhofer/dev/veganblatt-static/src/data/articles';
+    const contentPath = path.join(contentDir, contentFile);
+    let content = await fs.readFile(contentPath, 'utf-8');
     
     // Parse the frontmatter
     const { data, content: markdown } = matter(content);
@@ -300,7 +370,7 @@ ${metadata.copyright}
     
     // Rebuild the file with updated frontmatter
     const newContent = matter.stringify(markdown, data);
-    await fs.writeFile(recipePath, newContent);
+    await fs.writeFile(contentPath, newContent);
   }
 
   private async printFinalReport(): Promise<void> {
@@ -324,24 +394,26 @@ ${'='.repeat(60)}
     await this.log(report);
   }
 
-  async regenerateSpecificImages(slugs: string[]): Promise<void> {
+  async regenerateSpecificImages(slugs: string[], type: ContentType = 'recipe'): Promise<void> {
     await this.log('🔄 REGENERATING SPECIFIC IMAGES');
     
     for (const slug of slugs) {
       await this.log(`\nRegenerating: ${slug}`);
       
-      // Find the recipe file
-      const recipesDir = '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes';
-      const files = await fs.readdir(recipesDir);
+      // Find the content file
+      const contentDir = type === 'recipe'
+        ? '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes'
+        : '/Users/franzenzenhofer/dev/veganblatt-static/src/data/articles';
+      const files = await fs.readdir(contentDir);
       
       for (const file of files) {
         if (!file.endsWith('.md')) continue;
         
-        const content = await fs.readFile(path.join(recipesDir, file), 'utf-8');
+        const content = await fs.readFile(path.join(contentDir, file), 'utf-8');
         const { data } = matter(content);
         
         if (data.slug === slug || file.includes(slug)) {
-          await this.log(`   Found recipe: ${file}`);
+          await this.log(`   Found ${type}: ${file}`);
           
           // Delete old image if exists
           const oldImagePath = path.join('/Users/franzenzenhofer/dev/veganblatt-static/public/i/ai', `ai-${slug}.jpg`);
@@ -351,7 +423,7 @@ ${'='.repeat(60)}
           } catch {}
           
           // Generate new image
-          await this.generateImageForRecipe(file);
+          await this.generateImageForContent(file, type);
           await this.log(`   ✅ Regenerated successfully`);
           
           // Small delay
@@ -366,18 +438,29 @@ ${'='.repeat(60)}
 // Main execution
 async function main() {
   try {
-    const generator = new VeganFoodImageGenerator();
+    const generator = new VeganContentImageGenerator();
     
-    // Check if we have a --regenerate flag with slug
-    if (process.argv[2] === '--regenerate' && process.argv[3]) {
-      const slug = process.argv[3];
-      console.log(`🔄 Regenerating AI image for: ${slug}\n`);
-      await generator.regenerateSpecificImages([slug]);
-    } else {
-      // Get batch size from command line or default to 50
-      const batchSize = parseInt(process.argv[2]) || 50;
+    // Parse command line arguments
+    const args = process.argv.slice(2);
+    
+    if (args[0] === '--regenerate' && args[1]) {
+      const slug = args[1];
+      const type = args[2] as ContentType || 'recipe';
+      console.log(`🔄 Regenerating AI image for ${type}: ${slug}\n`);
+      await generator.regenerateSpecificImages([slug], type);
+    } else if (args[0] === '--articles') {
+      const batchSize = parseInt(args[1]) || 5;
+      console.log(`📦 Generating ${batchSize} AI images for VeganBlatt articles\n`);
+      await generator.generateImages({ type: 'article', limit: batchSize });
+    } else if (args[0] === '--recipes') {
+      const batchSize = parseInt(args[1]) || 5;
       console.log(`📦 Generating ${batchSize} AI images for VeganBlatt recipes\n`);
-      await generator.generateImagesForRecipes(batchSize, true);
+      await generator.generateImages({ type: 'recipe', limit: batchSize });
+    } else {
+      // Default to recipes for backward compatibility
+      const batchSize = parseInt(args[0]) || 5;
+      console.log(`📦 Generating ${batchSize} AI images for VeganBlatt recipes\n`);
+      await generator.generateImages({ type: 'recipe', limit: batchSize });
     }
     
     console.log('\n✅ Done! Run npm run deploy to deploy');
@@ -391,4 +474,4 @@ async function main() {
 // Run if executed directly
 main();
 
-export { VeganFoodImageGenerator };
+export { VeganContentImageGenerator };

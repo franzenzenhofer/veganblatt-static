@@ -4,6 +4,8 @@ date: '2024-01-18 00:13:38'
 modified: '2024-01-23 22:48:55'
 slug: ist-tofu-vegan
 excerpt: Ist Tofu wirklich 100% vegan?
+aiGeneratedDate: '2025-09-04T15:42:06.050Z'
+featuredImage: ai/ai-ist-tofu-vegan.jpg
 ---
 
 In diesem Artikel:
