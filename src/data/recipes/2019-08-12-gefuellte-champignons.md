@@ -30,5 +30,7 @@ recipe:
     - >-
       Bei 200°C für ca. 20-30min ins Backrohr schieben bis die Pilze weich und
       die Füllung leicht gebräunt ist. Dazu passt Tomatensauce.
+aiGeneratedDate: '2025-09-04T13:06:28.060Z'
+featuredImage: ai/ai-gefuellte-champignons.jpg
 ---
 

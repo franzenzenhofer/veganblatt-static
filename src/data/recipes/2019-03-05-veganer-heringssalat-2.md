@@ -37,6 +37,8 @@ recipe:
     - >-
       Zuletzt alles gut miteinander vermischen und über Nacht im Kühlschrank
       durchziehen lassen.
+aiGeneratedDate: '2025-09-04T13:05:58.516Z'
+featuredImage: ai/ai-veganer-heringssalat-2.jpg
 ---
 
 Traditionell wird der übermäßige Krapfenkonsum von Dienstag mit einem Heringsschmaus am Mittwoch beendet. Außerdem ist es - wie zu Silvester - ein besonders geeignetes Gericht, wenn man am Vorabend etwas zu tief ins Glas geschaut hat.

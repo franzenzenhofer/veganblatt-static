@@ -65,5 +65,7 @@ recipe:
       Zuletzt noch alle Zutaten für die Glasur miteinander vermischen und zu
       einer cremigen Soße pürieren. Die Zimtschnecken damit übergießen und
       danach vollständig abkühlen und trocknen lassen.
+aiGeneratedDate: '2025-09-04T13:06:38.392Z'
+featuredImage: ai/ai-weihnachtliche-zimtschnecken.jpg
 ---
 

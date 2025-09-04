@@ -43,6 +43,8 @@ recipe:
       und dann alles zusammen in einem Topf gut durchmischen und mit den
       Gewürzen abschmecken. Beim Anrichten mit Kürbiskernen garnieren und
       schmecken lassen.
+aiGeneratedDate: '2025-09-04T13:06:08.662Z'
+featuredImage: ai/ai-vegane-carbonara.jpg
 ---
 
 Mehr Rezepte wie dieses findest du bei [Cookies&Style](https://cookiesandstyle.at).

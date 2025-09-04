@@ -43,6 +43,8 @@ recipe:
       bis es nicht mehr sprudelnd kocht. Die Knödel hinein gleiten lassen und
       für 15-20 Minuten ziehen lassen. Sobald sie an der Oberfläche schwimmen,
       sind sie ready.
+aiGeneratedDate: '2025-09-04T13:06:48.136Z'
+featuredImage: ai/ai-vegane-fluffige-semmelknoedel.jpg
 ---
 
 Die Semmelknödel schmecken besonders gut zu einem veganen Gulasch oder Schwammerl in Hafer Sahnesosse. Für weitere Rezepte und Tipps zu einem nachhaltigen Lebensstil, schau bei [Waste no Thyme](https://wastenothyme.com) vorbei.
