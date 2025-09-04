@@ -35,7 +35,7 @@ echo ""
 
 # Step 3b: Purge Cloudflare cache (if credentials present)
 echo "🧹 Step 3b: Purging Cloudflare cache..."
-./scripts/purge-cloudflare-cache.sh || true
+bash ./scripts/purge-cloudflare-cache.sh || true
 echo ""
 
 # Step 4: Commit and push to GitHub
