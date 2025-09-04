@@ -23,7 +23,7 @@ echo ""
 
 # Step 2: Build with new version
 echo "🔨 Step 2: Building site..."
-npm run build
+npm run lint && npm run build:css && npm run generate
 echo -e "  ${GREEN}✓${NC} Build complete"
 echo ""
 
