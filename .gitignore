@@ -51,8 +51,8 @@ alignment-*.png
 alignment-test.html
 *-alignment-*.png
 
-# Old reports
-*.md
+# Old reports - only exclude reports in root, NOT recipe files
+/*.md
 !CLAUDE.md
 !README.md
 !DEPLOYMENT_SUCCESS.md

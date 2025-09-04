@@ -133,6 +133,24 @@ altText: "Description of image"
 - **AI images**: `/i/ai/filename.jpg` (ai/ NOT encoded, filename encoded)
 - **NO DOUBLE ENCODING**: Path separators (/) must remain unencoded
 
+## GIT WORKFLOW
+
+### ATOMIC COMMITS - CRITICAL!
+- **AFTER EVERY FILE CHANGE** → atomic git commit
+- **ONE CHANGE = ONE COMMIT**
+- Never batch multiple file changes in one commit
+- Commit message describes EXACTLY what changed
+- Example workflow:
+  ```bash
+  # Edit file
+  git add path/to/file.ts
+  git commit -m "Fix URL encoding in HomePageGenerator"
+  
+  # Edit another file
+  git add path/to/other.ts
+  git commit -m "Update prompt for center composition"
+  ```
+
 ## QUALITY GATES
 - ✅ TypeScript strict mode - ZERO errors
 - ✅ ESLint - ZERO warnings  
