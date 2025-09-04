@@ -64,6 +64,8 @@ recipe:
       darübergießen und gut mischen. Für 30min mit dem Braten ins Rohr schieben.
       Dazwischen wenden.
     - Schön anrichten und schmecken lassen!
+aiGeneratedDate: '2025-09-04T18:02:26.470Z'
+featuredImage: ai/ai-veganer-braten-mit-glasierten-suesskartoffeln.jpg
 ---
 
 [<!-- Image removed (no copyright): seitan-braten.jpg -->](https://www.veganblatt.com/i/seitan-braten.jpg)

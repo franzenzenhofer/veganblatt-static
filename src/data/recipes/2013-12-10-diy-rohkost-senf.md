@@ -31,6 +31,8 @@ recipe:
     - >-
       Kann auch mit Agafendicksaft, Ingwer, Knoblauch, Koriander und anderen
       Gewürzen kombiniert werden.
+aiGeneratedDate: '2025-09-04T18:02:06.068Z'
+featuredImage: ai/ai-diy-rohkost-senf.jpg
 ---
 
 <!-- Image removed (no copyright): 2013-12-09-09.12.01-640x1102.jpg -->

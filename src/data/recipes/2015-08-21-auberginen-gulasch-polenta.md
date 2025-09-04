@@ -42,6 +42,8 @@ recipe:
       Granatapfel Paste unter die Auberginen rühren und so lange auf geringer
       Hitze auf dem Herd stehen lassen bis die Polenta fertig ist.
     - Mit etwas frischem Koriander garnieren.
+aiGeneratedDate: '2025-09-04T18:05:09.055Z'
+featuredImage: ai/ai-auberginen-gulasch-polenta.jpg
 ---
 
 Das Auberginen- oder Melanzani-Gulasch lässt sich super vorbereiten und kann in ein Glas abgefüllt auch einige Tage im Kühlschrank aufbewahrt werden. Schmeckt auch super als Nudelsoße oder einfach mit Brot.

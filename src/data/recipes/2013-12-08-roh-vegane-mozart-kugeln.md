@@ -38,6 +38,8 @@ recipe:
     - >-
       Warten bis die Glasur fest geworden ist und genießen oder schön verpackt
       verschenken (wenn welche übrigbleiben).
+aiGeneratedDate: '2025-09-04T18:01:45.961Z'
+featuredImage: ai/ai-roh-vegane-mozart-kugeln.jpg
 ---
 
 Die Inspiration für die rohen Mozartkugeln stammt übrigens vom genialen Rohkost Blog [**Rohtopia**](http://www.rohtopia.com/) und da gibt es sogar eine Videoanleitung dazu: \[embedresponsive videourl="https://www.youtube.com/watch?v=sc-Fr3O6CS8" /\]

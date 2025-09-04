@@ -43,5 +43,7 @@ recipe:
       Den Saft der Kirschen mit der Stärke und der Vanille vermischt aufkochen
       lassen und mit den Kirschen vermischt über den Hirseauflauf geben -
       Mahlzeit!
+aiGeneratedDate: '2025-09-04T18:04:33.884Z'
+featuredImage: ai/ai-suesser-hirse-auflauf-mit-kokos-vanille-kirschen.jpg
 ---
 

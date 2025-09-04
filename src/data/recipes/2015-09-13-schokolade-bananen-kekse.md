@@ -35,6 +35,8 @@ recipe:
       Blech setzten. Wer will, kann sie mit angefeuchteten Händen oder Löffeln
       noch in Herzform bringen.
     - Bei 180 °C für ca. 15 min. in den Ofen.
+aiGeneratedDate: '2025-09-04T18:05:27.046Z'
+featuredImage: ai/ai-schokolade-bananen-kekse.jpg
 ---
 
 Diese Kekse schmecken wie Bananenbrot, sind dafür aber perfekt zum Naschen zwischendurch oder für das gemütliche Sonntagsfrühstück. Damit sie gleich noch etwas schöner sind, haben wir sie in Herzform gebacken und mit Zuckerherzen verziert. Wer es lieber etwas rustikaler mag, formt einfach kleine Häufchen mit zwei Esslöffeln und gibt diese in den Ofen.

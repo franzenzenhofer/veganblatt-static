@@ -1,5 +1,5 @@
 ---
-title: 'Vegane zucker- & glutenfreie Karotten-Chia-Cupcakes'
+title: Vegane zucker- & glutenfreie Karotten-Chia-Cupcakes
 date: '2015-03-26 14:24:03'
 modified: '2015-04-09 20:48:25'
 slug: zucker-glutenfrei-karotten-chia-cupcakes
@@ -48,5 +48,7 @@ recipe:
     - >-
       Die Kokossahne-Creme in einen Spritzsack füllen und auf die abgekühlten
       Muffins aufdressieren, mit den Veilchen garnieren. Fertig!
+aiGeneratedDate: '2025-09-04T18:04:51.727Z'
+featuredImage: ai/ai-zucker-glutenfrei-karotten-chia-cupcakes.jpg
 ---
 

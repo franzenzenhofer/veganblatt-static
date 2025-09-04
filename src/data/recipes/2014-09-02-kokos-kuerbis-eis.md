@@ -30,5 +30,7 @@ recipe:
     - >-
       Sofort mit etwas geriebener Muskatnuss und weißen Schoko-Raspeln als
       Topping servieren.
+aiGeneratedDate: '2025-09-04T18:04:13.414Z'
+featuredImage: ai/ai-kokos-kuerbis-eis.jpg
 ---
 

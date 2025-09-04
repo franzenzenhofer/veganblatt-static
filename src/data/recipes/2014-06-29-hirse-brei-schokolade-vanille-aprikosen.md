@@ -32,5 +32,7 @@ recipe:
       Die Aprikosen waschen, halbieren und in Spalten schneiden. In etwas Wasser
       mit der Vanille und dem Xylitol kurz aufkochen.
     - Nun die Hirse mit den Aprikosen anrichten und warm genießen.
+aiGeneratedDate: '2025-09-04T18:03:23.405Z'
+featuredImage: ai/ai-hirse-brei-schokolade-vanille-aprikosen.jpg
 ---
 

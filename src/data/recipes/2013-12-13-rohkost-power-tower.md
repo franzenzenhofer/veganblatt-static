@@ -38,5 +38,7 @@ recipe:
     - >-
       Schichtweise in einem Dessertring anrichten, nach Lust und Laune garnieren
       und sich schmecken lassen.
+aiGeneratedDate: '2025-09-04T18:02:44.085Z'
+featuredImage: ai/ai-rohkost-power-tower.jpg
 ---
 

@@ -52,5 +52,7 @@ recipe:
     - >-
       Den Salat schön um das Hirse-Türmchen anrichten, ev. mit Physalis
       garnieren und genießen.
+aiGeneratedDate: '2025-09-04T18:00:54.757Z'
+featuredImage: ai/ai-hirse-tuermchen-fruchtigem-rotkraut-salat.jpg
 ---
 

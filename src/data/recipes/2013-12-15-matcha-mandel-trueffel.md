@@ -44,6 +44,8 @@ recipe:
     - >-
       Mit einem scharfen Messer in Würfel schneiden, ev. noch in Matcha wälzen
       und in Pralinenförmchen setzen.
+aiGeneratedDate: '2025-09-04T18:03:04.287Z'
+featuredImage: ai/ai-matcha-mandel-trueffel.jpg
 ---
 
 [<!-- Image removed (no copyright): mandel-trüffel.jpg -->](https://www.veganblatt.com/i/mandel-trüffel.jpg)

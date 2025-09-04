@@ -43,5 +43,7 @@ recipe:
       In Würfel schneiden und in einer beschichteten Pfanne anbraten bis die
       Würfel goldbraun werden. Mit der Sojasauce ablöschen und weiter braten bis
       die Sojasauce verkocht ist.
+aiGeneratedDate: '2025-09-04T18:01:11.348Z'
+featuredImage: ai/ai-gemuesecremesuppe-mit-tempeh.jpg
 ---
 

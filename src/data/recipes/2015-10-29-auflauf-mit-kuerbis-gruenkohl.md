@@ -1,5 +1,5 @@
 ---
-title: "Veganer herbstlicher Auflauf mit Kürbis & Grünkohl"
+title: Veganer herbstlicher Auflauf mit Kürbis & Grünkohl
 date: '2015-10-29 09:20:52'
 modified: '2015-11-02 08:14:09'
 slug: auflauf-mit-kuerbis-gruenkohl
@@ -35,5 +35,7 @@ recipe:
       bestreuen und weiterbacken bis die Käsekruste beginnt sich schon goldbraun
       zu färben, dann ist der Auflauf fertig!
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T18:05:45.424Z'
+featuredImage: ai/ai-auflauf-mit-kuerbis-gruenkohl.jpg
 ---
 
