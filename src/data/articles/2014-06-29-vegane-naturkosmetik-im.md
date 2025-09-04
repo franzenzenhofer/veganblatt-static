@@ -8,6 +8,8 @@ excerpt: >-
   zurück, dabei ist die Maxime heute genauso aktuell wie damals: ökologisch -
   nachhaltig - vegan! Der Naturkosmetik Onlineshop najoba.de stellt uns 3x3 i+m
   Produkte für Euch zur Verfügung!
+aiGeneratedDate: '2025-09-04T16:22:45.970Z'
+featuredImage: ai/ai-vegane-naturkosmetik-im.jpg
 ---
 
 ## Von Kopf bis Fuss vegan gepflegt!

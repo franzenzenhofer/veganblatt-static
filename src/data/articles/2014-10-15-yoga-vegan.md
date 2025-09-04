@@ -4,6 +4,8 @@ date: '2014-10-15 07:46:39'
 modified: '2015-05-14 19:12:20'
 slug: yoga-vegan
 excerpt: "Der Yoga-\"Trend\" etabliert sich bereits etwas länger als der Vegan-\"Trend\". Beide\_Lebenseinstellungen haben so viele Varianten, Ursprünge und ebenso Gemeinsamkeiten."
+aiGeneratedDate: '2025-09-04T16:44:54.152Z'
+featuredImage: ai/ai-yoga-vegan.jpg
 ---
 
 Yoga ist eine jahrtausendealte indische Philosophie, die viel tiefer und weiter geht, als das moderne Yoga in den westlichen Ländern, wo es oft (leider) als Sport, aber auch für Entspannung und Leichtigkeit, Ausgleich im Alltag, sich mehr zu spüren und ein besseres Wahrnehmungsvermögen zu entwickeln oder um inneren Frieden zu erlangen praktiziert wird. Auch wenn die Wurzeln in den Buddhismus und Hinduismus zurückreichen, ist das heute praktizierte Yoga keine Glaubensreligion, sondern mehr eine Lebensphilosophie. Yoga bedeutet soviel wie Harmonie, Vereinigung, Einheit oder Integration. Asanas und Pranayamas sind Körper- und Atemübungen, die oft zusammen einhergehen. Positives Denken und Meditation unterstützen mental. Die Tiefenentspannung wird am Ende der Yoga-Einheit praktiziert und die Ausführung ist je nach Länge der Einheit und je nach Yogastil abhängig. Die Ernährung wird manchmal beim klassischen westlichen Yoga-Gruppenunterricht leider vernachlässigt, aber sie trägt ebenso zu Harmonie und ganzheitlichem Wohlbefinden von Körper, Geist und Seele bei.

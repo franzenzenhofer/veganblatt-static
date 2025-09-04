@@ -6,6 +6,8 @@ slug: paex-gewinnspiel
 excerpt: >-
   Naturbelassen & einzigartig knusprig sind die Früchte und das Gemüse von PÄX.
   5 Pakete mit je 4 Sorten Knabberspaß verlosen wir hier!
+aiGeneratedDate: '2025-09-04T16:46:18.640Z'
+featuredImage: ai/ai-paex-gewinnspiel.jpg
 ---
 
 ## Schon gePÄXt?

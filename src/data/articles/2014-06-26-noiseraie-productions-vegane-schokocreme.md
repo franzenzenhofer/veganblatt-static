@@ -7,6 +7,8 @@ excerpt: >-
   Gute, cremige Schokoaufstriche zu finden, die noch dazu vegan sind, ist keine
   ganz leichte Aufgabe. Nach langer Suche haben wir welche gefunden, die nicht
   nur gut, sondern herrlich schmecken!
+aiGeneratedDate: '2025-09-04T16:22:24.811Z'
+featuredImage: ai/ai-noiseraie-productions-vegane-schokocreme.jpg
 ---
 
 ## Schoko - Nuss - Schoko-Nuss!

@@ -6,6 +6,8 @@ slug: gewinnspiel-ethletic-sneakers
 excerpt: >-
   Fair - vegan - nachhaltig! Ethletic setzt total neue Standards in der
   Schuhproduktion. 3 Paar verlosen wir hier!
+aiGeneratedDate: '2025-09-04T16:41:57.350Z'
+featuredImage: ai/ai-gewinnspiel-ethletic-sneakers.jpg
 ---
 
 ## Mehr als nur Schuhe!

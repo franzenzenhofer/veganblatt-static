@@ -7,6 +7,8 @@ excerpt: >-
   Wer sich fitter und vitaler fühlen möchte, dem raten wir zu grünen Smoothies
   und mehr Rohkost. Ein richtig guter Hochleistungsmixer ist dafür eine wichtige
   Investition in die eigene Gesundheit!
+aiGeneratedDate: '2025-09-04T16:23:10.976Z'
+featuredImage: ai/ai-hochleistungsmixer-super-g.jpg
 ---
 
 ## Grüne Power

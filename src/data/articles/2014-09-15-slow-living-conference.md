@@ -6,6 +6,8 @@ slug: slow-living-conference
 excerpt: >-
   In unserer Beschleunigungsgesellschaft entstehen zunehmend auch andere
   Optionen. In dieser Konferenz dreht sich alles um das gute Leben ohne Hektik.
+aiGeneratedDate: '2025-09-04T16:27:13.300Z'
+featuredImage: ai/ai-slow-living-conference.jpg
 ---
 
 Fast Food, Speed-Dating, Power-Naps,... alles muss immer schneller gehen. Dabei entfremdet unser beschleunigtes Tempo uns von unserer Lebenswelt. Die Welt wird immer unübersichtlicher, hektischer und das ständige Überangebot kann uns leicht überfordern. Gleichzeitig entstehen auch Alternativen, die diese rasante Fahrt wieder einbremsen können.

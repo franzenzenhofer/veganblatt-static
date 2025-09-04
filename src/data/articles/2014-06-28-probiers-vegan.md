@@ -7,6 +7,8 @@ excerpt: >-
   Ernährungswissen, undogmatisch serviert hier Irmela Erckenbrecht, die in
   diesem praktischen Buch alle Fragen zum Einstieg in die vegane Lebensweise
   beantwortet. 3 Exemplare gibt´s zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:22:34.096Z'
+featuredImage: ai/ai-probiers-vegan.jpg
 ---
 
 ### Aller Anfang ist schwer!?!

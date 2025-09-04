@@ -6,6 +6,8 @@ slug: la-veganista-backt
 excerpt: >-
   La Veganista ist zurück! Diesmal hat es Nicole Just in die Backstube
   verschlagen, wo sie viele leckere Rezepte für ihr neues Buch kreiert hat.
+aiGeneratedDate: '2025-09-04T16:27:03.149Z'
+featuredImage: ai/ai-la-veganista-backt.jpg
 ---
 
 ## Vegan ja, Verzicht nein!

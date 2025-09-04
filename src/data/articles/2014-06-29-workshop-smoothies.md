@@ -8,6 +8,8 @@ excerpt: >-
   sie halten dich jung und vital. Dieser Workshop zeigt leckere
   Smoothie-Mischungen und erklärt die wichtigsten Superfoods und Wildpflanzen
   als Zutaten!
+aiGeneratedDate: '2025-09-04T16:22:55.525Z'
+featuredImage: ai/ai-workshop-smoothies.jpg
 ---
 
 Grüne Smoothies sind eine wahre Wohltat für den Körper! Mit Superfoods und Wildpflanzen als Zutaten sind sie richtige Nährstoffbomben denen kein Nahrungsergänzungsmittel das Wasser reichen kann. Green Smoothies wirken zudem antioxidativ, halten uns jung und schmecken sehr gut. Doch die richtigen Mischungen wollen gelernt sein! Dieser Workshop gibt einen Überblick über die wichtigsten Smoothie-Zutaten, deren Inhaltsstoffe und Kombinationsmöglichkeiten; inklusive Smoothie-Verkostung. Vorgetragen von Ernährungswissenschafterin Mag.ª Edith Sichtar von [Veggie Dreams e.U.](http://www.veggie-dreams.at) **Wo:** Avalonis-Studio**,** Einsiedlerplatz 12/2/3, 1050 Wien **Wann:** Mittwoch, 09. Juli, 19:30-21:00 **Preis:** 25 Euro p.P. inklusive Smoothie-Verkostung und Handouts **Anmeldung unter info@veggie-dreams.at**

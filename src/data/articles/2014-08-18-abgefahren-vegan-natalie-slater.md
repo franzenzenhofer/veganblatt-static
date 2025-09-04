@@ -7,6 +7,8 @@ excerpt: >-
   Natalie Slater vom bekannten Blog Bake and Destroy hat ihre tollen
   Crossover-Kreationen nun in ein tolles Kochbuch gepackt, das Ihr hier übrigens
   auch 3x gewinnen könnt!
+aiGeneratedDate: '2025-09-04T16:25:25.330Z'
+featuredImage: ai/ai-abgefahren-vegan-natalie-slater.jpg
 ---
 
 ## Cook and Destroy

@@ -7,6 +7,8 @@ excerpt: >-
   Wer liebt die total leckeren Rohkost-Riegeln und -Schokoladesorten auch so
   abgöttisch? Gesunder, rohveganer und biologischer Hochgenuss! 3 Pakete voller
   Ombars, beond Riegel und CHOCOdelic Produkten haben wir für Euch!
+aiGeneratedDate: '2025-09-04T16:25:35.607Z'
+featuredImage: ai/ai-gewinnspiel-roh-vegane-suessigkeiten.jpg
 ---
 
 ## Gesund naschen ist kein Widerspruch!

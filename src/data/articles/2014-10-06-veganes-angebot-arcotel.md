@@ -6,6 +6,8 @@ slug: veganes-angebot-arcotel
 excerpt: >-
   Endlich eine Hotelkette, die sich vor wagt! In den Arcotels wird man nun auch
   als VeganerIn kulinarisch verwöhnt.
+aiGeneratedDate: '2025-09-04T16:43:40.356Z'
+featuredImage: ai/ai-veganes-angebot-arcotel.jpg
 ---
 
 Während man als VeganerIn privat meist ganz gut durchkommt, so hat man es im Urlaub oder beruflich oft noch ganz schön schwer! Hotelaufenthalte, Geschäftsreisen, Konferenzen, Seminare, Businesslunch oder abendliche Geschäftsessen,... Als VeganerIn knurrt einem dabei oft der Magen.

@@ -8,6 +8,8 @@ excerpt: >-
   ein Stück Kultur und Tradition. Leider schrecken sowohl Getränke- als auch
   Speisekarte vegane Gäste schnell von einem Besuch ab. Nicht aber beim Weingut
   Feuerwehr Wagner!
+aiGeneratedDate: '2025-09-04T16:20:59.599Z'
+featuredImage: ai/ai-vegan-heurigen-feuerwehr-wagner.jpg
 ---
 
 ## **Heimatfilm-Flair im Wiener Heurigen**

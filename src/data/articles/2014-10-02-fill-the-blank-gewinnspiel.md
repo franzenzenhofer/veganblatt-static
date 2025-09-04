@@ -7,6 +7,8 @@ excerpt: >-
   Bio - fair - vegan! Diese hohen Standards vereint fill the blank noch dazu mit
   topmodischen Designs. Eine schicke Tasche im Wert von € 189,- könnt Ihr hier
   gewinnen!
+aiGeneratedDate: '2025-09-04T16:42:37.628Z'
+featuredImage: ai/ai-fill-the-blank-gewinnspiel.jpg
 ---
 
 ## Eine wie keine

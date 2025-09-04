@@ -7,6 +7,8 @@ excerpt: >-
   Urlaub mit Wohlfühlgarantie - auch für VeganerInnen, die hier voll auf ihre
   kulinarischen Kosten kommen. Gewinnt 3 Übernachtungen für 2 Personen inkl.
   veganer Verpflegung im Bio-Berghotel Ifenblick im Allgäu.
+aiGeneratedDate: '2025-09-04T16:26:54.653Z'
+featuredImage: ai/ai-veganer-urlaub-bio-berghotel-ifenblick-allgaeu.jpg
 ---
 
 ## Urlaub auf der Sonnenseite

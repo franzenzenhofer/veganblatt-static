@@ -7,6 +7,8 @@ excerpt: >-
   Durch eine tolle Auswahl an biodynamischer, biologischer und natürlich veganer
   Weine französischer und italienischer Weingüter kann man sich am 14.6. in Wien
   kosten!
+aiGeneratedDate: '2025-09-04T16:22:13.963Z'
+featuredImage: ai/ai-nudo-e-crudo-bio-vegane-weinverkostung.jpg
 ---
 
 ## Echte Weine, nackt & roh!

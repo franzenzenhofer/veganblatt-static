@@ -7,6 +7,8 @@ excerpt: >-
   Die Augen schließen und sich genussvoll an einen Strand mit Kokospalmen
   versetzen lassen! Die Xotic Kokos-Desserts schmecken himmlisch und wer sie
   kosten möchte, kann sie dank der Boutique Vegan bei uns gewinnen.
+aiGeneratedDate: '2025-09-04T16:26:45.507Z'
+featuredImage: ai/ai-gewinnspiel-xotic-kokos-desserts.jpg
 ---
 
 Seid Ihr auf der Suche nach einer günstigen, veganen Alternative zu Soja-Joghurt? Oder liebt Ihr (so wie wir) alles aus Kokos? Die [**Xotic Kokos-Desserts**](http://www.boutique-vegan.com/food/dairy-alternatives/pudding-yoguhrt/4-Xotic-Desserts-Mix.html) sind übrigens soja-, gluten-, selbstverständlich milchfrei und Ihr solltet sie unbedingt kosten!

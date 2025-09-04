@@ -7,6 +7,8 @@ excerpt: >-
   Diäten gibt es viele und die meisten führen nicht zum ersehnten Erfolg. Dieser
   Workshop zeigt wie man mit der richtigen Lebensmittelauswahl dauerhaft und
   genussvoll Gewicht reduzieren kann!
+aiGeneratedDate: '2025-09-04T16:26:36.954Z'
+featuredImage: ai/ai-workshop-gewichtsreduktion.jpg
 ---
 
 Es gibt unzählige Abnehmkuren und Diäten. Bei den meisten ist der ersehnte Erfolg nur von kurzer Dauer. Sobald man anfängt wieder wie gewohnt zu essen, schlägt der Jojo-Effekt zu Buche und man nimmt zu. Die Gründe dafür sind die oftmals einseitige Speiseplangestaltung und eine zu geringe Kalorienaufnahme.

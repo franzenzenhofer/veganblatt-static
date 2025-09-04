@@ -6,6 +6,8 @@ slug: veganer-restaurantfuehrer-deutschland
 excerpt: >-
   Vegan essen | reisen | einkaufen! Über 600 veganfreundliche Adressen enthält
   der neue Restaurant- und Einkaufsführer. Hier könnt Ihr ihn auch gewinnen!
+aiGeneratedDate: '2025-09-04T16:24:22.964Z'
+featuredImage: ai/ai-veganer-restaurantfuehrer-deutschland.jpg
 ---
 
 ## Die gelben Seiten für ein veganes Leben

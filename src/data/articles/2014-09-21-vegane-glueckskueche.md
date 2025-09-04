@@ -7,6 +7,8 @@ excerpt: >-
   Auf der Suche nach dem veganen Glück? Dazu kann das neue Kochbuch von Daniela
   Friedl & Miriam Emme einen Teil beitragen. 3 Exemplare gibt´s für Euch zu
   gewinnen!
+aiGeneratedDate: '2025-09-04T16:41:39.140Z'
+featuredImage: ai/ai-vegane-glueckskueche.jpg
 ---
 
 ## Essbares Glück

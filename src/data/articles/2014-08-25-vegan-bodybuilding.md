@@ -7,6 +7,8 @@ excerpt: >-
   Wenn die 85kg Langhantelstange 40x lautstark zu Boden fällt, das Magnesium den
   schwarzen Boden, wie kleine Schneeflocken bedeckt und Schweißperlen auf den
   Boden tropfen, denkt sicherlich niemand, dass eine Frau vor der Stange steht!
+aiGeneratedDate: '2025-09-04T16:25:45.928Z'
+featuredImage: ai/ai-vegan-bodybuilding.jpg
 ---
 
 Noch dazu glänzt stolz unter dem leichten Schweißfilm in schwarzen, klaren Buchstaben, direkt auf dem Trizeps, das Wort : vegan!

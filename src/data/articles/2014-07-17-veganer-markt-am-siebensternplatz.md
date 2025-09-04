@@ -6,6 +6,8 @@ slug: veganer-markt-am-siebensternplatz
 excerpt: >-
   Den Sommer über findet jeweils am letzten Donnerstag des Monats der vegane
   Markt im Zentrum des 7. Wiener Gemeindebezirk statt. Hinschauen lohnt sich!
+aiGeneratedDate: '2025-09-04T16:24:13.896Z'
+featuredImage: ai/ai-veganer-markt-am-siebensternplatz.jpg
 ---
 
 ### Bunt wie das Viertel

@@ -6,6 +6,8 @@ slug: schwarzbach-liest-literatur-trifft-nachhaltigkeit
 excerpt: >-
   Diese Veranstaltung verknüpft Unterhaltung und Ökologie mit dem Trendthema
   vegane Ernährung!
+aiGeneratedDate: '2025-09-04T16:43:31.427Z'
+featuredImage: ai/ai-schwarzbach-liest-literatur-trifft-nachhaltigkeit.jpg
 ---
 
 Im Mittelpunkt des neuen Veranstaltungskonzepts im Johanniskreuzer Infozentrum steht Unterhaltungsliteratur dreier Autoren: Sandra McKee liest aus ihrem irischen Liebesroman „Das Leben, das man wählt“, Robin von Weikersthal aus seinem Thriller „Der Hitler-Clan“ und Birgid Hanke aus dem Historienroman „Flamme der Freiheit“. Als kulinarisches Highlight ist ein rein pflanzliches, durch seine Vielfalt überraschendes Abendmenü geplant, für das Karin Koch von „Animal Rights Watch“ (ARIWA) aus Kaiserslautern gewonnen werden konnte. ARIWA haben sich mit ihrem Vegan-Brunch inzwischen über die Region hinaus einen Namen gemacht. Vorher, zur Kaffee-Zeit, werden außerdem rein vegane Kuchen serviert.

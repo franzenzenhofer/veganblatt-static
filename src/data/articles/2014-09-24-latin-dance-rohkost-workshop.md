@@ -6,6 +6,8 @@ slug: latin-dance-rohkost-workshop
 excerpt: >-
   Der Flachauerhof (Salzburg, A) lädt ein zu einem 3-tägigen Workshop, wo neben
   Tanz- auch Kochstunden auf dem Programm stehen!
+aiGeneratedDate: '2025-09-04T16:41:47.319Z'
+featuredImage: ai/ai-latin-dance-rohkost-workshop.jpg
 ---
 
 ## Lebendige Nahrung & heiße Rhythmen

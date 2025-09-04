@@ -7,6 +7,8 @@ excerpt: >-
   Der Winter ist lang und die Smoothie Varianten sind von dem erhältlichen Obst
   und Gemüse begrenzt? Nein! Mit Lebepur gibt es sogar Wildkräuter Smoothies das
   ganze Jahr über!
+aiGeneratedDate: '2025-09-04T16:20:49.292Z'
+featuredImage: ai/ai-lebepur-smoothie-zutaten.jpg
 ---
 
 ### Wildkräuter-Smoothies forever!

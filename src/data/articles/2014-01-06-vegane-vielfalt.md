@@ -6,6 +6,8 @@ slug: vegane-vielfalt
 excerpt: >-
   Die vegane Ernährung bietet ausreichend Abwechslung. Mit diesen Tipps lernt
   Ihr das breite vegane Angebot kennen.
+aiGeneratedDate: '2025-09-04T16:20:17.667Z'
+featuredImage: ai/ai-vegane-vielfalt.jpg
 ---
 
 Viele Menschen wechseln zu einer veganen Ernährung, um schlank und gesund zu werden. Aber seien wir mal ehrlich. Über Nacht zu einem super gesunden vegan Lebenden Mensch zu werden ist eher unwahrscheinlich. Von Pizza, Käseplatte und Schnitzel einfach zu gedünstetem Brokkoli zu wechseln hört sich für viele deshalb nicht gerade attraktiv an und die meisten werden so eine radikale aus ihrem Blickwinkel vegane gesunde Ernährung auch nicht lange umsetzten. Viel einfach dafür aber langfristiger geht es, wenn Ihr euch ab und zu ein paar kleine Leckereien gönnt. Die vegane Küche kann so abwechslungsreich sein, wie jede andere Ernährungsform auch. Ihr müsst nur wissen wie.

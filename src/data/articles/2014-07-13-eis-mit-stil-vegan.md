@@ -6,6 +6,8 @@ slug: eis-mit-stil-vegan
 excerpt: >-
   "Without ice cream, there would be darkness and chaos!" so das Motto des
   Buches von der Green Fairy Sonja Dänzer.
+aiGeneratedDate: '2025-09-04T16:23:40.459Z'
+featuredImage: ai/ai-eis-mit-stil-vegan.jpg
 ---
 
 ## Nicht nur Eis am Stiel

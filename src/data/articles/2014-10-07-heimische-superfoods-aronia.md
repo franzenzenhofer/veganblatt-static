@@ -11,6 +11,8 @@ excerpt: >-
   Überflieger.
 images:
   - rote-Aronia-cc-Mr_Punkt_TinDC.jpg
+aiGeneratedDate: '2025-09-04T16:43:49.252Z'
+featuredImage: ai/ai-heimische-superfoods-aronia.jpg
 ---
 
 ## Ein blaues Wunder

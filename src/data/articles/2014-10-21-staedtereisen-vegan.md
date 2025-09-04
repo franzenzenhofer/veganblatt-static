@@ -7,6 +7,8 @@ excerpt: >-
   Der Herbst und der Frühling bieten sich an, um Kurztrips in Städte zu
   unternehmen. Wir wissen, wo man als rein pflanzlicher Genießer gut aufgehoben
   ist!
+aiGeneratedDate: '2025-09-04T16:45:22.709Z'
+featuredImage: ai/ai-staedtereisen-vegan.jpg
 ---
 
 ## Berlin, Hamburg oder Wien?

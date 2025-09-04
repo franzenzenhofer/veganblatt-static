@@ -7,6 +7,8 @@ excerpt: >-
   Pflanzliche Milch selbst zu machen war noch nie so einfach! Mit dem Veggiefino
   zaubert man im Nu frische Nuss- oder Getreidemilch, die ganz ausgezeichnet
   schmeckt!
+aiGeneratedDate: '2025-09-04T16:25:06.600Z'
+featuredImage: ai/ai-gewinnspiel-veggiefino-keimling.jpg
 ---
 
 ## Vegane Drinks selbstgemacht!

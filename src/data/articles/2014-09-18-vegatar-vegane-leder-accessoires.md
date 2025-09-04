@@ -6,6 +6,8 @@ slug: vegatar-vegane-leder-accessoires
 excerpt: >-
   Pflanzliches Ausgangsmaterial wird zu umwelt- und tierfreundlichem Leder und
   daraus entstehen bei Vegatar individuelle Schmuckstücke!
+aiGeneratedDate: '2025-09-04T16:27:22.141Z'
+featuredImage: ai/ai-vegatar-vegane-leder-accessoires.jpg
 ---
 
 Kennt Ihr das Dilemma in dem man sich als umweltbewusster Veganer bzw. Veganerin oft befindet, wenn man keine Ledersachen kaufen will und die einzige Alternative dazu Kunstleder zu sein scheint? Bei Schuhen gibt es zum Glück inzwischen eine wachsende, vegane Auswahl, die zugleich auch aus umweltfreundlichen oder recycelten Materialien hergestellt wird. Bei manch anderen Produkten ist es noch etwas schwieriger ethische und ökologische Verantwortung unter einen Hut zu bringen.

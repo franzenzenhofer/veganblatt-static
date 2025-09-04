@@ -7,6 +7,8 @@ excerpt: >-
   Schokolierte Nasch-Früchte wie Himbeeren oder Kirschen und verschiedene
   Knabbereien gibt es von Landgarten auch vegan! 3 große Pakete verlosen wir
   hier!
+aiGeneratedDate: '2025-09-04T16:42:28.089Z'
+featuredImage: ai/ai-landgarten-gewinnspiel.jpg
 ---
 
 ## Die österreichische Schokoladenseite

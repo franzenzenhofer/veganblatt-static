@@ -9,6 +9,8 @@ excerpt: >-
 images:
   - malta01.jpg
   - malta03.jpg
+aiGeneratedDate: '2025-09-04T16:24:33.148Z'
+featuredImage: ai/ai-malta-vegan.jpg
 ---
 
 Die Insel hat sich in den letzten paar Jahren entwickelt, aber in Sachen vegan essen wurde ich vorgewarnt, dass es schwierig werden könnte. Ich habe mich vor der Reise auf [happycow.net](http://www.happycow.net) schlau gemacht, was es denn so gibt und war ein wenig enttäuscht, dass es kein einziges rein veganes Restaurant gibt, aber dennoch ein paar wenig vegetarische. Trotzdem bin ich mich offenen Augen durch diese Reise gegangen und habe vor allem die Gegend von Sliema (mit 40.000 Einwohnern die bevölkerungsreichste Stadt der Insel) und von Valletta erkundet – und auch einiges gefunden!  

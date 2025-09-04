@@ -6,6 +6,8 @@ slug: raw-erlebniswoche
 excerpt: >-
   Boris Lauser und Julian Kutos, die zwei Gourmet Raw Food Chefs, laden zu einer
   ganzen rohköstlichen Erlebniswoche in die idyllische Steiermark!
+aiGeneratedDate: '2025-09-04T16:23:21.520Z'
+featuredImage: ai/ai-raw-erlebniswoche.jpg
 ---
 
 Erlerne in einer Woche die hohe Kunst der Gourmet Rohkost. Kreiere Smoothies, Saucen, Speisen und Süßes mit [Julian Kutos](http://www.juliankutos.com) & [Boris Lauser von b.alive!](http://www.balive.org) in der RAW Erlebniswoche. Das steirische Vulkanland, genauer der Bauernhof der Familie Urlmüller in Straden, bietet die Location für eine ganze Woche, wo sich alles um die Rohkost-Ernährung dreht. Mit Boris und Julian erlernt Ihr in dieser Woche alles, was man als angehender Rohkost-Gourmet wissen muss. Gemeinsam werden aus lokalen, saisonalen Zutaten rohköstliche Speisen kreiert und zusammen geschlemmt.

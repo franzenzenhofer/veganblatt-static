@@ -6,6 +6,8 @@ slug: workshop-wildpflanzen
 excerpt: >-
   Wildpflanzen sind wahre Nährstoffbomben! Erfahre in diesem Workshop was die
   "Unkräuter" vor deiner Haustüre so alles können!
+aiGeneratedDate: '2025-09-04T16:21:30.032Z'
+featuredImage: ai/ai-workshop-wildpflanzen.jpg
 ---
 
 In diesem Workshop wird gezeigt, welche heimischen Wildpflanzen essbar sind und wie sie verwendet werden können. Es werden Erkennungsmerkmale besprochen, einige Pflanzen gezeigt, Wirkstoffe erklärt und natürlich Rezeptvorschläge präsentiert. Im Anschluss wartet ein köstliches Wildkräuterbuffet! **Vortragende:** Ernährungswissenschaftlerin Mag. Edith Sichtar von [Veggie Dreams e.U.](http://www.veggie-dreams.at) **Wann:** 5. Juni 2014 von 19:30 - 21:00 Uhr **Anmeldung unter:** info@veggie-dreams.at

@@ -7,6 +7,8 @@ excerpt: >-
   Soja gehört mittlerweile zu den 12 Hauptallergenen. Was sind die Gründe für
   eine Soja-Allergie, worauf muss man bei Soja-Unverträglichkeit achten und was
   kann man dagegen tun?
+aiGeneratedDate: '2025-09-04T16:45:13.168Z'
+featuredImage: ai/ai-soja-unvertraeglichkeit-soja-allergie.jpg
 ---
 
 Als Proteinquelle ist Soja nicht nur bei vegan lebenden Menschen beliebt, auch in der Lebensmittelindustrie wird es häufig eingesetzt. Gerade Sojalecithin und -protein befindet sich in vielen Lebensmitteln. Hierbei handelt es sich jedoch nicht um die reine Sojapflanze, sondern um verarbeitete Sojaprodukte. Immer mehr dieser verarbeiteten Sojaanteile befinden sich in unseren Lebensmitteln, weshalb wir immer größere Mengen davon konsumieren. Diese verstärkte Einnahme von bereits verarbeitetem Soja führt zu **einem Anstieg von Unverträglichkeiten gegenüber Bestandteilen der Pflanze**. Eine **Sojaintoleranz** äußert sich, wie viele Lebensmittelunverträglichkeiten, in unterschiedlichsten Symptomen. Bei **schwächeren Reaktionen** wird allgemein von einer Unverträglichkeit gesprochen, sind die Reaktionen stärker von einer Allergie. Sowohl eine Soja-Unverträglichkeit als auch -allergie kann sich auf Schleimhäute im Mund- und Rachenbereich sowie die Verdauung oder den Stoffwechsel auswirken. Folgen sind u.a.

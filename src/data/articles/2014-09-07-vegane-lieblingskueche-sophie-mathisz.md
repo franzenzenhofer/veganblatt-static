@@ -7,6 +7,8 @@ excerpt: >-
   Über 60 köstliche Klassiker auf rein pflanzliche Art stellt die Küchenfee von
   alles-vegetarisch.de in dem neuen Buch vor. 3 Exemplare plus einen € 50,-
   Einkaufsgutschein gibt es zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:26:27.442Z'
+featuredImage: ai/ai-vegane-lieblingskueche-sophie-mathisz.jpg
 ---
 
 ## Es gibt nicht´s zu vermissen!

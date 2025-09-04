@@ -6,6 +6,8 @@ slug: monkee-genes-gewinnspiel
 excerpt: >-
   Endlich eine Jeansmarke, die auf das unnötige Lederpatch völlig verzichtet!
   Eine Hose nach Wahl gibt´s zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:44:06.328Z'
+featuredImage: ai/ai-monkee-genes-gewinnspiel.jpg
 ---
 
 ### No blood - no sweat - no tears

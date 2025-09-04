@@ -7,6 +7,8 @@ excerpt: >-
   Im Schwimmbad oder beim Sport und auch sonst ist es immer praktisch einen
   kleinen energiegreichen Snack dabei zu haben. Die neuen Raw Protein Bars von
   Chimpanzee sind nach sportlichen Aktivitäten genau das Richtige!
+aiGeneratedDate: '2025-09-04T16:25:14.969Z'
+featuredImage: ai/ai-chimpanzee-organic-raw-protein-bars.jpg
 ---
 
 ## Protein ist nicht gleich Protein

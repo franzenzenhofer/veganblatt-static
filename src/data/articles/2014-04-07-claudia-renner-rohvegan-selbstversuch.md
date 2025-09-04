@@ -10,6 +10,8 @@ excerpt: >-
   verschrieben und ihren Selbstversuch für uns Neugierige festgehalten.
 images:
   - Claudi.jpg
+aiGeneratedDate: '2025-09-04T16:21:19.939Z'
+featuredImage: ai/ai-claudia-renner-rohvegan-selbstversuch.jpg
 ---
 
 ### Kompakt, informativ und farbenfroh illustriert

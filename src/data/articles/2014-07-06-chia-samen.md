@@ -7,6 +7,8 @@ excerpt: >-
   Chiasamen sind wahre Vitamin- und Nährstoffbomben und galten schon bei den
   Azteken als Wundermittel! Was alles in den unscheinbaren braun-schwarzen Samen
   steckt?
+aiGeneratedDate: '2025-09-04T16:23:30.845Z'
+featuredImage: ai/ai-chia-samen.jpg
 ---
 
 ## Pflanze der Superlative

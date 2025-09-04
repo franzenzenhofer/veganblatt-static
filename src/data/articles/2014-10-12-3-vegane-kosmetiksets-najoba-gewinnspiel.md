@@ -6,6 +6,8 @@ slug: 3-vegane-kosmetiksets-najoba-gewinnspiel
 excerpt: >-
   Verwöhnpflege von John Masters Organics & Lavera gibt es hier von dem
   Online-Naturkosmetikshop najoba.de zu gewinnen!
+aiGeneratedDate: '2025-09-04T16:44:15.524Z'
+featuredImage: ai/ai-3-vegane-kosmetiksets-najoba-gewinnspiel.jpg
 ---
 
 ## Natürlich schön
