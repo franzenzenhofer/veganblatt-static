@@ -30,5 +30,7 @@ recipe:
     - >-
       Alle Zutaten für´s Dressing gut vermischen und darüber geben. Abschmecken
       und mit dem Schnittlauch oder den Sprossen garniert servieren.
+aiGeneratedDate: '2025-09-04T12:30:39.193Z'
+featuredImage: ai/ai-kartoffelsalat-rezept-vegan.jpg
 ---
 

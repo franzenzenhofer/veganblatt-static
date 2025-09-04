@@ -35,6 +35,8 @@ recipe:
     - >-
       Wenn die Fruchtschicht nicht verlaufen soll zusammen mit Agar Agar
       aufkochen.
+aiGeneratedDate: '2025-09-04T12:31:27.571Z'
+featuredImage: ai/ai-panna-cotta-torte-leckerschmecker-kuechenfee.jpg
 ---
 
 Für uns war die [Leckerschmecker Küchenfee](http://www.leckerschmecker-kuechenfee.de/) am Werk und hat eine sommerliche vegane Panna Cotta Torte gezaubert. Für alle die sie nachbacken wollen, haben wir ihr das Rezept entlockt. Himmlisch, einfach himmlisch..  

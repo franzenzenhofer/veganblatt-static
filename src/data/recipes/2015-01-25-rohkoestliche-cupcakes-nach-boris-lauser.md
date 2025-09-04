@@ -51,6 +51,8 @@ recipe:
       mit Limettensaft abschmecken. Im Kühlschrank fest werden lassen. Zum
       Servieren die Creme in einen Spritzbeutel füllen und die Cupcakes damit
       garnieren.
+aiGeneratedDate: '2025-09-04T12:29:21.555Z'
+featuredImage: ai/ai-rohkoestliche-cupcakes-nach-boris-lauser.jpg
 ---
 
 Hat Euch das Rezept gefallen? Mehr von der Sorte findet Ihr in **[Boris Lausers Buch Go Raw](https://www.veganblatt.com/go-raw-boris-lauser)**!

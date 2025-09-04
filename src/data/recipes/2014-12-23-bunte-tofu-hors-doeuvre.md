@@ -30,5 +30,7 @@ recipe:
     - >-
       Nun je eine Scheibe Tofu mit Humus bestreichen und ein Blumenkohl-Röschen
       darauf setzen.
+aiGeneratedDate: '2025-09-04T12:27:27.639Z'
+featuredImage: ai/ai-bunte-tofu-hors-doeuvre.jpg
 ---
 

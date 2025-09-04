@@ -30,5 +30,7 @@ recipe:
     - >-
       Den das Fleisch des Spaghetti-Kürbis rauskratzen, salzen und mit den
       Soja-Bällchen servieren.
+aiGeneratedDate: '2025-09-04T12:25:15.130Z'
+featuredImage: ai/ai-spaghetti-kuerbis-mit-soja-baellchen.jpg
 ---
 

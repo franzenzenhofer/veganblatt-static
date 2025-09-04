@@ -23,6 +23,8 @@ recipe:
     - Bis 15 Minuten in einem Topf mit Siebeinsatz dämpfen.
     - Salzen
     - Am besten mit veganem Sauerrahm genießen.
+aiGeneratedDate: '2025-09-04T12:26:03.247Z'
+featuredImage: ai/ai-rosenkohl-rezept.jpg
 ---
 
 Rosenkohl ist reich an

@@ -34,5 +34,7 @@ recipe:
       Die Tomatensauce, das -Mark und das Soja-Granulat dazugeben, würzen und
       für 15min auf kleiner Flamme köcheln lassen, abschmecken. Zur Pasta Deiner
       Wahl servieren. Fertig!
+aiGeneratedDate: '2025-09-04T12:28:23.982Z'
+featuredImage: ai/ai-bolognese.jpg
 ---
 

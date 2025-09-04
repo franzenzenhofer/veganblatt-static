@@ -1,5 +1,5 @@
 ---
-title: "Veganer gluten- & zuckerfreier Schoko-Fudge-Kuchen"
+title: Veganer gluten- & zuckerfreier Schoko-Fudge-Kuchen
 date: '2015-02-07 13:41:36'
 modified: '2015-11-18 14:01:55'
 slug: schoko-fudge-kuchen
@@ -32,6 +32,8 @@ recipe:
     - >-
       Schokocreme auf den abgekühlten Boden streichen. Mit Orangenzesten
       garnieren.
+aiGeneratedDate: '2025-09-04T12:29:49.308Z'
+featuredImage: ai/ai-schoko-fudge-kuchen.jpg
 ---
 
 Ein super schokoladiger und schnell gemixter Kuchen. Im Sommer kann er mit frischen Früchten garniert werden, im Winter mit Orangenzesten. In kleinen Tarte-Förmchen schmeckt er nicht nur fantastisch, sondern sieht auch noch süß aus. Ihr könnt aber auch eine kleine Springform verwenden.

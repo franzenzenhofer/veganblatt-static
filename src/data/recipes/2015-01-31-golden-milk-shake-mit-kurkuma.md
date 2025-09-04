@@ -28,5 +28,7 @@ recipe:
     - 1 Banane
   instructions:
     - Alles gut mixen und genießen!
+aiGeneratedDate: '2025-09-04T12:29:31.196Z'
+featuredImage: ai/ai-golden-milk-shake-mit-kurkuma.jpg
 ---
 

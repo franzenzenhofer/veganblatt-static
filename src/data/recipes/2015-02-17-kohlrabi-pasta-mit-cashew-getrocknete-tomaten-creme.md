@@ -27,5 +27,7 @@ recipe:
       Alle weiteren Zutaten bis auf die Sprossen fein mixen und über die Pasta
       geben.
     - Mit den Sprossen garniert servieren.
+aiGeneratedDate: '2025-09-04T12:30:20.155Z'
+featuredImage: ai/ai-kohlrabi-pasta-mit-cashew-getrocknete-tomaten-creme.jpg
 ---
 

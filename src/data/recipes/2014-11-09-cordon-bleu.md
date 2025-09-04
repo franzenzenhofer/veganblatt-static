@@ -55,6 +55,8 @@ recipe:
       alle (!!) Zahnstocher entfernen!
     - Doppelt checken ob wirklich alle(!!) Zahnstocher draussen sind.
     - 'Servieren und genießen, am besten mit leckerem Kartoffelsalat.'
+aiGeneratedDate: '2025-09-04T12:24:53.902Z'
+featuredImage: ai/ai-cordon-bleu.jpg
 ---
 
 [<!-- Image removed (no copyright): cordon-bleu-vegan.jpeg -->](https://www.veganblatt.com/i/cordon-bleu-vegan.jpeg)

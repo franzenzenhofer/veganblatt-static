@@ -28,5 +28,7 @@ recipe:
       Die Masse auf ein Back- oder Butterbrotpapier streichen, in Riegel
       schneiden (oder Coockies formen) und, falls sie nicht sofort vernascht
       werden, im Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T12:25:54.178Z'
+featuredImage: ai/ai-rohkost-superfood-riegel.jpg
 ---
 

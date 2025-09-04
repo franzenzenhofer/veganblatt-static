@@ -41,6 +41,8 @@ recipe:
       Vor dem Zusammensetzen der Sandwiches das Eis etwas antauen lassen.
       Vorsichtig je zwei Cookies mit einer Kugel SPAR Veggie Fruchteis füllen
       und sogleich genießen!
+aiGeneratedDate: '2025-09-04T12:31:36.703Z'
+featuredImage: ai/ai-eis-sandwich-macadamia-kokos-cookies.jpg
 ---
 
 [<!-- Image removed (no copyright): veganes-eis-spar-1-640x792.jpg -->](https://www.veganblatt.com/i/veganes-eis-spar-1.jpg)   [<!-- Image removed (no copyright): eis-sandwich-1-640x410.jpg -->](https://www.veganblatt.com/i/eis-sandwich-1.jpg)

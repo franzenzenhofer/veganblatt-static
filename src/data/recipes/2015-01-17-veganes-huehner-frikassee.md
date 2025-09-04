@@ -38,5 +38,7 @@ recipe:
     - >-
       Die Sauce zu dem Gemüse und Hühnchen geben, unterrühren, kurz köcheln,
       abschmecken und mit Reis servieren.
+aiGeneratedDate: '2025-09-04T12:28:42.075Z'
+featuredImage: ai/ai-veganes-huehner-frikassee.jpg
 ---
 

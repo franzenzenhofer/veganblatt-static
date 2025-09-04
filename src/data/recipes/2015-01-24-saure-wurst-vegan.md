@@ -25,5 +25,7 @@ recipe:
       Die Wurst mit den Zwiebelringe auf einem Teller anrichten und mit der
       Marinade kurz ziehen lassen. Dazu frisches Vollkornbrot reichen.
     - Mahlzeit
+aiGeneratedDate: '2025-09-04T12:29:12.819Z'
+featuredImage: ai/ai-saure-wurst-vegan.jpg
 ---
 

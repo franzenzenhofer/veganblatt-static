@@ -31,5 +31,7 @@ recipe:
       Die Schnecken mit Sojamilch bestreichen und laut Packungsangabe des Teiges
       backen bis sie goldbraun sind.
     - Noch warm genießen!
+aiGeneratedDate: '2025-09-04T12:25:46.306Z'
+featuredImage: ai/ai-blitzschnelle-zimt-schnecken.jpg
 ---
 

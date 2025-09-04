@@ -29,5 +29,7 @@ recipe:
       geben, alles gut durchmixen (geht auch mit dem Stabmixer). Zum Schluss die
       AgarAgar Masse untermixen und alles in eine gefettete Ofenform geben.
     - 'Bei 200°C für 40min backen, auskühlen lassen und im Kühlschrank lagern.'
+aiGeneratedDate: '2025-09-04T12:28:33.363Z'
+featuredImage: ai/ai-veganer-cashew-feta.jpg
 ---
 

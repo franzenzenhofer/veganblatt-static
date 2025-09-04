@@ -45,6 +45,8 @@ recipe:
     - >-
       Knödel mit der Schaumkelle herausnehmen. Mit Rot- oder Sauerkraut heiß
       servieren.
+aiGeneratedDate: '2025-09-04T12:25:26.047Z'
+featuredImage: ai/ai-speck-knoedel.jpg
 ---
 
 [<!-- Image removed (no copyright): vegane-speckknödel.jpeg -->](https://www.veganblatt.com/i/vegane-speckknödel.jpeg)

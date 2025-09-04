@@ -21,5 +21,7 @@ recipe:
     - >-
       Alle Zutaten gut mixen. In eine Flasche füllen und im Kühlschrank
       aufbewahren. Vor dem Genuss gut schütteln.
+aiGeneratedDate: '2025-09-04T12:26:39.175Z'
+featuredImage: ai/ai-selbstgemachtes-veganes-baileys.jpg
 ---
 

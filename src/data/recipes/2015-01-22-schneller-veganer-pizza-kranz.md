@@ -32,6 +32,8 @@ recipe:
       verbinden und den entstandenen Kranz schön auf das Backblech legen.
     - Bei 180°C für 30min backen bis er sich zu bräunen beginnt.
     - Vor dem Anscheiden kurz auskühlen lassen. Mahlzeit!
+aiGeneratedDate: '2025-09-04T12:29:02.191Z'
+featuredImage: ai/ai-schneller-veganer-pizza-kranz.jpg
 ---
 
 [<!-- Image removed (no copyright): spar-veggie-pizzakranz2-1-640x424.jpg -->](https://www.veganblatt.com/i/spar-veggie-pizzakranz2-1.jpg)

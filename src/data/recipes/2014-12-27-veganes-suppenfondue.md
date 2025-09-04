@@ -33,6 +33,8 @@ recipe:
     - 'Los gehts: Gemüse und Soja aufspießen und in die Suppe stecken.'
     - Nach kurzer Zeit entnehmen und mit den Soßen und Zuspeisen genießen.
     - Viel Zeit lassen beim Essen!
+aiGeneratedDate: '2025-09-04T12:27:46.343Z'
+featuredImage: ai/ai-veganes-suppenfondue.jpg
 ---
 
 Das Rezept ist sehr einfach, man braucht nur die richtige Ausrüstung:

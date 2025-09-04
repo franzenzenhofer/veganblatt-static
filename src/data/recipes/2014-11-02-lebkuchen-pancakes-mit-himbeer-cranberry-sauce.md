@@ -34,5 +34,7 @@ recipe:
       Für die Sauce alle Zutaten für 5min köcheln lassen und über die noch
       warmen Pancakes geben.
     - Genießen!
+aiGeneratedDate: '2025-09-04T12:24:44.408Z'
+featuredImage: ai/ai-lebkuchen-pancakes-mit-himbeer-cranberry-sauce.jpg
 ---
 

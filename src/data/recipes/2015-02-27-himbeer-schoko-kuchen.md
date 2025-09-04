@@ -34,6 +34,8 @@ recipe:
     - 'Sojamilch langsam hinzufügen, bis ein glatter Teig entsteht.'
     - Gefrorene Himbeeren unterheben und in eine Backform füllen.
     - Bei 180°C 50 min. backen.
+aiGeneratedDate: '2025-09-04T12:31:07.911Z'
+featuredImage: ai/ai-himbeer-schoko-kuchen.jpg
 ---
 
 [<!-- Image removed (no copyright): Himbeer-Schoko_Kuchen-roh-640x306.jpg -->](https://www.veganblatt.com/i/Himbeer-Schoko_Kuchen-roh.jpg) – JL

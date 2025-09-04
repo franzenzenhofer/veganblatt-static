@@ -34,5 +34,7 @@ recipe:
       In der Zwischenzeit alle Zutaten für den Dip mischen, abschmecken und
       ziehen lassen.
     - Zu den heißen Pommes servieren.
+aiGeneratedDate: '2025-09-04T12:30:29.931Z'
+featuredImage: ai/ai-fettarme-ofen-pommes.jpg
 ---
 

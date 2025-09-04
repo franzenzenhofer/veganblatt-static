@@ -44,6 +44,8 @@ recipe:
       Wer es etwas süßer mag, kann die Kekse vor dem Backen mit Zucker
       bestreuen.
     - Bei 175 °C ca 30 min backen.
+aiGeneratedDate: '2025-09-04T12:25:04.620Z'
+featuredImage: ai/ai-schoko-cookies-aus-schwarzen-bohnen.jpg
 ---
 
 \-JL

@@ -27,6 +27,8 @@ recipe:
       Teig verkneten.
     - Kugeln rollen oder Formen ausstechen.
     - Für ca. 15 min bei 150 °C in den Ofen.
+aiGeneratedDate: '2025-09-04T12:27:18.705Z'
+featuredImage: ai/ai-vegane-bethmaennchen.jpg
 ---
 
 Einfach Zutaten mischen, kneten, Kugeln formen und ab in den Ofen! Diese Plätzchen sind super einfach und lassen sich super mit Kindern nachbacken. Dabei entstehen dann vielleicht kleine Marzipan-Mäuse, Katzen, Enten oder Herzen.

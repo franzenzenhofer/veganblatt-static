@@ -32,6 +32,8 @@ recipe:
     - >-
       Nach dem Auskühlen des Kuchens Kuvertüre im Wasserbad schmelzen und Kuchen
       damit bestreichen.
+aiGeneratedDate: '2025-09-04T12:25:35.710Z'
+featuredImage: ai/ai-marzipankuchen-wir-backen-vegan.jpg
 ---
 
 Wer noch eine vegane süße Kleinigkeit für den nächsten Kaffeeklatsch sucht, wird mit diesem Marzipankuchen bestimmt glücklich. Nur ein paar Zutaten verrühren, Marzipan dazureiben und fertig ist dieser super fluffige vegane Kuchen. Das Rezept findet ihr unter vielen weiteren tollen Backinspirationen in [Wir backen vegan](http://www.hubertkrenn.at/gesundheit/wir-backen-vegan). Das neue Backbuch von Melanie und Siegfried Kröpfl könnt Ihr bei uns [2x gewinnen](https://www.veganblatt.com/wir-backen-vegan)!

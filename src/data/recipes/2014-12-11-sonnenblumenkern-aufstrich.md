@@ -26,6 +26,8 @@ recipe:
       Öl (wer es neutral will sollte Sonnenblumenöl verwendet) und Salz je nach
       Belieben hinzufügen und noch einmal mixen.
     - Am Ende sollte nach einigem Mixen eine streichfähige Masse entstehen.
+aiGeneratedDate: '2025-09-04T12:26:21.514Z'
+featuredImage: ai/ai-sonnenblumenkern-aufstrich.jpg
 ---
 
 Der Aufstrich lässt sich je nach Geschmack variieren. Frische Kräuter, gekochtes Gemüse oder Gewürze lassen ihn immer wieder anders schmecken. Da ist sicher für jeden etwas dabei. Das Rezept für [Rote Rüben Aufstrich](https://www.veganblatt.com/rote-rueben-aufstrich) oder [Pastinaken Thymian Aufstrich](https://www.veganblatt.com/pastinaken-thymian-aufstrich) findet ihr bei uns. Einfach ausprobieren! -JL

@@ -25,5 +25,7 @@ recipe:
       Einfrieren und stündlich mit einer Gabel gut durchrühren bis ein Sorbet
       entstanden ist.
     - Mit Lavendelblüten und Zitronenschale garniert servieren.
+aiGeneratedDate: '2025-09-04T12:27:09.285Z'
+featuredImage: ai/ai-lavendel-zitronen-sorbet.jpg
 ---
 

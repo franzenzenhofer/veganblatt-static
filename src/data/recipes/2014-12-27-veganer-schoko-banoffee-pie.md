@@ -32,6 +32,8 @@ recipe:
       Die Sahne mit dem Zucker schlagen bis sie fest, aber nicht zu steif ist.
       Obendrauf verteilen. Für 30min in den Kühlschrank stellen, den Tortenring
       vorsichtig entfernen und losschlemmen!
+aiGeneratedDate: '2025-09-04T12:27:36.429Z'
+featuredImage: ai/ai-veganer-schoko-banoffee-pie.jpg
 ---
 
 [<!-- Image removed (no copyright): banoffee-pie-2-640x400.jpg -->](https://www.veganblatt.com/i/banoffee-pie-2.jpg)

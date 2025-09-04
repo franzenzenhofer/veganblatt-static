@@ -30,5 +30,7 @@ recipe:
       Grünkohl, Knoblauch, Lorbeerblatt und Suppengemüse in einen Topf mit 1l
       kochendem Wasser geben und für 10 köcheln lassen. Nach 5min die
       Champignons dazugeben, weiter köcheln lassen, würzen, fertig.
+aiGeneratedDate: '2025-09-04T12:28:14.714Z'
+featuredImage: ai/ai-winterlicher-gruenkohl-eintopf.jpg
 ---
 

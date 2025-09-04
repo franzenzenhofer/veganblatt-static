@@ -33,6 +33,8 @@ recipe:
     - Trockene und feuchte Zutaten zu einem Teig verrühren.
     - Bei 180 °C für 50 min in den Ofen.
     - Nach erkalten des Kuchens mit Zartbitterkuvertüre bestreichen.
+aiGeneratedDate: '2025-09-04T12:30:58.358Z'
+featuredImage: ai/ai-mandel-schoko-kuchen.jpg
 ---
 
 Super saftiger Schokokuchen, der auch nach zwei Tagen noch schmeckt wie frisch gebacken.

@@ -43,5 +43,7 @@ recipe:
     - >-
       Vom Herd nehmen, die Sojasprossen unterrühren und mit den Tofu-Ecken
       servieren.
+aiGeneratedDate: '2025-09-04T12:30:48.688Z'
+featuredImage: ai/ai-wok-gemuese-tofu.jpg
 ---
 

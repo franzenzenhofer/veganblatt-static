@@ -54,6 +54,8 @@ recipe:
     - >-
       Die Biskuitrolle ganz vorsichtig vom Backpapier und Küchentuch befreien
       und mit der Creme füllen. Genießen oder im Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T12:29:40.654Z'
+featuredImage: ai/ai-vegane-biskuitroulade.jpg
 ---
 
 PS: Den hübschen Palmplatt-Teller haben wir übrigens von **[Leef](http://www.leef.is/de/plate.html)!** [<!-- Image removed (no copyright): biskuit-roulade-himeer-sahne-1-von-1-640x424.jpg -->](https://www.veganblatt.com/i/biskuit-roulade-himeer-sahne-1-von-1.jpg)

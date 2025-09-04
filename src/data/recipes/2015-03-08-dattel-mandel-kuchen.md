@@ -42,6 +42,8 @@ recipe:
     - >-
       Durch die vielen Datteln ist der Kuchen sehr weich und bleibt über mehrere
       Tage saftig.
+aiGeneratedDate: '2025-09-04T12:31:17.344Z'
+featuredImage: ai/ai-dattel-mandel-kuchen.jpg
 ---
 
 Dieser Kuchen ist dank den vielen Datteln, auch ohne Zucker, sehr süß. Durch die vielen Mandeln gibt er genug Energie für den Tag und eignet sich als Frühstück oder gesunder Energielieferant gegen jedes Nachmittagstief.

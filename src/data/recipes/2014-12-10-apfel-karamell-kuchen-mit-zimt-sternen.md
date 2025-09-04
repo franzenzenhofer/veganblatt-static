@@ -39,6 +39,8 @@ recipe:
     - >-
       Für 20min weiterbacken. Auskühlen lassen und mit Staubzucker und Zimt
       bestreut servieren.
+aiGeneratedDate: '2025-09-04T12:26:12.541Z'
+featuredImage: ai/ai-apfel-karamell-kuchen-mit-zimt-sternen.jpg
 ---
 
 [<!-- Image removed (no copyright): apfel-karamell-kuchen.jpeg -->](https://www.veganblatt.com/i/apfel-karamell-kuchen.jpeg)

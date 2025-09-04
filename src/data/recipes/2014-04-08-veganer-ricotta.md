@@ -25,5 +25,7 @@ recipe:
       Den Tofu mit den Händen fein zerbröseln und mit den restlichen Zutaten gut
       durchmischen.
     - Genießen!
+aiGeneratedDate: '2025-09-04T12:24:27.734Z'
+featuredImage: ai/ai-veganer-ricotta.jpg
 ---
 

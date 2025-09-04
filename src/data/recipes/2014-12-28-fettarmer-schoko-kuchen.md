@@ -48,5 +48,7 @@ recipe:
     - >-
       Bei 180°C für 25-30min backen. Stäbchenprobe machen. 10min auskühlen
       lassen, dann auf ein Gitter stürzen.
+aiGeneratedDate: '2025-09-04T12:27:56.114Z'
+featuredImage: ai/ai-fettarmer-schoko-kuchen.jpg
 ---
 

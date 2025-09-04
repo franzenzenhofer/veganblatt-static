@@ -37,5 +37,7 @@ recipe:
       Minuten ziehen lassen.
     - 'Knödel herausnehmen, kurz kühlen lassen.'
     - Guten Appetit!
+aiGeneratedDate: '2025-09-04T12:28:53.608Z'
+featuredImage: ai/ai-kartoffel-knoedel-spinat-tofu.jpg
 ---
 

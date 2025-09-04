@@ -47,5 +47,7 @@ recipe:
     - >-
       Bei 200°C für ca. 10min überbacken bis der Käse schön geschmolzen ist.
       Fertig!
+aiGeneratedDate: '2025-09-04T12:26:58.997Z'
+featuredImage: ai/ai-dinkel-cannelloni-gefuellt-mit-pilzen.jpg
 ---
 

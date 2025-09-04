@@ -28,6 +28,8 @@ recipe:
     - >-
       Aufstrich noch warm in ein Glas füllen und abgekühlt im Kühlschrank
       lagern.
+aiGeneratedDate: '2025-09-04T12:26:30.535Z'
+featuredImage: ai/ai-rote-rueben-aufstrich.jpg
 ---
 
 \-JL

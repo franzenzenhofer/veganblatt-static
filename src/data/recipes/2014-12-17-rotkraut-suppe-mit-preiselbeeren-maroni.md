@@ -31,5 +31,7 @@ recipe:
       Abschmecken und mit dem Stabmixer fein pürieren. Mit etwas Sahne,
       Preiselbeermarmeladeklecksen und zerbröselten Maroni schön angerichtet
       servieren.
+aiGeneratedDate: '2025-09-04T12:26:49.503Z'
+featuredImage: ai/ai-rotkraut-suppe-mit-preiselbeeren-maroni.jpg
 ---
 

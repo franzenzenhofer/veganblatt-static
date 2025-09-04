@@ -26,5 +26,7 @@ recipe:
     - >-
       Den Bok Choi waschen und wenn nötig halbieren. Mit Tofu und Sesam auf zwei
       Tellern anrichten und das Dressing darüber verteilen.
+aiGeneratedDate: '2025-09-04T12:30:07.623Z'
+featuredImage: ai/ai-baby-bok-choi-salat.jpg
 ---
 

@@ -32,6 +32,8 @@ recipe:
       Reis hinzugeben und mit Paprika, Salz, Pfeffer würzen. Auch Oregano,
       Knoblauch, Basilikum, Majoran und ein Lorbeerblatt eignen sich zum Würzen.
     - 'Kurz weiterkochen, danach 5 Minuten ziehen lassen.'
+aiGeneratedDate: '2025-09-04T12:28:05.615Z'
+featuredImage: ai/ai-veganes-reisfleisch.jpg
 ---
 
 Es gibt mehr Variationen von serbischen Reißfleisch als man sich vorstellen kann. Hier unsere sehr einfache vegane Variante.
