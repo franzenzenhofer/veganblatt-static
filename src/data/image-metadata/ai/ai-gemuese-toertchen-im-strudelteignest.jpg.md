@@ -1,11 +1,11 @@
 ---
-filename: "ai-rotes-pesto-cucina-vegana.jpg"
+filename: "ai-gemuese-toertchen-im-strudelteignest.jpg"
 copyright: "© AI Generated - for illustration"
 source: "Gemini 2.5 Flash Image Preview"
-altText: "Rotes Pesto nach Cucina Vegana"
+altText: "Vegane Gemüse-Törtchen im Strudelteignest"
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
-uploadDate: "2025-09-04T09:42:36.620Z"
+uploadDate: "2025-09-04T11:00:39.200Z"
 ---
 
 # AI Generated Image

@@ -33,5 +33,7 @@ recipe:
       die Kartoffeln gießen und für min. 60 min im Rohr bei 180°C
       Ober-/Unterhitze backen.
     - 'Wer möchte, kann den Auflauf noch mit Käse gratinieren.'
+aiGeneratedDate: '2025-09-04T11:01:12.242Z'
+featuredImage: ai/ai-kartoffel-auflauf-violett.jpg
 ---
 

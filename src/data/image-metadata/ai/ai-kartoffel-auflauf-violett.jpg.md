@@ -1,11 +1,11 @@
 ---
-filename: "ai-rotes-pesto-cucina-vegana.jpg"
+filename: "ai-kartoffel-auflauf-violett.jpg"
 copyright: "© AI Generated - for illustration"
 source: "Gemini 2.5 Flash Image Preview"
-altText: "Rotes Pesto nach Cucina Vegana"
+altText: "Vegane Kartoffel-Auflauf in violett"
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
-uploadDate: "2025-09-04T09:42:36.620Z"
+uploadDate: "2025-09-04T11:01:12.242Z"
 ---
 
 # AI Generated Image

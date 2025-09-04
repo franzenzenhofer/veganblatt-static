@@ -34,5 +34,7 @@ recipe:
     - >-
       Bei 180°C Umluft für ca. 15-20min backen bis der Strudelteig goldbraun
       wird.
+aiGeneratedDate: '2025-09-04T11:00:39.201Z'
+featuredImage: ai/ai-gemuese-toertchen-im-strudelteignest.jpg
 ---
 

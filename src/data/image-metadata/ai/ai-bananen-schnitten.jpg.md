@@ -1,6 +1,6 @@
 ---
 filename: "ai-bananen-schnitten.jpg"
-copyright: "© AI Generated - VeganBlatt"
+copyright: "© AI Generated - for illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Vegane Bananenschnitten"
 width: 1024
@@ -20,4 +20,4 @@ This image was generated for VeganBlatt using Gemini 2.5 Flash Image Preview.
 Vegane Bananenschnitten
 
 ## Copyright
-© AI Generated - VeganBlatt - Creative Commons CC0
+© AI Generated - for illustration - Creative Commons CC0

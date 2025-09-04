@@ -34,6 +34,8 @@ recipe:
     - >-
       Wer mag kann die Taumstücke noch mit Schokolade überziehen oder sie in
       (Xylit-) Puderzucker wälzen.
+aiGeneratedDate: '2025-09-04T11:00:49.579Z'
+featuredImage: ai/ai-vegane-traumstuecke.jpg
 ---
 
 [<!-- Image removed (no copyright): traumstücke-collage.jpg -->](https://www.veganblatt.com/i/traumstücke-collage.jpg)

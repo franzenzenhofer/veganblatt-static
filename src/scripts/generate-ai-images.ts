@@ -251,7 +251,7 @@ Professional food blogger/cookbook quality.`;
   private async createImageMetadata(filename: string, recipeData: RecipeData): Promise<ImageMetadata> {
     return {
       filename,
-      copyright: '© AI Generated - VeganBlatt',
+      copyright: '© AI Generated - for illustration',
       source: 'Gemini 2.5 Flash Image Preview',
       altText: recipeData.title,
       aiGenerated: true,

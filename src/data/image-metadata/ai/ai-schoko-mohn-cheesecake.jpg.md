@@ -1,6 +1,6 @@
 ---
 filename: "ai-schoko-mohn-cheesecake.jpg"
-copyright: "© AI Generated - VeganBlatt"
+copyright: "© AI Generated - for illustration"
 source: "Gemini 2.5 Flash Image Preview"
 altText: "Herrlich frischer Schoko-Mohn Cheesecake"
 width: 1024
@@ -21,4 +21,4 @@ Original 1024x1024 image cropped to 1024x640 (16:10 landscape).
 Herrlich frischer Schoko-Mohn Cheesecake
 
 ## Copyright
-© AI Generated - VeganBlatt - Creative Commons CC0
+© AI Generated - for illustration - Creative Commons CC0

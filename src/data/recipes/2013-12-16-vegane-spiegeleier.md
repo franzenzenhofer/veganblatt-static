@@ -27,6 +27,8 @@ recipe:
       Die Pfanne mit etwas Öl aufstellen und erst mit einem Löffel das EyWeiss
       in Spiegelei-Form hineinsetzen. Darauf kommt ein runder Klecks EyGelb.
     - Prutzeln bis die Ränder goldbraun werden und auf frischem Toast genießen.
+aiGeneratedDate: '2025-09-04T11:01:00.640Z'
+featuredImage: ai/ai-vegane-spiegeleier.jpg
 ---
 
 <!-- Image removed (no copyright): veganes-ei-640x853.jpg --> \* Foto: Susanne Witschnig\*
