@@ -2,7 +2,7 @@
 filename: "ai-meine-veggie-kueche-rolf-caviezel.jpg"
 copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
-altText: ""Meine Veggie-Küche" von Rolf Caviezel + Gewinnspiel"
+altText: "\"Meine Veggie-Küche\" von Rolf Caviezel + Gewinnspiel"
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
 uploadDate: "2025-09-04T16:14:13.875Z"
