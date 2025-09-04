@@ -19,7 +19,7 @@ export class ImageProcessor {
            copyright !== 'undefined';
   }
 
-  generateImageHtml(imageName: string, width?: number): string {
+  generateImageHtml(imageName: string, width?: number, failHard = false): string {
     // Handle AI images in the ai/ subdirectory
     let metadataKey = imageName;
     if (imageName && imageName.startsWith('ai/')) {
@@ -28,7 +28,12 @@ export class ImageProcessor {
     }
     
     const metadata = this.getMetadata(metadataKey);
-    if (!this.validateCopyright(metadata)) return '';
+    if (!this.validateCopyright(metadata)) {
+      if (failHard) {
+        throw new Error(`MISSING METADATA: No copyright metadata found for image "${imageName}" (key: "${metadataKey}"). BUILD FAILED - FIX METADATA!`);
+      }
+      return '';
+    }
 
     const widthAttr = width ? `width="${width}"` : '';
     const alt = this.escapeHtml(metadata?.altText || imageName);
