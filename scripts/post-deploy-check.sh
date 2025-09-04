@@ -62,9 +62,23 @@ SAMPLE_RECIPE=$(curl -s "https://www.veganblatt.com/sitemap-recipes.xml" | sed -
 
 if [ -n "$SAMPLE_ARTICLE" ]; then
   test_url "$SAMPLE_ARTICLE" "Sample article"
+  # Verify featured image container exists
+  if curl -s -L "$SAMPLE_ARTICLE" | grep -q '<div class="image-container">'; then
+    echo -e "  ${GREEN}✓${NC} Article image container present"
+  else
+    echo -e "  ${RED}✗${NC} Article image container missing"
+    FAIL_COUNT=$((FAIL_COUNT+1))
+  fi
 fi
 if [ -n "$SAMPLE_RECIPE" ]; then
   test_url "$SAMPLE_RECIPE" "Sample recipe"
+  # Verify featured image container exists
+  if curl -s -L "$SAMPLE_RECIPE" | grep -q '<div class="image-container">'; then
+    echo -e "  ${GREEN}✓${NC} Recipe image container present"
+  else
+    echo -e "  ${RED}✗${NC} Recipe image container missing"
+    FAIL_COUNT=$((FAIL_COUNT+1))
+  fi
 fi
 
 # Test SEO files

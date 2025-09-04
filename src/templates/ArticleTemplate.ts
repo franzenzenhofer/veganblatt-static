@@ -23,7 +23,7 @@ export class ArticleTemplate extends PageTemplate {
       : '';
     
     const featuredImageHtml = article.featuredImage
-      ? this.imageProcessor.generateImageHtml(article.featuredImage, 800)
+      ? this.imageProcessor.generateImageHtml(article.featuredImage, 800, true)
       : '';
 
     return `${head}

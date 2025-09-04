@@ -38,7 +38,25 @@ echo "✅ Site built successfully"
 
 # Step 3: Deploy to Cloudflare
 echo "☁️  Step 3: Deploying to Cloudflare..."
-npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty=true
+# Retry deploy up to 3 times to handle transient API errors/timeouts
+DEPLOY_OK=0
+for attempt in 1 2 3; do
+  echo "  Attempt $attempt..."
+  if npx wrangler pages deploy public --project-name=veganblatt-static --commit-dirty=true; then
+    DEPLOY_OK=1
+    break
+  else
+    echo "  Deploy attempt $attempt failed."
+    if [ "$attempt" -lt 3 ]; then
+      sleep $((attempt * 10))
+    fi
+  fi
+done
+
+if [ "$DEPLOY_OK" -ne 1 ]; then
+  echo "❌ Cloudflare deploy failed after 3 attempts"
+  exit 1
+fi
 echo -e "  ${GREEN}✓${NC} Deployed to Cloudflare"
 echo ""
 
