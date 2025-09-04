@@ -4,7 +4,8 @@ date: '2013-06-10 21:34:32'
 modified: '2015-01-22 07:54:07'
 slug: happycakes
 excerpt: Das neue Café besticht mit vielseitiger Kulinarik und Charme.
-aiGeneratedDate: '2025-09-01T19:21:49.176Z'
+aiGeneratedDate: '2025-09-04T15:48:23.969Z'
+featuredImage: ai/ai-happycakes.jpg
 ---
 
 ### **Leider seit Herbst 2014 geschlossen!**

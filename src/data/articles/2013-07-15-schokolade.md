@@ -6,7 +6,8 @@ slug: schokolade
 excerpt: >-
   Viele Schokoladesorten und -produkte sind nicht vegan. Dennoch gibt es in
   jedem Bereich auch ausgezeichnete vegane Alternativen zu Kuhmilchschokolade.
-aiGeneratedDate: '2025-09-01T19:22:13.212Z'
+aiGeneratedDate: '2025-09-04T15:49:42.244Z'
+featuredImage: ai/ai-schokolade.jpg
 ---
 
 Die meisten Schokoladeprodukte bestehen zumindest zum Teil aus Kuhmilchschokolade und sind somit ohne jeden Zweifel auf den ersten Blick als nicht vegan zu erkennen. Wenn man aber weiß, wo und was man an veganer Schokolade bekommen kann, besteht absolut keine Notwendigkeit zu jedwelchem Verzicht.
