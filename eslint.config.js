@@ -1,14 +1,5 @@
-let tseslint = null;
-let tsparser = null;
-try {
-  // Dynamically import to avoid hard failure when dev deps are missing
-  // eslint-disable-next-line no-eval
-  tseslint = (await import('@typescript-eslint/eslint-plugin')).default;
-  // eslint-disable-next-line no-eval
-  tsparser = (await import('@typescript-eslint/parser')).default;
-} catch (e) {
-  // Fallback will be applied below
-}
+import tseslint from '@typescript-eslint/eslint-plugin';
+import tsparser from '@typescript-eslint/parser';
 
 const baseIgnores = {
   ignores: [
@@ -18,7 +9,7 @@ const baseIgnores = {
   ]
 };
 
-const tsRules = tsparser && tseslint ? [{
+const tsRules = [{
   files: ['src/**/*.ts'],
   languageOptions: {
     parser: tsparser,
@@ -47,25 +38,6 @@ const tsRules = tsparser && tseslint ? [{
     'prefer-const': 'error',
     // Keep a realistic file size limit for this project while being strict
     'max-lines': ['error', 220]
-  }
-}] : [{
-  // Fallback minimal ruleset when TS plugin not available
-  files: ['src/**/*.ts'],
-  languageOptions: {
-    ecmaVersion: 2022,
-    sourceType: 'module',
-    globals: {
-      console: 'readonly',
-      process: 'readonly',
-      Buffer: 'readonly'
-    }
-  },
-  rules: {
-    'no-debugger': 'error',
-    'no-var': 'error',
-    'prefer-const': 'error',
-    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
-    'max-lines': ['warn', 60]
   }
 }];
 

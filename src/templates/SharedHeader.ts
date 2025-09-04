@@ -10,6 +10,7 @@ export class SharedHeader {
     <a href="/" class="">Start</a>
     <a href="/artikel.html" class="">Artikel</a>
     <a href="/rezepte.html" class="">Rezepte</a>
+    <a href="/suche.html" class="">Suche</a>
   </nav>
 </header>`;
   }

@@ -32,6 +32,8 @@ if [ $? -ne 0 ]; then
   echo "❌ Build failed! Stopping deployment."
   exit 1
 fi
+echo "🔎 Building search index (safety)..."
+npm run createjsonindex || true
 echo "✅ Site built successfully"
 
 # Step 3: Deploy to Cloudflare

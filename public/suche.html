@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Suche - VeganBlatt</title>
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.veganblatt.com/suche.html">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.veganblatt.com/suche.html">
+    <meta property="og:title" content="Suche - VeganBlatt">
+    <meta property="og:description" content="Suche nach Artikeln und Rezepten bei VeganBlatt">
+    <meta property="og:image" content="https://www.veganblatt.com/i/assets/veganblatt-logo.svg">
+    <meta property="og:site_name" content="VeganBlatt">
+    <meta property="og:locale" content="de_DE">
+    
+    <!-- Basic Meta Tags -->
+    <meta name="description" content="Suche nach Artikeln und Rezepten bei VeganBlatt">
+    <meta name="author" content="VeganBlatt">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="de">
+  <link rel="stylesheet" href="/css/styles.css?v=1.0.58">
+</head>
+<body>
+  <header class="header">
+  <div class="logo">
+    <a href="/">
+      <img src="/i/assets/veganblatt-logo.svg" alt="VeganBlatt" class="logo-img">
+    </a>
+  </div>
+  <nav class="nav">
+    <a href="/" class="">Start</a>
+    <a href="/artikel.html" class="">Artikel</a>
+    <a href="/rezepte.html" class="">Rezepte</a>
+    <a href="/suche.html" class="">Suche</a>
+  </nav>
+</header>
+  <main><h1>Suche</h1>
+    <p>Tippe, um Artikel und Rezepte zu finden.</p>
+    <input id="q" type="search" placeholder="Suche…" style="width:100%;padding:8px;margin:8px 0;" aria-label="Suche">
+    <div id="results" aria-live="polite"></div>
+
+    <script type="module">
+      import MiniSearch from 'https://cdn.jsdelivr.net/npm/minisearch@7/dist/esm/index.js';
+      async function init() {
+        try {
+          const idxJson = await fetch('/search-index.json', { cache: 'no-store' }).then(r => r.json());
+          const mini = MiniSearch.loadJSON(idxJson);
+          const input = document.querySelector('#q');
+          const out = document.querySelector('#results');
+          function render(q) {
+            out.innerHTML = '';
+            if (!q) return;
+            const hits = mini.search(q, { prefix: true, fuzzy: 0.2 });
+            out.innerHTML = hits.slice(0, 50).map(h => '<article class="article-item"><div class="article-text"><a class="article-link" href="' + h.url + '">' + (h.title || h.url) + '</a></div></article>').join('');
+          }
+          input.addEventListener('input', e => render(e.target.value.trim()));
+          input.focus();
+        } catch (e) {
+          console.error('Search init failed', e);
+        }
+      }
+      init();
+    </script></main>
+  <footer class="footer">
+  <p>VeganBlatt • Alle Rechte vorbehalten</p>
+  <p><a href="/impressum.html">Impressum</a> • <a href="/impressum.html#datenschutz">Datenschutz</a></p>
+</footer>
+</body>
+</html>
