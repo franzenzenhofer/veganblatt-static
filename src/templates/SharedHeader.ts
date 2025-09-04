@@ -7,7 +7,6 @@ export class SharedHeader {
     </a>
   </div>
   <nav class="nav">
-    <a href="/" class="">Start</a>
     <a href="/artikel.html" class="">Artikel</a>
     <a href="/rezepte.html" class="">Rezepte</a>
     <a href="/suche.html" class="">Suche</a>
