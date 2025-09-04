@@ -2,7 +2,7 @@
 filename: "ai-hochleistungsmixer-super-g.jpg"
 copyright: "© Bild AI generiert zu Illustrationszwecken"
 source: "Gemini 2.5 Flash Image Preview"
-altText: "Der neue Smoothie-Champion: Hochleistungsmixer \"Super G\"
+altText: "Der neue Smoothie-Champion: Hochleistungsmixer \"Super G\""
 aiGenerated: true
 model: "gemini-2.5-flash-image-preview"
 uploadDate: "2025-09-04T16:23:10.971Z"
