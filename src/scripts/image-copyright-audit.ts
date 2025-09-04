@@ -19,7 +19,7 @@ async function auditImageCopyrights() {
   console.log('================================================\n');
   
   const results: AuditResult[] = [];
-  const metadataFiles = await glob('src/data/image-metadata/*.md');
+  const metadataFiles = await glob('src/data/image-metadata/*.md', { cwd: process.cwd() });
   const imageMetadata = new Map<string, string>();
   
   // Load all image metadata

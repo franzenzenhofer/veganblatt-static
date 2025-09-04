@@ -70,8 +70,9 @@ export class ListPageGenerator {
     // Generate rezepte.html (20 random with images, recent first)
     const randomRecipes = this.getRandomWithRecent(recipesWithImages, 20);
     const randomListHtml = this.template.renderList(randomRecipes, 'r');
+    const itemListJsonLd = this.buildItemListJsonLd(randomRecipes.map(r => `/r/${r.slug}.html`));
     
-    const rezepteHtml = this.wrapInLayout(
+    let rezepteHtml = this.wrapInLayout(
       'Rezepte',
       `<h1>Rezepte</h1>
       <ul class="article-list">${randomListHtml}</ul>
@@ -80,6 +81,8 @@ export class ListPageGenerator {
       </p>`,
       'rezepte.html'
     );
+    // Inject ItemList JSON-LD into head for host carousel eligibility
+    rezepteHtml = rezepteHtml.replace('</head>', `${itemListJsonLd}\n</head>`);
     
     await this.fs.writeFile(
       path.join(this.config.publicDir, 'rezepte.html'),
@@ -107,6 +110,21 @@ export class ListPageGenerator {
       path.join(this.config.publicDir, 'recipes.html'),
       alleRezepteHtml
     );
+  }
+
+  private buildItemListJsonLd(urls: string[]): string {
+    const base = 'https://www.veganblatt.com';
+    const itemListElement = urls.map((u, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${base}${u}`
+    }));
+    const json = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      itemListElement
+    };
+    return `\n  <script type="application/ld+json">${JSON.stringify(json)}</script>`;
   }
 
   private async loadArticles(): Promise<Article[]> {
