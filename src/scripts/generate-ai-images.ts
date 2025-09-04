@@ -368,10 +368,17 @@ async function main() {
   try {
     const generator = new VeganFoodImageGenerator();
     
-    // Get batch size from command line or default to 50
-    const batchSize = parseInt(process.argv[2]) || 50;
-    console.log(`📦 Generating ${batchSize} AI images for VeganBlatt recipes\n`);
-    await generator.generateImagesForRecipes(batchSize, true);
+    // Check if we have a --regenerate flag with slug
+    if (process.argv[2] === '--regenerate' && process.argv[3]) {
+      const slug = process.argv[3];
+      console.log(`🔄 Regenerating AI image for: ${slug}\n`);
+      await generator.regenerateSpecificImages([slug]);
+    } else {
+      // Get batch size from command line or default to 50
+      const batchSize = parseInt(process.argv[2]) || 50;
+      console.log(`📦 Generating ${batchSize} AI images for VeganBlatt recipes\n`);
+      await generator.generateImagesForRecipes(batchSize, true);
+    }
     
     console.log('\n✅ Done! Run npm run deploy to deploy');
     
