@@ -1,0 +1,35 @@
+---
+title: "Vegane Martinsgans"
+date: "2013-11-11 08:30:23"
+modified: "2016-01-19 14:58:27"
+slug: "martinsgans"
+excerpt: "Festtagsessen die Zweite. Eine vegane Gans hat uns nicht gereicht, deshalb gleich nochmal das gleiche und doch anders. Viel Knoblauch, schön knusprig und erfolgreich an Großeltern getestet."
+featuredImage: "martini-gansl.jpg"
+recipe:
+  name: ""
+  prepTime: "PT15M"
+  cookTime: "PT40M"
+  totalTime: "PT55M"
+  servings: "2"
+  ingredients:
+    - "1 Packung vegane Geflügelbrust (wir haben [url href=\"http://www.boutique-vegan.com/food/Veggie-Duck-Filet.html?listtype=search&searchparam=duck\" target=\"_blank\"]Veggie Duck Filets[/url] verwendet)"
+    - "1 Packung Rotkraut (Wichtig: die Päckchen sind meist vegan, das Rotkraut aus dem Tiefkühlregal meist nicht)"
+    - "1 Packung gekochte Maroni"
+    - "5 Knoblauchzehen"
+    - "2 Apfel"
+    - "1 EL Olivenöl"
+    - "1/2 Glas vegane Bratensoße (wer verwendeten [url href=\"http://www.goodnessdirect.co.uk/cgi-local/frameset/detail/579353_Marigold_Organic_Gravy_Powder_110g.html\"]Organic Gravy Powder[/url], kann man aber auch [url href=\"http://www.kuechengoetter.de/rezepte/Saucen/Vegane-Bratensauce-3928508.html\"]selber machen[/url])"
+  instructions:
+    - "Rotkraut in die Ofenform geben"
+    - "Apfel in mittelgroße Stücke schneiden und zu dem Rotkraut geben"
+    - "Veganes Geflügel oben auf das Rotkraut"
+    - "Apfel kleinreiben"
+    - "Knoblauchzehen klein drücken, mit dem EL Olivenöl, Gewürzen (Rosmarin und Petersilie), etwas Salz und Pfeffer und den geriebenen Apfel zu einer Marinade vermische."
+    - "Die vegane Gans auf der Rückseite dick mit der Marinade bestreichen. [img src=\"https://www.veganblatt.com/i/martins-gans-300x224.jpg\" alt=\"martinigansl\" width=\"300\" height=\"224\" class=\"alignnone size-medium wp-image-4316\"]"
+    - "Dann 15 Minuten bei 180°C bei Umluft in den Backofen."
+    - "Gans umdrehen und auf der Vorderseite leicht mit der Marinade bestreichen. Maroni dem Rotkraut beigeben."
+    - "Weitere 25 Minuten bei gut 180° goldbraun braten."
+    - "Ab und an Wasser beigeben falls es zu trocken wird."
+    - "Guten Appetit!"
+---
+

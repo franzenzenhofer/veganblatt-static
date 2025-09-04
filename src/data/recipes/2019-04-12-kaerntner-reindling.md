@@ -1,0 +1,40 @@
+---
+title: "uvegane Kärntner Oster Reindling"
+date: "2019-04-12 20:20:28"
+modified: "2019-04-25 11:52:40"
+slug: "kaerntner-reindling"
+excerpt: "Er heißt zwar nicht in allen Teilen Kärntens gleich, darf aber bei keiner Osterjause fehlen - der Kärntner Reindling. Ein süßes Hefegebäck, das saftig gefüllt ist. Einfach lecker! "
+featuredImage: "Reindling.jpg"
+recipe:
+  name: ""
+  prepTime: "PT3H"
+  cookTime: "PT1H"
+  totalTime: "PT4H"
+  servings: "10"
+  ingredients:
+    - "450g Dinkel-Vollkorn Mehl"
+    - "1EL Sojamehl"
+    - "1TL Salz"
+    - "60g Vollrohrzucker"
+    - "Schalenabrieb 1/2 Zitrone"
+    - "1 Packung Trockenhefe"
+    - "250ml Mandeldrink"
+    - "70g vegane Margarine"
+    - "1EL Sonnenblumenöl"
+    - "für die Füllung"
+    - "250g Rosinen"
+    - "100ml Orangensaft"
+    - "1/2TL Zimt"
+    - "2-3EL Vollrohrzucker"
+    - "etwas geschmolzene, vegane Margarine"
+  instructions:
+    - "Mehl, Sojamehl, Salz, Zitronenschale und Zucker in einer Rührschüssel miteinander vermischen. In einem kleinen Topf die Pflanzenmilch erwärmen und die vegane Margarine darin schmelzen und das Öl zugeben. Das Gemisch sollte lauwarm sein (damit ihr die Hefe nicht \"tötet\"), bevor nun die Packung Trockenhefe eingerührt wird. So lange verrühren, bis sie komplett aufgelöst ist."
+    - "Nun die Flüßigkeit zu den trockenen Zutaten in die Schüssel geben und zuerst mit einem Löffel oder Teigschaber unterheben. Danach mit den Knethaken des Mixers zu einer glatten Teigkugel verarbeiten. Abgedeckt für 60 Minuten an einem warmen Ort gehen lassen."
+    - "Den Teigklumpen aus der Schüssel nehmen und nochmals gut durchkneten. Erneut abgedeckt für 20-30 Minuten gehen lassen. In der Zwischenzeit die Rosinen in einer Schüssel mit Zimt und Orangensaft vermischen und 30 Minuten einweichen lassen."
+    - "Den Teig nach der neuerlichen Gehzeit zu einem großen Rechteckt ausrollen (etwa 1/2cm dick) und mit etwas geschmolzener Margarine bestreichen."
+    - "Tipp: zum Ausrollen das Nudelholz mit Folie umwickeln, das spart die Zunahme von mehr Mehl."
+    - "Nun die Rosinen abgießen und auf dem Rechteck verteilen, die Ränder etwa 3 cm breit frei lassen. Über die ganze Fläche Zucker verteilen und an den Rändern noch etwas mehr Zimt streuen. Nun das Ganze zu einer Rolle einrollen und in eine gefettete Gugelhupfform legen."
+    - "Mit etwas Pflanzendrink oder Margarine bestreichen und für 50 Minuten bei 160 Grad im vorgeheizten Backofen verstauen."
+---
+
+Mehr Rezepte wie dieses findest du bei [Cookies&Style](https://cookiesandstyle.at/).

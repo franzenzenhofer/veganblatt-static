@@ -1,0 +1,35 @@
+---
+title: "Bunt vegane gefüllte Tacos mit Avocado-Creme"
+date: "2013-09-25 10:07:06"
+modified: "2016-01-12 10:12:17"
+slug: "tacos-avocado-creme"
+excerpt: "Ein schnelles Abendessen gefällig, das über einen Salat hinausgeht? Die einzelnen Zutaten für die Tacos sind schnell vorbereitet und das Füllen  übernimmt jeder nach Herzenslust selbst."
+featuredImage: "tacos1.jpg"
+recipe:
+  name: ""
+  prepTime: "PT10M"
+  cookTime: "PT15M"
+  totalTime: "PT25M"
+  servings: "2"
+  ingredients:
+    - "1 Packung Taco Shells"
+    - "2 Hände voll geschnittener Salat"
+    - "3 Tomaten, gewürfelter"
+    - "1 Paprika, gewürfelter"
+    - "1 kleine rote Zwiebel, fein gewürfel"
+    - "1 Dose Kidneybohnen, abgeschüttet und abgespült"
+    - "Salz, 1 EL Olivenöl"
+    - "Alfalfa Sprossen"
+    - "2 kleine oder 1 große weiche Avocado"
+    - "1 Becher Joya Crèmesse (pflanzliche saure Sahne)"
+    - "2 Zehen Knoblauch, gepresst"
+    - "etwas Zitronensaft"
+    - "Salz"
+  instructions:
+    - "Die Taco Shells lt. Verpackungshinweis im Backrohr erwärmen."
+    - "Alle Zutaten für die Füllung außer den Salat und die Sprossen in einer Schüssel vermischen und mit Salz abschmecken."
+    - "Für die Creme das Avocadofleisch herauslösen, mit der Crèmesse, gepresstem Knoblauch, Zitronensaft und Salz mit dem Stabmixer zu einer glatten Creme vermixen."
+    - "Taco Shells nun erst mit etwas Salat, dann mit ein paar Löffel Gemüse-Bohnen Fülle füllen, Avocadocreme darüber und Sprossen obendrauf."
+    - "Lasst es Euch schmecken!"
+---
+

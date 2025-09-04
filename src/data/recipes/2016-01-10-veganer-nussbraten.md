@@ -1,0 +1,43 @@
+---
+title: "Veganer Nussbraten oder die beste glutenfreie Pizza überhaupt"
+date: "2016-01-10 12:44:34"
+modified: "2016-05-15 21:01:36"
+slug: "veganer-nussbraten"
+excerpt: "Wir lieben Nussbraten. Da er aber oft etwas trocken wird, haben wir ihn diesmal etwas flacher gemacht und mit vielen Köstlichkeiten belegt."
+featuredImage: "nutroast.jpg"
+recipe:
+  name: ""
+  prepTime: "PT25M"
+  cookTime: "PT20M"
+  totalTime: "PT45M"
+  servings: "4 Portionen"
+  ingredients:
+    - "50 g Pinienkerne"
+    - "30 g Leinsamen"
+    - "30 g Sonnenblumenkerne"
+    - "40 g Nüsse nach Wunsch (wir haben Mandeln genommen)"
+    - "100 g gekochte Maronen"
+    - "50 g vegane Butter (geschmolzen)"
+    - "1 TL Ahornsirup"
+    - "1 TL Brühe (Pulver)"
+    - "Olivenöl"
+    - "Salz"
+    - "1/2 Zwiebel"
+    - "200 g Pilze (z.B. Kräuterseitlinge)"
+    - "250 g Spinat (am besten frisch)"
+    - "100g Seidentofu"
+    - "1 TL Zitronensaft"
+    - "1/2 Süßkartoffel"
+  instructions:
+    - "Alle Zutaten für den Teig zusammen mixen."
+    - "Teig auf ein Backpapier geben, vorsichtig ausrollen bzw. so flach wie möglich mit den Händen drücken und bei 180 °C (Ober- und Unterhitze) für 20 min. backen."
+    - "Währenddessen die halbe Zwiebel in Halbringe schneiden und mit etwas Öl in einer Pfanne anbraten."
+    - "Zwiebeln aus der Pfanne nehmen und Pilze darin mit etwas Salz anbraten und ebenfalls herausnehmen."
+    - "Spinat kurz in derselben Pfanne andünsten."
+    - "Mit Seidentofu, Zitronensaft, Pfeffer und Salz pürieren."
+    - "Die in feine Scheiben gehobelte Süßkartoffel ebenfalls anbraten."
+    - "Teig aus dem Ofen nehmen, mit Spinatpaste vorsichtig bestreichen und mit Pilzen, Zwiebeln und Süßkartoffel belegen, evtl. noch ein paar Pinienkerne darüber streuen."
+    - "Der Braten bzw. die Pizza kann sowohl kalt, als auch warm (dafür noch einmal 5 min. bei Oberhitze in den Ofen)."
+---
+
+Dieser Braten wird mit Knödeln, Salat und Hafersahne-Pilzsoße zu einem wahren Festmahl. Kalt lässt er sich aber auch hervorragend als Vorspeise servieren. – JL

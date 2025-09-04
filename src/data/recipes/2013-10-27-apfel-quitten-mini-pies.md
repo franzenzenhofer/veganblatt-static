@@ -1,0 +1,36 @@
+---
+title: "uvegane Apfel-Quitten Mini Pies von Seitan is my motor"
+date: "2013-10-27 08:57:43"
+modified: "2016-01-19 14:51:51"
+slug: "apfel-quitten-mini-pies"
+excerpt: "Ein perfekter, auf der Zunge zergehender Mürbeteig und eine fruchtig, aromatische Füllung aus Quitten und Äpfeln machen diese Mini-Pies zum besonderen Herbstnachtisch. Ein köstliches Rezept von der tollen Bloggerin und passionierten Bäckerin Mihl von Seitan is my motor!"
+featuredImage: "Apfel-Quitten-Pies.jpg"
+recipe:
+  name: ""
+  prepTime: "PT20M"
+  cookTime: "PT35M"
+  totalTime: "PT55M"
+  servings: "4 Pies"
+  ingredients:
+    - "120 g weiches Kokosfett"
+    - "60 g Puderzucker"
+    - "1 EL Stärke"
+    - "1 TL Zimt"
+    - "1 Messerspitze gemahlene Nelken"
+    - "1 Messerspitze Salz"
+    - "170 g Vollkornmehl"
+    - "100 g geriebene Quitte"
+    - "2 mittelgroße, säuerliche Äpfel, fein gewürfelt"
+    - "1 EL Zitronensaft"
+    - "50 g Mascobado-Zucker"
+    - "¼ TL Zimt"
+    - "100 g grob gemahlene Walnüsse"
+  instructions:
+    - "Vier Tarteletteförmchen (10 cm Durchmesser) einfetten und beiseite stellen. Ofen auf 180°C vorheizen."
+    - "Kokosfett, Zucker, Stärke, Zimt, Nelken und Salz in eine hohe Schüssel geben und schaumig schlagen. Dann das Mehl dazugeben und zu einer krümeligen Masse verarbeiten. Fünf Kugeln formen. Eine Kugel für die Streusel beiseite legen. Mit den anderen Kugeln die Böden und Ränder der Förmchen auskleiden. In den Kühlschrank stellen."
+    - "Die geraspelte Quitte mit Zitronensaft vermischen, Äpfel, Zucker und Zimt unterrühren."
+    - "Förmchen aus dem Kühlschrank nehmen und den Belag großzügig darauf verteilen."
+    - "Den übrigen Teig mit den gemahlenen Walnüssen vermischen und vorsichtig auf den Pies verteilen. Etwas andrücken. In den Ofen geben und ca. 35-40 Minuten backen."
+    - "Die Küchlein vollständig abkühlen lassen und direkt in den Förmchen servieren oder die Böden sehr vorsichtig mit einer Gabel lösen und herausnehmen."
+---
+

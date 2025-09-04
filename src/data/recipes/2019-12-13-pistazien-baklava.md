@@ -1,0 +1,41 @@
+---
+title: "Pistazien vegane Baklava mit Walnüssen und Schokolade"
+date: "2019-12-13 10:47:38"
+modified: "2019-12-09 21:59:16"
+slug: "pistazien-baklava"
+excerpt: "Besonders lecker schmeckt Baklava, wenn du etwa veganes Kokos-Joghurt dazu reichst. Vielleicht auch noch ein paar Walnüsse und Schokolade? "
+featuredImage: "Pistazien-Baklava.jpg"
+recipe:
+  name: ""
+  prepTime: "PT2H30M"
+  cookTime: "PT30M"
+  totalTime: "PT3H"
+  servings: "40"
+  ingredients:
+    - "12 Platten Filo Teig"
+    - "120g geschmolzene, vegane Butter"
+    - "2 EL fein gehackte Walnüsse"
+    - "Füllung:"
+    - "210g Pistazien"
+    - "200g Walnüsse"
+    - "200g vegane Schokolade, gehackt"
+    - "75g Puderzucker"
+    - "2 TL Zimt"
+    - "1 TL fein abgeriebene Orangenschale"
+    - "\"Honig\"-Sirup"
+    - "330g Puderzucker"
+    - "375ml Wasser"
+    - "175g veganer Löwenzahnhonig"
+    - "80ml Orangensaft"
+  instructions:
+    - "Ofen auf 190 Grad Ober- und Unterhitze vorheizen."
+    - "Für die Füllung die Nüsse auf ein Backblech legen und im Ofen 5 Minuten rösten. Wenn sie leicht gebräunt sind, auf einen Teller geben und abkühlen lassen. Anschließend die Nüsse mit den restlichen Zutaten mischen und fein hacken."
+    - "Foli-Teig Platten auf ein Blech legen und mit der veganen Butter bestreichen. Über die Butterschicht 1/4 der Füllung verstreichen, dabei 3cm Rand freilassen."
+    - "Von der langen Seite her aufrollen, die fertige Rolle mit Butter bestreichen und den Vorgang mit den restlichen Platten wiederholen, bis alle aufgebraucht sind."
+    - "Die Baklava 20 Minuten backen, bis sie goldbraun sind. Währenddessen den \"Honig\" Sirup vorbereiten."
+    - "Dafür Puderzucker, Wasser, veganen Honig und Orangenschale in einem Kochtopf bei mittlerer Hitze verrühren und erwärmen, die Mischung sollte nicht kochen."
+    - "Nachdem sich der Zucker aufgelöst hat, zum Kochen bringen und 20 Minuten köcheln lassen, bis die Masse dickflüssig ist. Dann noch den Orangensaft zufügen."
+    - "Baklava aus dem Ofen holen und 5 Minuten abkühlen lassen. Mit einem scharfen Messer die Rollen diagonal in jeweils nein Stücke schneiden. Den heißen Sirup über die Baklava gießen und 3 Stunden ziehen lassen, bis der Sirup ins Baklava eingezogen ist."
+---
+
+Für weitere Rezepte und Tipps zum nachhaltigen Leben im Alltag, schau bei [Waste no Thyme](https://wastenothyme.com) vorbei.

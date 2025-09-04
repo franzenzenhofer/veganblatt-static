@@ -1,0 +1,42 @@
+---
+title: "Fettarme vegane Ofen-Falafel"
+date: "2014-02-09 09:00:05"
+modified: "2014-02-20 17:03:16"
+slug: "ofen-falafel"
+excerpt: "Falafel sind nicht nur bei Veganern ein beliebter Straßensnack. Schnell und leicht zu bekommen, aber meistens unglaublich fettig! Eine gute Variante ist es, die Bällchen im Ofen zu backen."
+featuredImage: "Ofenfalafel.jpg"
+recipe:
+  name: ""
+  prepTime: "PT12H"
+  cookTime: "PT20M"
+  totalTime: "PT12H20M"
+  servings: "4 Personen"
+  ingredients:
+    - "250g getrocknete Kichererbsen"
+    - "1 große Zwiebel"
+    - "1 -2 Knoblauchzehen (je nach Größe und Geschmack)"
+    - "2 EL Kichererbsenmehl"
+    - "4 EL Mehl (funktioniert auch glutenfrei mit Buchweizenmehl)"
+    - "1 TL Backpulver"
+    - "Saft einer halben Zitrone"
+    - "1 Bund frische Petersilie"
+    - "Getrockneter Koriander"
+    - "Kreuzkümmel"
+    - "Chilli"
+    - "Salz"
+  instructions:
+    - "Kichererbsen mindestens 12 Stunden einweichen, gerne auch 24 Stunden. Einweichwasser dabei mindestens einmal wechseln."
+    - "Kichererbsen gut abspülen und in einem Mixer/Küchengerät zusammen mit der Zwiebel und dem Knoblauch klein häckseln."
+    - "Kichererbsenmehl, normales Mehl und Backpulver untermischen. Je nach Konsistenz etwas mehr Mehl dazu geben."
+    - "Petersilie klein hacken und untermischen."
+    - "Kräftig und je nach Gusto würzen."
+    - "Zitronensaft dazu geben."
+    - "Teig zu Kugeln formen und auf ein mit Backpapier ausgelegtes Backblech geben."
+    - "Die Falafel werden knuspriger, wenn sie mit etwas Öl bestrichen werden (optional)"
+    - "Bei 220°C je nach Größe backen: Kleine Falafel benötigen ca. 15 Min."
+    - "getrocknete Tomaten und eingelegte Oliven mit in den Mixer"
+    - "Tahini /Sesammus unter die Masse mischen"
+    - "andere Kräuter – frisch oder getrocknet (Paprika, Curry, Minze, usw.) verwenden"
+---
+
+-KW

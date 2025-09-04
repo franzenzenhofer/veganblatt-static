@@ -1,0 +1,37 @@
+---
+title: "Vegane Spinat-Lasagne mit Ricotta & Pilzen"
+date: "2016-12-17 10:13:01"
+modified: "2016-12-17 13:02:43"
+slug: "spinat-lasagne-ricotta-pilze"
+excerpt: "Wer liebt Lasagne denn nicht? Diese Variation mit Spinat, Tofu-Ricotta und Pilzen schmeckt vorzüglich und bietet Abwechslung."
+featuredImage: "pilz-spinat-lasagne.jpg"
+recipe:
+  name: ""
+  prepTime: "PT30M"
+  cookTime: "PT35M"
+  totalTime: "PT1H5M"
+  servings: "4 Portionen"
+  ingredients:
+    - "1 Packung Lasagne-Blätter"
+    - "300g tiefgekühlter Blattspinat"
+    - "2 Zehen Knoblauch, fein geschnitten"
+    - "1/2 Tofu (ca. 200g)"
+    - "50ml Soja- oder Hafer-Cuisine (vegane Sahne)"
+    - "50ml ungesüßte vegane Milch, mehr nach Bedarf"
+    - "1/2 Tofu"
+    - "2 TL Zitronensaft"
+    - "1 TL getr. Oregano"
+    - "1 Zwiebel, fein gewürfelt"
+    - "400g Champignons"
+    - "etwas Öl"
+    - "Salz, Pfeffer"
+  instructions:
+    - "Den Blattspinat mit etwas Wasser und dem Knoblauch köcheln bis er aufgetaut ist. Abschmecken und leicht auskühlen lassen. Etwas Wasser darf ruhig dabei bleiben."
+    - "Aus dem 1/2 Tofu, Soja-Sahne und Milch eine Creme mixen, mit Salz und Pfeffer abschmecken."
+    - "Den anderen halben Tofu mit den Fingern zerbröseln, Zitronensaft, Oregano und Salz zugeben."
+    - "Die Zwiebel in Olivenöl glasig anbraten. Die Pilze putzen und blättrig schneiden. Mit anbraten, würzen und beiseite stellen."
+    - "Nun eine Ofenform mit etwas Öl einpinseln, mit einer Lage Lasagneblätter starten, dann Spinat, Pilze, etwas Tofu und Tofu-Creme darauf verteilen, und wieder von vorne bis alles aufgebraucht ist. Mit Tofu-Creme abschließen."
+    - "Ab ins Backrohr damit: 180°C, Ober- Unterhitze, ca. 35min bis die Lasagneblätter durch sind"
+    - "Und fertig ist der Lasagne-Genuss!"
+---
+

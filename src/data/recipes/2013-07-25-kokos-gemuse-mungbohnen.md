@@ -1,0 +1,36 @@
+---
+title: "Pinakbet: Veganes Kokos Gemüse mit Mungbohnen"
+date: "2013-07-25 08:30:23"
+modified: "2016-01-12 09:55:13"
+slug: "kokos-gemuse-mungbohnen"
+excerpt: "Ein Gruß aus der philippinischen Küche. \"Pinakbet\", wie das Kokosgemüse im Original heißt, ist leider eines der wenigen veganen philippinischen Gerichte, dafür umso leckerer."
+featuredImage: "pinakbet.jpg"
+recipe:
+  name: ""
+  prepTime: "PT20M"
+  cookTime: "PT30M"
+  totalTime: "PT50M"
+  servings: "4 Personen"
+  ingredients:
+    - "1 Zwiebel"
+    - "3 Zehen Knoblauch"
+    - "2 mittelgroße Auberginen"
+    - "ca. 15-20 Okras"
+    - "1 Stück orangenen Kürbis"
+    - "einige grüne Bohnen (Fisolen), frisch abgezogen oder aus der Kühltruhe"
+    - "1 große Fleischtomate"
+    - "2-3 Scheiben Ingwer"
+    - "3 Bay Leaves (Lorbeerblätter)"
+    - "2 scharfe Pfefferoni"
+    - "1/2 Packung Creamed Coconut (oder eine Packung/Dose Kokosmilch)"
+    - "Salz, Pfeffer"
+    - "1,5 Tassen Mungbohnen, über Nacht eingeweicht"
+    - "1 Zwiebel"
+    - "2 Zehen Knoblauch"
+    - "optional: Spinat und anderes grünes Gemüse"
+    - "Salz, Pfeffer, etwas Öl"
+  instructions:
+    - "Das Gemüse waschen. Auberginen, Kürbis und Fleischtomaten würfeln. Okras in 3-4 cm Stücke schneiden. Die grünen Bohnen bleiben ganz. Zwiebel und Knoblauch fein schneiden. Einen großen Topf mit 1,5 Tassen Wasser aufstellen und die Auberginen, Okras, Zwiebel, Knoblauch und grünen Bohnen darin mit dem Ingwer, den Pfefferoni, den Bay Leaves, der Creamed Coconut und Salz/Pfeffer für ca. 8min köcheln. Dann das restliche Gemüse zugeben und ca. 5min weiter köcheln. Das Gemüse sollte zum Schluss bissfest sein. Abschmecken und mit den Bohnen oder mit Reis oder mit Reis und Bohnen servieren."
+    - "Die Zwiebel und den Knoblauch fein schneiden und im Öl kurz anrösten. Mit Wasser ablöschen und die Bohnen und alle weiteren Zutaten zugeben. Würzen und für ca. 30min köcheln lassen. Schmecken übrigens auch wieder aufgewärmt super."
+---
+

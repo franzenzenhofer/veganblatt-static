@@ -1,0 +1,35 @@
+---
+title: "uvegane Rohköstliche Schoko-Bananen-Creme-Schnitten"
+date: "2016-01-03 10:00:28"
+modified: "2016-01-03 10:53:33"
+slug: "schoko-bananen-creme-kuchen"
+excerpt: "Dieser Kuchen hat uns den krönenden Abschluss für 2015 beschert: ein nussiger Boden mit Schoko-Creme, Bananen und göttlicher Kokoscreme!"
+featuredImage: "schoko-bananen-kuchen.jpg"
+recipe:
+  name: ""
+  prepTime: "PT25M"
+  totalTime: "PT25M"
+  servings: "1 kleinen Kuchen"
+  ingredients:
+    - "200g Haselnüsse oder Mandeln, eingeweicht"
+    - "ca. 15 Datteln, entkernt und eingeweicht"
+    - "1 Prise Salz"
+    - "1 grosse, weiche Avocado"
+    - "1 Banane"
+    - "10 Datteln, entkernt"
+    - "3 EL Kakaopulver"
+    - "ev. etwas Kokosblütenzucker oder anderes Süßungsmittel nach Belieben"
+    - "Vanillepulver"
+    - "1 grosse Prise Salz"
+    - "2 Bananen"
+    - "1 Dose Kokosmilch, über Nacht in den Kühlschrank gestellt"
+    - "Süßungsmittel nach Wahl (z.B. Xylitol)"
+    - "Zimt oder Kakao für obendrauf"
+  instructions:
+    - "Die Datteln kleinschneiden und mit den Nüssen und der Prise Salz in der Küchenmaschine zu einem noch leicht stückigen \"Teig\" verarbeiten."
+    - "Als Boden in eine kleine Springform oder eine rechteckige Form (ca. 20x20) festdrücken und kalt stellen."
+    - "Alle Zutaten für die Schokocreme mit dem Stabmixer fein cremig mixen, abschmecken. Auf den Boden geben, glatt streichen und mit Bananenscheiben belegen."
+    - "Die Dose Kokosmilch vorsichtig öffnen und den festen Anteil am Rand abschöpfen. Ca. für 5min wie Sahne aufschlagen, süßen und auf den Bananen verteilen."
+    - "Gleich mit Zimt oder Kakao bestreut genießen oder erst mal kühl stellen."
+---
+

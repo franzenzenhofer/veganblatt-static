@@ -1,0 +1,37 @@
+---
+title: "Der veganes leckerste, gebratene Reis mit Geheimzutat"
+date: "2016-08-02 06:14:35"
+modified: "2016-08-01 22:20:02"
+slug: "veganer-gebratener-reis"
+excerpt: "Mit der richtigen Würze ist gebratener Reis ein wahres Festmahl. Probier dieses Rezept - Du wirst es nicht mehr missen wollen!"
+featuredImage: "Gebratener-Reis-1.jpg"
+recipe:
+  name: ""
+  prepTime: "PT15M"
+  cookTime: "PT30M"
+  totalTime: "PT45M"
+  servings: "3-4 Portionen"
+  ingredients:
+    - "1 Tasse Vollkornreis (wir haben Tilda Wholegrain Basmati Reis verwendet)"
+    - "2 EL Kokosöl"
+    - "200g Tofu"
+    - "2 Zehen Knoblauch, gepresst"
+    - "2 Karotten, geschält"
+    - "ein paar grüne Bohnen"
+    - "ca. 1/2 Tasse Erbsen"
+    - "etwas Salz, Chili nach Belieben, frischer Koriander"
+    - "1 EL Vitam Hefeextrakt"
+    - "1 TL Kokosblüten-, Agaven- oder Ahornsirup"
+    - "2-3 EL Sojasauce (Tamari für eine ganz glutenfreie Version)"
+    - "1 EL Sesamöl"
+  instructions:
+    - "Den Reis nach Packungsanleitung kochen."
+    - "Den Tofu in 1,5cm Würfel schneiden."
+    - "Einen Wok mit dem Kokosöl aufstellen und den Tofu darin goldbraun braten."
+    - "Derweil die Karotten in Scheiben schneiden und die grünen Bohnen schräg in 1cm Stücke schneiden."
+    - "Das ganze Gemüse in die Pfanne geben und anrösten bis es weich, aber noch bissfest ist. Leicht mit Salz und ev. mit Chili würzen. Ev. noch mal Öl nachgeben."
+    - "Den fertig gekochten Reis zugeben und mitbraten."
+    - "Alle Zutaten für die Sauce verrühren und über den Reis geben, unterrühren und vom Herde nehmen."
+    - "Mit frischem Koriander servieren. Mahlzeit!"
+---
+

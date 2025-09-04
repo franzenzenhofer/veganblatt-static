@@ -1,0 +1,35 @@
+---
+title: "Herzhafter veganer Erdnusseintopf"
+date: "2016-01-15 09:26:12"
+modified: "2016-01-15 10:29:39"
+slug: "erdnusseintopf"
+excerpt: "Genau das richtige für die kalte Jahreszeit: ein wärmender Eintopf, der ein wohliges Gefühl im Bauch hinterlässt!"
+featuredImage: "erdnuss-eintopf-1.jpg"
+recipe:
+  name: ""
+  prepTime: "PT10M"
+  cookTime: "PT15M"
+  totalTime: "PT25M"
+  servings: "4 Portionen"
+  ingredients:
+    - "1/2 Weisskraut oder Wirsing, grob mundgerecht geschnitten"
+    - "2 Karotten, geschabt in Ringe geschnitten"
+    - "1 roter Paprika"
+    - "1 Dose Mais"
+    - "optional noch eine Dose Kidneybohnen"
+    - "1 Zwiebel, gewürfelt"
+    - "Kokosöl"
+    - "1 TL Kreuzkümmel"
+    - "1/2 TL Cayennepfeffer (weniger für eine milde Variante)"
+    - "1 TL Thymian"
+    - "4 grosse EL Erdnussbutter"
+    - "250ml passierte Tomaten"
+    - "250ml Gemüsebrühe"
+    - "50ml Mangosaft (optional)"
+    - "Salz"
+  instructions:
+    - "Zwiebel und Paprika in dem Kokosöl anbraten, den Kreuzkümmel und den Cayennepfeffer kurz mitrösten. Mit der Gemüsebrühe und den Tomaten aufgießen. Das Weisskraut, die Karotten, Salz und den Thymian zugeben, die Erdnussbutter unterrühren und köcheln lassen bis das Gemüse leicht bissfest ist."
+    - "Mangosaft, Mais und ev. Bohnen unterrühren, 1min köcheln lassen, abschmecken und mit Reis oder Brot servieren."
+    - "Guten Appetit!"
+---
+

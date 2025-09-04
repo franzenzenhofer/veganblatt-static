@@ -1,0 +1,35 @@
+---
+title: "Mung veganes Bohnen Dal mit Safranreis"
+date: "2015-11-22 08:34:43"
+modified: "2015-11-22 09:33:40"
+slug: "mung-bohnen-dal-safranreis"
+excerpt: "So schmackhaft und sehr sättigend ist dieses Gericht bestehend aus Mung Bohnen und gelben Reis."
+featuredImage: "Mung-Bohnen-Dhal-1.jpg"
+recipe:
+  name: ""
+  prepTime: "PT15M"
+  cookTime: "PT20M"
+  totalTime: "PT35M"
+  servings: "4 Portionen"
+  ingredients:
+    - "1 Zwiebel, gewürfelt"
+    - "2 Zehen Knoblauch fein gewürfelt"
+    - "2 EL Kokosöl"
+    - "300g Mung Bohnen über Nacht in Wasser eingeweicht"
+    - "450ml Wasser"
+    - "1/4 TL Kurkuma"
+    - "1/2 TL Kreuzkümmel"
+    - "1 TL grüne Chili in Ringe geschnitten"
+    - "1 TL Salz"
+    - "frischer Koriander, gehackt"
+    - "1 Tasse Jasminreis Natur"
+    - "2 Tassen Wasser"
+    - "Salz"
+    - "einige Safranfäden"
+  instructions:
+    - "Kokosöl in einem Topf erhitzen. Zwiebel und Knoblauch anbraten, Kreuzkümmel und Chili kurz mitanbraten und dann mit Wasser ablöschen."
+    - "Die Bohnen und die restlichen Zutaten zugeben und für 15-20min weichköcheln."
+    - "In der Zwischenzeit das Wasser mit den Safranfäden für den Reis aufstellen. Den Reis gut waschen und zugeben, wenn das Wasser kocht. Bei geschlossenem Deckel 10-15min weichkochen."
+    - "Dal mit frischem Koriander und Reis servieren."
+---
+

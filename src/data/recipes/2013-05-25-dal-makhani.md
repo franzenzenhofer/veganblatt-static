@@ -1,0 +1,38 @@
+---
+title: "Dal vegane Makhani"
+date: "2013-05-25 21:32:02"
+modified: "2014-01-18 21:06:21"
+slug: "dal-makhani"
+excerpt: "Butterlinsen nach traditioneller Panjabi Art"
+featuredImage: "dalmakhani.jpg"
+recipe:
+  name: ""
+  prepTime: "PT20M"
+  cookTime: "PT90M"
+  totalTime: "PT1H50M"
+  servings: "4 Personen"
+  ingredients:
+    - "500 g Belugalinsen, über Nacht eingeweicht"
+    - "2 l Wasser"
+    - "Salz, Pfeffer"
+    - "2 EL Pflanzenöl"
+    - "1/2 TL Kurkuma"
+    - "1 EL geriebener Ingwer"
+    - "4 gepresste Knoblauchzehen"
+    - "1/4 l Tomatensauce"
+    - "1 TL Salz"
+    - "1 TL Chilipulver"
+    - "2 TL Garam Masala"
+    - "optional: 1/8 l Reis- oder Soja-Cuisine"
+    - "3 EL vegane Margarine"
+  instructions:
+    - "Die Belugalinsen über Nacht (mindestens 8 Stunden lang) in reichlich kaltem Wasser einweichen, danach abseihen und in 2 Liter Wasser mit einem Teelöffel Salz kochen bis sie weich sind. Im normalen Kochtopf dauert das etwa 45 Minuten – besonders gut wird die Konsistenz jedoch durch Kochen im Druckkochtopf. Nach dem Kochen die Linsen abseihen und etwa einen halben Liter des Kochwassers auffangen."
+    - "EL Pflanzenöl, 1/2 TL Kurkumapulver, 2 EL geriebenen Ingwer und 4 zerdrückte Knoblauchzehen zusammen in einem großen Topf erhitzen."
+    - "Die Tomatensauce, 1 TL Salz und 1 TL Chilipulver (oder Cayennepfeffer) dazugeben, alles eine Minute köcheln lassen."
+    - "EL vegane Butter und die Hälfte des abgeseihten Kochwassers dazugeben, weitere fünf Minuten kochen."
+    - "Die gekochten Linsen und 2 TL Garam Masala hinzufügen, 30 Minuten köcheln lassen, dabei immer wieder umrühren."
+    - "Um die Cremigkeit zu erhöhen kann man nun noch 1/8 Liter Reis- oder Sojacuisine hineinmischen."
+    - "Je nach Konsistenz kann zum Schluss noch mit dem restlichen Kochwasser verdünnt werden."
+    - "Am besten mit frischem Weiß- oder Fladenbrot servieren. Guten Appetit!"
+---
+

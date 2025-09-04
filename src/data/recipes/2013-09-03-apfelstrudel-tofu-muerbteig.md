@@ -1,0 +1,35 @@
+---
+title: "Apfelstrudel vegane im Tofu-Mürbteig"
+date: "2013-09-03 22:19:51"
+modified: "2016-01-12 10:07:45"
+slug: "apfelstrudel-tofu-muerbteig"
+excerpt: "Jeder kennt wohl den klassischen Topfen-Mürbteig, der besonders für  den hausgemachten Apfelstrudel sehr beliebt ist. Gute Nachricht, dieser lässt sich prima veganisieren und ist genauso lecker wie damals."
+featuredImage: "apfelstrudel.jpg"
+recipe:
+  name: ""
+  prepTime: "PT20M"
+  cookTime: "PT30M"
+  totalTime: "PT50M"
+  servings: "2 Strudel"
+  ingredients:
+    - "250 g Tofu natur (eher eine weichere Sorte, z.B.: von Hofer/Bio-Tofu natur)"
+    - "250 g Dinkelvollkornmehl"
+    - "250 g Margarine (z.B.: Alsan)"
+    - "1 Prise Salz"
+    - "1 kg Äpfel (eher eine säuerliche Sorte)"
+    - "50 g Rosinen"
+    - "20 g Puddingpulver"
+    - "1 EL Rum"
+    - "1 EL Bourbonvanillezucker"
+    - "1 TL Steviaglycosidpulver oder Zucker nach Geschmack"
+    - "1 TL Zimt"
+    - "1 Msp. Nelkenpulver"
+    - "außerdem Mehl zum Ausrollen, Sojasahne zum Bestreichen (z.B.: Sojacuisine), Rohrstaubzucker zum Bestreuen"
+  instructions:
+    - "Den Tofu mit dem Stabmixer pürieren und mit Margarine, Mehl und Salz zu einem Teig kneten. Den Teig zugedeckt eine Stunde im Kühlschrank ruhen lassen."
+    - "Für die Apfelfülle die Rosinen mit Rum übergießen, die Äpfel schälen, vierteln, entkernen und entweder per Hand oder mit einer Küchenmaschine feinblättrig schneiden. Äpfel und Rosinen mit den anderen Zutaten der Füllung vermischen."
+    - "Backofen auf 180C° Ober/Unterhitze vorheizen."
+    - "Den Teig halbieren, nochmals mit etwas Mehl durchkneten und mit ausreichend Mehl direkt auf einem Bogen Backpapier rechteckig auswalken. Mittig die Hälfte der Fülle verteilen, und den Strudel mit Hilfe des Backpapiers einrollen und die Enden zusammendrücken. Das Backpapier rechts und links vom Strudel zusammenraffen, an den Enden nehmen und auf das Backblech heben. Den Strudel mehrmals auf der Oberfläche mit einer Gabel einstechen und mit Sojasahne bestreichen. Mit dem 2. Strudel gleichfalls verfahren. Die Apfelstrudel ein halbe Stunde backen und nach dem Erkalten mit etwas Rohrstaubzucker bestreuen."
+    - "Lasst es Euch schmecken!"
+---
+
