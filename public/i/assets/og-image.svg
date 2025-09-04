@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- White background -->
+  <rect width="1200" height="630" fill="#ffffff"/>
+  
+  <!-- Large three-leaf logo centered -->
+  <g transform="translate(600, 280) scale(2.5)">
+    
+    <!-- Left leaf - darker green -->
+    <g transform="translate(-20, -10) rotate(-20)">
+      <path fill="#76A11E" d="M 0,-30 C -12,-28 -18,-15 -18,0 C -18,15 -12,28 0,30 C 12,28 18,15 18,0 C 18,-15 12,-28 0,-30 Z"/>
+      <!-- Leaf veins -->
+      <path fill="none" stroke="#3D6118" stroke-width="1.5" d="M 0,-28 L 0,28"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L -8,-12 M 0,-10 L -8,-2 M 0,0 L -8,8 M 0,10 L -8,18"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L 8,-12 M 0,-10 L 8,-2 M 0,0 L 8,8 M 0,10 L 8,18"/>
+    </g>
+    
+    <!-- Center leaf - medium green, slightly larger -->
+    <g transform="translate(0, -12)">
+      <path fill="#A0B634" d="M 0,-35 C -14,-33 -20,-18 -20,0 C -20,18 -14,33 0,35 C 14,33 20,18 20,0 C 20,-18 14,-33 0,-35 Z"/>
+      <!-- Leaf veins -->
+      <path fill="none" stroke="#3D6118" stroke-width="2" d="M 0,-33 L 0,33"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1.2" opacity="0.6" d="M 0,-25 L -10,-15 M 0,-12 L -10,-2 M 0,0 L -10,10 M 0,12 L -10,22"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1.2" opacity="0.6" d="M 0,-25 L 10,-15 M 0,-12 L 10,-2 M 0,0 L 10,10 M 0,12 L 10,22"/>
+    </g>
+    
+    <!-- Right leaf - bright green -->
+    <g transform="translate(20, -10) rotate(20)">
+      <path fill="#B8CF32" d="M 0,-30 C -12,-28 -18,-15 -18,0 C -18,15 -12,28 0,30 C 12,28 18,15 18,0 C 18,-15 12,-28 0,-30 Z"/>
+      <!-- Leaf veins -->
+      <path fill="none" stroke="#3D6118" stroke-width="1.5" d="M 0,-28 L 0,28"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L -8,-12 M 0,-10 L -8,-2 M 0,0 L -8,8 M 0,10 L -8,18"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L 8,-12 M 0,-10 L 8,-2 M 0,0 L 8,8 M 0,10 L 8,18"/>
+    </g>
+    
+  </g>
+  
+  <!-- VeganBlatt text -->
+  <text x="600" y="450" font-family="Georgia, serif" font-size="72" font-weight="normal" text-anchor="middle" fill="#729626">VeganBlatt</text>
+  
+  <!-- Tagline -->
+  <text x="600" y="510" font-family="Georgia, serif" font-size="32" font-weight="normal" text-anchor="middle" fill="#729626">Das vegane Magazin</text>
+</svg>
