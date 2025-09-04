@@ -1,5 +1,5 @@
 ---
-title: Birnen vegane Marzipan Tarte mit Pflaumen-Sauce
+title: Vegane Birnen-Marzipan-Tarte mit Pflaumen-Sauce
 date: '2013-09-01 08:46:23'
 modified: '2016-01-19 14:43:03'
 slug: birnen-marzipan-tarte

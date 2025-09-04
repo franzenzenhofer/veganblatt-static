@@ -190,3 +190,26 @@ else
     echo "Please review the failures above."
     exit 1
 fi
+# CSS fingerprint spot checks
+echo ""
+echo "🧪 CSS fingerprint checks..."
+
+check_css_fingerprint() {
+  local url=$1
+  local name=$2
+  local html
+  html=$(curl -s "$url")
+  if echo "$html" | grep -qE 'href="/css/styles.css\?v=[^"]+"'; then
+    echo -e "  ${GREEN}✓${NC} $name uses versioned CSS"
+  else
+    echo -e "  ${RED}✗${NC} $name missing CSS fingerprint"
+    FAIL_COUNT=$((FAIL_COUNT+1))
+  fi
+}
+
+check_css_fingerprint "https://www.veganblatt.com/" "Homepage"
+check_css_fingerprint "https://www.veganblatt.com/artikel" "Articles list"
+check_css_fingerprint "https://www.veganblatt.com/rezepte" "Recipes list"
+check_css_fingerprint "https://www.veganblatt.com/impressum" "Impressum"
+check_css_fingerprint "https://www.veganblatt.com/a/2019-09-01-vegane-mythen.html" "Sample article"
+check_css_fingerprint "https://www.veganblatt.com/r/2017-05-07-rohkostkuchen-maca.html" "Sample recipe"

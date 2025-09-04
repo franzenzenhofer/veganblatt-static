@@ -34,6 +34,8 @@ recipe:
       Alle Zutaten für die Mayo nacheinander in einen Mixbecher geben und mit
       dem Stabmixer für eine halbe Minute gut durchmixen. Mit Salz und weiteren
       Gewürzen abschmecken. Bis zum Gebrauch kühl stellen.
+aiGeneratedDate: '2025-09-04T11:26:43.458Z'
+featuredImage: ai/ai-seitan-steaks-feurige-mayo.jpg
 ---
 
 [<!-- Image removed (no copyright): seitan-steaks-1.jpg -->](https://www.veganblatt.com/i/seitan-steaks-1.jpg)   Mit dem Rezept nehmen wir am [Provamel Veggie-Star](http://provamel-veggie-star.de/2014/) Grillrezept-Contest 2014 teil. Bitte schenkt uns doch dafür [**hier ein paar Sterne**](http://provamel-veggie-star.de/2014/rezept.php?r=81)!

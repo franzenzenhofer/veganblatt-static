@@ -1,5 +1,5 @@
 ---
-title: 'Bunte veganes Abkühlung: DIY Eis am Stiel'
+title: 'Bunte Vegane Abkühlung: DIY Eis am Stiel'
 date: '2013-07-22 08:23:23'
 modified: '2016-04-15 20:13:14'
 slug: eis-am-stiel

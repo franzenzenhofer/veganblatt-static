@@ -34,6 +34,8 @@ recipe:
       Nun kann man ihn weiterverarbeiten z.B. in Würfel geschnitten für Curry
       oder Gulasch, in Scheiben anbraten wie Schnitzel oder wie Geschnetzeltes
       etc.
+aiGeneratedDate: '2025-09-04T11:27:01.573Z'
+featuredImage: ai/ai-seitan-selbermachen.jpg
 ---
 
 [<!-- Image removed (no copyright): seitan-collage.jpg -->](https://www.veganblatt.com/i/seitan-collage.jpg)   Was sich nun daraus alles machen lässt? Wie wäre es zum Beispiel mit:

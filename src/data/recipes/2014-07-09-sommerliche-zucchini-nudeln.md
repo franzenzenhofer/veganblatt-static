@@ -29,6 +29,8 @@ recipe:
     - >-
       Mit den getrockneten Tomaten, Pinienkernen und Oliven vermischt auf zwei
       Teller verteilen, je eine Hand voll Rucola obendrauf und genießen!
+aiGeneratedDate: '2025-09-04T11:27:40.631Z'
+featuredImage: ai/ai-sommerliche-zucchini-nudeln.jpg
 ---
 
 [<!-- Image removed (no copyright): Zucchini-Spaghetti.jpg -->](https://www.veganblatt.com/i/Zucchini-Spaghetti.jpg) [<!-- Image removed (no copyright): Zucchini-Pasta.jpg -->](https://www.veganblatt.com/i/Zucchini-Pasta.jpg)

@@ -28,5 +28,7 @@ recipe:
       Mit feuchten Händen Kugeln mit jeweils einer Mandel als Kern formen, in
       den Kokosflocken wälzen und für 1h in den Kühlschrank stellen. Fertig sind
       die leckeren Kokos-Kugeln!
+aiGeneratedDate: '2025-09-04T11:27:49.550Z'
+featuredImage: ai/ai-rohkoestliche-raffaello.jpg
 ---
 

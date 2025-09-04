@@ -1,5 +1,5 @@
 ---
-title: Pflanzliche vegane Milch selbst gemacht
+title: Vegane Pflanzenmilch selbst gemacht
 date: '2013-08-12 09:45:28'
 modified: '2015-06-04 14:39:46'
 slug: vegane-milch-selbst-gemacht

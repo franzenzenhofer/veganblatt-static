@@ -1,5 +1,5 @@
 ---
-title: Feine vegane Kürbis Kokos Linsen Suppe
+title: Feine Vegane Kürbis-Kokos-Linsen-Suppe
 date: '2013-07-23 08:30:10'
 modified: '2015-09-26 22:25:04'
 slug: kurbis-kokos-linsen-suppe

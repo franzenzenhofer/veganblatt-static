@@ -31,6 +31,8 @@ recipe:
       Eine Pfanne mit etwas Kokosöl aufstellen und heiss werden lassen. Nun zwei
       Teigklekse hineinsetzen und braun werden lassen. Dann wenden.
     - Noch heiß genießen.
+aiGeneratedDate: '2025-09-04T11:26:52.594Z'
+featuredImage: ai/ai-glutenfreie-pancakes.jpg
 ---
 
 [<!-- Image removed (no copyright): glutenfreie-pancakes.jpg -->](https://www.veganblatt.com/i/glutenfreie-pancakes.jpg)

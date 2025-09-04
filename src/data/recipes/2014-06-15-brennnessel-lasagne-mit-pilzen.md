@@ -48,6 +48,8 @@ recipe:
     - >-
       Backrohr auf 220°C vorheizen und für 30min auf einer unteren Schiene
       backen.
+aiGeneratedDate: '2025-09-04T11:26:22.666Z'
+featuredImage: ai/ai-brennnessel-lasagne-mit-pilzen.jpg
 ---
 
 [<!-- Image removed (no copyright): brennnessel-lasagne.jpg -->](https://www.veganblatt.com/i/brennnessel-lasagne.jpg)

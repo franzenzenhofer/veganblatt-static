@@ -37,6 +37,8 @@ recipe:
       Vegane saure Sahne bzw. die Cashew-Creme mit Agavendicksaft glatt rühren
       und auf dem Kuchenboden verteilen.
     - Die Beeren obendrauf geben und genießen!
+aiGeneratedDate: '2025-09-04T11:26:34.006Z'
+featuredImage: ai/ai-mandel-schoko-beeren-toertchen.jpg
 ---
 
 [<!-- Image removed (no copyright): rohkost-törtchen.jpg -->](https://www.veganblatt.com/i/rohkost-törtchen.jpg)

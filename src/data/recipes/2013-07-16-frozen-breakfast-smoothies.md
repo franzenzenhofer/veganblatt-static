@@ -1,5 +1,5 @@
 ---
-title: Frozen veganer Breakfast Smoothies
+title: Vegane Frozen Breakfast Smoothies
 date: '2013-07-16 08:30:10'
 modified: '2016-01-19 14:40:54'
 slug: frozen-breakfast-smoothies

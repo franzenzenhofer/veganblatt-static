@@ -42,5 +42,7 @@ recipe:
     - >-
       Die Ribiseln auf dem Kuchenboden verteilen, die Schneemasse obendrauf und
       nochmal für 10min ins Rohr schieben. Fertig!
+aiGeneratedDate: '2025-09-04T11:27:31.806Z'
+featuredImage: ai/ai-ribiselkuchen-mit-schneehaube.jpg
 ---
 

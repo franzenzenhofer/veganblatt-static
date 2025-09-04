@@ -24,5 +24,7 @@ recipe:
       Nun eine Scheibe Orange mit ein paar Schafgarbeblättern und
       Aprikosenwürfeln belegen, dann wieder Orange usw. bis ein schönes Türmchen
       entstanden ist.
+aiGeneratedDate: '2025-09-04T11:25:55.780Z'
+featuredImage: ai/ai-fruchtiger-schafgarben-salat.jpg
 ---
 

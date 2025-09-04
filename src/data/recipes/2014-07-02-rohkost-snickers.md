@@ -47,5 +47,7 @@ recipe:
       die über dem Wasserbade geschmolzene Schokolade tauchen. Wieder auf ein
       Pergamentpapier setzen und im Kühlschrank fest werden lassen, bevor alles
       aufgemampft wird!
+aiGeneratedDate: '2025-09-04T11:27:13.095Z'
+featuredImage: ai/ai-rohkost-snickers.jpg
 ---
 

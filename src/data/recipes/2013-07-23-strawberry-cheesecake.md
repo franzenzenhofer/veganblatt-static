@@ -1,5 +1,5 @@
 ---
-title: Sommerlicher vegane Strawberry Cheesecake
+title: Sommerlicher Veganer Strawberry Cheesecake
 date: '2013-07-23 08:26:34'
 modified: '2014-04-23 11:54:45'
 slug: strawberry-cheesecake

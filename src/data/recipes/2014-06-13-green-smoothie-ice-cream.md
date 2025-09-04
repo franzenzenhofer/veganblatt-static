@@ -30,5 +30,7 @@ recipe:
       Nun das gefrorene Obst dazugeben und mixen bis ein schönes Eis entstanden
       ist.
     - Mit Gojibeeren bestreuen und sofort genießen!
+aiGeneratedDate: '2025-09-04T11:26:13.552Z'
+featuredImage: ai/ai-green-smoothie-ice-cream.jpg
 ---
 

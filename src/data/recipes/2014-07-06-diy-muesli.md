@@ -37,6 +37,8 @@ recipe:
       Trockenfrüchte und optional Kakaopulver oder Zimt darüberstreuen und gut
       durchmischen.
     - Schon fertig!
+aiGeneratedDate: '2025-09-04T11:27:21.981Z'
+featuredImage: ai/ai-diy-muesli.jpg
 ---
 
 Dazu noch selbstgemachte pflanzliche Milch (Rezepte gibt´s [hier](https://www.veganblatt.com/t/vegane-milch)) und schon ist das selbstgemachte Frühstück fertig!

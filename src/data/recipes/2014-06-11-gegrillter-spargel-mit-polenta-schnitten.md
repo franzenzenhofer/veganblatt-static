@@ -41,6 +41,8 @@ recipe:
       Auf ein Blech mit Backpapier streichen und für ca. 15min fest werden
       lassen. Danach in Rauten schneiden und gemeinsam mit dem Spargel
       servieren.
+aiGeneratedDate: '2025-09-04T11:26:04.485Z'
+featuredImage: ai/ai-gegrillter-spargel-mit-polenta-schnitten.jpg
 ---
 
 [![Spargel](https://www.veganblatt.com/i/spargel.jpg)](https://www.veganblatt.com/i/spargel.jpg)
