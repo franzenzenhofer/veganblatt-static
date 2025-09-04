@@ -96,7 +96,7 @@ export class SitemapGenerator {
     const today = new Date().toISOString().split('T')[0] || '';
     // Align with actual generated routes
     return [
-      { loc: this.baseUrl, lastmod: today },
+      { loc: `${this.baseUrl}/`, lastmod: today },
       { loc: `${this.baseUrl}/artikel.html`, lastmod: today },
       { loc: `${this.baseUrl}/rezepte.html`, lastmod: today },
       { loc: `${this.baseUrl}/impressum.html`, lastmod: today }
