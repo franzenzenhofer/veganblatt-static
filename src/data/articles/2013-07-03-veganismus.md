@@ -1,0 +1,10 @@
+---
+title: "Was bedeutet \"Veganismus\" eigentlich?"
+date: "2013-07-03 08:30:44"
+modified: "2016-01-12 09:48:48"
+slug: "veganismus"
+excerpt: "Vegetarismus ist mittlerweile ein sehr geläufiger Begriff. Das Wort \"vegan\" war bis vor einigen Jahren noch sehr exotisch."
+featuredImage: "veganismus.jpg"
+---
+
+Veganismus bedeutet das Ablehnen des Konsums tierischer Produkte. Entsprechend "tierfreie" Produkte nennt man vegan, Menschen die so leben VeganerInnen. Die individuellen Motive für Veganismus können sehr unterschiedlich ausfallen - am häufigsten sind das Umweltschutz, das Nichtteilhabenwollen an Tierleid, religiöse Gründe oder die Verbesserung der eigenen Gesundheit. Dadurch ergeben sich auch grundsätzlich verschiedene Umgänge mit dem Thema, wie etwa unterschiedliche Prioritätensetzungen oder auch unterschiedliche Anschauungen in der Frage, welche Produkte überhaupt als vegan gelten sollten (die wesentlich weniger eindeutig beantwortbar ist, als man meinen könnte). Viele Menschen (VeganerInnen und NichtveganerInnen gleichermaßen) verstehen unter Veganismus eine Ernährungsform. Bei anderen bezieht sich Veganismus auf einen umfassenden Lebensstil, der auch bei Kosmetikartikel, Textilien, Reinigungsmittel und alles andere, worin Bestandteile tierischen Ursprungs enthalten sein können, zum Tragen kommt. Abhängig von der Motivation gehen die Konsumgewohnheiten (siehe [Kritischer Konsum und Veganismus](https://www.veganblatt.com/kritischer-konsum)) vieler VeganerInnen meist über das bloße Ablehnen von Tierprodukten hinaus: Wer aus Umweltgründen vegan lebt, ist oft "[BioveganerIn](https://www.veganblatt.com/bio-vegan)", konsumiert also nur/vorwiegend Bioprodukte, die zusätzlich vegan sind. Sind die Hintergründe Tierrechtsüberlegungen, so spielt auch die Tierrechtsphilosophie der Herstellerfirmen der Produkte eine große Rolle. -Ag

@@ -1,5 +1,5 @@
 ---
-title: "Vegane Gefüllte Champignons mit Mozzarella title: "Gefüllte Champignons mit Mozzarella & Tomaten" Tomaten"
+title: "Gefüllte Champignons mit Mozzarella title: "Vegane Gefüllte Champignons mit Mozzarella title: "Gefüllte Champignons mit Mozzarella & Tomaten" Tomaten" Tomaten" Tomaten"
 date: "2016-09-19 10:14:13"
 modified: "2016-09-19 13:32:02"
 slug: "gefuellte-champignons-mozzarella"

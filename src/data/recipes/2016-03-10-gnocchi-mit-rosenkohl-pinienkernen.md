@@ -1,5 +1,5 @@
 ---
-title: "Vegane Gnocchi mit Rosenkohl title: "Gnocchi mit Rosenkohl & Pinienkernen" Pinienkernen"
+title: "Gnocchi mit Rosenkohl title: "Vegane Gnocchi mit Rosenkohl title: "Gnocchi mit Rosenkohl & Pinienkernen" Pinienkernen" Pinienkernen" Pinienkernen"
 date: "2016-03-10 13:17:02"
 modified: "2016-11-21 19:53:46"
 slug: "gnocchi-mit-rosenkohl-pinienkernen"

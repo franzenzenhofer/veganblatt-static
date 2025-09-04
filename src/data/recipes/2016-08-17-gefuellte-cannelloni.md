@@ -1,5 +1,5 @@
 ---
-title: Vegane Gefüllte Cannelloni mit Spinat title: Gefüllte Cannelloni mit Spinat & Ricotta Ricotta
+title: Vegane gefüllte Cannelloni mit Spinat & Ricotta
 date: '2016-08-17 07:49:59'
 modified: '2016-08-17 10:21:34'
 slug: gefuellte-cannelloni

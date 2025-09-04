@@ -1,5 +1,5 @@
 ---
-title: Vegane Süßer Hirse-Auflauf mit Kokos title: Süßer Hirse-Auflauf mit Kokos & Vanille-Kirschen Vanille-Kirschen
+title: Veganer süßer Hirse-Auflauf mit Kokos & Vanille-Kirschen
 date: '2015-02-16 13:25:00'
 modified: '2015-03-03 14:33:41'
 slug: suesser-hirse-auflauf-mit-kokos-vanille-kirschen

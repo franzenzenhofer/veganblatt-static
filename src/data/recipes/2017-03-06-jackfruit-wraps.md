@@ -1,5 +1,5 @@
 ---
-title: "Vegane Würzige Jackfruit Wraps mit Avocado title: "Würzige Jackfruit Wraps mit Avocado & Spinat" Spinat"
+title: "Würzige Jackfruit Wraps mit Avocado title: "Vegane Würzige Jackfruit Wraps mit Avocado title: "Würzige Jackfruit Wraps mit Avocado & Spinat" Spinat" Spinat" Spinat"
 date: "2017-03-06 07:02:23"
 modified: "2017-03-06 13:44:48"
 slug: "jackfruit-wraps"

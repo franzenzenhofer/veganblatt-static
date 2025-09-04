@@ -1,0 +1,18 @@
+---
+title: Das Geheimnis der Lebensenergie in unserer Nahrung von Ruediger Dahlke
+date: '2015-05-03 08:15:40'
+modified: '2015-05-06 16:25:07'
+slug: geheimnis-der-lebensenergie-unserer-nahrung-ruediger-dahlke
+excerpt: >-
+  Nach Peace Food geht Ruediger Dahlke weiter den Geheimnissen einer optimalen
+  Ernährung nach. "Die neue vegane Ernährung" heißt das Buch auch im Untertitel.
+  Ein Exemplar gibt´s zu gewinnen!
+---
+
+### Gegen maßlose Quantität und schlechte Qualität
+
+So könnte man das neue Buch kurz und gut auf den Punkt bringen, aber natürlich versorgt uns [**Ruediger Dahlke**](http://www.dahlke.at/), seines Zeichens Arzt, Autor, Seminarleiter und Vegan-Pionier, in seinem neuen Werk _[**Das Geheimnis der Lebensenergie in unserer Nahrung**](http://www.randomhouse.de/Buch/Das-Geheimnis-der-Lebensenergie-in-unserer-Nahrung-Die-neue-vegane-Ernaehrung/Ruediger-Dahlke/e460378.rhd)_ mit einer Menge an interessantem Hintergrundwissen und begibt sich darin auf eine intensive Forschungsreise, auf der er die losen Fäden verschiedener Studien verknüpft und verwebt zu seinem schlüssigen Gesamtkonzept der neuen, veganen Ernährung. Für alle, die sich von Peace Food inspirieren ließen, folgt damit ein Werk, dass zeigt, wie man die rein pflanzliche Ernährungsweise für sich optimieren und dabei Gesundheit und Lebensenergie gewinnen kann. Unsere Nahrung ist neben dem Atem unser wichtigster Energiespender. Von welchen Faktoren ist es nun abhängig, wie viel Energie uns unsere Nahrung gibt? Dieses Mysterium ergründet Ruediger Dahlke auf vielfältige Weise und verbindet dabei verschiedene Ernährungsweisen und -lehren, die bei ihm natürlich auf eine pflanzlich-vollwertige Ernährung aufbauen. Weitere Faktoren wie Lebenswärme, die Frische der Nahrungsmittel und das genetische Alter der Pflanzen kommen mit ins Spiel. Letzteres finden wir besonders interessant: je stärker die Pflanze gezüchtet, manipuliert und in ihrem Erbgut verändert wurde, desto schlechter für uns. Beispiele hierfür sind der übermäßige Fruchtzuckergehalt von Hybridobst oder das schwer verträglich Gluten von Getreide. "Wir haben einfach aus allem mehr gemacht, und es bekommt uns nicht," so der Autor. Dafür plädiert er für eine vollwertige Ernährung, glutenfrei, mit guten Fetten, die unser Gehirn ganz notwendig braucht. Letztenendes ist die ideale Nahrung jedoch von den persönlichen Bedürfnissen abhängig, denn es führt uns nicht nur die notwendige Energie, sondern auch die individuell nötige Lebenswärme zu und so muss jeder selbst die optimale Ernährungsweise für sich finden. Rüdiger Dahlke liefert mit seinem Werk das Wissen und die Basis. Die 20 überaus leckeren, gemüselastigen, zum großen Teil rohköstlichen Rezepte zeigen diese Richtung vor. Die Spinat-Fritatta gehört schon jetzt zu unseren Favoriten. Uns sind durch das Buch doch noch so einige Dinge klar geworden. Vieles bekommt man endlich auch mit wissenschaftlichen Quellen untermauert vor Augen geführt. Lest es, es wird auch Euch anregen Eure Ernährungsweise weiter zu optimieren. "Wir haben die Wahl durch unsere Ernährung unsere Gesundheit zu wählen", so der Autor. Also wartet nicht bis Ihr Eure Gesundheit auf´s Spiel gesetzt habt.
+
+### Gewinnen!
+
+Ein Exemplar des [**Buches**](http://www.randomhouse.de/Buch/Das-Geheimnis-der-Lebensenergie-in-unserer-Nahrung-Die-neue-vegane-Ernaehrung/Ruediger-Dahlke/e460378.rhd) könnt Ihr hier mit etwas Glück gewinnen. Für die Teilnahme füllt das untenstehende Formular aus und sammelt zusätzlich Bonuspunkte indem Ihr das Gewinnspiel auf Facebook, Twitter & Co teilt und/oder uns ein Kommentar hinterlasst, warum Ihr das Buch gerne gewinnen würdet! Teilnahmeschluss: 17.5.2015

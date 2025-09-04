@@ -1,5 +1,5 @@
 ---
-title: Gebackenes vegane Blumenkohl-Steak mit Parmesan title: Gebackenes Blumenkohl-Steak mit Parmesan & Pinienkernen Pinienkernen
+title: Gebackenes Veganes Blumenkohl-Steak mit Parmesan & Pinienkernen
 date: '2014-05-02 08:47:09'
 modified: '2014-05-02 10:12:07'
 slug: gebackener-blumenkohl-fettarm

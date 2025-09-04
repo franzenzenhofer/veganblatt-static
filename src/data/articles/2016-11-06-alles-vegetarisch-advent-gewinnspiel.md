@@ -1,0 +1,23 @@
+---
+title: "alles-vegetarisch.de rettet vegane Weihnachten + Gewinnspiel"
+date: "2016-11-06 10:27:11"
+modified: "2016-11-07 15:22:48"
+slug: "alles-vegetarisch-advent-gewinnspiel"
+excerpt: "Was wären der Advent und Weihnachten ohne Adventskalender, Lebkuchen und Schoko-Nikolos? alles-vegetarisch.de hat all das auch in vegan und 3 weihnachtliche Naschpakete gibt es für Euch zu gewinnen!"
+featuredImage: "Untitled-design-17.jpg"
+---
+
+In den Supermärkten türmt sich das Weihnachtssortiment mit Lebkuchen, Adventskalendern, Schoko-Nikolos, Stollen und so vielem mehr schon seit Wochen in den Regalen. Für uns VeganerInnen ist da leider nicht allzuviel dabei, aber nicht traurig sein: es gibt andere Wege, um sich den Advent und die Weihnachtszeit zu versüßen. Der größte deutschsprachige, 100% vegane Onlineshop [**alles-vegetarisch.de**](https://www.alles-vegetarisch.de) rettet uns mit seinem [**veganen Weihnachtssortiment**](https://www.alles-vegetarisch.de/vegan-weihnachten-feiern-special) über diese Zeit hinweg. Hier gibt es so ziemlich alles, was das Herz im Advent begehrt und alles ist vegan. Für alle, die nicht gerade einen veganen Laden an der nächsten Ecke haben, ist das die Gelegenheit sich mit weihnachtlichem Süßkram einzudecken. Auf [**alles-vegetarisch.de**](https://www.alles-vegetarisch.de) einzukaufen ist wirklich eine wahre Freude. Nicht nur, dass das Riesensortiment VeganerInnen glauben lässt, im Schlaraffenland zu wandeln, der Shop ist auch total liebevoll und schön gestaltet, es funktioniert alles total unkompliziert und wenig später flattert das Paket schon zur Tür herein. Ab einem Bestellwert von € 49,- ist die Lieferung in Österreich und Deutschland sogar gratis. Wir haben uns da gleich mal mit allem eingedeckt, was die bevorstehende Zeit süßer macht. Ein [Adventskalender](https://www.alles-vegetarisch.de/lebensmittel/suesswaren/schokolade/vantastic-foods-adventskalender-mit-schakalode-original-150g-2915) darf doch im Dezember nicht fehlen und der Hunger auf [Lebkuchen](https://www.alles-vegetarisch.de/lebensmittel/backwaren/gebaeck/vegan-bakery-elisenlebkuchen-gemischt-260g-1949) sollte auch gestillt werden. In weiser Vorausplanung ist dann noch ein [veganer Schoko-Nikolo](https://www.alles-vegetarisch.de/lebensmittel/suesswaren/schokolade/vantastic-foods-schakalode-weihnachtsmann-100g-2890) in den Warenkorb gehüpft und an der [Winterzauber Schakalode](https://www.alles-vegetarisch.de/lebensmittel/suesswaren/schokolade/vantastic-foods-schakalode-winterzauber-100g-2892) konnten wir auch nicht vorbeiscrollen. Nachdem die Lust auf Süßes damit erst mal gestillt ist, klicken wir uns weiter zu den Produkten, die im normalen Supermarkt nicht auffindbar sind und füllen den Warenkorb zum Ausgleich zu dem Süßkram mit gesunden Sachen. Das größte Problem mit dem Einkaufen auf alles-vegetarisch? Irgendwann muss man aufhören! Ausgecheckt und bezahlt hat man zum Glück auch ganz schnell und dann darf man sich auf das Paket freuen, das in unserem Fall übrigens noch ein gratis Geschenk und Lesestoff enthielt. Wenn Ihr jetzt noch nicht längst weggeklickt habt und schon im Shoppingtaumel auf [**alles-vegetarisch.de**](https://www.alles-vegetarisch.de) herumsurft, dann habt Ihr hier auch die Gelegenheit, was zu gewinnen!
+
+## Gewinnen!
+
+3 weihnachtliche Naschpakete von [**alles-vegetarisch.de**](https://www.alles-vegetarisch.de) haben wir für Euch zu gewinnen! Gefüllt sind sie jeweils mit:
+
+*   [Schoko-Weihnachtsmann von Vantastic Foods](https://www.alles-vegetarisch.de/lebensmittel/suesswaren/schokolade/vantastic-foods-schakalode-weihnachtsmann-100g-2890)
+*   [Elisenlebkuchen gemischt von der Vegan Bakery](https://www.alles-vegetarisch.de/lebensmittel/backwaren/gebaeck/vegan-bakery-elisenlebkuchen-gemischt-260g-1949)
+*   [Schakalode Winterzauber von Vantastic Foods](https://www.alles-vegetarisch.de/lebensmittel/suesswaren/schokolade/vantastic-foods-schakalode-winterzauber-100g-2892)
+*   [Lebkuchenherzen zartbitter von Rosmarin Bioback](https://www.alles-vegetarisch.de/lebensmittel/backwaren/gebaeck/rosmarin-bioback-bio-lebkuchen-herzen-zartbitter-50g-2742)
+*   [Schoko Lolly Weihnachtsmann von Rosengarten](https://www.alles-vegetarisch.de/lebensmittel/suesswaren/schokolade/rosengarten-bio-schoko-lolly-weihnachtsmann-15g-2923)
+*   [Kleines Edelmarzipan-Brot von Rosmarin Bioback](https://www.alles-vegetarisch.de/lebensmittel/backwaren/gebaeck/rosmarin-bioback-bio-kleines-edelmarzipan-brot-40g-2743)
+
+Mit dem Vorrat kann die Advents- und Weihnachtszeit kommen! Um mitzumachen, fülle das untenstehende Teilnahmeformular aus und teile das Gewinnspiel per Facebook, Twitter oder Email mit Deinen veganen, naschbegeisterten FreundInnen. Teilnahmeschluss: 20.11.2016 \[luckyform /\]

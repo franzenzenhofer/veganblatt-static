@@ -1,5 +1,5 @@
 ---
-title: Vegane Mais-Tortillas mit Salsa Verde title: Mais-Tortillas mit Salsa Verde & karamelisiertem Gemüse karamelisiertem Gemüse
+title: Vegane Mais-Tortillas mit Salsa Verde & karamelisiertem Gemüse
 date: '2015-09-08 19:09:00'
 modified: '2015-09-08 19:09:00'
 slug: tortillas-salsa-verde-gemuese

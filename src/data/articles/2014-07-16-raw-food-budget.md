@@ -1,0 +1,26 @@
+---
+title: "RAW food on a budget"
+date: "2014-07-16 08:04:18"
+modified: "2016-01-20 14:09:26"
+slug: "raw-food-budget"
+excerpt: "Wer glaubt dass RAW Food nur den Wohlhabenderen unter uns vorbehalten ist, der irrt. Wir erklären wie Rohkost mit Strategie und Verstand für jedeN erschwinglich ist!"
+featuredImage: "vegetables-790022_1280.jpg"
+---
+
+Spirulina, Goji Beeren oder ein Hochleistungsstandmixer sind bekannte Namen in der Rohkostwelt, die für hohe Qualität zu dementsprechenden hohen Preisen stehen. Als Neuling in der rohen Küche wird man oft konfrontiert mit einer unüberschaubaren Vielzahl an wohlklingenden Produkten, exotischen Obst- und Gemüsesorten sowie an technischen Errungenschaften. Fakt ist, Rohkost ist weder budget-, noch jahreszeit- noch abhängig von der geografischen Lage. Mit den folgenden Tipps und Tricks bekommt ihr „more bang for your buck“, oder mehr Leistung fürs gleiche Geld!
+
+### **Regional und saisonal**
+
+Frische Erdbeeren im Sommer oder aromatisches Wurzelgemüse im Winter erfreuen uns besonders zur entsprechenden Jahreszeit. Wer nach den vier Jahreszeiten einkauft spart nicht nur bares Geld, sondern wird auch mit vollreifen, hocharomatischen und von Vitaminen überquellenden Lebensmitteln belohnt. Wer zusätzlich auf Produkte aus der Region greift, unterstützt nicht nur die lokale Wirtschaft sondern erhält ebenso hochwertigere Produkte durch kürzere Transportwege und verlängerte Reifezeit. Saftige Mangos oder erfrischende Kokosnüsse zählen zwar geschmacklich zu den Überfliegern, sind leider aber nicht besonders erschwinglich aufgrund der weiten Anreise. Für den täglichen Bedarf sind diese jedoch meistens nicht notwendig und sollen eher als Genussmittel für besondere Momente angesehen werden. Beispiele für österreichische Spezialitäten: Walnüsse oder Sonnenblumenkerne anstatt Cashews, frische Beeren vs. Ananas & Co., einheimische Äpfel vs. Granny Smith, etc. ...
+
+### **Prioritäten setzen**
+
+Dass biologische Lebensmittel sehr hochwertig und konventionellen Lebensmitteln durch fehlenden Einsatz von Chemie überlegen sind lässt sich nicht leugnen. Jeder von uns hat jedoch ein begrenztes Budget welches wir sinnvoll verwenden möchten. Frisches Obst und Gemüse, welches meist ohne Schale verzehrt wird wie Blattgrün, Äpfel oder Beeren sollten nach Möglichkeit immer in biologischer Qualität gekauft werden, da Pestizide tief in das Produkt eindringen und nicht abwaschbar sind. Hartschalige oder allgemein schälbare Produkte wie Ananas oder Knoblauch können chemischen Substanzen besser standhalten und sind auch konventionell gut genießbar. Auch nicht zertifizierte Bioprodukte können sehr hochwertig sein. Viele kleine Produzenten, welche Waren über Bauernmärkte oder Bauernläden vertreiben, arbeiten nach den Richtlinien für Biologische Landwirtschaft und verzichten lediglich aus finanziellen Gründen auf eine teure Bio Zertifizierung. Also auf zum Bauernladen und mach’ dich schlau! Genieße tolle Produkte direkt vom Bauern die oft sogar günstiger sind als Supermarkt Ware. Nachfragen lohnt sich!
+
+### **Hamstereinkäufe**
+
+Wer sein Geld hortet und in Großpackungen investiert, hat langfristig enormes Sparpotenzial. Vor allem bei Lagerware wie Nüssen, Ölen oder auch Superfoods purzelt der Kilopreis enorm, wenn größere Packungen gekauft werden. Obwohl Hamstereinkäufe kurzfristig das Bankkonto plündern, wird es auf Dauer doch geschont. Frag Freunde oder andere Gleichgesinnte und schon werden Hamstereinkäufe attraktiver und noch einfacher werden.
+
+### **Luxuszutaten mit Maß und Ziel**
+
+Freunde von exquisiten und außergewöhnlichen Zutaten wie Spirulina, Maca oder rohem Edelkakao schätzen deren besonderen Eigenschaften. Jede diese Zutat besitzt seine Wertigkeit im rohen Universum und kann dem Benutzer viel Freude bringen. Um dem Portemonnaie ebenso viel Freude zu bringen, lohnt es sich selektiv zu sein. Probiere abwechselnd verschiedene Produkte aus, um die individuellen Wirkungen zu spüren anstatt Reizüberflutung durch den Einsatz viel zu vieler Produkte auf einmal. Auch rohköstlich verarbeitete Produkte, die es mittlerweile auf dem Markt gibt (Kräcker, Schokolade, etc. ...) zählen zu Luxusartikeln, da sie erheblich teurer sind als vergleichbares aus Eigenproduktion. Anstatt deinem Lieblingsmüsliriegel probier es mit Bananen, Nüssen oder Äpfel zur Energiespeicher Auffüllung, oder gib rohen Kakaonibs mit ein paar Trockenfrüchten den Vorrang gegenüber einer rohen Tafel Schokolade. Schlussendlich sei gesagt, hab Spaß an der Rohkost mit den Lebensmitteln, die dir zur Verfügung stehen! Hab Freude am Experimentieren und denk dran: Qualität geht besonders beim Essen über Quantität und weniger ist oftmals mehr. \--- Über den Autor: Julian Kutos ist zertifizierter Gourmet RAWChef vom Living Light Institute in Kalifornien und lebt seit April 2014 nach mehrjährigen Berufserfahrungen in Shanghai, Berlin und den USA wieder in Wien. Er bietet Gourmet RAW Workshops und Dinner Abende, Private Coaching und Catering in Wien und international an. Nähere Informationen auf [www.juliankutos.com](http://www.juliankutos.com)

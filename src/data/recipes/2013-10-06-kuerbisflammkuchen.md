@@ -1,5 +1,5 @@
 ---
-title: "Vegane Feiger Kürbisflammkuchen von Cookiestitle: "Feiger Kürbisflammkuchen von Cookies&Style"Style"
+title: "Veganer feiger Kürbisflammkuchen von Cookies&Style"
 date: "2013-10-06 16:28:36"
 modified: "2013-10-09 08:31:52"
 slug: "kuerbisflammkuchen"

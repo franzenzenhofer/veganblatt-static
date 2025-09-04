@@ -1,0 +1,10 @@
+---
+title: "Warum vegan? Wegen der Tiere!"
+date: "2013-07-20 08:30:12"
+modified: "2016-01-28 13:14:17"
+slug: "warum-tiere"
+excerpt: "Eines der Hauptmotive und wohl das ursprünglichste Motiv für Veganismus ist das Vermeiden- und Nichtteilhabenwollen von bzw. an Tierleid, das in unserer Gesellschaft oft stark verdrängt wird."
+featuredImage: "calf-829430_1280.jpg"
+---
+
+Zur Herstellung von Kuhmilch fällt vielen Menschen Bauernhofidylle ein, mit grünen Weiden auf denen glückliche Tiere in Einklang mit dem Menschen gesund und glücklich leben. Dass Milchkühe, ebenso wie andere auf "Ertrag" gezüchtete Tierarten, oft bereits an ihren unnatürlichen Körpern leiden, dass sie den Großteil der Zeit in enger Gefangenschaft leben, ausgebeutet und getötet werden - denn Kühe müssen regelmäßig gebären, um Milch zu geben, und zumindest männliche Milchkühe sind "unnütz", ebenso wie männliche Legehühner - das gerät schnell in vielerorts nicht ganz unerwünschte Vergessenheit. Menschen, die an diesem System nicht teilhaben wollen werden meist zu VeganerInnen. Fleisch, Milch(produkte), Eier, Wolle und andere Produkte, die von leidenden Tieren erzeugt werden kommen ihnen nicht in den Einkaufskorb. In weiterer Konsequenz boykottieren auch viele Firmen, die Tierversuche betreiben oder allzugroßen Anteil an Tierleid haben - selbst wenn einzelne Produkte an sich "tierfrei" wären. Eine sehr wesentliche Grauzone in diesem Kontext stellt die Leidensfähigkeit der Tiere dar, die nicht eindeutig definierbar ist. Es herrscht der weitgehende Konsens, dass "höhere Tiere" (etwa Säugetiere wie Rinder und Schweine) leidensfähig sind, während das etwa auf Bakterien, Pilze und Pflanzen nicht zutrifft. Doch wo ist die Grenze? Sind Bienen leidensfähig? Oder Seidenraupen? Die meisten VeganerInnen entwickeln zu dieser Frage mit der Zeit eine eigene, weitgehend intuitive Antwort, um zumindest eine persönliche Grenze zu ziehen. -Ag

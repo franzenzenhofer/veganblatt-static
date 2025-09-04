@@ -1,0 +1,10 @@
+---
+title: "Ich benutze keine \\\"Ersatzprodukte\\"
+date: "2013-06-15 08:30:22"
+modified: "2016-01-12 09:18:25"
+slug: "keine-ersatzprodukte"
+excerpt: "Was ersetzen denn eigentlich sogenannte \\\"Ersatzprodukte\\\"? Bei einer veganen Ernährungsweise sollte auf Ausgewogenheit geachtet werden. Tierische Produkte 1:1 zu ersetzen, ist nicht unbedingt Sinn der Sache. "
+featuredImage: "reiveillez-vous.jpg"
+---
+
+Ich will mich hiermit gegen die Verwendung des Wortes „Ersatzprodukte“ aussprechen. Oft hört man von Omnivoren die Frage „Wieso isst du dann was, das dem Fleisch ähnlich ist?“ Diese haben selbst noch nicht überlegt, wieso es vollkommen verständlich ist, geschmacklich ähnliche Produkte zu essen. Schließlich stehen VeganerInnen mit ihrer Ernährungsentscheidung nicht gegen Geschmack und historisch-kulturell entwickelte regionale Küche, sondern gegen Tierleid, Respektlosigkeit vor der Umwelt und Ressourcenverschwendung. Weiters wird dadurch der Heißhunger nach „Umami“, der 5. Geschmacksrichtung, gedeckt. (Infos dazu [hier](http://de.wikipedia.org/wiki/Umami "hier") und [hier](http://www.theveganrd.com/2012/04/is-umami-a-secret-ingredient-of-vegan-activism.html "hier")) [](http://de.wikipedia.org/wiki/Umami)„Ersatz“ klingt leider immer nach Verzicht, nach Niederwertigkeit, nach Vergleich. Damit hat das aber nichts zu tun: Wir kochen mit anderen Proteinen. Wir kochen mit Alternativen, die eigen schmecken. Tofu, Seitan, Tempeh sind nicht Fleisch, sollen nicht Fleisch sein, schmecken gut. Auf eine leidfreie Produktauswahl kann man stolz sein, rechtfertigen muss man sie nicht. Und selbst wenn man auf pflanzliche Salami, pflanzlichen Käse, pflanzliches Schnitzel stehe – wen stört’s? Denn diese Produkte lassen ruhig schlafen und munden. Wir warten auf den Moment, in dem „Ersatzprodukte“ nicht mehr so deklariert werden, sondern die Norm sind. Wir warten. pSH

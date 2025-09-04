@@ -1,5 +1,5 @@
 ---
-title: "Vegane Köstliche Kokos-Quinoa-Bowl mit Gewürzen title: "Köstliche Kokos-Quinoa-Bowl mit Gewürzen & Nüssen" Nüssen"
+title: "Köstliche Kokos-Quinoa-Bowl mit Gewürzen title: "Vegane Köstliche Kokos-Quinoa-Bowl mit Gewürzen title: "Köstliche Kokos-Quinoa-Bowl mit Gewürzen & Nüssen" Nüssen" Nüssen" Nüssen"
 date: "2016-10-30 07:14:01"
 modified: "2016-12-05 10:28:42"
 slug: "kokos-quinoa-bowl"

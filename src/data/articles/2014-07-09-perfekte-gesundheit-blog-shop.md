@@ -1,0 +1,27 @@
+---
+title: 'Webshop: Der Weg zur perfekten Gesundheit'
+date: '2014-07-09 07:23:58'
+modified: '2016-01-20 13:57:24'
+slug: perfekte-gesundheit-blog-shop
+excerpt: >-
+  Viel Rohkost und vollwertige Ernährung, möglichst naturbelassene Zutaten, die
+  selbst frisch und schonend zubereitet werden, sind der beste Weg zum
+  gesundheitlichen Optimum.
+featuredImage: perfekte-gesundheit-1.jpg
+---
+
+### Let food be thy medicine!
+
+Viele Leute haben inzwischen erkannt, dass Ernährung die beste Medizin ist und darüber hinaus befähigt uns eine ausgewogene, nährstoffreiche und natürlich rein pflanzliche Ernährungsweise zu körperlichen Höchstleistungen. Mittels grüner Smoothies und frischgepressten Säften lässt sich Rohkost für den Beginn sehr einfach in den Alltag integrieren und viel für die Gesundheit tun. Simon Bodzioch hat sich schon seit über 15 Jahren dem Ziel verschrieben, nicht nur seine, sondern auch die Lebensqualität seiner Mitmenschen zu verbessern. Auf seinem [**Blog Perfekte Gesundheit**](http://www.perfektegesundheit.de/blog/) schreibt er über die Vorzüge von Roh- und Vollwertkost und hilft Neulingen beim Einstieg in die Welt der Vitalkost mit seinen praxisnahen Tipps. Das Informationsportal bietet aber auch für fortgeschrittene VitalkösterInnen eine Menge an spannenden Artikeln. Seine Überzeugung hat er mit dem dazugehörigen [**Shop Perfekte Gesundheit**](http://www.perfektegesundheit.de/shop/default.php) auch zum Beruf gemacht, was wir absolut klasse finden. Da gibt es hochwertige Küchen- und Haushaltsgeräte u.v.m., was das gesundheitsbewusste Herz höher schlagen lässt!
+
+### Investition in die Gesundheit
+
+Die Investition in eine gute [Saftpresse](http://www.perfektegesundheit.de/shop/default.php?cPath=53) oder einen [hochtourigen Mixer](http://www.perfektegesundheit.de/shop/default.php?cPath=62) ist zwar anfangs keine kleine, aber langfristig macht sie sich gesundheitlich und ökonomisch absolut bezahlt. Sich bei der Anschaffung auf Kompromisse einzulassen, bremst meist die Freude sehr schnell, das Gerät verschwindet im Schrank und die Rohkost vom Speiseplan. Das wäre doch zu schade! Deshalb gibt es im [**Perfekte Gesundheit - Shop**](http://www.perfektegesundheit.de/shop/default.php) auch wirklich hochwertige, robuste Geräte. Neben [Profimixern](http://www.perfektegesundheit.de/shop/default.php?cPath=62) gibt es eine Riesenauswahl an [Saftpressen und Entsaftern](http://www.perfektegesundheit.de/shop/default.php?cPath=53) wie z.B. dem mehrfachen Testsieger [Green Star](http://www.perfektegesundheit.de/shop/default.php?cPath=53_57). Mit diesem Multitalent kann man übrigens nicht nur Säfte, sondern auch Smoothies, Babynahrung und leckere Fruchtsorbets herstellen. [<!-- Image removed (no copyright): perfekte-gesundheit-mixer-entsafter.jpg -->](http://www.perfektegesundheit.de/shop/default.php)   Das weitere Angebot umfasst [Dörrgeräte](http://www.perfektegesundheit.de/shop/default.php?cPath=64), [Getreidemühlen und Flockenquetschen](http://www.perfektegesundheit.de/shop/default.php?cPath=84), [Sojamilchbereiter](http://www.perfektegesundheit.de/shop/default.php?cPath=61) (auch für Nuss- und Getreidemilch geeignet), [Wasseraufbereitungs](http://www.perfektegesundheit.de/shop/default.php?cPath=112)\- & [Reinigungssysteme](http://www.perfektegesundheit.de/shop/default.php?cPath=54), praktisches [Haushaltszubehör](http://www.perfektegesundheit.de/shop/default.php?cPath=87), [Gesundheitsbücher](http://www.perfektegesundheit.de/shop/default.php?cPath=71), [basische Kosmetik](http://www.perfektegesundheit.de/shop/default.php?cPath=253), [Nahrungsergänzung & Superfoods](http://www.perfektegesundheit.de/shop/default.php?cPath=72) und [Rohkostzutaten](http://www.perfektegesundheit.de/shop/default.php?cPath=254) in ökonomischen Großpackungen.
+
+### Wir meinen
+
+Simons Begeisterung für Vitalkost ist total ansteckend! Einen Blick auf den [Blog](http://www.perfektegesundheit.de/blog/) zu werfen, empfehlen wir wirklich jedem, der seinen Gesundheitszustand und seine Lebensqualität verbessern und auch halten will. Die langjährige Erfahrung und sein Expertenwissen im Vitalkostbereich gibt Simon hier weiter und erleichtert mit objektiven Vergleichen von Geräten (z.B. für [Entsafter](http://www.perfektegesundheit.de/shop/Entsafter.html) und [Getreidemühlen](http://www.perfektegesundheit.de/shop/Getreidemuehlen.html)), [Kundenbewertungen](http://www.perfektegesundheit.de/shop/Kundenbewertungen.html) und dem Angebot von [Testsiegern](http://www.perfektegesundheit.de/shop/default.php?cPath=266) (Tests durch unabhängige Organisationen wie Stiftung Warentest oder Testmagazin) die Kaufentscheidung immens. Natürlich steht Simon einem auch mit einer [ausführlichen, persönlichen Beratung](http://www.perfektegesundheit.de/shop/contact_us.php) zur Seite. Sehr lobenswert ist der [Ersatzteilservice](http://www.perfektegesundheit.de/shop/parts.php). Für viele der qualitativ hochwertigen, robusten Gerätschaften können so Verschleissteile einfach bezogen, gewechselt und die Lebensdauer um viele weitere Jahre verlängert werden. Die [Versandkosten](http://www.perfektegesundheit.de/shop/Versandkosten.html) des Shops sind mit € 4,90 für Deutschland und € 6,90 nach Österreich sehr günstig gehalten und entfallen ab einem Bestellwert von € 75,- (D) bzw. € 150,- (Ö) zur Gänze!
+
+### Lest und stöbert los:
+
+[**perfektegesundheit.de/Blog**](http://www.perfektegesundheit.de/blog) [**perfektegesundheit.de/Shop**](http://www.perfektegesundheit.de/shop)

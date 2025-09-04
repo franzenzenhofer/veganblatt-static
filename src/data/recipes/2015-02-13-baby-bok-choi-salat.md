@@ -1,5 +1,5 @@
 ---
-title: Veganer Baby-Bok Choi Salat mit Tofu title: Baby-Bok Choi Salat mit Tofu & Sesam Sesam
+title: Veganer Baby-Bok Choi Salat mit Tofu & Sesam
 date: '2015-02-13 07:29:34'
 modified: '2015-09-26 22:27:35'
 slug: baby-bok-choi-salat

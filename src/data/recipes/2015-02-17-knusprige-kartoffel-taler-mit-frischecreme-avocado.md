@@ -1,5 +1,5 @@
 ---
-title: "Vegane Knusprige Kartoffel-Taler mit Frischecreme title: "Knusprige Kartoffel-Taler mit Frischecreme & Avocado" Avocado"
+title: "Knusprige Vegane Kartoffel-Taler mit Frischecreme & Avocado"
 date: "2015-02-17 21:51:55"
 modified: "2015-12-18 11:20:33"
 slug: "knusprige-kartoffel-taler-mit-frischecreme-avocado"

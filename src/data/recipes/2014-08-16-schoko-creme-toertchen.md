@@ -1,5 +1,5 @@
 ---
-title: Vegane 3-fach Schoko-Creme-Törtchen mit Chia title: 3-fach Schoko-Creme-Törtchen mit Chia & Heidelbeeren Heidelbeeren
+title: Vegane 3-fach Schoko-Creme-Törtchen mit Chia & Heidelbeeren
 date: '2014-08-16 11:42:24'
 modified: '2015-05-11 09:12:10'
 slug: schoko-creme-toertchen

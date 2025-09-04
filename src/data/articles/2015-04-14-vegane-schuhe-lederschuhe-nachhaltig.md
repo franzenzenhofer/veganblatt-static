@@ -1,0 +1,44 @@
+---
+title: "Vegane Schuhe vs. Lederschuhe: Was ist nachhaltiger?"
+date: "2015-04-14 00:52:49"
+modified: "2016-08-24 10:07:04"
+slug: "vegane-schuhe-lederschuhe-nachhaltig"
+excerpt: "Immer wieder wird diskutiert, was nun umweltfreundlicher und ressourcenschonender ist: das vermeintliche \"Naturprodukt\" Leder oder vegane, oft synthetische Materialien?"
+featuredImage: "worried-girl-413690_1920.jpg"
+---
+
+Mittlerweile gibt es ein stetig wachsendes [Angebot an veganen Schuhen](https://www.veganblatt.com/vegane-schuhe). Immer wieder kommt es jedoch auch zu Diskussionen, ob vegane Schuhe, denn so viel besser sind als solche aus dem vermeintlich "nachwachsenden Naturprodukt" Leder. Menschen, die sich bewusst für die tierfreie Version entscheiden, wollen nicht, dass für ihr Fashion-Statement irgendwelche Lebewesen leiden müssen (ein [60-Sekunden-Spott von Peta](https://www.youtube.com/watch?v=jgCER474wDY#t=37) gegen Leder überzeugt mit erschreckenden Bildern). Aber wie sieht es mit der Umweltfreundlichkeit und Nachhaltigkeit veganer Schuhe aus? Und wie umweltfreundlich und nachhaltig sind eigentlich Schuhe aus Leder?
+
+## Gift im Lederschuh
+
+Gehen viele Menschen davon aus, dass Leder ein Abfallprodukt der Fleischindustrie ist, werden 40% der Tiere nur zur Lederproduktion getötet und noch dazu verursachen Gerbereien in Billiglohnländern erhebliche Umwelt- und Gesundheitsschäden bei den Arbeitern und den Bewohner\*innen der Umgebung. \[randomlinks /\] Gerade in [Indien](http://www.konsument.at/cs/Satellite?pagename=Konsument/MagazinArtikel/Detail&cid=318880586308), wo man es am wenigsten vermuten würde, hat [Peta](http://www.peta.de/leder-aus-indien-von-wegen-heilige-kuehe#.VSywhJSUc4Q) katastrophale Zustände in der Tierhaltung für die Lederproduktion aufgedeckt. Die Kühe werden schlimm misshandelt und unter qualvollen Bedingungen hingerichtet, die ohnehin minimalen Umwelt-, Arbeits- und Sozialstandards ignoriert, nur um möglichst billiges Leder für den westlichen Markt zu produzieren.
+
+## Chrom im Leder
+
+Mehr als [90%](http://www.peta.de/giftimschuh#.VSwaSWZpJZ0) der heute vermarkteten Lederprodukte werden mit Chromsalzen gegerbt. Das Chrom III kann sich sehr leicht in krebsergendes Chrom IV verwandeln und damit erheblich gesundheitlich schaden und das nicht nur bei den Arbeitern in der Gerberei, sondern auch bei den Schuhträgern. Auch Babyschuhe aus Leder enthalten oft Chrom, wie [Ökotest](http://www.oekotest.de/cgi/index.cgi?artnr=102729&bernr=07&seite=01) herausfand. Neben diesen toxischen Substanzen enthalten Gerbereiabwässer auch enorme Mengen anderer Schadstoffe wie Proteine, Haare, Salze, Kalkschlamm, Sulfide und Säuren. Gerbereien benötigen unnötig viel Wasser und produzieren eine große Menge an giftigem Schlick und verursachen vor allem in Entwicklungsländern erhebliche Umwelt- und folglich Gesundheitsschäden in ganzen Regionen.
+
+## Tier- und Menschenleid
+
+Das meiste Leder kommt aus Entwicklungsländern wie Indien, China, Vietnam, Bangladesch oder Brasilien. Hier handelt es sich nicht nur um ein Produkt aus Tierleiden, sondern es leiden ebenfalls [Menschen](http://help.orf.at/stories/1696255/) unter katastrophalen, teils sogar sklavenähnlichen Arbeitsbedingungen. In [Brasilien](http://www.konsument.at/cs/Satellite?pagename=Konsument/MagazinArtikel/Detail&cid=318880586308) wurden Fälle aufgedeckt, wo Menschen in Gerbereien zur Arbeit gezwungen wurden. Sie arbeiten ohne jeglichen Schutz in den Gerbereien. Sie stehen unter anderem in den Chrom- und Abwässern, da sie von den Gerbereien nicht genügend über die hohen gesundheitlichen Risiken aufgeklärt werden. Durch die giftigen Stoffe wird aber nicht nur die Gesundheit der Arbeiter\*innen gefährdet bzw. geopfert, sondern ebenfalls die der anliegenden Bewohner\*innen, da diese ihr Trinkwasser teils aus verseuchten Flüssen und Grundwasserquellen beziehen.
+
+## Pflanzlich gegerbtes Leder
+
+Leder durch pflanzliche Gerbstoffe zu behandeln, hört sich umweltfreundlich und nachhaltig an. Viele Menschen greifen daher zu dieser Alternative in der Annahme, dass sie Produkte aus diesem Leder ohne Bedenken tragen können. Die meisten pflanzlich gegerbten Leder, werden jedoch heutzutage bereits mit Chrom vorgegerbt und enthalten deshalb ebenfalls Schadstoffe. Der Gerbprozess mit Rinde und anderen Pflanzenresten kann bis zu 30 Monate dauern und benötigt sehr viele Rohstoffe. Pro [Haut](http://www.leder-info.de/index.php/Pflanzlich_gegerbtes_Leder) werden dabei ca. 30 kg Rinde oder 20 kg Früchte oder 90 kg Eichenholz verbraucht. Davon abgesehen, dass eine pflanzliche Gerbung viele Ansprüche der KundInnen wie wasserdichtes oder geschmeidiges Leder oft nicht erfüllen kann, würde eine pflanzliche Gerbung von Bio-Leder die Ressourcen über einiges überschreiten. Die benötigte Menge an pflanzlichen Rohstoffen, Zeit und Leder aus kontrolliert biologischer Tierhaltung ist einfach viel zu gering, um die weltweite Nachfrage an Leder zu decken. Davon abgesehen bleibt auch Bio-Leder moralisch zweifelhaft, da auch hier Tiere für den eigenen Luxus getötet werden. Der Online-Versand Waschbär brachte als einer der ersten europäischen Vertriebe Schuhe aus Leder aus [100% kontrolliert biologischer Tierhaltung (k.b.T.)](http://www.lebensart.at/schuhe-aus-bio-leder%20) heraus. Bei der Gerbung kommt das in der konventionellen Schuhproduktion verwendete Schwermetall Chrom, das allergieauslösend wirkt und das Risiko für Krebserkrankungen erhöht, nicht zum Einsatz. Stattdessen werden die Rohleder mit Glutardialdehyd vorgegerbt und mit den pflanzlichen Extrakten aus den Schoten des peruanischen Tara-Baumes und den Früchten der Valunea-Eiche nachgegerbt. So vermeidet man vielleicht Giftstoffe, doch nichtsdestotrotz handelt es sich hier um tote Tierhaut, die durch tropische Pflanzen gegerbt wird. Einige Firmen stellen Rhabarberleder, Leder das mit den Extrakten der Rhababerwurzel gegerbt wird, her. Hört sich dieses Leder nach einer nachhaltigen Alternative an, handelt es sich hierbei leider auch um Tierhaut aus konventioneller Nutztierhaltung.
+
+## Ist Synthetik besser?
+
+Aus ethischer Sicht sind synthetische Schuhe durchaus besser, als solche aus Leder. Jedoch sind lederfreie Schuhe nicht unbedingt gleich auch nachhaltig. Die Billig-Plastik-Schlappen können ebenso viele Giftstoffe enthalten, wie mit Chrom gegerbtes Leder. Und auch die Ökobilanz ist bei manchen [Plastiksorten](https://www.veganblatt.com/plastik-vermeiden-15-dinge) nicht gerade positiv. \[randomlinks /\] Es gibt jedoch mittlerweile eine immer größere Anzahl an veganen und nachhaltigen Schuhen. Hier kommen nachwachsende Rohstoffe wie Kautschuk, Kork oder Baumwolle zum Einsatz. Kunstleder besteht in der Regel aus einem Gewebe, das mit PVC beschichtet wird. Übrigens werden Lederschuhe auch oft zusätzlich synthetisch beschichtet, um die Schuhe wasserabweisend, wasserdicht und besonders strapazierfähig zu machen. Bei einigen vegan-arbeitenden Firmen wird jedoch darauf geachtet, hier auf einen möglichst hohen Anteil an nachwachsenden Rohstoffen zu setzen und mit recycelten oder schadstoffarme bzw. -freie Materialien zu arbeiten, um dadurch die Umwelt zu schonen.
+
+## Die besten veganen Schuhlabels
+
+Zum Glück gibt es sie, die innovativen, ressourcenschonenden, veganen Alternativen zu Lederschuhen, die 100% tierleidfrei und dabei noch nachhaltig und strapazierfähig sind:
+
+*   Die veganen Schuhe von [Ethletic](http://ethletic.de/shop/) bestehen aus Bio-Baumwolle, haben FSC®-zertifizierte Kautschuk-Sohlen und sind nach Fairtrade Richtlinien produziert.
+
+*   Bei [FreiVon](http://freivon.bigcartel.com/) gibt es nicht nur wunderschön bunte Socken, sondern jetzt auch ein paar [vegane Schuhe](http://freivon.bigcartel.com/product/damenschuh-1). Diese werden in Italien produziert und bestehen zu einem Großteil aus nachwachsenden Rohstoffen. Das verwendete [Kunstleder EQ Porellina](http://freivon.bigcartel.com/unsere-materialien) besteht aus 60% Polyurethan und 40% erneuerbaren Ressourcen. Das heißt, zum Beispiel 'non-food' Mais. Leider ist das Produkt nicht rezyklierbar. Es kann jedoch ohne toxische Emissionen verbrannt werden.
+
+*   [Goodguys](http://goodguys.bigcartel.com/) garantiert Schuhe ohne Kinderarbeit, keine schädlichen Stoffe, Fertigung in Europa und zu 100 % tierleidfrei.
+
+*   Das vegane Schuhlabel [NOAH](http://www.noah-shop.com) zeigt, dass die Kombination von ethischen Ansprüchen und ästhetisch, hochwertigem Design kein Widerspruch ist. Hier wird auf Mikrofaser gesetzt.
+
+Vegane Schuhe zu kaufen, bedeutet ein modisches Statement zu setzten, ohne dabei Tieren oder Menschen Leid zuzufügen. Wer auch noch auf Nachhaltigkeit beim Schuhkauf achtet und anstatt vier Paar Schuhe ein gutes Lieblingspaar kauft, der tut nicht nur sich, sondern auch der Umwelt etwas Gutes. Außerdem werden nachhaltige Leder-Alternativen ständig weiterentwickelt. Die vegane Leder-Revolution ist im Gange! – JL

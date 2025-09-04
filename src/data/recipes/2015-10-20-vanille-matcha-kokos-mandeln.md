@@ -1,5 +1,5 @@
 ---
-title: "Vegane Vanille- title: "Vanille- & Matcha-Kokos-Mandeln" Matcha-Kokos-Mandeln"
+title: "Vanille- title: "Vegane Vanille- title: "Vanille- & Matcha-Kokos-Mandeln" Matcha-Kokos-Mandeln" Matcha-Kokos-Mandeln" Matcha-Kokos-Mandeln"
 date: "2015-10-20 09:43:37"
 modified: "2017-11-30 10:27:15"
 slug: "vanille-matcha-kokos-mandeln"

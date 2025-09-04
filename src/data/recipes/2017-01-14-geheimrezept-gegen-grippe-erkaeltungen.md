@@ -1,5 +1,5 @@
 ---
-title: "Vegane DAS Geheimrezept gegen Grippe title: "DAS Geheimrezept gegen Grippe & Erkältungen" Erkältungen"
+title: "DAS Geheimrezept gegen Grippe title: "Vegane DAS Geheimrezept gegen Grippe title: "DAS Geheimrezept gegen Grippe & Erkältungen" Erkältungen" Erkältungen" Erkältungen"
 date: "2017-01-14 09:52:16"
 modified: "2018-01-15 11:44:39"
 slug: "geheimrezept-gegen-grippe-erkaeltungen"

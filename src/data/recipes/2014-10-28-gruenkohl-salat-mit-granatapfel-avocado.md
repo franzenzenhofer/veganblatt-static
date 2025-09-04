@@ -1,5 +1,5 @@
 ---
-title: Veganer Grünkohl-Salat mit Granatapfel title: Grünkohl-Salat mit Granatapfel & Avocado Avocado
+title: Veganer Grünkohl-Salat mit Granatapfel & Avocado
 date: '2014-10-28 12:40:33'
 modified: '2017-02-13 16:05:31'
 slug: gruenkohl-salat-mit-granatapfel-avocado

@@ -1,0 +1,111 @@
+---
+title: Vegane Mangelerscheinungen und wie man ihnen entgegenwirkt!
+date: '2018-04-16 12:01:25'
+modified: '2018-10-08 11:19:17'
+slug: mangelerscheinungen
+excerpt: >-
+  Vegan sein bedeutet, der Verzicht auf alle tierischen Lebensmittel. Kein
+  Fleisch, kein Fisch, keine Milch- oder Eierprodukte. Im ersten Moment schaut
+  es so aus, als würden dann all die Nährstoffe, die man normalerweise aus
+  tierischer Quelle erhält, wegfallen und zu einer Mangelernährung führen. 
+images:
+  - broccoli-1974801_1920.jpg
+  - almonds-1266908_1920.jpg
+  - vegetables-1584999_1920.jpg
+featuredImage: background-image-3256918_1920.jpg
+---
+
+Veganismus als Mangelernährung? Ist nicht so, es gibt genügend pflanzliche Quellen, um alle Bedürfnisse für eine ausgewogene Ernährung zu stillen.
+
+## Auf welche Nährstoffe sollte man bei Veganer Ernährung achten?
+
+*   Eiweiß
+*   Kalzium
+*   Vitamin B12
+*   Eisen
+*   Jod
+*   Vitamin D3
+*   Zink
+*   Omega-3-Fettsäuren
+*   Selen
+
+## Welche Lebensmittel gibt es, um ev. Mangelerscheinungen entgegenzuwirken?
+
+### **Eiweiß**
+
+Die meisten Menschen überschätzen den Proteinmangel bzw. die notwendige Proteinzufuhr. Es gibt genügend pflanzliche Lebensmittel, die viel Eiweiß enthalten:
+
+*   Hülsenfrüchte (Erbsen, Linsen, Bohnen)
+*   Sojaprodukte (möglichst unverarbeitet und ohne zusätzliche und ungesunde Stoffe)
+*   Nüsse (z.B. Mandeln, Cashewkerne, Erdnüsse...)
+*   Lupine
+*   Mohn
+*   Sonnenblumenkerne und Kürbiskerne
+*   Quinoa
+*   Amaranth
+
+<!-- Image removed (no copyright): broccoli-1974801_1920-768x480.jpg --> \* (cc) Pixabay\*
+
+### Kalzium
+
+\[randomlinks /\] Kalzium ist nicht nur in Milch enthalten, sondern auch in vielen anderen pflanzlichen Quellen. Die Bioverfügbarkeit von pflanzlichen Lebensmittel ist häufig sogar höher wie die der Milch. Milch enthält zwar viel Kalzium, aber dieses kann vom Körper nicht so gut genutzt werden. Tierische Eiweißquellen enthalten viele schwefelhaltigen Aminosäuren, welche zu Kalziumverlusten über die Nieren führen kann. Milch wird sozusagen wegen des hohen Eiweißgehaltes gelobt, wobei aber dieser hohe Eiweißgehalt dafür verantwortlich ist, dass das Kalzium nicht richtig aufgenommen wird bzw. verloren geht (Quelle: Zeitschrift ProVegan). Gute pflanzliche Nahrungsmittel sind:
+
+*   Mohn
+*   Mandeln, Haselnüsse
+*   Amaranth
+*   Grünkohl
+*   Brokkoli
+
+<!-- Image removed (no copyright): almonds-1266908_1920-768x480.jpg --> \* (cc) Pixabay\*
+
+### Vitamin B12
+
+Vitamin B12 ist in fast keinem herkömmlichen pflanzlichen Lebensmittel enthalten bzw. ist die Menge zu klein. Dieses Vitamin ist für viele Funktionen im Körper (z.B. DNA-Synthese und Zellteilung, Blutbildung, Funktion des Nervensystems) notwendig, deshalb ist es im Zuge einer veganen Ernährung am besten, entsprechende Nahrungsergänzungsmittel, angereicherte Lebensmittel bzw. Zahnpasta mit Vitamin B12 zu verwenden. Nicht nur Veganer können unter einem Vitamin B12 Mangel leiden. Die Alge Chlorella weißt Vitamin B12 auf, aber es ist noch nicht festgelegt, ob es der Körper richtig verwerten kann. Auch das Essen von fermentierten Speisen (z.B. Sauerkraut), welche mit Bodenbakterien in Kontakt kommen, reicht nicht aus, um optimal versorgt zu sein. Vitamin B12 wird von Mikroorganismen gebildet. Dieses Vitamin wird zwar auch durch Bakterien im menschlichen Dickdarm hergestellt, aber das Problem dabei ist, dass die Aufnahme im unteren Dünndarm (also weiter oben) erfolgt, so dass dieses nicht genutzt werden kann. Genauere Infos findest auf [vebu.de](https://vebu.de/fitness-gesundheit/naehrstoffe/vitamin-b12-in-lebensmitteln-und-vegane-ernaehrung/).
+
+### Eisen
+
+Eisen findet man in folgenden Lebensmittel:
+
+*   Hülsenfrüchte
+*   Hirse
+*   Nüsse
+*   Ölsaaten
+*   grünem Blattgemüse
+*   Hafer
+
+Am besten diese Lebensmittel mit einem Lebensmittel kombinieren, welches viel Vitamin C enthält, z.B. Paprika, Orange usw. Vor allem Frauen können aufgrund ihrer Periode oft einen Mangel leiden.
+
+### Jod
+
+Jod kann in Form von Algen (Nori) oder durch Pilze eingenommen werden.
+
+### Vitamin D3
+
+Der Mangel an Vitamin D3 ist nicht nur bei Veganern ein Thema, sondern bei vielen Menschen, die in unseren Breitengraden leben. Vor allem im Winter ist eine zusätzliche Einnahme von Vitamin D3 in Form von Tropfen oder Tabletten empfohlen. Dabei ist zu beachten, dass nicht alle Produkte vegan sind.
+
+### Zink
+
+Dieser wichtige Stoff für Stoffwechselprozesse ist in folgenden Lebensmittel enthalten:
+
+*   Vollkorngetreide
+*   Kürbiskerne
+*   Nüsse
+
+Eine bessere Aufnahme wird durch Einweichen, Keimen sowie durch die Kombination mit Vitamin-C-haltigen Lebensmittel erreicht.
+
+### Omega-3-Fettsäuren
+
+Das Verhältnis zwischen der Aufnahme von Omega-3 und Omega-6 ist entscheidend. Die meisten Lebensmittel enthalten einen hohen Anteil an Omega-6-Fettsäuren, d.h. man darf auf eine ausreichende Zufuhr von Omega-3 achten. Folgende Lebensmittel enthalten ein gutes Verhältnis:
+
+*   Leinöl / Leinsamen
+*   Walnussöl / Walnüsse
+*   Chiasamen
+
+### Selen
+
+Selen braucht es für den Jodstoffwechsel und ist vor allem in folgenden Lebensmittel enthalten:
+
+*   Paranuss
+*   eventuell auch Linsen und Champignons. Dabei ist es wichtig, dass sie aus Gebieten stammen, welche eine höhere Selenkonzentration aufweisen.
+
+[Weiter Infos über ausgewogene. vegane Ernährung auf Ecodemy.de](https://ecodemy.de/magazin/uebersicht-kritische-naehrstoffe-bei-veganer-ernaehrung/). Das war eine kleine Auflistung der Nährstoffe, welche bei einer veganen Ernährung kritisch sein könnten. Es ist wichtig, sich ausgewogen zu ernähren. Viel Obst, Gemüse, Hülsenfrüchte, Getreide und Nüsse/Saaten zu essen und dabei auf möglichst unverarbeitete Produkte zu achten. Im Frühling, Sommer und Herbst können Wildkräuter in den Speiseplan integriert werden. Es ist wichtig zu verstehen, dass eine vegane Ernährung nicht bedeutet, dass man an Mangelerscheinungen leiden muss. Es hängt davon ab, was man isst. <!-- Image removed (no copyright): vegetables-1584999_1920-768x480.jpg --> \* (cc) Pixabay\* Auch Mischköstler können Mängel haben, denn Nahrungsergänzungsmittel gibt es schon lange. Lange bevor vegan sein für so viele Menschen eine Rolle spielte. Das bedeutet, dass nicht nur Veganer Mängel haben können. Viel Spaß auf der Reise in die vegane Welt:) Befreit euch vom Mangelgedanken!

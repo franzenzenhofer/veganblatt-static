@@ -1,0 +1,10 @@
+---
+title: "Ich hab dann mal Hunger – die schnelle vegane Küche"
+date: "2013-03-20 11:52:25"
+modified: "2016-01-12 09:22:52"
+slug: "schnelle-vegane-kueche"
+excerpt: "Hunger, aber nicht viel Zeit? Das Problem kennen wir alle. Hier ein paar Lösungsvorschläge für schnelle vegane Gerichte und Snacks."
+featuredImage: "stop-eating-animals-verkehrsschild.jpg"
+---
+
+Nicht jedeR hat Lust, sich Tag für Tag hinter den Herd zu stellen und/oder den Luxus, für ein vollwertiges Gericht lange Garzeiten in Kauf nehmen zu können. Trotzdem sollten VeganerInnen darauf achten, jeden Tag ihren Nährstoffbedarf zu decken. Vor dieser Aufgabe stehen jedoch genauso Omnivoren, die in Auswahl im Supermarkt aber nicht ganz so eingeschränkt sind. Schnelle, gesunde und köstliche Mahlzeiten lassen sich jedoch auch mit -und manchmal gerade wegen - der selbst gewählten Einschränkung leicht zubereiten. Wenn du zu Mittag mal schnell zwischen zwei Terminen deinen Hunger stillen willst (und zum Vorbereiten der Jause am Vortag keine Zeit hattest oder – ganz ehrlich – zu faul warst) dann kann auch der Supermarkt um die Ecke empfohlen werden. Mittlerweile findet man Hummus und andere vegane Aufstriche in jedem Laden, ein Weckerl und Obst oder Gemüse dazu, und der Magen knurrt nicht mehr. In Großstädten findet man dort auch noch vegane (Pasta-)Salate, Sandwiches und vieles mehr. Oder wie wär’s mit einem Falafel-Sandwich? Zum Abendessen fehlt die obligatorische Gemüsepfanne bei mir nie. Dazu Tofu anbraten, schnell Couscous zubereiten (muss nicht kochen, nur kurz quellen!) oder getoastetes Brot machen. Im Sommer rufen mich dann die verschiedensten Salate, in denen sich auch schnell mal die Kartoffeln oder Pasta vom Vortag wiederfinden. Wenn du mit deinem Kühlschrankinhalt phantasievoll umgehst (Oder zumindest in Suchmaschinen „vegan \[Zutat\]“ angibst) und deine Lieblingskräuter und –gewürze richtig einsetzt, wird das einfachste Mahl zum „Burner“! pSH

@@ -1,5 +1,5 @@
 ---
-title: Vegane Gluten- title: Gluten- & zuckerfreier Schokoladen-Brownie zuckerfreier Schokoladen-Brownie
+title: Veganer gluten- & zuckerfreier Schokoladen-Brownie
 date: '2014-09-26 07:56:50'
 modified: '2017-01-29 19:13:13'
 slug: schoko-kichererbsen-brownie

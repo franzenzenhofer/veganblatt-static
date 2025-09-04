@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Zucker- title: 'Zucker- & glutenfrei: Karotten-Chia-Cupcakes' glutenfrei: Karotten-Chia-Cupcakes'
+title: 'Vegane zucker- & glutenfreie Karotten-Chia-Cupcakes'
 date: '2015-03-26 14:24:03'
 modified: '2015-04-09 20:48:25'
 slug: zucker-glutenfrei-karotten-chia-cupcakes

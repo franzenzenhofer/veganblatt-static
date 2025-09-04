@@ -1,0 +1,23 @@
+---
+title: "Wegwerf-Produkte ade! 10 langlebige Alternativen für’s Bad."
+date: "2015-07-22 15:46:36"
+modified: "2016-03-16 17:20:19"
+slug: "10-mehrweg-alternativen-fuers-bad"
+excerpt: "Wegwerf-Produkte im Bad machen nicht nur viel Müll, sondern kosten auch viel. Wir haben 10 Mehrweg-Alternativen  für euer Badezimmer!"
+featuredImage: "bathtub-1078929_1280.jpg"
+---
+
+Gerade bei Körperpflege und Kosmetik werden heutzutage unzählige Wegwerf-Produkte angeboten. Damit werden Ressourcen verschwendet und unnötiger Müll produziert. Wir haben Euch eine Liste mit tollen Alternativen zusammengestellt, die sich einen Dauer-Stammplatz in Eurem Badezimmer wirklich verdienen.
+
+1.  Weg mit Plastik-Einweg-Rasierern! Gönn’ Dir einen hochwertigen [Rasierer aus Metall](http://www.tonsus.com/rasur/rasierer/rasierhobel-traditional-r89-grande) mit plastikfrei verpackten [Rasierklingen zum Wechseln](http://www.tonsus.com/rasur/rasierklingen/superior-platinum).
+2.  Herkömmliche Tampons bergen nicht nur die Gefahr des Toxic-Shock-Syndroms, sondern verursachen auch ein großes Müllproblem. Probiere stattdessen eine [Menstruationskappe](http://www.erdbeerwoche.com/meineprodukte/menstruationskappen.html). Das schont nicht nur Deine Geldbörse, sondern auch die Umwelt, denn die Kappen kann man bis zu 10 Jahre wiederverwenden!
+3.  Einweg-Wattepads oder –Bäusche kommen nicht nur in einer Plastikverpackung daher, sondern sind meist aus pestizid-belasteter, konventioneller Baumwolle. Diese [waschbaren Reinigungspads](http://www.pureskinfood.de/collections/beauty-accessoires/products/waschbare-reinigungspads-aus-bio-baumwolle) sind dagegen nicht nur aus Bio-Baumwolle, sondern auch noch in einer sozialen Werkstätte fair hergestellt.
+4.  Bei [Zahnbürsten mit Wechselkopf](http://www.beechange.com/wohnen/172-wechselkopf-zahnbuersten-snap-fuer-erwachsene-doppelpack.html) spart man bis zu 93% des Mülls ein! In diesem Fall sind allerdings [biologisch abbaubare Zahnbürsten](http://www.beechange.com/wohnen/190-zahnbuerste-bambus-vegan-bpafrei.html#idTab5) sogar noch umweltfreundlicher.
+5.  Statt kurzlebigen Plastik-Zungenschabern in aufwendiger Verpackung eignen sich [Zungenreiniger aus Edelstahl](http://www.ayurveda101.at/marken/maharishi-ayurveda/zungenreiniger-edelstahl?gclid=CJvEoMnm68YCFSb4wgods-8DvA), die ewig halten und problemlos gereinigt werden können.
+6.  Wattestäbchen ade! Ein [Ohrreiniger aus Edelstahl](http://www.amazon.de/gp/product/B00HUVM9W4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00HUVM9W4&linkCode=as2&tag=fotonomaden-21) erledigt den Job genauso gut.
+7.  Wegwerf-Kosmetiktücher haben ausgedient! Die nachhaltige Variante sind [wiederverwendbare, fair gehandelte Kosmetiktücher](http://www.pureskinfood.de/collections/beauty-accessoires/products/waschbare-kosmetiktucher-aus-bio-baumwolle) aus schadstoff-freier Bio-Baumwolle.
+8.  Kokosöl ist ein tolles Allround-Talent und kann als Make-up Entferner, Rasierschaum-Alternative, Haarspülung, Zahnpasta & Co. herhalten. Wie das geht, erfährst Du hier in unserem [Zero Waste Artikel](https://www.veganblatt.com/zero-waste-badezimmer).
+9.  Laß Papier-Taschentücher links liegen und nähe, stemple & häkle Deine ganz individuellen hübschen Stoff-Taschentücher – am Besten natürlich aus wiederverwerteten Stoffen! Hier findest Du Inspirationen (auf Englisch): [waste not blog](https://wastenotblog.wordpress.com/2013/08/01/the-simplest-diy-handkerchief-edition/), [purlbee](http://www.purlbee.com/2013/02/14/lauras-loop-roll-and-dash-hankies/), [paper and stitch blog](http://www.papernstitchblog.com/2012/06/13/hand-stamped-handkerchief-diy/), [craftpassion](http://craftpassion.com/2011/02/tutorial-lace-trim-handkerchief.html/2).
+10.  Einweg-Flüssigseifen und -Shampoos in Plastikbehältern kann man super durch [Seifenschalen aus Holz](http://www.beechange.com/suche?controller=search&orderby=position&orderway=desc&search_query=seifenschale&submit_search=Suche) ersetzen und auf unverpackte feste [Seifen im Stück](http://www.allesseife.at/unser-geschaeft) umsteigen.
+
+\-- Über die Autorin: Karin betreibt den Blog [**beechange.com/blog**](http://www.beechange.com/blog/), wo sie über Müllvermeidung und Nachhaltigkeit schreibt, aber auch vegane Rezepte und Buchrezensionen sind dabei. Um zu zeigen, dass es viele schöne, nachhaltige, wiederverwendbare und plastikfreie Alternativen gibt, hat sie den Shop **[beechange.com](http://www.beechange.com/)** gestartet.

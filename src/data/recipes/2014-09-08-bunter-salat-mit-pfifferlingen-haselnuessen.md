@@ -1,5 +1,5 @@
 ---
-title: Bunter veganer Salat mit Pfifferlingen title: Bunter Salat mit Pfifferlingen & Haselnüssen Haselnüssen
+title: Bunter Veganer Salat mit Pfifferlingen & Haselnüssen
 date: '2014-09-08 08:02:35'
 modified: '2014-09-08 09:32:46'
 slug: bunter-salat-mit-pfifferlingen-haselnuessen

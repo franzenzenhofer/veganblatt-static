@@ -1,0 +1,54 @@
+---
+title: "10 Anwendungen von Apfelessig!"
+date: "2017-03-16 08:06:50"
+modified: "2017-03-16 10:50:58"
+slug: "apfelessig"
+excerpt: "Apfelessig kann so viel mehr als nur Deinen Salat verfeinern! Hier sind 10 sparsame und nachhaltige Anwendungen dieses Wundermittels!"
+featuredImage: "Apfelessig.jpg"
+---
+
+Apfelessig entsteht durch einen langsamen Fermentationsprozess von Apfelwein und wird schon seit Jahrtausenden als Mittel für zahlreiche Einsätze in verschiedenen Bereichen des Lebens verwendet. Sein Wirkungspektrum reicht von konservierenden bis hin zu reinigenden und sogar heilenden Eigenschaften. Während es früher vielleicht an Alternativen mangelte, kann Apfelessig gerade heute wieder punkten. Als ein Mittel mit unzähligen Anwendungsmöglichkeiten ist seine Bilanz in Sachen Nachhaltigkeit und Sparsamkeit unschlagbar.
+
+## Anwendungen für den Körper
+
+### 1\. Apfelessig bei Halsschmerzen
+
+Bei Halsschmerzen hilft es, mehrmals täglich mit einer Lösung aus Apfelessig und warmen Wasser (im Verhältnis 1:1) zu gurgeln. Die keimabtötende und entzündungshemmende Wirkung des Essigs verschaffen Dir bald Linderung.
+
+### 2\. Apfelessig bei Hämorrhoiden
+
+Auch durch Hämorrhoiden bedingte Beschwerden können mit Apfelessig gemildert werden. Einfach die betroffene Stelle sanft mit Apfelessig benetzen. Dies mildert die Schwellung und wirkt zudem antibakteriell.
+
+### 3\. Apfelessig bei Insektenstichen
+
+Die abschwellende Wirkung von Apfelessig kannst Du Dir auch bei Insektenstichen zunutze machen. Dafür einfach die Stelle mit unverdünnten Apfelessig einreiben und bei Bedarf wiederholen.
+
+### 4\. Apfelessig bei Schuppen
+
+Bei schuppiger Kopfhaut hilft es ebenfalls, eine Mischung aus Wasser und Apfelessig (wiederum im Verhältnis 1:1) zu verwenden. Sehr gut funktioniert es, wenn Du das Gemisch in eine Sprühflasche füllst, um Deine Kopfhaut optimal befeuchten zu können. Danach ca. 15 Minuten einwirken lassen und wie gewohnt die Haare waschen.
+
+### 5\. Apfelessig als Haarspülung
+
+Doch nicht nur bei Schuppen kann Apfelessig wahre Wunder bewirken. Auch als Haarspülung hat die oben beschriebene Formel (Apfelessig plus Wasser) einiges zu bieten! Das Verhältnis kannst Du dabei zugunsten des Wassers ein wenig verändern, das Prinzip bleibt jedoch dasselbe. Nach dem Waschen die Haare mit der selbstgemachten Mischung übergießen und danach nicht ausspülen.
+
+### 6\. Apfelessig bei Schnupfen
+
+Wenn Dich ein Schnupfen plagt, kannst Du ein bis zwei Esslöffel Apfelessig in einem großen Topf mit zuvor gekochtem Wasser auflösen und den Dampf vorsichtig mehrere Minuten lang inhalieren.
+
+### 7\. Apfelessig für den Stoffwechsel
+
+Nicht zuletzt kannst Du mit Apfelessig auch Deinen Stoffwechsel ankurbeln. Wer in der Früh bereits auf nüchternen Magen ein Glas lauwarmes Wasser mit ein bis zwei Teelöffeln Apfelessig zu sich nimmt, schafft beste Voraussetzungen, um den Stoffwechsel den ganzen Tag über auf Trab zu halten und zusätzlich den natürlichen Entgiftungsprozess des Körpers zu unterstützen.
+
+## Anwendungen für den Haushalt
+
+### 8\. Apfelessig als Allzweckreiniger
+
+Die desinfizierende und reinigende Wirkung von Apfelessig lässt sich auch im Haushalt optimal nutzen! So kannst Du Apfelessig als Allzweckreiniger zum Putzen für Küche und Bad in allen Bereichen verwenden.
+
+### 9\. Apfelessig für die Wäsche
+
+Besprühe hartnäckige Flecken mit einer Lösung aus Apfelessig, die Du über Nacht einwirken lässt. Wenn Du danach die Kleidung wie gewohnt wäschst, lösen sich die Flecken viel leichter auf!
+
+### 10\. Apfelessig als Entkalker
+
+Die wohl bekannteste Anwendung von Apfelessig hat mit seinen entkalkenden Eigenschaften zu tun. Ob Duschköpfe, Armaturen oder Wasserkocher – alles lässt sich mithilfe von Apfelessig optimal entkalken. Meist genügt es, die betroffenen Gegenstände über Nacht in eine Lösung aus Apfelessig einzulegen und danach gut auszuwaschen. Die Sachen glänzen danach wie neu! Quellen: [http://www.rd.com/health/wellness/apple-cider-vinegar-benefits/](http://www.rd.com/health/wellness/apple-cider-vinegar-benefits/) [http://hausmittel.co/apfelessig/](http://hausmittel.co/apfelessig/) [http://articles.mercola.com/apple-cider-vinegar-benefits-uses.aspx](http://articles.mercola.com/apple-cider-vinegar-benefits-uses.aspx) -kw

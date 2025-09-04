@@ -1,5 +1,5 @@
 ---
-title: Vegane Rotkraut-Suppe mit Preiselbeeren title: Rotkraut-Suppe mit Preiselbeeren & Maroni Maroni
+title: Vegane Rotkraut-Suppe mit Preiselbeeren & Maroni
 date: '2014-12-17 13:26:45'
 modified: '2015-11-05 17:43:06'
 slug: rotkraut-suppe-mit-preiselbeeren-maroni

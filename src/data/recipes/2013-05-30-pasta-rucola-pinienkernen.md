@@ -1,5 +1,5 @@
 ---
-title: "Vegane Die leckerste title: "Die leckerste & schnellste Pasta mit Rucola und Pinienkernen" schnellste Pasta mit Rucola und Pinienkernen"
+title: "Die leckerste & schnellste Pasta mit Rucola und Pinienkernen"
 date: "2013-05-30 20:46:05"
 modified: "2017-01-26 20:00:41"
 slug: "pasta-rucola-pinienkernen"

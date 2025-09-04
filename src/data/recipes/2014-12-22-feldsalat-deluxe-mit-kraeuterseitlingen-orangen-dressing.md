@@ -1,5 +1,5 @@
 ---
-title: "Vegane Feldsalat Deluxe mit Kräuterseitlingen title: "Feldsalat Deluxe mit Kräuterseitlingen & Orangen-Dressing" Orangen-Dressing"
+title: "Veganer Feldsalat Deluxe mit Kräuterseitlingen & Orangen-Dressing"
 date: "2014-12-22 14:16:06"
 modified: "2015-04-28 08:35:06"
 slug: "feldsalat-deluxe-mit-kraeuterseitlingen-orangen-dressing"

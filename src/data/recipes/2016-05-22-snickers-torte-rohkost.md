@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Snickers-Torte: roh title: 'Snickers-Torte: roh & wahnsinnig lecker' wahnsinnig lecker'
+title: 'Vegane Snickers-Torte: roh & wahnsinnig lecker'
 date: '2016-05-22 07:11:34'
 modified: '2019-01-25 10:08:08'
 slug: snickers-torte-rohkost

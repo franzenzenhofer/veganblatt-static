@@ -1,0 +1,10 @@
+---
+title: "Kritischer Konsum und Veganismus"
+date: "2013-06-23 08:30:28"
+modified: "2016-02-12 12:54:04"
+slug: "kritischer-konsum"
+excerpt: "Können vegane Produkte wirklich als gänzlich vegan betrachtet werden, wenn ihre Hersteller auch im großen Stil an Tierausbeutung beteiligt sind? "
+featuredImage: "grocery-936058_1280.jpg"
+---
+
+Im Grunde ist die vegane Philosophie einigermaßen kompromisslos: Man lehnt ab, an tierischem Leid und Ausbeutung von Tieren teilzuhaben. In unmittelbarer Konsequenz bedeutet das natürlich, dass man keine Produkte konsumiert oder kauft, die für solche Misshandlungen mitverantwortlich sind. Macht man sich jedoch genauere Gedanken darüber, verschwimmen hier einige Grenzen sehr schnell, und man ist in vielen Fällen zu gewissen Kompromissen gezwungen. Häufig lehnen VeganerInnen, die sich als kritische KonsumentInnen sehen, Produkte bestimmter Firmen ab, obwohl die Produkte an sich vegan sind, weil die jeweiligen Firmen durch andere Produkte der veganen Philosophie zuwiderhandeln. Das entspricht natürlich durchaus der Idee, lässt sich aber (in den allermeisten Fällen) nicht bis zur letzten Konsequenz verfolgen. Ansonsten dürften strenge VeganerInnen nicht mehr in konventionellen Supermärkten einkaufen. Außerdem: Auch zur Erzeugung pflanzlicher Lebensmittel - insbesondere der Pflanzen selbst - werden Tierprodukte (zB. Dung) eingesetzt. Spätestens wenn es um Medikamente geht verliert die Kompromisslosigkeit an Boden - in vielen Bereichen gibt es schlicht keine veganen Medikamente (oder auch nur hinreichende Informationen darüber), von veganen Pharmafirmen ganz zu schweigen. So traurig das auch sein mag: Ein absolut veganes Leben ist somit in unserer Gesellschaft derzeit eher nur theoretisch möglich - was natürlich nicht bedeutet, dass man nicht nach bestem Wissen und Gewissen und im Rahmen der durchaus vorhandenen Möglichkeiten all seine Macht als KonsumentIn bewusst nutzen und die ethisch hochwertigsten Produkte aussuchen kann. -Ag

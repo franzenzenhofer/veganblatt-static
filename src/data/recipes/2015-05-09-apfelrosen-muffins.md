@@ -1,5 +1,5 @@
 ---
-title: 'uvegane Apfelrosen-Muffins: einfach title: 'Apfelrosen-Muffins: einfach & so hübsch' so hübsch'
+title: 'Vegane Apfelrosen-Muffins: einfach & so hübsch'
 date: '2015-05-09 09:03:06'
 modified: '2017-12-14 17:17:03'
 slug: apfelrosen-muffins

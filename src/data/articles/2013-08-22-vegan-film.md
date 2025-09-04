@@ -1,0 +1,10 @@
+---
+title: "Veganismus in Film und Fernsehen"
+date: "2013-08-22 08:30:50"
+modified: "2016-01-12 09:57:52"
+slug: "vegan-film"
+excerpt: "In den letzten Jahren boomt Veganismus regelrecht. Doch bereits vor diesem Trend war das Thema auch in den Unterhaltungsmedien durchaus vertreten - wenn auch oft unbemerkt."
+featuredImage: "vegan-film.jpg"
+---
+
+Seit Veganismus ein gesellschaftlich relevantes Thema ist - in den USA ist das seit über zehn Jahren der Fall, im deutschen Sprachraum erst seit einigen wenigen Jahren - wird es naturgemäß auch in Filmen und Fernsehserien erwähnt. Die Art der Porträtierung ist dabei sehr unterschiedlich. In vergleichsweise jüngeren Produktionen, wie der zB. Erfolgsserie ["How I Met Your Mother"](http://www.imdb.com/title/tt0460649/) (2011 & 2012) oder der Comicverfilmung ["Scott Pilgrim gegen den Rest der Welt"](http://www.imdb.com/title/tt0446029/?ref_=fn_al_tt_1) (2010) wird Veganismus eher als exotisch-exzentrische Charaktereigenschaft dargestellt - in letzterem Beispiel sogar mit einer deutlich mystischen Unternote. Im krassen Gegensatz dazu wird Vegetarismus meist als etwas sehr normales dargestellt und dient oft als Stilmittel zur zusätzlichen femininisierung weiblicher Charaktere. Erstaunlich ist, dass in verschiedenen Utopiefiktionen Veganismus - obwohl nie explizit erwähnt - ebenfalls eine subtil-fundamentale Rolle spielt, und zwar bereits seit Ende der 80er Jahre. In [Star Trek - Das nächste Jahrhundert](http://www.imdb.com/title/tt0092455/?ref_=fn_al_tt_4) etwa werden Nahrung, Kleidung, und anderes nur noch "repliziert", d.h. künstlich hergestellt, während die hier dargestellten Zukunftsmenschen mit Ekel reagieren, als ihnen von "primitiven" Außerirdischen Tierfleisch angeboten wird. Somit wird hier Veganismus implizit bereits früh als moralisches Ideal dargestellt. -Ag

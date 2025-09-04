@@ -1,0 +1,10 @@
+---
+title: "Vegan in Prag: Einkaufen"
+date: "2014-05-27 07:16:17"
+modified: "2016-02-10 13:17:44"
+slug: "vegan-prag-einkaufen"
+excerpt: "Dass es sich in Prag lecker vegan dinieren lässt, wisst Ihr ja bereits. Was aber, wenn man sich unterwegs nur einen kleinen Snack gönnen und anschließend gleich weiter durch die wunderschönen Gässchen schlendern möchte? Auch das ist in Prag überhaupt kein Problem!"
+featuredImage: "prague-1002963_1280.jpg"
+---
+
+Die [**Drogeriekette DM**](http://www.dm-drogeriemarkt.cz/cz_homepage/) erweist sich mit ihren **Alnatura Produkten** als sicherer Hafen für hungrige Suchende, aber auch die vielen kleineren **Bauern**\-, **Asia-** bzw. **Spezialitätenläden** warten mit unerwarteten Schmankerl auf: Die rohveganen Produkte der Firma **Lifefood** (Riegel, Knabbereien, Rohkostbrot, Rohkostkekse etc.) sind in vielen Geschäften erhältlich und wesentlich günstiger als hier in Österreich. Außerdem legen unsere Nachbarn großen Wert auf Getreide in allen Formen, weswegen man allerorts **frisch gebackene Brotwaren** ergattern kann. \[randomlinks /\] Selbst im Supermarkt wurden wir fündig und so konnten neben Sojamilch und -pudding auch Tempeh, Tofu und verschiedenste pflanzliche Dips erstanden werden. Zudem warten diverse **Smoothie- und Saftbars**, die es in ein paar der größeren Einkaufsstraßen (in der Innenstadt und rund ums Museum) und U-Bahnstationen (z.B. Mustek oder Dejvická_)_ gibt, mit einem umfassenden Angebot an frisch gepressten bzw. gemixten Säften und Smoothies auf und sorgen so für den nötigen Frischekick zwischendurch. _Die Reformhauskette **[Country Life](http://www.countrylife.cz/)**, in deren Geschäften man sich auch gleich an einem einladenden, großteils veganen Buffet bedienen kann, hatte leider bei unserem Besuch wegen Inventur geschlossen, ist jedoch sicherlich auch eine gute Wahl, wenn sich unterwegs der kleine Hunger meldet._ -JK

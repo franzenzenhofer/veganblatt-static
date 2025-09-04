@@ -1,0 +1,10 @@
+---
+title: "Veganversand – wenn die Supermarktauswahl nicht ausreicht"
+date: "2013-05-14 07:15:03"
+modified: "2019-07-29 13:37:00"
+slug: "vegan-versand"
+excerpt: "Zum Glück gibt es inzwischen so einige rein vegane Geschäfte. Die meisten davon sind sogar für jedermann und -frau ganz einfach zu erreichen: nämlich online!"
+featuredImage: "vegan-onlineshop.jpg"
+---
+
+Normalerweise reicht mir ja das, was ich im Supermarkt so finde: ein paar Nudeln, Quinoa und anderes Getreide, Linsen und andere Hülsenfrüchte, Obst, Gemüse, Nüsse, der ein oder andere Hummus und ab und zu mal Tofu. Aber manchmal – da ist das einfach nicht genug. Manchmal – da will ich wieder diese Kindheitserinnerungen an Omas Küche haben. Das Schnitzerl erinnert mich einfach an sie, und ich gebs zu – es war ja nicht [grauslich](http://www.ostarrichi.org/wort-2479-at-grauslich.html "grauslich"), es hat mir ja geschmeckt, wenn  nicht mit der Zeit dieser moralische Ekel dazu gekommen wäre. Die Rettung naht: Auch, wenn man abgelegen wohnt, kann man sich Fleisch- und Käsealternativen besorgen, die einem sofort in eine Zeit zurückversetzen, in der man selig auf die Kas’spätzle von der Großmama gewartet hat. Und zwar im Internet: Am besten, du probierst selbst aus, welcher Veganversand dir am meisten zuspricht. Hier einige bekannte Möglichkeiten: [veganversand-lebensweise.at](https://www.veganversand-lebensweise.at/neu/ "veganversand-lebensweise.at"), [bioveganversand](http://www.bioveganversand.at/ "bioveganversand.at") Als kleines Extra soll hier noch die Möglichkeit einer frei Haus gelieferten Biokiste erwähnt werden: Damit werden Obst und/oder Gemüse nach Wunsch bis zu einmal pro Woche vor die Haustür geliefert. Eine Auflistung der Bio-Kisten Lieferanten für Wien findet ihr übrigens bei der [Umweltberatung](https://www.umweltberatung.at/biokistl-anbieterinnen-aus-oesterreich). Und das meist erfolglose Suchen nach „echtem bio“ in Supermärkten hat endlich ein Ende! pSH

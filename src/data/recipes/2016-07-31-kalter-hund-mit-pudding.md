@@ -1,5 +1,5 @@
 ---
-title: Kalter vegane Hund mit Pudding title: Kalter Hund mit Pudding & Himbeeren Himbeeren
+title: Veganer Kalter Hund mit Pudding & Himbeeren
 date: '2016-07-31 07:07:18'
 modified: '2016-08-08 20:19:30'
 slug: kalter-hund-mit-pudding

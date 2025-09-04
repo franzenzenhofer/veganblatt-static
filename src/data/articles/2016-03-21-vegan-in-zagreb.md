@@ -1,0 +1,22 @@
+---
+title: "Vegan in Zagreb"
+date: "2016-03-21 09:27:08"
+modified: "2016-03-21 10:21:18"
+slug: "vegan-in-zagreb"
+excerpt: "Die kroatische Hauptstadt ist nicht nur wegen ihrer Kunst und Kultur einen Besuch wert, auch das vegane Angebot kann sich sehen lassen und lädt zum Kosten und Genießen ein.\n"
+featuredImage: "Zagreb-collage.jpg"
+---
+
+Bei kroatischem Essen fallen einem vermutlich erstmal Cevapcici, gegrilltes Fleisch und Fisch ein. Und es stimmt: Kroatien isst gerne und viel tierische Produkte und in manchen Dörfern hält sich bis heute die Angst vor einer tödlichen vegetarischen Ernährung. Im Gegensatz dazu ist die Hauptstadt schon ganz in unserer Zeit angekommen und bietet überraschend viele köstliche vegane Essensgelegenheiten.
+
+## Vegane Restaurants
+
+**[Zrno Bio Bistro](http://www.zrnobiobistro.hr/zrno-bio-bistro-eng.html)** ist das erste gänzlich vegane Bio-Restaurant in Zagreb. Es setzt den Fokus auf gesundes, frisches und regionales Essen, weshalb es die meisten seiner Produkte von einem Bio-Bauernhof in der Nähe der Stadt bezieht. Mit seinem Standort in der Meduliceva 20 befindet es sich angenehm in der Innenstadt und lädt mit seiner Saft- und Smoothiebar auch zu einem Besuch zwischen den Mahlzeiten ein. Das Restaurant **[Nishta](http://www.nishtarestaurant.com/zagreb/en/)** (auf Kroatisch „nichts“), in der Masarykova 11/1 im Zentrum Zagrebs, ist mit seinem gesunden Menüangebot und seiner großen Salatbar schon zum Fixpunkt für einige Reisende geworden. Neben indisch angehauchten Gerichten, bietet das Nishta auch roh-vegane, italienische und asiatisch-inspirierte Speisen, welche definitiv eine Kostprobe wert sind. Speziell für Rohveganer empfiehlt sich das Restaurant **[Sumski Kuhar](http://www.sumskikuhar.com/)**, welches eine separate roh-vegane Speisekarte anbietet und besonders mit seinen roh veganen Desserts punktet. Knapp abseits der Hauptstraße, in der Tkalčićeva 7, lädt der „Waldkoch“ mit seinem netten Ambiente zum Verweilen ein. Wer gutes Essen mit schönem Residieren verbinden möchte wird im **[Arcotel](https://www.veganblatt.com/veganes-angebot-arcotel)** glücklich. Das Hotel eigene Restaurant bietet eine separate vegane Speisekarte und beim Frühstück erleichtert das vegane Logo den Essensgenuss. Weitere Restaurants findet Ihr auf [Happycow](http://www.happycow.net/europe/croatia/zagreb/), denn das Angebot wächst und erweitert sich stätig. Für alle die lieber in urigen kroatischen Gaststätten essen möchten empfehlen wir nur: erklärt ganz genau was die vegane Ernährung ausschließt, denn obwohl die kroatische Küche im Süden Olivenöl vorzieht, wird im Norden oft und gerne Schweineschmalz für die unwahrscheinlichsten Gerichte eingesetzt und manchmal wird nicht verstanden was an einer Rinderbrühe nicht vegetarisch sein soll. Abgesehen davon, in vielen Gebieten gelten Huhn und Fisch als vegetarisch, darum fragt lieber doppelt.
+
+## Street Food
+
+Bäckereien gibt es in Zagreb wie Sand am Meer, inzwischen oft mit veganen Kennzeichnungen, aber auch Straßenstände mit gegrilltem Mais finden sich oft und sind eine gesunde Alternative zum schweren Gebäck. Köstliches veganes Fast Food und Take Away findet Ihr bei **[Vege Fino Fast Food](https://www.facebook.com/VegeFinoFastFood/timeline)** in der Lavoslava Ružičke 48 oder falls euch mehr nach frischen Säften und Smoothies zumute ist findet ihr in der **[Juice&Juice Bar](http://www.juiceandjuice.com.hr/english/)** in der Masarykova 26 sicher euren neuen Lieblingsdrink.
+
+## Vegan Einkaufen
+
+Für frisches Obst und Gemüse Liebhaber ist der Dolac-Bauernmarkt in der Innenstadt ein Muss! Gleich hinter dem Trg J. Jelacica ist er täglich geöffnet und falls Ihr ihn nicht gleich finden könnt folgt einfach einem Großmütterchen mit Einkaufswagen - sie wird euch garantiert zum Ziel führen. Da dort viele Kleinbauern verkaufen könnt Ihr von Quittengelee, über selbst eingelegte Oliven, bis zu handgepflückten Feigen alles finden was das Schlemmerherz begehrt und um den Platz herum finden sich viele heimische Bäckereien, welche frisches Brot und Gebäck anbieten - oft mit veganer Kennzeichnung. Hygieneartikel und andere heimische Artikel könnt Ihr wie gewohnt im DM kaufen, welcher in Zagreb ähnlich häufig anzufinden ist wie bei uns. Auch gibt es inzwischen immer mehr Bioläden und Reformhäuser, denn mit der Nachfrage wächst der Markt - darum haltet die Augen offen und verzagt nicht. Auch das traditionelle Kroatien wird immer Vegan-freundlicher!

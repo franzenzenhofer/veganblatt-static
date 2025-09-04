@@ -1,5 +1,5 @@
 ---
-title: Vegane No-Meat-Balls mit heller Sauce title: No-Meat-Balls mit heller Sauce & Preiselbeeren Preiselbeeren
+title: Vegane No-Meat-Balls mit heller Sauce & Preiselbeeren
 date: '2015-06-10 21:36:24'
 modified: '2015-06-12 09:42:03'
 slug: no-meat-balls-sauce-preiselbeeren

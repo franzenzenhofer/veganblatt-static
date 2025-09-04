@@ -1,0 +1,20 @@
+---
+title: "Vegan international: Mit 115 veganen Rezepten um die Welt"
+date: "2014-11-06 12:36:32"
+modified: "2014-11-12 17:11:26"
+slug: "vegan-international-mit-115-veganen-rezepten-um-die-welt"
+excerpt: "Gabriele Lendle nimmt uns in ihrem wunderschönen Kochbuch mit auf eine kulinarische Reise um die Welt. Wer kommt mit? 3 Exemplare gibt es für Euch zu gewinnen!"
+featuredImage: "vegan-international-1.jpg"
+---
+
+## Es gilt die vegane Welt zu entdecken!
+
+Gabriele Lendle hat von ihren Reisen Rezepte als Souvenir mit nach Hause gebracht, die sie hier in dem tollen Kochbuch [**Vegan international**](https://www.thieme.de/shop/Vegetarisch--Vegan/Lendle-Vegan-international-9783830469988/p/000000000283040101?categoryCode=100502) zusammengefasst zum Besten gibt. Die vegane Weltreise steckt voller Abwechslungsreichtum. Die bunten Rezepte sind beeindruckend. Kurz durchgeblättert und schon kommen die eigenen Urlaubserinnerung hoch. Der Duft und die Aromen der Gerichte werden wieder lebendig. Aber Achtung: viele der landestypischen Gerichte bekommt man nämlich in vielen der fleischlastigen Herkunftsländern gar nicht so leicht in veganer Form. Die Autorin hat sie geschickt für uns veganisiert! Einige Länder wurden stärker in den Fokus genommen so wie zum Beispiel die geniale Küche Indiens oder Italiens, die besonders vielfältig ausfallen. Nach Italien folgt der Alpenraum mit Schweizer und Österreichischen Spezialitäten so wie Zürcher Geschnetzeltem auf Kartoffel-Rösti und Zwetschgenknödel. Weiter geht´s zum Mittelmeerraum, wo von Portugal bis Griechenland und zur Türkei viele mediterrane Inspirationen dargeboten werden. Afrika ist die nächste Destination, wo die Palette von Eintöpfe bis zu südafrikanischen Desserts reicht. Dann geht´s orientalisch weiter mit Gaumenfreuden des vorderen Orients, die bunt und würzig ausfallen. Next Stop: Asien, wo Geschmäcker wie süß-sauer oder fruchtig-scharf aufeinandertreffen. Nach einem Zwischenstop in Indien steht Amerika am Reiseplan und zwar einmal quer durch: von us-amerikanischen Gerichten, mexikanischen Klassikern weiter nach Südamerika. In der Karibik endet die Reise mit exotischen Speisen. Entweder habt Ihr da jetzt schon Euren Koffer in der Hand oder Ihr steht kochlöffelschwingend in der Küche. Wer auf der Suche nach Abwechslung ist, sollte sich dieses Buch unbedingt zulegen. Natürlich sollte man Neuem gegenüber aufgeschlossen sein. Aber auch wenn nicht, überwindet [**Vegan international**](https://www.thieme.de/shop/Vegetarisch--Vegan/Lendle-Vegan-international-9783830469988/p/000000000283040101?categoryCode=100502) mit den schönen Rezeptbildern diese Hürde, denn wer kann da schon widerstehen? Außerdem eignet sich das Buch ganz optimal als Geschenk für VeganerInnen, die gerne reisen, denn wie schon erwähnt, kommt man als Pflanzenesser nicht immer in den Genuss der landestypischen Küche.
+
+## Gewinnen!
+
+Wer hat Lust bekommen, sich vegan um die Welt zu kochen? 3 Exemplare von [**Vegan international**](https://www.thieme.de/shop/Vegetarisch--Vegan/Lendle-Vegan-international-9783830469988/p/000000000283040101?categoryCode=100502), erschienen im [**Trias Verlag**](https://www.thieme.de/shop/Vegetarisch--Vegan/Lendle-Vegan-international-9783830469988/p/000000000283040101?categoryCode=100502), haben wir für Euch! Um mitzumachen, beantworte uns bitte folgende Frage als Kommentar:
+
+### Welches Land würde als erstes auf Deiner kulinarischen Reiseroute um die Welt stehen?
+
+Facebook Shares bringen wie immer Bonuspunkte ;) Teilnahmeschluss: 18.11.2014

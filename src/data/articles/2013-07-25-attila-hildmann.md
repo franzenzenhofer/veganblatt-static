@@ -1,0 +1,10 @@
+---
+title: "Attila Hildmann - Der Popstar unter den veganen KöchInnen"
+date: "2013-07-25 08:30:35"
+modified: "2016-01-12 09:55:39"
+slug: "attila-hildmann"
+excerpt: "Er ist einer der wesentlichsten Pioniere der veganen Kochkunst im deutschsprachigen Raum - aber warum eigentlich? Was hebt ihn von der mittlerweile großen Masse an anderen veganen KöchInnen und KochbuchautorInnen ab?"
+featuredImage: "attilahildmann.jpg"
+---
+
+[Attila Hildmann](http://www.attilahildmann.com/) studiert eigentlich Physik, hat aber nebenbei das Hobby-Kochen zum Beruf gemacht. Als Veganer aus gesundheitlicher Überzeugung, begann er vor einigen Jahren Kochbücher zu schreiben - schlichtweg, weil es damals daran mangelte. Während heute vegane Kochbücher wie Pilze aus dem Boden sprießen, bleiben Attilas Werke dennoch das Maß der Dinge: Sie sind gleichermaßen einfach, vielseitig, inspirierend und - nicht zuletzt - wirklich appetitanregend. Neben "bloßen" Kochbüchern zeigt er aber auch, wie stark vegane Ernährung tatsächlich mit Gesundheit und Wohlbefinden zu tun hat. In Büchern wie "[Vegan for Fit](http://www.attilahildmann.com/kochbuecher)", das sogar kurzzeitig das meistverkaufte Buch auf [Amazon](http://amazon.de) war, oder dem im November erscheinenden "[Vegan Forever Young](http://www.attilahildmann.com/kochbuecher)" wird lebhaft dargestellt, wie binnen nur weniger Wochen gesünderer Ernährung deutlich fühl- und messbare Verbesserungen von Gewicht, Blutwerten und anderen wichtigen Faktoren für Lebensqualität und -erwartung erreicht werden können. Wer weniger an diesem gesundheitlichen Schwerpunkt interessiert ist, ist wohl mit "[Vegan for Fun](http://www.attilahildmann.com/kochbuecher)" oder der Serie "[Vegan Kochbuch](http://www.attilahildmann.com/kochbuecher)" besser beraten, wo man neben köstlichen Rezepten auch noch einige ergänzende Hinweise für vegane HobbyköchInnen findet. -Ag

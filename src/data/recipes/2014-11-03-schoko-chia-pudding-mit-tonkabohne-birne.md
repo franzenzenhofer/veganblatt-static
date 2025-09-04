@@ -1,5 +1,5 @@
 ---
-title: "Vegane Schoko-Chiapudding mit Tonkabohne title: "Schoko-Chiapudding mit Tonkabohne & Birne" Birne"
+title: "Veganer Schoko-Chiapudding mit Tonkabohne & Birne"
 date: "2014-11-03 12:39:34"
 modified: "2016-05-31 17:05:45"
 slug: "schoko-chia-pudding-mit-tonkabohne-birne"

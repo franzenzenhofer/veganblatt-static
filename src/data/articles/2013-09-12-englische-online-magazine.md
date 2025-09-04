@@ -1,0 +1,14 @@
+---
+title: "Top 5 der englischen veganen Online-Magazine"
+date: "2013-09-12 08:30:48"
+modified: "2016-01-12 10:05:44"
+slug: "englische-online-magazine"
+excerpt: "Durch die endlosen Weiten des Worldwidewebs surfen und sich vegane Inspiration, Information und manchmal auch ein bisschen Motivation holen - wer tut das nicht gerne? Was Euch an englischsprachigen Magazinen, Websites und Blogs auf keinen Fall entgehen sollte, gibts hier:"
+featuredImage: "englische-online-magazine.jpg"
+---
+
+[**VegNews**](http://vegnews.com/) Essen - Menschen - Städte - und natürlich News und mehr gibts auf VegNews zu finden, dem wohl bekanntesten veganen Online-Magazin aus den USA. Nur schade, dass die Print-Ausgabe hier nicht erhältlich ist. **[Yummy Plants](http://yummyplants.com/)** Ähnlich umfangreich präsentiert sich das Magazin Yummy Plants. Im Gegensatz zu VegNews liegt hier der Fokus mehr auf Gesundheitstipps, die von ÄrztInnen kommen. Appetitanregende Rezepte, die nach glutenfreien oder Rohkost-Kriterien gefiltert werden können, Interviews und ein toller [Einstiegsguide](http://yummyplants.com/start-here/) in die vegane Ernährungswelt machen dieses Portal außerdem interessant. [**One green Planet**](http://www.onegreenplanet.org/) Ökologische Verantwortung und Nachhaltigkeit liefern bei One green Planet auch die Basis für eine pflanzliche Ernährung - sehr spannend zu lesen für alle Tier- und NaturliebhaberInnen, die sich auch um ihre Umwelt Gedanken machen! [**The Kind Life**](http://thekindlife.com/) _Peaceful eating_ nennt Alicia Silverstone ihren veganen Ernährungsansatz mit makrobiotischem Touch, den sie anderen nun nicht nur in ihrem Buch "The Kind Diet" näher bringt, sondern auch über das Online Portal The Kind Life zugänglich macht. Viele Artikel sind aus Alicias Leben gegriffen und so findet sich speziell für junge Mütter eine Menge interessantes. [**Healthy Bitch Daily**](http://www.healthybitchdaily.com/) Wer den no-nonsense Humor und Unterhaltunswert des Buches "Skinny Bitch" von den Autorinnen Rory Freedman und Kim Barnouin liebt, wird von den zusätzlichen Tipps und Rezepten auf dem _bitchigen_ Magazin begeistert sein.
+
+### Speziell für das Familienleben
+
+**[VegFamily](http://www.vegfamily.com/)** Das Magazin motiviert zu einem veganen Familienleben und hilft mit Ratschlägen rund um die vegane Kinderernährung unterteilt nach Altersstufen. Auch die Impfproblematik wird hier diskutiert und näher aus veganer Sicht beleuchtet. Außerdem stehen 5 Ernährungsberaterinnen für Fragen zur Verfügung. [**Made of Stars**](http://madeofstars1.com/) Der Blog einer Mutter von vier kleinen VeganerInnen zeigt auf erfrischend unkonventionell Weise, mit welchen Ernährungsfragen man als Mutter von seinen Sprösslingen konfrontiert wird und liefert kindererprobte vegane Rezepte. Happy reading!

@@ -1,0 +1,10 @@
+---
+title: "Muso Koroni: Vegan.Fair.Organic Shopping"
+date: "2013-07-18 08:30:58"
+modified: "2013-11-26 13:20:33"
+slug: "muso-koroni"
+excerpt: "Hier muss Mode nicht nur vegan, sondern auch bio und fairtrade sein - im Idealfall ist sie sogar recycelt. Darüber hinaus gibt es auch Kosmetik, Bücher und viele andere vegane Accessoires. Verkauft wird online und analog im Geschäft in Wien."
+featuredImage: "musokoroni.jpg"
+---
+
+Vor Jahren wurde [Muso Koroni](http://muso-koroni.com/), benannt nach einer westafrikanischen Göttin, als Onlineshop gegründet, um vegane öko-faire Mode für jeden zugänglich zu machen. Als Pionierin stand sie lange für bis dato ungekannte Qualität. Heute, in einer Zeit in der - Bioboom und Veganismustrends sei Dank - ethisch hochwertige Mode verhältnismäßig leicht zu bekommen ist, bleibt Muso Koroni auch mit dem Wiener Geschäftslokal in der Josefstädterstraße 33 doch etwas besonderes. Hier ist Veganismus mehr als ein Trend: Es ist ein Lebensstil und ein Ideal. Anders als bei den meisten anderen (selbst veganen) Modegeschäften, steht der Veganismus hier an alleroberster Stelle. Das führt zwar gelegentlich unvermeidbar zu Kompromissen in anderen Bereichen (zB. umwelttechnisch etwas subobtimalen Kunststoffen wie PU in Kunstlederprodukten), führt aber zu Service im Veganismusbereich der Seinesgleichen sucht. Neben einem großen Sortiment an Kleidung und Accessoires sind hier auch Kosmetika und Bücher zu erstehen, das Ganze bei bestem Service und interessantem Gesprächsstoff nebenbei: Die aktuellsten Neuigkeiten aus der veganen Szene scheinen immer sehr schnell bei Muso Koroni Station zu machen. Natürlich hat zertifiziert-kontrollierte bio-fairtrade-Qualität ihren Preis, was wohl der zentralste Nachteil des Einkaufens hier ist. Billiger als bei vielen internationalen Designerlabels ist die Ware dennoch allemal - und von auch nur annähernd solcher Qualität kann man anderorts oft nur träumen. -Ag

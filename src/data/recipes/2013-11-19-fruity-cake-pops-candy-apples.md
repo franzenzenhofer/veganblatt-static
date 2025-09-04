@@ -1,5 +1,5 @@
 ---
-title: Fruity vegane Cake Pops title: Fruity Cake Pops & Candy Apples Candy Apples
+title: "Fruity Cake Pops title: Fruity vegane Cake Pops title: Fruity Cake Pops & Candy Apples Candy Apples Candy Apples Candy Apple"
 date: '2013-11-19 18:08:47'
 modified: '2016-04-15 20:11:30'
 slug: fruity-cake-pops-candy-apples

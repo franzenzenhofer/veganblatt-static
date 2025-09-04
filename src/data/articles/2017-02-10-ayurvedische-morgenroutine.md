@@ -1,0 +1,10 @@
+---
+title: "Ayurvedische Morgenroutine"
+date: "2017-02-10 07:32:16"
+modified: "2017-02-10 10:21:32"
+slug: "ayurvedische-morgenroutine"
+excerpt: "Ein direkt spürbares Vitalprogramm, welches Dir einen gesunden Start in den Tag ermöglicht."
+featuredImage: "Ayurveda-.jpg"
+---
+
+Dieses tägliche Morgenprogramm reinigt den Körper und stärkt den Geist. **Frühes Aufstehen** Idealerweise vor dem Sonnenaufgang aufstehen, um den Tag mit der Sonnenenergie bewusst zu begrüßen. **Warmes Zitronenwasser** Unmittelbar nach dem Aufstehen getrunken aktiviert und reinigt es den Körper. Gerne auch schon mal 2-3 Gläser. Dieses Ritual wirkt kleine Wunder und spült den Verdauungstrakt durch. **Ölziehen mit Sesamöl** Vor dem Zähneputzen nimmt man einen Esslöffel Sesamöl, behält das Öl für ca. 5-10 Minuten im Mund dann wird es ausgespuckt. Das Sesamöl stärkt die Zähne und hat außerdem eine reinigende und entzündungshemmende Wirkung. **Zungenschaben** Mit einem Zungenschaber lassen sich ganz einfach Ablagerungen, die sich über Nacht gebildet haben, wieder von der Zunge entfernt. **Öl-Massage vor oder nach dem Duschen** Variante vor dem Duschen: Am besten das Massageöl für einige Zeit auf der Haut einwirken lassen und anschließen eine angenehm heiße Dusche nehmen. Variante nach dem Duschen: Die nasse Haut mit etwas Öl einreiben und trocknen lassen. **Nasenspülung** Die Nasenspülung mit lauwarmen Salzwasser ist vor allem im Winter, bei trockener Heizungsluft und Erkältungen ideal. Anschließend die Nasenlöcher mit Sesamöl benetzen. **Yoga und Meditation** Yoga am Morgen vertreibt Kummer und Sorgen. Mache Übungen die den Körper stärken, Stabilität und Leichtigkeit geben. Yoga oder Atemübungen verleihen Dir ein gutes Körpergefühl und geben Kraft für den Tag. Schon ein paar Sonnengrüße sorgen für gute Laune.

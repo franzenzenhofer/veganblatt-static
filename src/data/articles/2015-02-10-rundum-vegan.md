@@ -1,0 +1,21 @@
+---
+title: "In 8 Schritten rundum vegan leben"
+date: "2015-02-10 08:08:47"
+modified: "2016-03-01 14:11:31"
+slug: "rundum-vegan"
+excerpt: "Hast Du den veganen Weg eingeschlagen? Das vegane Leben umfasst mehr als nur tierfreies Essen. Was gibt es noch zu beachten?"
+featuredImage: "pretty-woman-739209_1280.jpg"
+---
+
+Ein rund um veganes Leben zu führen, heißt über den Tellerrand hinweg zu blicken und nicht nur bei Nahrungsmitteln keine tierischen Produkte zu konsumieren. Leider sind tierische Produkte fast in allen Bereichen zu finden. \[randomlinks /\]Über [150 Milliarden Tiere](http://www.adaptt.org/killcounter.html) werden weltweit jährlich geschlachtet. Die vielen, billigen Nebenprodukte und Abfälle der Fleischindustrie werden überall weiterverwertet. Hat man mal begonnen sich vegan zu ernähren, so fällt einem meist auch auf, mit wieviel tierischen Produkten wir uns umgeben ohne es zuvor bemerkt zu haben. Worauf gilt es zu achten und wie kann man tierische Produkte Schritt für Schritt in allen Lebensbereichen weitgehend vermeiden?
+
+1.  **Ernährung:** Das woran die meisten Menschen bei dem Wort vegan denken ist wahrscheinlich die Ernährung. Welche Alternativen es zu Milch, Käse, Ei und Co. gibt, seht ihr auf unserer [Alternativen-Liste](https://www.veganblatt.com/vegane-alternativen). Was die vegane Ernährung alles zu bieten hat, zeigen unsere Artikel über [vegane Vielfalt](https://www.veganblatt.com/vegane-vielfalt) oder [vegane Basics](https://www.veganblatt.com/5-vegane-basics).
+2.  **[Getränke](https://www.veganblatt.com/getraenke-vegan):** Mit Wasser, naturtrüben Säfte und auch mit den meisten Limos seid Ihr auf der sicheren Seite. [Bier](https://www.veganblatt.com/bier) ist vegan, wenn es nach dem Reinheitsgebot gebraut und nicht mit tierischen Stoffen gefiltert wurde. [Wein,](https://www.veganblatt.com/veganer-wein-herstellung) [Fruchtsäfte](https://www.veganblatt.com/unvegan-saft-wein) und [Cider](https://www.veganblatt.com/cider-vegan) sind vegan, wenn nicht mit tierischem Eiweiß geklärt. Eine Übersicht findet Ihr bei [uns](https://www.veganblatt.com/getraenke-vegan), [Peta](http://www.peta2.de/web/home.cfm?p=458) und [Barnivore](http://www.barnivore.com/).
+3.  **[Kleidung](https://www.veganblatt.com/t/vegane-kleidung):** Mittlerweile gibt es eine Vielzahl [veganer Kleidungsanbieter](https://www.veganblatt.com/t/vegane-kleidung). Wer Gutes für Mensch & Umwelt tun will, kauft nicht nur tierfrei, sondern achtet ebenfalls auf [faire, nachhaltige Bedingungen](https://www.veganblatt.com/vegane-kleidung).
+4.  **[Schuhe](https://www.veganblatt.com/vegane-schuhe):** Die meisten Schuhe sind aus Leder. Es gibt jedoch auch [Alternativen](https://www.veganblatt.com/vegane-schuhe) aus Hanf, Baumwolle oder Mikrofaser und es werden inzwischen auch Kunstleder-Alternativen entwickelt, die aus natürlichen Rohstoffen hergestellt werden.
+5.  **[Taschen](https://www.veganblatt.com/vegane-taschen-accessoires):** Auch zu herkömmlichen Ledertaschen gibt es schicke [Alternativen](https://www.veganblatt.com/vegane-taschen-accessoires%20).
+6.  **[Kosmetik](https://www.veganblatt.com/t/naturkosmetik%20):** Am besten ist Kosmetik nicht nur frei von Tierprodukten, sondern ebenfalls ohne Tierversuche und [natürlich](https://www.veganblatt.com/t/naturkosmetik).
+7.  **Putzmittel:** Putzmittel sind zwar meistens vegan, aber sehr oft umweltschädlich. Da wir ganzheitlich denken und die Umwelt schonen wollen, denken wir [plastikfrei](https://www.veganblatt.com/plastikfrei-putzen) & [günstig](https://www.veganblatt.com/ecozone).
+8.  **Kerzen**: Sie können sowohl vegan, als auch aus tierischen Bestandteilen sein. Um sicher zu gehen, machen wir [Kerzen aus Soja](https://www.veganblatt.com/vegane-kerzen-selber-machen), einen Einkaufsratgeber gibt es [hier.](https://www.veganblatt.com/kerzen)
+
+Und für alle Fälle hier noch eine [App](http://wermachtwas.info/) für Produkte ohne Tierversuche. All jenen, die auf der Suche nach ökologischeren, fairen und veganen Alternativen zu konventionellen Produkten sind, können wir den [Einkaufsführer von animal-fair](https://www.veganblatt.com/animal-fair-shopping-guide) ans Herz legen. Habt Ihr noch ein paar Anregungen für alle Einstiegs-Veganer\*innen? Dann einfach jeden Tipp als Kommentar posten! – JL

@@ -1,5 +1,5 @@
 ---
-title: Reisnudeln veganes mit Romanesco title: Reisnudeln mit Romanesco & sautierten Pilzen sautierten Pilzen
+title: Vegane Reisnudeln mit Romanesco & sautierten Pilzen
 date: '2014-10-22 18:15:27'
 modified: '2014-10-22 19:26:07'
 slug: reisnudeln-mit-romanesco-sautierten-pilzen

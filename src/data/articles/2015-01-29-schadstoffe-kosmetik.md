@@ -1,0 +1,24 @@
+---
+title: "Die tägliche Dosis Gift: Schadstoffe in der Kosmetik"
+date: "2015-01-29 08:00:13"
+modified: "2016-03-08 16:21:34"
+slug: "schadstoffe-kosmetik"
+excerpt: "Immer wieder hört man von krebserregenden, allergieauslösenden, erbgutverändernden oder einfach giftigen Stoffen in der Kosmetik. Was hat es damit auf sich?"
+featuredImage: "makeup-791303_1280.jpg"
+---
+
+### Viele Menschen nehmen mehr schädliche Giftstoffe über Kosmetik als über ihre Nahrung auf!
+
+Während wir versuchen, uns gesund zu ernähren und möglichst zu Bio-Lebensmitteln greifen, entgeht uns eines: Das größte Organ unseres Körpers nimmt Kosmetik auf wie ein Schwamm. Schadstoffe in der Nahrung werden durch unsere Verdauung gefiltert, Kosmetik gelangt direkt in unseren Blutkreislauf. Und ja, leider ist die Kosmetikindustrie mit dem Einsatz von bedenklichen oder gar giftigen Stoffen nicht zimperlich.
+
+### Der Teufel liegt wie immer im Detail
+
+Wir VeganerInnen kennen das ja gut genug: erstmal hinten die Zutatenlisten durchlesen, bevor irgendetwas gekauft wird. Mit Kosmetik ist es da etwas komplizierter. In der EU sind die Hersteller zur Angabe der INCIs verpflichtet, die mit den unaussprechbaren Begriffen für Laien kaum verständlich sind. Immer wieder hört und liest man von krebserregenden, allergieauslösenden, hormonell wirksamen Stoffen, aber wie soll man da noch durchblicken? Und wie kommt es überhaupt dazu? Letzteres ist ganz einfach zu beantworten: Synthetische Stoffe sind billig, in vielen Produkten notwendig (Konservierungsmittel für die lange Haltbarkeit, Emulgatoren,...) und teilweise zeigen sie schneller Resultate, wenn auch nur temporär. Aber was passiert nun im Körper mit synthetischen Stoffen? Parabene beispielsweise, die in 80% von Pflegecremes als chemisches Konservierungsmittel eingesetzt werden und im Verdacht stehen Krebs erregend zu sein, wirken nicht nur in den Produkten antimikrobiell, sondern auch im Körper, wo es sich in den Organen ablagert. Ihre Ähnlichkeit mit dem weiblichen Sexualhormon Östrogen bringt den Hormonhaushalt durcheinander. Langzeitstudien gibt es natürlich keine. Das dass gesundheitliche Risiko nicht zu unterschätzen ist, wird durch die [Einschränkung durch die EU-Kommission](http://derstandard.at/2000006099497/Parabene-Weniger-in-die-Cremen), die 2014 beschlossen wurde, untermauert. Noch dazu werden billige Füllstoffe ohne viel Nutzen für die Haut eingesetzt, um die Menge zu steigern und Produkte billig anbieten zu können. Im besten Fall sind diese Stoffe zumindest nicht schädlich, im schlechteren Fall wie bei Mineralöl leider doch, da es uns die Poren zukleistert und die Haut am atmen hindert. Auch [Palmöl](https://www.veganblatt.com/palmoel) wird in riesigen Mengen in der Kosmetikindustrie eingesetzt. Warum? Weil es sich dabei um das billigste pflanzliche Öl handelt! Für die Haut bringt es keinen großartigen positiven Effekt, jedoch kann es viele Pestizide enthalten.
+
+### Und die Umwelt?
+
+Höchst bedenkliche Tensiden so wie PEG-Derivate, Konservierungsmittel, Mikroplastik (in vielen Zahnpastas, Peelings,...), Silikone,... - all diese Stoffe spülen wir tagtäglich den Abfluss hinunter. Die Plastikverpackungen tragen zum Wachstum der Müllberge bei und die giftigen Stoffe und das Mikroplastik akkumuliert sich in Gewässern. Durch den Verzehr von Fisch und Meeresfrüchten schließt sich dann der Kreislauf und die Giftstoffe werden in die Nahrungskette aufgenommen.
+
+### Fazit
+
+Mineralöl hat leider nichts mit hautpflegenden Mineralstoffen zu tun und auch Bio- oder Naturkosmetik-Siegel bieten keine einfache Lösung. Denn: Naturkosmetik hat leider (meist) nichts mit 100% natürlich zu tun und auch wo Bio draufsteht ist in der Regel nicht gleich 100% Bio drin. Da versucht man Hautprobleme mit Kosmetik in den Griff zu kriegen und macht es damit oft nur noch schlimmer und nimmt in vielen Fällen zusätzlich ein gesundheitliches Risiko in Kauf. Also haltet wirklich die Augen auf und lasst Euch von den Schönheitsversprechen der Werbung nicht blenden. Lange, ausführliche Listen mit den Stoffen, die es zu vermeiden gilt, findet Ihr zum Beispiel auf [Nokomis](http://www.nokomis.at/Inhaltsstoffe/Schadstoffe/schadstoff_tabelle.htm), [Inhaltsstoffe Kosmetik](http://inhaltsstoffe-kosmetik.info/liste-gefaehrliche-inhaltstoffe-kosmetik) oder hier noch "[Die schlimmsten Inhaltsstoffe in der Kosmetik](http://www.utopia.de/magazin/die-schlimmsten-inhaltsstoffe-in-kosmetik)" auf Utopia. [Hier](https://www.veganblatt.com/schadstoffe-kosmetik-vermeiden) findest Du unsere Tipps, wie Du bedenkliche Stoffe in der Kosmetik vermeidest und nebenbei kannst Du Dich hier auch mal informieren, wie man [Plastik aus dem Bad verbannt](https://www.veganblatt.com/plastikfreies-bad) und Dir schon mal ein paar [DIY Schönheitstipps](https://www.veganblatt.com/kosmetik-kueche) holen.

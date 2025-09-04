@@ -1,5 +1,5 @@
 ---
-title: "Veganes Marshmallow-Eis mit Tonkabohne title: "Marshmallow-Eis mit Tonkabohne & Himbeeren" Himbeeren"
+title: "Marshmallow-Eis mit Tonkabohne title: "Veganes Marshmallow-Eis mit Tonkabohne title: "Marshmallow-Eis mit Tonkabohne & Himbeeren" Himbeeren" Himbeeren" Himbeeren"
 date: "2015-05-09 20:11:37"
 modified: "2015-07-02 20:48:44"
 slug: "marshmallow-eis-mit-tonkabohne-himbeeren"
