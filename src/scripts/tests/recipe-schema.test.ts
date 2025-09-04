@@ -1,7 +1,6 @@
 #!/usr/bin/env tsx
 import fs from 'fs/promises';
 import path from 'path';
-import { glob } from 'glob';
 
 async function parseJsonLd(html: string): Promise<any[]> {
   const scripts = [...html.matchAll(/<script[^>]+type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)];
@@ -26,7 +25,8 @@ function isAbsolute(url?: string) {
 
 async function testRecipeSchema() {
   const publicDir = path.join(process.cwd(), 'public');
-  const files = await glob('r/*.html', { cwd: publicDir });
+  const all = await fs.readdir(path.join(publicDir, 'r'));
+  const files = all.filter(f => f.endsWith('.html')).map(f => `r/${f}`);
   if (files.length === 0) {
     console.error('No recipe pages found under public/r');
     process.exit(1);
