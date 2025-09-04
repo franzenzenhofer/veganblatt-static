@@ -17,7 +17,7 @@ Damit der Körper seine äußerste Schicht regenerieren kann, ist es nötig, das
 
 ### 1\. Omega 3 Fettsäuren als Jungbrunnen!
 
-Das hat uns Attila Hildmann in Vegan for Youth schon gelehrt, dass kaltgepresstes Leinöl viele hochwertige Omega 3 Fettsäuren enthält, die uns jung und schön halten. Es ist sozusagen eine Feuchtigkeits- und Anti-Falten-Pflege von innen. Jeden Tag einen Löffel davon über den Salat, in den Smoothie oder einfach pur und Deine Haut wird sich freuen. Auch Chia Samen und Walnüsse sind eine gute Omega 3 Quelle.
+Kaltgepresstes Leinöl enthält viele hochwertige Omega 3 Fettsäuren, die uns jung und schön halten. Es ist sozusagen eine Feuchtigkeits- und Anti-Falten-Pflege von innen. Jeden Tag einen Löffel davon über den Salat, in den Smoothie oder einfach pur und Deine Haut wird sich freuen. Auch Chia Samen und Walnüsse sind eine gute Omega 3 Quelle.
 
 ### 2\. Weniger ist mehr!
 

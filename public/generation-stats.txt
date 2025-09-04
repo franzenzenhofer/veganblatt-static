@@ -1,6 +1,6 @@
 Generation Statistics:
-- Articles: 1272
-- Recipes: 723  
+- Articles: 1267
+- Recipes: 721  
 - Images: 0
 - Broken Links: 0
-- Duration: 1.97s
+- Duration: 2.07s

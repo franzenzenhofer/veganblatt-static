@@ -15,7 +15,6 @@ if (!API_KEY) {
 }
 
 const genAI = new GoogleGenerativeAI(API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-preview-image-generation" });
 
 interface ArticleData {
   title: string;
@@ -51,6 +50,9 @@ async function generateImageForArticle(articleFile: string): Promise<boolean> {
     const { data, content: markdown } = matter(content) as { data: ArticleData; content: string };
     
     console.log(`\n📝 Processing: ${data.title}`);
+    
+    // Use the working model
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp" });
     
     // Create informative prompt
     const prompt = `Generate a photorealistic, high-quality image for this vegan lifestyle article:
@@ -136,7 +138,7 @@ async function main() {
   console.log("🚀 Generating AI Images for VeganBlatt Articles");
   console.log("=" .repeat(60));
   
-  const articles = await getArticlesWithoutImages(20);
+  const articles = await getArticlesWithoutImages(10); // Reduced batch size
   console.log(`\nFound ${articles.length} articles without images\n`);
   
   let successCount = 0;
@@ -148,10 +150,18 @@ async function main() {
       successCount++;
     } else {
       failCount++;
+      // On failure, wait longer before next attempt
+      console.log("   ⏳ Waiting 10 seconds after failure...");
+      await new Promise(resolve => setTimeout(resolve, 10000));
     }
     
-    // Delay to avoid rate limiting
-    await new Promise(resolve => setTimeout(resolve, 1500));
+    // Longer delay to respect rate limits (6 seconds between requests)
+    if (successCount > 0 && successCount % 5 === 0) {
+      console.log("\n⏳ Rate limit pause - waiting 30 seconds...\n");
+      await new Promise(resolve => setTimeout(resolve, 30000));
+    } else {
+      await new Promise(resolve => setTimeout(resolve, 6000));
+    }
   }
   
   console.log("\n" + "=" .repeat(60));
