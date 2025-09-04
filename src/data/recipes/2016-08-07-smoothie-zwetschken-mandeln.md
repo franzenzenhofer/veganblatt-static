@@ -1,5 +1,5 @@
 ---
-title: "Lila Gute Laune Smoothie mit Zwetschken title: "Veganer Lila Gute Laune Smoothie mit Zwetschken title: "Lila Gute Laune Smoothie mit Zwetschken & Mandeln" Mandeln" Mandeln" Mandeln"
+title: "Veganer lila Gute Laune Smoothie mit Zwetschken & Mandeln"
 date: "2016-08-07 10:06:38"
 modified: "2016-09-07 13:14:32"
 slug: "smoothie-zwetschken-mandeln"

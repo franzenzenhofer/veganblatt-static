@@ -1,5 +1,5 @@
 ---
-title: "'French Toast: simpel title: 'French vegane Toast: simpel title: 'French Toast: simpel & herrlich' herrlich' herrlich' herrlich'"
+title: 'Veganer French Toast: simpel & herrlich'
 date: '2014-04-10 07:42:40'
 modified: '2014-05-04 10:17:08'
 slug: french-toast

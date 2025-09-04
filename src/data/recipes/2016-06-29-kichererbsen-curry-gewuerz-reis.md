@@ -1,5 +1,5 @@
 ---
-title: "Kichererbsen Curry mit Sommergemüse title: "Veganes Kichererbsen Curry mit Sommergemüse title: "Kichererbsen Curry mit Sommergemüse & Gewürz-Reis" Gewürz-Reis" Gewürz-Reis" Gewürz-Reis"
+title: "Veganes Kichererbsen Curry mit Sommergemüse & Gewürz-Reis"
 date: "2016-06-29 09:44:01"
 modified: "2016-06-29 19:35:49"
 slug: "kichererbsen-curry-gewuerz-reis"

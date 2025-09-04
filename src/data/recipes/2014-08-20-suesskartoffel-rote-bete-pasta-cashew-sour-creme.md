@@ -1,5 +1,5 @@
 ---
-title: "Süßkartoffel- title: Vegane Süßkartoffel- title: Süßkartoffel- & rote Bete Pasta mit Cashew Sour Creme rote Bete Pasta mit Cashew Sour Creme rote Bete Pasta mit Cashew Sour Creme rote Bete Pasta mit Cashew Sour Creme"
+title: "Vegane Süßkartoffel- & rote Bete Pasta mit Cashew Sour Creme"
 date: '2014-08-20 08:11:57'
 modified: '2014-08-20 10:03:56'
 slug: suesskartoffel-rote-bete-pasta-cashew-sour-creme

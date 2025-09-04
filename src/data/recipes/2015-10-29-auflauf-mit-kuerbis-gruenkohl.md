@@ -1,5 +1,5 @@
 ---
-title: "Herbstlicher Auflauf mit Kürbis title: Herbstlicher vegane Auflauf mit Kürbis title: Herbstlicher Auflauf mit Kürbis & Grünkohl Grünkohl Grünkohl Grünkohl"
+title: "Veganer herbstlicher Auflauf mit Kürbis & Grünkohl"
 date: '2015-10-29 09:20:52'
 modified: '2015-11-02 08:14:09'
 slug: auflauf-mit-kuerbis-gruenkohl

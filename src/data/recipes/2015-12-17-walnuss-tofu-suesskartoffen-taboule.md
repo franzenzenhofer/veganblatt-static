@@ -1,5 +1,5 @@
 ---
-title: "Walnuss-Tofu title: Vegane Walnuss-Tofu title: Walnuss-Tofu & glasierte Süßkartoffen auf Granatapfel-Taboulé glasierte Süßkartoffen auf Granatapfel-Taboulé glasierte Süßkartoffen auf Granatapfel-Taboulé glasierte Süßkartoffen auf Granatapfel-Taboulé"
+title: "Veganer Walnuss-Tofu & glasierte Süßkartoffen auf Granatapfel-Taboulé"
 date: '2015-12-17 21:41:02'
 modified: '2015-12-22 12:22:44'
 slug: walnuss-tofu-suesskartoffen-taboule

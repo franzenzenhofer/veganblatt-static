@@ -1,5 +1,5 @@
 ---
-title: "'Life Changing Bread: weizen- title: 'Life vegane Changing Bread: weizen- title: 'Life Changing Bread: weizen- & glutenfrei' glutenfrei' glutenfrei' glutenfrei'"
+title: 'Veganes Life Changing Bread: weizen- & glutenfrei'
 date: '2015-05-23 11:13:45'
 modified: '2015-12-22 11:35:41'
 slug: life-changing-bread-glutenfreies-brot

@@ -1,5 +1,5 @@
 ---
-title: "Braunhirse-Salat mit Brunnenkresse title: "Braunhirse-Salat mit Brunnenkresse title: Veganer Braunhirse-Salat mit Brunnenkresse title: Braunhirse-Salat mit Brunnenkresse & Birne Birne Birne Birne" Birne Birne Birne Birne""
+title: "Veganer Braunhirse-Salat mit Brunnenkresse & Birne"
 date: '2014-09-22 12:01:10'
 modified: '2014-09-29 13:57:05'
 slug: braunhirse-salat

@@ -1,5 +1,5 @@
 ---
-title: 'Cashew vegane Käse oder saure Sahne: rawtitle: 'Cashew Käse oder saure Sahne: raw&fresh 'fresh '
+title: 'Veganer Cashew Käse oder saure Sahne: raw & fresh'
 date: '2013-10-29 13:41:00'
 modified: '2014-05-15 12:14:19'
 slug: cashew-frisch-kaese-saure-sahne

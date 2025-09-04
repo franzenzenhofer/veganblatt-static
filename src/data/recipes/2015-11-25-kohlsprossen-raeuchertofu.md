@@ -1,5 +1,5 @@
 ---
-title: "Leckere Kohlsprossen mit Linsen title: "Vegane Leckere Kohlsprossen mit Linsen title: "Leckere Kohlsprossen mit Linsen & Räuchertofu" Räuchertofu" Räuchertofu" Räuchertofu"
+title: "Vegane leckere Kohlsprossen mit Linsen & Räuchertofu"
 date: "2015-11-25 19:35:39"
 modified: "2015-11-25 20:46:16"
 slug: "kohlsprossen-raeuchertofu"

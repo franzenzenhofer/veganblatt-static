@@ -1,5 +1,5 @@
 ---
-title: "Gefüllte Fladen mit Kichererbsen title: "Gefüllte Fladen mit Kichererbsen title: Vegane Gefüllte Fladen mit Kichererbsen title: Gefüllte Fladen mit Kichererbsen & Spinat Spinat Spinat Spinat" Spinat Spinat Spinat Spinat""
+title: "Vegane gefüllte Fladen mit Kichererbsen & Spinat"
 date: '2015-05-03 13:34:57'
 modified: '2015-08-27 13:03:24'
 slug: gefuellte-fladen

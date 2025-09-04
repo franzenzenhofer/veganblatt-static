@@ -1,5 +1,5 @@
 ---
-title: "'Dattel-Mandel Kuchen, gluten- title: 'uveganer Dattel-Mandel Kuchen, gluten- title: 'Dattel-Mandel Kuchen, gluten- & zuckerfrei' zuckerfrei' zuckerfrei' zuckerfrei'"
+title: 'Veganer Dattel-Mandel Kuchen, gluten- & zuckerfrei'
 date: '2015-03-08 07:32:35'
 modified: '2015-12-22 11:34:42'
 slug: dattel-mandel-kuchen

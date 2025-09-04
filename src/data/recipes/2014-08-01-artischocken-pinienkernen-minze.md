@@ -1,5 +1,5 @@
 ---
-title: "Baby-Artischocken mit Pinienkernen title: Vegane Baby-Artischocken mit Pinienkernen title: Baby-Artischocken mit Pinienkernen & Minze Minze Minze Minze"
+title: "Vegane Baby-Artischocken mit Pinienkernen & Minze"
 date: '2014-08-01 14:17:04'
 modified: '2015-12-21 19:52:08'
 slug: artischocken-pinienkernen-minze

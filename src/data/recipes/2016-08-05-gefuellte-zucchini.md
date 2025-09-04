@@ -1,5 +1,5 @@
 ---
-title: "Gefüllte Zucchini mit Hirse title: Vegane Gefüllte Zucchini mit Hirse title: Gefüllte Zucchini mit Hirse & Pilzen Pilzen Pilzen Pilzen"
+title: "Vegane gefüllte Zucchini mit Hirse & Pilzen"
 date: '2016-08-05 08:15:51'
 modified: '2016-10-02 19:25:11'
 slug: gefuellte-zucchini

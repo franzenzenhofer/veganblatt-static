@@ -1,5 +1,5 @@
 ---
-title: "'Rejuvelac: probiotisch title: 'uvegane Rejuvelac: probiotisch title: 'Rejuvelac: probiotisch & spritzig' spritzig' spritzig' spritzig'"
+title: 'Veganes Rejuvelac: probiotisch & spritzig'
 date: '2014-05-19 13:21:46'
 modified: '2014-08-22 10:38:42'
 slug: rejuvelac
