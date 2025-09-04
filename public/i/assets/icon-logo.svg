@@ -1,30 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <!-- White background -->
+  <!-- Clean white background -->
   <rect width="64" height="64" fill="#ffffff"/>
   
-  <!-- Three leaves from the original logo, scaled and centered -->
-  <g transform="translate(32, 32) scale(1.2)">
-    <!-- Left leaf -->
-    <g transform="rotate(-30)">
-      <path fill="#76A11E" d="M 0,-15 C -6,-14 -9,-8 -9,0 C -9,8 -6,14 0,15 L 0,-15 Z"/>
-      <path fill="#3D6118" stroke="#3D6118" stroke-width="0.5" d="M 0,-14 L 0,14"/>
-      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-8 L -4,-6 M 0,-2 L -4,0 M 0,4 L -4,6"/>
+  <!-- Three overlapping leaves based on the original design -->
+  <g transform="translate(32, 36) scale(0.45)">
+    
+    <!-- Left leaf - darker green -->
+    <g transform="translate(-20, -10) rotate(-20)">
+      <path fill="#76A11E" d="M 0,-30 C -12,-28 -18,-15 -18,0 C -18,15 -12,28 0,30 C 12,28 18,15 18,0 C 18,-15 12,-28 0,-30 Z"/>
+      <!-- Leaf veins -->
+      <path fill="none" stroke="#3D6118" stroke-width="1.5" d="M 0,-28 L 0,28"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L -8,-12 M 0,-10 L -8,-2 M 0,0 L -8,8 M 0,10 L -8,18"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L 8,-12 M 0,-10 L 8,-2 M 0,0 L 8,8 M 0,10 L 8,18"/>
     </g>
     
-    <!-- Center leaf -->
-    <g>
-      <path fill="#A0B634" d="M 0,-18 C -7,-17 -10,-9 -10,0 C -10,9 -7,17 0,18 C 7,17 10,9 10,0 C 10,-9 7,-17 0,-18 Z"/>
-      <path fill="#3D6118" stroke="#3D6118" stroke-width="0.6" d="M 0,-17 L 0,17"/>
-      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-10 L -5,-7 M 0,-10 L 5,-7"/>
-      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-3 L -5,0 M 0,-3 L 5,0"/>
-      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,4 L -5,7 M 0,4 L 5,7"/>
+    <!-- Center leaf - medium green, slightly larger -->
+    <g transform="translate(0, -12)">
+      <path fill="#A0B634" d="M 0,-35 C -14,-33 -20,-18 -20,0 C -20,18 -14,33 0,35 C 14,33 20,18 20,0 C 20,-18 14,-33 0,-35 Z"/>
+      <!-- Leaf veins -->
+      <path fill="none" stroke="#3D6118" stroke-width="2" d="M 0,-33 L 0,33"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1.2" opacity="0.6" d="M 0,-25 L -10,-15 M 0,-12 L -10,-2 M 0,0 L -10,10 M 0,12 L -10,22"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1.2" opacity="0.6" d="M 0,-25 L 10,-15 M 0,-12 L 10,-2 M 0,0 L 10,10 M 0,12 L 10,22"/>
     </g>
     
-    <!-- Right leaf -->
-    <g transform="rotate(30)">
-      <path fill="#B8CF32" d="M 0,-15 C 6,-14 9,-8 9,0 C 9,8 6,14 0,15 L 0,-15 Z"/>
-      <path fill="#3D6118" stroke="#3D6118" stroke-width="0.5" d="M 0,-14 L 0,14"/>
-      <path fill="none" stroke="#3D6118" stroke-width="0.4" d="M 0,-8 L 4,-6 M 0,-2 L 4,0 M 0,4 L 4,6"/>
+    <!-- Right leaf - bright green -->
+    <g transform="translate(20, -10) rotate(20)">
+      <path fill="#B8CF32" d="M 0,-30 C -12,-28 -18,-15 -18,0 C -18,15 -12,28 0,30 C 12,28 18,15 18,0 C 18,-15 12,-28 0,-30 Z"/>
+      <!-- Leaf veins -->
+      <path fill="none" stroke="#3D6118" stroke-width="1.5" d="M 0,-28 L 0,28"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L -8,-12 M 0,-10 L -8,-2 M 0,0 L -8,8 M 0,10 L -8,18"/>
+      <path fill="none" stroke="#3D6118" stroke-width="1" opacity="0.5" d="M 0,-20 L 8,-12 M 0,-10 L 8,-2 M 0,0 L 8,8 M 0,10 L 8,18"/>
     </g>
+    
   </g>
 </svg>

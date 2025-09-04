@@ -8,10 +8,10 @@ async function runFullValidation(): Promise<void> {
   
   console.log(' Running HARDCORE validation suite...\n');
   
-  // 1. TypeScript strict check
+  // 1. TypeScript strict check (via npm script to ensure local resolution)
   console.log(' TypeScript strict mode check...');
   try {
-    execSync('tsc --noEmit --strict', { stdio: 'pipe' });
+    execSync('npm run typecheck', { stdio: 'pipe' });
     console.log(' TypeScript: PASSED\n');
   } catch (error: any) {
     console.log(' TypeScript: FAILED');
@@ -19,15 +19,15 @@ async function runFullValidation(): Promise<void> {
     errors.push('TypeScript validation');
   }
   
-  // 2. ESLint hardcore mode
+  // 2. ESLint hardcore mode (via npm script for local resolution)
   console.log(' ESLint hardcore rules check...');
   try {
-    execSync('eslint "src/**/*.ts"', { stdio: 'pipe' });
+    execSync('npm run lint', { stdio: 'pipe' });
     console.log(' ESLint: PASSED\n');
   } catch (error: any) {
-    console.log(' ESLint: FAILED (environment mismatch), skipping as non-fatal');
+    console.log(' ESLint: FAILED');
     console.log(error.stdout?.toString() || error.message);
-    // Do not fail hard here; typecheck already enforced
+    errors.push('ESLint validation');
   }
   
   // 3. HTML validation
