@@ -7,7 +7,7 @@ async function removeManualCopyright() {
   console.log('🧹 Removing manual copyright texts from markdown files...');
   
   // Find all markdown files
-  const files = await glob('src/data/**/*.md', { cwd: process.cwd() });
+  const files = await glob('src/data/**/*.md');
   let processedCount = 0;
   let modifiedCount = 0;
   
