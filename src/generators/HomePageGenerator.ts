@@ -4,6 +4,7 @@ import { FileSystemManager } from '../core/FileSystemManager';
 import { TemplateEngine } from '../templates/TemplateEngine';
 import { VersionManager } from '../utils/version';
 import { ContentStats } from '../utils/content-stats';
+import { ListTemplate } from '../templates/ListTemplate';
 
 export class HomePageGenerator {
   constructor(
@@ -92,21 +93,22 @@ export class HomePageGenerator {
       ...newRecipes.map(r => ({ ...r, type: 'r' as const, sortDate: r.date || '' }))
     ].sort((a, b) => b.sortDate.localeCompare(a.sortDate));
     
-    // Build the page content
+    // Build the page content using the shared ListTemplate (consistency with list pages)
+    const listTemplate = new ListTemplate();
     let pageContent = '';
     
     // Only show NEW section if there is new content
     if (newContent.length > 0) {
       pageContent += `<h2>Neu</h2>
     <ul class="article-list">
-      ${this.renderMixedContent(newContent)}
+      ${listTemplate.renderMixedList(newContent)}
     </ul>
     <hr style="margin: 40px 0; border: none; border-top: 1px solid #eee;">`;
     }
     
     // Add the main 20 items
     pageContent += `<ul class="article-list">
-      ${this.renderMixedContent(finalContent)}
+      ${listTemplate.renderMixedList(finalContent)}
     </ul>`;
     
     // Get version info
@@ -128,28 +130,7 @@ export class HomePageGenerator {
     await this.fs.writeFile(path.join(this.config.publicDir, 'index.html'), html);
   }
 
-  private renderMixedContent(items: Array<(Article | Recipe) & { type: 'a' | 'r' }>): string {
-    return items.map(item => {
-      let imageTag = '';
-      if (item.featuredImage) {
-        // Handle URL encoding properly - don't double-encode path separators
-        let imageUrl: string;
-        if (item.featuredImage.startsWith('ai/')) {
-          const filename = item.featuredImage.substring(3); // Remove 'ai/'
-          imageUrl = `/i/ai/${encodeURIComponent(filename)}`;
-        } else {
-          imageUrl = `/i/${encodeURIComponent(item.featuredImage)}`;
-        }
-        imageTag = `<img src="${imageUrl}" alt="" width="80" class="list-thumb">\n      `;
-      }
-      
-      return `<li class="article-item">
-      ${imageTag}<div class="article-text">
-        <a href="/${item.type}/${item.slug}.html" class="article-link">${this.template.escapeHtml(item.title)}</a>
-      </div>
-    </li>`;
-    }).join('\n');
-  }
+  // Rendering moved to ListTemplate for reuse and consistency
 
   private getRandomItems<T>(arr: T[], count: number): T[] {
     return [...arr].sort(() => Math.random() - 0.5).slice(0, count);

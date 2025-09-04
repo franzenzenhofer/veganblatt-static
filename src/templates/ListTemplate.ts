@@ -32,4 +32,10 @@ export class ListTemplate extends PageTemplate {
   renderList(items: (Article | Recipe)[], type: 'a' | 'r'): string {
     return items.map(item => this.renderArticleItem(item, type)).join('\n');
   }
+
+  renderMixedList(items: Array<(Article | Recipe) & { type: 'a' | 'r' }>): string {
+    return items
+      .map(item => this.renderArticleItem(item, item.type))
+      .join('\n');
+  }
 }
