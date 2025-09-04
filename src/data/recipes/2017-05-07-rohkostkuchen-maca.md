@@ -1,5 +1,5 @@
 ---
-title: "uveganer Power-Rohkostkuchen mit Maca"
+title: "Veganer Power-Rohkostkuchen mit Maca"
 date: "2017-05-07 08:06:55"
 modified: "2017-11-30 08:47:35"
 slug: "rohkostkuchen-maca"

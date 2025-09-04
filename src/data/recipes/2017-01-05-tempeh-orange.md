@@ -1,5 +1,5 @@
 ---
-title: "uvegane Köstlicher Tempeh mit Orangen-Glasur"
+title: "Vegane Köstlicher Tempeh mit Orangen-Glasur"
 date: "2017-01-05 14:13:34"
 modified: "2017-01-05 14:13:34"
 slug: "tempeh-orange"

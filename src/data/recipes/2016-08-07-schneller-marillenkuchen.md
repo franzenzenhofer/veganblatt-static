@@ -1,5 +1,5 @@
 ---
-title: 'uveganer Schneller, einfacher Marillenkuchen'
+title: 'Veganer Schneller, einfacher Marillenkuchen'
 date: '2016-08-07 08:07:15'
 modified: '2016-09-10 19:51:11'
 slug: schneller-marillenkuchen

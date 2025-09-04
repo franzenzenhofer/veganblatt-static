@@ -1,5 +1,5 @@
 ---
-title: "uvegane Ödenburger Nudelauflauf"
+title: "Vegane Ödenburger Nudelauflauf"
 date: "2013-06-19 08:30:12"
 modified: "2013-11-05 13:13:31"
 slug: "odenburger-nudelauflauf"

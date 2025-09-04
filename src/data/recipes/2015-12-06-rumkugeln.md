@@ -1,5 +1,5 @@
 ---
-title: "uvegane Köstlich cremige Rumkugeln"
+title: "Vegane Köstlich cremige Rumkugeln"
 date: "2015-12-06 07:01:49"
 modified: "2015-12-18 21:20:31"
 slug: "rumkugeln"

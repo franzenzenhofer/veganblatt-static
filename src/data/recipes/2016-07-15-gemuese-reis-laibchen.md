@@ -1,5 +1,5 @@
 ---
-title: "uveganes Gemüse-Reis-Laibchen"
+title: "Veganes Gemüse-Reis-Laibchen"
 date: "2016-07-15 10:30:34"
 modified: "2016-07-15 15:46:43"
 slug: "gemuese-reis-laibchen"

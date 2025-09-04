@@ -1,5 +1,5 @@
 ---
-title: "uvegane Rohköstliche Schoko-Bananen-Creme-Schnitten"
+title: "Vegane Rohköstliche Schoko-Bananen-Creme-Schnitten"
 date: "2016-01-03 10:00:28"
 modified: "2016-01-03 10:53:33"
 slug: "schoko-bananen-creme-kuchen"

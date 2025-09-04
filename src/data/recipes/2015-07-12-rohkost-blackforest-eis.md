@@ -1,5 +1,5 @@
 ---
-title: 'uveganes Avocado-Nicecream: Blackforest-Eis'
+title: 'Veganes Avocado-Nicecream: Blackforest-Eis'
 date: '2015-07-12 08:13:39'
 modified: '2015-07-19 20:48:05'
 slug: rohkost-blackforest-eis

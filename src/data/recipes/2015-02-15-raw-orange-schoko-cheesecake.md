@@ -1,5 +1,5 @@
 ---
-title: "uvegane Rohköstlicher Orangen-Schoko Cheesecake"
+title: "Vegane Rohköstlicher Orangen-Schoko Cheesecake"
 date: "2015-02-15 07:29:19"
 modified: "2015-02-15 09:09:37"
 slug: "raw-orange-schoko-cheesecake"

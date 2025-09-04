@@ -1,5 +1,5 @@
 ---
-title: "uvegane Kärntner Oster Reindling"
+title: "Vegane Kärntner Oster Reindling"
 date: "2019-04-12 20:20:28"
 modified: "2019-04-25 11:52:40"
 slug: "kaerntner-reindling"

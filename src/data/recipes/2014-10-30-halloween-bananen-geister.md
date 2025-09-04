@@ -1,5 +1,5 @@
 ---
-title: 'uveganes Halloween-Rezept: Lustige Bananen-Geister'
+title: 'Veganes Halloween-Rezept: Lustige Bananen-Geister'
 date: '2014-10-30 07:09:01'
 modified: '2014-11-01 10:42:19'
 slug: halloween-bananen-geister

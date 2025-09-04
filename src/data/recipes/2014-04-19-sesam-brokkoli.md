@@ -1,5 +1,5 @@
 ---
-title: "uvegane Sesam-Brokkoli"
+title: "Vegane Sesam-Brokkoli"
 date: "2014-04-19 12:14:51"
 modified: "2015-02-14 14:01:35"
 slug: "sesam-brokkoli"

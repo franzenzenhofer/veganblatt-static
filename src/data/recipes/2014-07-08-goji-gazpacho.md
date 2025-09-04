@@ -1,5 +1,5 @@
 ---
-title: "uvegane Goji-Gazpacho"
+title: "Vegane Goji-Gazpacho"
 date: "2014-07-08 23:35:57"
 modified: "2016-01-20 13:58:59"
 slug: "goji-gazpacho"

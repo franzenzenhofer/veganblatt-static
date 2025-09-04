@@ -1,5 +1,5 @@
 ---
-title: "uvegane DIY Spitzwegerich Salbe gegen Juckreiz"
+title: "Vegane DIY Spitzwegerich Salbe gegen Juckreiz"
 date: "2019-08-08 10:40:02"
 modified: "2019-08-06 20:40:19"
 slug: "spitzwegerich-salbe"

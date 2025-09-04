@@ -1,5 +1,5 @@
 ---
-title: "uvegane DIY Seedbombs"
+title: "Vegane DIY Seedbombs"
 date: "2019-06-13 18:54:36"
 modified: "2019-06-14 18:55:27"
 slug: "diy-seedbombs"

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Bananen-Creme mit Schoko-Chia-Pudding"
+title: "Vegane Bananen-Creme mit Schoko-Chia-Pudding"
 date: "2015-11-02 14:59:57"
 modified: "2015-11-02 21:07:01"
 slug: "bananen-creme-dessert"

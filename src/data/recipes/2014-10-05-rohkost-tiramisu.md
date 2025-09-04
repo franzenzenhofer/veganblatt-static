@@ -1,5 +1,5 @@
 ---
-title: "uvegane Rohköstliches Tiramisu"
+title: "Vegane Rohköstliches Tiramisu"
 date: "2014-10-05 08:11:51"
 modified: "2015-03-20 08:48:21"
 slug: "rohkost-tiramisu"

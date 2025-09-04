@@ -1,5 +1,5 @@
 ---
-title: "uveganer Kartoffel-Lauch-Eintopf"
+title: "Veganer Kartoffel-Lauch-Eintopf"
 date: "2020-03-08 17:35:35"
 modified: "2020-03-08 17:35:35"
 slug: "kartoffel-lauch-eintopf"

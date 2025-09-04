@@ -1,5 +1,5 @@
 ---
-title: "uvegane Köstliche Apfel-Haselnuss Tarte"
+title: "Vegane Köstliche Apfel-Haselnuss Tarte"
 date: "2017-04-23 08:45:05"
 modified: "2017-04-23 09:55:19"
 slug: "apfel-haselnuss-tarte"

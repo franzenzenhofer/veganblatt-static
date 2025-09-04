@@ -368,9 +368,10 @@ async function main() {
   try {
     const generator = new VeganFoodImageGenerator();
     
-    // Simple: Generate 10 images
-    console.log('📦 Generating 10 AI images for VeganBlatt recipes\n');
-    await generator.generateImagesForRecipes(10, true);
+    // Get batch size from command line or default to 50
+    const batchSize = parseInt(process.argv[2]) || 50;
+    console.log(`📦 Generating ${batchSize} AI images for VeganBlatt recipes\n`);
+    await generator.generateImagesForRecipes(batchSize, true);
     
     console.log('\n✅ Done! Run npm run deploy to deploy');
     

@@ -1,5 +1,5 @@
 ---
-title: "uvegane Baby-Bananen-Haferkekse"
+title: "Vegane Baby-Bananen-Haferkekse"
 date: "2015-12-03 07:26:58"
 modified: "2015-12-18 21:21:16"
 slug: "baby-bananen-haferkekse"

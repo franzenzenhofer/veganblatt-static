@@ -1,5 +1,5 @@
 ---
-title: 'uvegane DIY Lippenpeeling mit Vanillenote '
+title: 'Vegane DIY Lippenpeeling mit Vanillenote '
 date: '2013-12-21 12:30:21'
 modified: '2013-12-30 10:59:44'
 slug: diy-lippenpeeling

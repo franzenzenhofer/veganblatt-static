@@ -1,5 +1,5 @@
 ---
-title: "uvegane Sauerkraut-Auflauf"
+title: "Vegane Sauerkraut-Auflauf"
 date: "2014-03-28 09:00:10"
 modified: "2015-02-24 15:00:01"
 slug: "sauerkraut-auflauf"

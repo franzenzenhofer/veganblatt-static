@@ -1,5 +1,5 @@
 ---
-title: "uvegane DIY Vanille Mandel Granola"
+title: "Vegane DIY Vanille Mandel Granola"
 date: "2017-03-21 15:59:59"
 modified: "2020-02-02 16:57:43"
 slug: "vanille-mandel-granola"

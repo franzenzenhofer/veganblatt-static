@@ -1,5 +1,5 @@
 ---
-title: "uveganer Schneller, köstlicher Linseneintopf"
+title: "Veganer Schneller, köstlicher Linseneintopf"
 date: "2017-01-17 19:44:57"
 modified: "2017-01-17 19:44:57"
 slug: "linseneintopf"

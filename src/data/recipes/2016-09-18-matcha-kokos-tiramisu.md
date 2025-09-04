@@ -1,5 +1,5 @@
 ---
-title: "uvegane Matcha-Kokos-Tiramisu"
+title: "Vegane Matcha-Kokos-Tiramisu"
 date: "2016-09-18 09:05:57"
 modified: "2017-12-12 11:53:39"
 slug: "matcha-kokos-tiramisu"
