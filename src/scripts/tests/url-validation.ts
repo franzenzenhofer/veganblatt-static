@@ -33,8 +33,7 @@ class URLValidator {
     
     // Find all HTML files
     const htmlFiles = await glob('**/*.html', { 
-      cwd: this.baseDir,
-      absolute: true 
+      cwd: this.baseDir
     });
 
     console.log(`   Found ${htmlFiles.length} HTML files to validate`);
