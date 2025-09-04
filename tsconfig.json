@@ -27,7 +27,7 @@
     "sourceMap": true,
     "outDir": "./dist",
     "rootDir": "./src",
-    "types": ["node"]
+    "types": ["node", "playwright"]
   },
   "include": ["src/**/*"],
   "exclude": [
@@ -35,6 +35,7 @@
     "dist", 
     "public",
     "src/scripts/test-*.ts",
+    "src/scripts/tests/**/*.ts",
     "src/scripts/generate-ai-images.ts",
     "src/scripts/generate-vegan-images.ts",
     "src/scripts/generate-and-crop.ts",
