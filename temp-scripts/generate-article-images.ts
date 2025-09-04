@@ -138,29 +138,34 @@ async function main() {
   console.log("🚀 Generating AI Images for VeganBlatt Articles");
   console.log("=" .repeat(60));
   
-  const articles = await getArticlesWithoutImages(10); // Reduced batch size
+  const articles = await getArticlesWithoutImages(50); // Bigger batch, we have time!
   console.log(`\nFound ${articles.length} articles without images\n`);
+  console.log("⏰ This will take time - waiting 60 seconds between each image to avoid rate limits\n");
   
   let successCount = 0;
   let failCount = 0;
   
-  for (const article of articles) {
+  for (let i = 0; i < articles.length; i++) {
+    const article = articles[i];
+    console.log(`\n[${i + 1}/${articles.length}] Processing...`);
+    
+    // Wait BEFORE each request (except the first) to avoid rate limiting
+    if (i > 0) {
+      console.log("   ⏳ Waiting 60 seconds before next request...");
+      for (let s = 60; s > 0; s--) {
+        process.stdout.write(`\r   ⏳ ${s} seconds remaining...`);
+        await new Promise(resolve => setTimeout(resolve, 1000));
+      }
+      console.log("\r   ✓ Ready for next request!        ");
+    }
+    
     const success = await generateImageForArticle(article);
     if (success) {
       successCount++;
+      console.log(`   ✅ Success count: ${successCount}`);
     } else {
       failCount++;
-      // On failure, wait longer before next attempt
-      console.log("   ⏳ Waiting 10 seconds after failure...");
-      await new Promise(resolve => setTimeout(resolve, 10000));
-    }
-    
-    // Longer delay to respect rate limits (6 seconds between requests)
-    if (successCount > 0 && successCount % 5 === 0) {
-      console.log("\n⏳ Rate limit pause - waiting 30 seconds...\n");
-      await new Promise(resolve => setTimeout(resolve, 30000));
-    } else {
-      await new Promise(resolve => setTimeout(resolve, 6000));
+      console.log(`   ❌ Fail count: ${failCount}`);
     }
   }
   
