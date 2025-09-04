@@ -50,5 +50,7 @@ recipe:
       Eine Melanzani Scheibe nach der anderen mit Bio-Hummus bestreichen und auf
       2 Tellern auftürmen. Dazu die Falafel mit der Sonnenblumenkern-Sauce
       reichen und mit Kresse garnieren.
+aiGeneratedDate: '2025-09-04T12:55:39.542Z'
+featuredImage: ai/ai-auberginen-tuermchen-falafeln.jpg
 ---
 

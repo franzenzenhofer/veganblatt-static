@@ -30,5 +30,7 @@ recipe:
       überbleiben, in Schüssel füllen, mit Schoko-Raspeln bestreut und mit
       Kirsche oben drauf servieren.
     - Yummy!
+aiGeneratedDate: '2025-09-04T12:56:33.529Z'
+featuredImage: ai/ai-rohkost-blackforest-eis.jpg
 ---
 

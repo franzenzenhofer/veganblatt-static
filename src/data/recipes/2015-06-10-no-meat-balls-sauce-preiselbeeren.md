@@ -53,5 +53,7 @@ recipe:
       Soja-Fleischbällchen mit der Sauce mit Schnittlauch bestreut und mit
       Preiselbeeren servieren.
     - Lasst es Euch schmecken!
+aiGeneratedDate: '2025-09-04T12:55:52.446Z'
+featuredImage: ai/ai-no-meat-balls-sauce-preiselbeeren.jpg
 ---
 

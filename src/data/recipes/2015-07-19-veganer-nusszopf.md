@@ -50,5 +50,7 @@ recipe:
     - >-
       Wenn der Zopf schön glänzen soll, gleich, wenn er noch heiß ist, mit einem
       Gemisch aus Aprikosenmarmelade und heißem Wasser bestreichen.
+aiGeneratedDate: '2025-09-04T12:56:42.733Z'
+featuredImage: ai/ai-veganer-nusszopf.jpg
 ---
 

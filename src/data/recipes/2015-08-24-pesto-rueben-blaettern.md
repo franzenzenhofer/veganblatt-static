@@ -26,6 +26,8 @@ recipe:
       Falls ihr keinen so starken Mixer habt, am besten die Blätter etwas
       vorschneiden und in zwei Portionen mixen.
     - 'Schmeckt super zu Pasta, als Rohkost-Dip oder einfach so aufs Brot.'
+aiGeneratedDate: '2025-09-04T12:58:21.903Z'
+featuredImage: ai/ai-pesto-rueben-blaettern.jpg
 ---
 
 Für Pesto eignen sich alle grünen Blätter: Rote Rüben Blätter sind etwas milder, werden aber leider eher braun als grün beim mixen. Karotten-Grün ist etwas fester und muss deshalb besser gemixt werden. Radieschen Blätter sind eher würzig und schön grün. Natürlich könnt ihr das Ganze auch miteinander kombinieren oder anderes Grün hinzufügen, wie z.B. Rucola, Spinat, Mangold Blätter, Grünkohl ...

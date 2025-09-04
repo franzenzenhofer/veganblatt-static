@@ -30,6 +30,8 @@ recipe:
       dünne Schicht reis darauf und mit einer Bahn Füllung nach Wahl belegen.
     - Wickeln und in Stücke schneiden.
     - Mit einer kleinen Schüssel Sojasauce und Wasabi servieren.
+aiGeneratedDate: '2025-09-04T12:57:21.890Z'
+featuredImage: ai/ai-raffiniertes-veganes-sushi.jpg
 ---
 
 In jedem Sushi-Restaurant finden auch Veganer\*innen eine kleine Auswahl an Röllchen, die ganz ohne tierische Bestandteile auskommen. Wer aber etwas ausgefalleneres, abseits von Gurke oder Avocado sucht hat nicht immer Glück. Mit ein paar extra Zutaten wird das ganze gleich viel spannender. Einfach ausprobieren!

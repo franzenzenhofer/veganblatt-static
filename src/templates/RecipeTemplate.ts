@@ -62,14 +62,14 @@ export class RecipeTemplate extends ArticleTemplate {
 
   private renderIngredients(ingredients?: string[]): string {
     if (!ingredients?.length) return '';
-    const items = ingredients.map(i => `<li>${this.escapeHtml(i)}</li>`).join('\n');
+    const items = ingredients.map(i => `<li>${this.parseUrlTags(i)}</li>`).join('\n');
     return `<div class="recipe-section">
       <h3>Zutaten</h3><ul class="recipe-ingredients">${items}</ul></div>`;
   }
 
   private renderInstructions(instructions?: string[]): string {
     if (!instructions?.length) return '';
-    const items = instructions.map(i => `<li>${this.escapeHtml(i)}</li>`).join('\n');
+    const items = instructions.map(i => `<li>${this.parseUrlTags(i)}</li>`).join('\n');
     return `<div class="recipe-section">
       <h3>Zubereitung</h3><ol class="recipe-instructions">${items}</ol></div>`;
   }
@@ -89,5 +89,22 @@ export class RecipeTemplate extends ArticleTemplate {
     if (mins > 0) parts.push(`${mins} Min`);
     if (secs > 0 && parts.length === 0) parts.push(`${secs} Sek`); // only show seconds if nothing else
     return parts.join(' ');
+  }
+
+  private parseUrlTags(text: string): string {
+    // First escape HTML to prevent XSS
+    let escaped = this.escapeHtml(text);
+    
+    // Then convert [url] tags to HTML links
+    // Pattern: [url href="URL" target="_blank"]TEXT[/url]
+    escaped = escaped.replace(
+      /\[url\s+href=&quot;([^&]+)&quot;(?:\s+target=&quot;([^&]+)&quot;)?\]([^\[]+)\[\/url\]/g,
+      (_match, url, target, linkText) => {
+        const targetAttr = target ? ` target="${target}" rel="noopener noreferrer"` : '';
+        return `<a href="${url}"${targetAttr}>${linkText}</a>`;
+      }
+    );
+    
+    return escaped;
   }
 }

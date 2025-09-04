@@ -55,6 +55,8 @@ recipe:
       ... belegen.
     - min. bei 250°C in den Ofen.
     - Zum Schluss mit frischem Rucola belegen.
+aiGeneratedDate: '2025-09-04T12:56:23.270Z'
+featuredImage: ai/ai-weisse-pizza-kokoscreme.jpg
 ---
 
 Eine Pizza braucht nicht unbedingt Käse und Tomatensoße um richtig gut zu schmecken! Probier es doch einfach mal mit einer Kokoscreme, anstatt der Tomate und mit frischen Tomaten oben drauf.

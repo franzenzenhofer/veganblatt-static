@@ -94,32 +94,12 @@ export class SitemapGenerator {
 
   private getStaticPages(): SitemapEntry[] {
     const today = new Date().toISOString().split('T')[0] || '';
-    
+    // Align with actual generated routes
     return [
-      {
-        loc: this.baseUrl,
-        lastmod: today
-      },
-      {
-        loc: `${this.baseUrl}/articles.html`,
-        lastmod: today
-      },
-      {
-        loc: `${this.baseUrl}/recipes.html`,
-        lastmod: today
-      },
-      {
-        loc: `${this.baseUrl}/about/impressum.html`,
-        lastmod: today
-      },
-      {
-        loc: `${this.baseUrl}/about/datenschutz.html`,
-        lastmod: today
-      },
-      {
-        loc: `${this.baseUrl}/about/kontakt.html`,
-        lastmod: today
-      }
+      { loc: this.baseUrl, lastmod: today },
+      { loc: `${this.baseUrl}/artikel.html`, lastmod: today },
+      { loc: `${this.baseUrl}/rezepte.html`, lastmod: today },
+      { loc: `${this.baseUrl}/impressum.html`, lastmod: today }
     ];
   }
 

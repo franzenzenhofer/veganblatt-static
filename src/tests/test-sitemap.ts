@@ -76,6 +76,21 @@ async function testSitemapGeneration() {
       throw new Error('priority should not be present in sitemap');
     }
     console.log('✅ Test 6: No changefreq or priority in sitemaps');
+
+    // Test 7: Static sitemap contains expected routes (aligned with site)
+    const staticSitemap = await fs.readFile(path.join(testDir, 'sitemap-static.xml'), 'utf-8');
+    const expectedStatics = [
+      'https://www.veganblatt.com/',
+      'https://www.veganblatt.com/artikel.html',
+      'https://www.veganblatt.com/rezepte.html',
+      'https://www.veganblatt.com/impressum.html'
+    ];
+    for (const u of expectedStatics) {
+      if (!staticSitemap.includes(`<loc>${u}</loc>`)) {
+        throw new Error(`Missing static URL in sitemap: ${u}`);
+      }
+    }
+    console.log('✅ Test 7: Static sitemap contains expected routes');
     
     // Clean up
     await fs.rm(testDir, { recursive: true, force: true });

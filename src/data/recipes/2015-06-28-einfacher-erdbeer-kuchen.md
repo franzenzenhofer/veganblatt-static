@@ -48,6 +48,8 @@ recipe:
       Lasst es Euch schmecken! PS: Für den unwahrscheinlichen Fall, dass der
       Kuchen nicht auf einen Sitz aufgegessen wird, sollte man die Erdbeeren
       noch mit Tortengelee überziehen.
+aiGeneratedDate: '2025-09-04T12:56:13.847Z'
+featuredImage: ai/ai-einfacher-erdbeer-kuchen.jpg
 ---
 
 [<!-- Image removed (no copyright): erdbeerkuchen-1-640x424.jpg -->](https://www.veganblatt.com/i/erdbeerkuchen-1.jpg)

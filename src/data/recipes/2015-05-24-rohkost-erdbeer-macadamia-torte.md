@@ -44,5 +44,7 @@ recipe:
       Die Agar Agar Masse schnell in den Mixbecher geben und untermixen und die
       Creme auf dem Kuchenboden verteilen und glatt streichen.
     - Für 4-5h in den Kühlschrank stellen und mit Erdbeeren garniert servieren.
+aiGeneratedDate: '2025-09-04T12:55:08.602Z'
+featuredImage: ai/ai-rohkost-erdbeer-macadamia-torte.jpg
 ---
 

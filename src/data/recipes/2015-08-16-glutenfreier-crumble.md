@@ -34,5 +34,7 @@ recipe:
       Streußel auf den Zwetschken verteilen, mit Mandelblättchen bestreuen und
       bei 180°C für ca. 20min backen bis die Streußel sich goldbraun färben.
     - Und genießen!
+aiGeneratedDate: '2025-09-04T12:57:51.055Z'
+featuredImage: ai/ai-glutenfreier-crumble.jpg
 ---
 

@@ -39,5 +39,7 @@ recipe:
       braten, dann das restliche Gemüse und die Kokosmilch zugeben, würzen und
       mit Deckel für 5-8min köcheln lassen bis das Gemüse bissfest ist.
     - Noch mal abschmecken und mit den Bohnen servieren.
+aiGeneratedDate: '2025-09-04T12:57:02.375Z'
+featuredImage: ai/ai-kokos-gemuese-mit-mungbohnen.jpg
 ---
 

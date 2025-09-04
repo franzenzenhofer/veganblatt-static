@@ -42,5 +42,7 @@ recipe:
       Vor dem Servieren aus den Formen stürzen. Der Käse kann in Scheiben
       geschnitten oder auch gerieben werden, eignet sich aber nicht zum
       Überbacken.
+aiGeneratedDate: '2025-09-04T12:55:28.063Z'
+featuredImage: ai/ai-selbstgemachter-veganer-kaese-nuss-soja-fettfrei.jpg
 ---
 

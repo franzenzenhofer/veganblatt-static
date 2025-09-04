@@ -35,5 +35,7 @@ recipe:
       Gemeinsam mit dem Blumenkohl bei 180°C ins Rohr schieben. Backen bis der
       Blumenkohl sich bräunt und die Nudeln weich sind.
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T12:55:18.437Z'
+featuredImage: ai/ai-suesskartoffel-spaghetti-mit-gebackenem-blumenkohl.jpg
 ---
 

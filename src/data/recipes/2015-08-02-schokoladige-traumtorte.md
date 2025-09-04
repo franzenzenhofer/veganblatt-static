@@ -38,6 +38,8 @@ recipe:
       Kokosfett und dem Ahornsirup über dem Wasserbad schmelzen und über die
       Torte streichen.
     - Kurz bevor die Glasur fest wird mit Rosenblättern bestreuen.
+aiGeneratedDate: '2025-09-04T12:57:12.854Z'
+featuredImage: ai/ai-schokoladige-traumtorte.jpg
 ---
 
 Egal ob zum Geburtstag, zum Valentinstag oder auch einfach so; manchmal muss es einfach etwas besonderes sein. Dieser Kuchen ist ganz einfach und sieht durch die Rosenblätter trotzdem traumhaft schön aus. Am besten ungespritze Rosen aus dem Garten verwenden, denn diese können problemlos mitgegessen werden.

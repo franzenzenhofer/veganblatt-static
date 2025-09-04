@@ -65,6 +65,8 @@ recipe:
       das Gemüse legen, mit den Zwiebelringen garnieren und dazu das Bruschetta
       reichen.
     - Mahlzeit!
+aiGeneratedDate: '2025-09-04T12:54:58.694Z'
+featuredImage: ai/ai-cevapcici-spiesse-mit-grillgemuese.jpg
 ---
 
 [<!-- Image removed (no copyright): spar-veggie-cevapcici-spiesse-2-640x967.jpg -->](https://www.veganblatt.com/i/spar-veggie-cevapcici-spiesse-2.jpg)

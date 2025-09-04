@@ -40,5 +40,7 @@ recipe:
       Zweite Teighälfte ausrollen und ca. 2 cm Streifen daraus schneiden und
       kreuzweiße über die Äpfel legen.
     - 'Bei 180°C für ca 60 min backen, bis der Kuchen leicht braun oben ist.'
+aiGeneratedDate: '2025-09-04T12:57:40.930Z'
+featuredImage: ai/ai-veganer-apfelkuchen.jpg
 ---
 

@@ -231,3 +231,36 @@ check_cc "https://www.veganblatt.com/" "Homepage"
 check_cc "https://www.veganblatt.com/artikel" "Articles list"
 check_cc "https://www.veganblatt.com/rezepte" "Recipes list"
 check_cc "https://www.veganblatt.com/impressum" "Impressum"
+# Verify sitemap URLs are alive (sampled)
+echo ""
+echo "🔗 Verifying sitemap URLs (sample)..."
+
+fetch_urls() {
+  curl -s "$1" | sed -n 's/.*<loc>\\(.*\\)<\\/loc>.*/\1/p'
+}
+
+check_sample_urls() {
+  local sitemap_url=$1
+  local name=$2
+  local sample_count=${3:-10}
+  local urls
+  urls=$(fetch_urls "$sitemap_url" | head -n "$sample_count")
+  local ok=0
+  local total=0
+  while IFS= read -r url; do
+    [ -z "$url" ] && continue
+    total=$((total+1))
+    code=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+    if [ "$code" = "200" ]; then
+      ok=$((ok+1))
+    else
+      echo -e "  ${RED}✗${NC} $name URL not OK ($code): $url"
+      FAIL_COUNT=$((FAIL_COUNT+1))
+    fi
+  done <<< "$urls"
+  echo -e "  ${GREEN}✓${NC} $name: $ok/$total URLs OK"
+}
+
+check_sample_urls "https://www.veganblatt.com/sitemap-static.xml" "Static"
+check_sample_urls "https://www.veganblatt.com/sitemap-articles.xml" "Articles" 10
+check_sample_urls "https://www.veganblatt.com/sitemap-recipes.xml" "Recipes" 10

@@ -23,6 +23,8 @@ recipe:
     - >-
       Alles gut vermixen, in ein großes Glas füllen und einmal kräftig
       schlürfen!
+aiGeneratedDate: '2025-09-04T12:58:32.405Z'
+featuredImage: ai/ai-frozen-matcha-shake.jpg
 ---
 
 [<!-- Image removed (no copyright): frozen-matcha-1-640x416.jpg -->](https://www.veganblatt.com/i/frozen-matcha-1.jpg)

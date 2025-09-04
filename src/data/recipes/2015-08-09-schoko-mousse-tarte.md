@@ -35,6 +35,8 @@ recipe:
     - >-
       Auf den ausgekühlten Boden geben und für min. 2 Stunden in den Kühlschrank
       stellen.
+aiGeneratedDate: '2025-09-04T12:57:31.076Z'
+featuredImage: ai/ai-schoko-mousse-tarte.jpg
 ---
 
 – JL [<!-- Image removed (no copyright): schokomouse-tarte-collage-640x209.jpg -->](https://www.veganblatt.com/i/schokomouse-tarte-collage.jpg)

@@ -30,5 +30,7 @@ recipe:
     - >-
       Zuerst weiße und dann rote Creme auf den Boden und mind. 3 Stunden
       kaltstellen.
+aiGeneratedDate: '2025-09-04T12:56:52.448Z'
+featuredImage: ai/ai-rohkosttoertchen-mit-cashewcreme.jpg
 ---
 

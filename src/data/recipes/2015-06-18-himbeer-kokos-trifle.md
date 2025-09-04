@@ -40,5 +40,7 @@ recipe:
       Dessert-Gläser schichten. Mit Streusel und einer Himbeere garnieren und
       bis zum Servieren kühl stellen.
     - Lasst es Euch schmecken!
+aiGeneratedDate: '2025-09-04T12:56:02.207Z'
+featuredImage: ai/ai-himbeer-kokos-trifle.jpg
 ---
 

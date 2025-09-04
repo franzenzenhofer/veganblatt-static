@@ -26,6 +26,8 @@ recipe:
       Etwas Kokosöl in einer Pfanne heiß werden lassen. Den Teig in kleinen
       Portionen beidseitig goldbraun backen.
     - 'Mit Obst, Nüssen, Eis ... garnieren und genießen.'
+aiGeneratedDate: '2025-09-04T12:58:12.093Z'
+featuredImage: ai/ai-buchweizen-pancakes.jpg
 ---
 
 Pancakes sind super lecker und wir verwöhnen uns gerne mal sonntags damit. Gesund sind sie aber eigentlich nicht. Außer Ihr macht diese glutenfreien und super fettarmen Buchweizenpancakes. Am liebsten essen wir sie mit Pfirsich-Nicecream :).

@@ -28,5 +28,7 @@ recipe:
       Alle Zutaten im Mixer zu einer nicht allzufeinen Masse verarbeiten.
       Abschmecken und mit der Pasta Deiner Wahl servieren oder in einem Glas im
       Kühlschrank aufbewahren.
+aiGeneratedDate: '2025-09-04T12:58:00.015Z'
+featuredImage: ai/ai-hanf-brennnessel-pesto.jpg
 ---
 
