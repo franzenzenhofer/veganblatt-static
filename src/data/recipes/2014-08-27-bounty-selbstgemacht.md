@@ -37,5 +37,7 @@ recipe:
     - >-
       Die Riegel in die Schoko tauchen und auf ein Backpapier setzen. Festwerden
       lassen und genießen oder im Kühlschrank aufbewahren
+aiGeneratedDate: '2025-09-04T11:32:37.474Z'
+featuredImage: ai/ai-bounty-selbstgemacht.jpg
 ---
 

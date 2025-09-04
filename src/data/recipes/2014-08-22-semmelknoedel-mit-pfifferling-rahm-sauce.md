@@ -49,5 +49,7 @@ recipe:
       Die gewürfelte Zwiebel glasig anbraten, die Pilze dazugeben und mit der
       Gemüsebrühe ablöschen. Würzen und für 5min köcheln lassen. Die Sahne
       einrühren, ev. nochmals abschmecken und mit den Knödeln servieren.
+aiGeneratedDate: '2025-09-04T11:32:09.393Z'
+featuredImage: ai/ai-semmelknoedel-mit-pfifferling-rahm-sauce.jpg
 ---
 

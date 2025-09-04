@@ -27,5 +27,7 @@ recipe:
       Alle Zutaten in den Mixbecher geben und mit Hilfe des Stopfers zu Eiscreme
       mixen. Wenn nötig mit etwas Kokosmilch aufgießen.
     - Mit dem Topping der Wahl garnieren und sofort genießen!
+aiGeneratedDate: '2025-09-04T11:32:48.291Z'
+featuredImage: ai/ai-schokoladen-kokos-eis-deluxe.jpg
 ---
 

@@ -27,5 +27,7 @@ recipe:
       Die Sour Cream mit 1-2 EL Wasser, Kurkuma und Paprika zu einer Sauce glatt
       rühren, abschmecken. Über die Spaghetti geben, gut durchmischen und mit
       frischem Pfeffer und der Blütenmischung bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:32:57.550Z'
+featuredImage: ai/ai-rohkost-pasta-mit-kaese-sauce.jpg
 ---
 

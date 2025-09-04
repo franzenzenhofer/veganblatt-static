@@ -1,5 +1,5 @@
 ---
-title: "Spekulatius Vegane Maroni Tiramisu"
+title: "Veganes Spekulatius-Maroni-Tiramisu"
 date: "2013-10-30 13:00:36"
 modified: "2015-12-21 15:46:37"
 slug: "spekulatius-maroni-tiramisu"

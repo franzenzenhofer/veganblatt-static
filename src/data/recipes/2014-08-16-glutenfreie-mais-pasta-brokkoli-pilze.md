@@ -33,5 +33,7 @@ recipe:
       Dann den Brokkoli und die Sahne zugeben, abschmecken, köcheln lassen bis
       der Brokkoli weich, aber noch bissfest ist und mit den Nudeln und frischen
       Kräutern servieren.
+aiGeneratedDate: '2025-09-04T11:31:31.879Z'
+featuredImage: ai/ai-glutenfreie-mais-pasta-brokkoli-pilze.jpg
 ---
 

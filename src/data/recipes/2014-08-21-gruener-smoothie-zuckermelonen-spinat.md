@@ -22,5 +22,7 @@ recipe:
       Die Zuckermelone von Kernen und Schale befreien, in grobe Stücke schneiden
       und dazugeben. Weitermixen bis ein schöner, cremiger Smoothie entstanden
       ist und losschlürfen!
+aiGeneratedDate: '2025-09-04T11:31:59.579Z'
+featuredImage: ai/ai-gruener-smoothie-zuckermelonen-spinat.jpg
 ---
 

@@ -42,6 +42,8 @@ recipe:
       Stücken verarbeiten.
     - Die Crunch-Schokocreme obendrauf verteilen und mit Heidelbeeren belegen.
     - Losschlemmen!
+aiGeneratedDate: '2025-09-04T11:31:41.348Z'
+featuredImage: ai/ai-schoko-creme-toertchen.jpg
 ---
 
 [<!-- Image removed (no copyright): rohkost-schoko-törtchen.jpg -->](https://www.veganblatt.com/i/rohkost-schoko-törtchen.jpg)

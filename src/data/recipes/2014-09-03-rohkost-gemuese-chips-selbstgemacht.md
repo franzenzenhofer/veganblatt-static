@@ -33,5 +33,7 @@ recipe:
       Cashew-Mus mit Zitronensaft, Hefeflocken und etwas Salz verrühren und die
       Creme statt dem Öl mit den Gemüsescheiben gut vermischen. Wie oben
       trocknen.
+aiGeneratedDate: '2025-09-04T11:33:09.891Z'
+featuredImage: ai/ai-rohkost-gemuese-chips-selbstgemacht.jpg
 ---
 

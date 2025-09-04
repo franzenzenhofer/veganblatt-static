@@ -33,5 +33,7 @@ recipe:
     - >-
       Temperatur etwas runterschalten, beidseitig goldbraun braten und noch heiß
       mit der Füllung nach Wahl servieren!
+aiGeneratedDate: '2025-09-04T11:32:18.362Z'
+featuredImage: ai/ai-dinkelvollkorn-pfannkuchen.jpg
 ---
 

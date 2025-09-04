@@ -1,23 +1,10 @@
 import { SharedHeader } from './SharedHeader';
 import { SharedFooter } from './SharedFooter';
 import { MetaTags, MetaTagOptions } from './MetaTags';
-import fs from 'fs';
-import path from 'path';
+import { Assets } from './Assets';
 
 export class PageTemplate {
-  private static cachedVersion: string | null | undefined = undefined;
-
-  private static getBuildVersion(): string | null {
-    if (this.cachedVersion !== undefined) return this.cachedVersion;
-    try {
-      const data = fs.readFileSync(path.join(process.cwd(), 'version.json'), 'utf-8');
-      const { version } = JSON.parse(data) as { version?: string };
-      this.cachedVersion = version || null;
-    } catch {
-      this.cachedVersion = null;
-    }
-    return this.cachedVersion;
-  }
+  // Versioning and CSS href come from Assets to keep things DRY
   escapeHtml(str: string): string {
     if (!str) return '';
     return str.replace(/[&<>"']/g, m => 
@@ -34,8 +21,7 @@ export class PageTemplate {
         } as MetaTagOptions)
       : '';
       
-    const versionTag = PageTemplate.getBuildVersion() || '';
-    const cssHref = `/css/styles.css${versionTag ? `?v=${encodeURIComponent(versionTag)}` : ''}`;
+    const cssHref = Assets.cssHref('css/styles.css');
 
     return `<!DOCTYPE html>
 <html lang="de">

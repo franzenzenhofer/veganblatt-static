@@ -31,5 +31,7 @@ recipe:
     - >-
       Das Dressing anrühren. Das Gemüse zu den warmen Pilzen geben und mit dem
       Dressing mischen.
+aiGeneratedDate: '2025-09-04T11:32:27.707Z'
+featuredImage: ai/ai-thailaendischer-pilz-salat.jpg
 ---
 

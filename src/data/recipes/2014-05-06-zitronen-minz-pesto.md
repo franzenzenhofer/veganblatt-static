@@ -1,5 +1,5 @@
 ---
-title: Minzpesto Vegane mit zitroniger Note
+title: Veganes Minzpesto mit zitroniger Note
 date: '2014-05-06 14:13:43'
 modified: '2014-05-06 14:30:25'
 slug: zitronen-minz-pesto
