@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "typecheck": "tsc --noEmit --strict",
-    "lint": "eslint src --ext .ts",
+    "lint": "eslint \"src/**/*.ts\"",
     "validate:html": "html-validate 'public/**/*.html'",
     "validate": "tsx src/scripts/tests/full-validation.ts",
     "test:unit": "tsx src/scripts/tests/test-generation.ts",
