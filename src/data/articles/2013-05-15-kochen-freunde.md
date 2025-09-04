@@ -6,7 +6,8 @@ slug: kochen-freunde
 excerpt: >-
   Du hast FreundInnen zum veganen Dinner eingeladen und möchtest sie mit einem
   tollen pflanzlichen Menü überraschen? Here we go!
-aiGeneratedDate: '2025-09-01T19:20:11.102Z'
+aiGeneratedDate: '2025-09-04T15:42:56.046Z'
+featuredImage: ai/ai-kochen-freunde.jpg
 ---
 
 Jetzt hast du den Salat. Endlich, nach langem Stress in der Arbeit und damit verbundenem convenience food (Brot, Obst, Gemüse, Nüsse) ist der Abend gekommen, an dem du deine carnivoren Freunde mit einem leckeren Dinner davon überzeugen wolltest, dass vegane Gerichte richtig schmackhaft sind. Womit du nicht gerechnet hast: So lange machst du das mit dem tierproduktfreien Leben ja noch nicht, und du kannst dich gar nicht erinnern: Hast du überhaupt schon mal ein richtiges veganes Menü zubereitet? Und – was koche ich jetzt? Durchatmen, das ist alles nicht so kompliziert, wie es in diesem stressvollen Moment aussieht:
