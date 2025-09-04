@@ -15,6 +15,21 @@ export class StaticPageGenerator {
     await this.generateSearch();
   }
 
+  private async renderStaticPage(args: {
+    filename: string;
+    url: string;
+    title: string;
+    description: string;
+    contentHtml: string;
+  }): Promise<void> {
+    const html = this.template.generateLayout(args.title, args.contentHtml, 'css/styles.css', {
+      url: args.url,
+      description: args.description,
+      type: 'website'
+    });
+    await this.fs.writeFile(path.join(this.config.publicDir, args.filename), html);
+  }
+
   private async generateImpressum(): Promise<void> {
     const content = `<h1>Impressum</h1>
     
@@ -88,15 +103,13 @@ export class StaticPageGenerator {
     
     <p><strong>Stand:</strong> ${new Date().toLocaleDateString('de-AT')}</p>`;
     
-    const html = this.template.generateLayout('Impressum & Datenschutz', content, 'css/styles.css', {
+    await this.renderStaticPage({
+      filename: 'impressum.html',
       url: '/impressum.html',
+      title: 'Impressum & Datenschutz',
       description: 'Impressum und Datenschutzerklärung von VeganBlatt',
-      type: 'website'
+      contentHtml: content
     });
-    await this.fs.writeFile(
-      path.join(this.config.publicDir, 'impressum.html'),
-      html
-    );
   }
 
   private async generateSearch(): Promise<void> {
@@ -128,14 +141,12 @@ export class StaticPageGenerator {
       init();
     </script>`;
 
-    const html = this.template.generateLayout('Suche', content, 'css/styles.css', {
+    await this.renderStaticPage({
+      filename: 'suche.html',
       url: '/suche.html',
+      title: 'Suche',
       description: 'Suche nach Artikeln und Rezepten bei VeganBlatt',
-      type: 'website'
+      contentHtml: content
     });
-    await this.fs.writeFile(
-      path.join(this.config.publicDir, 'suche.html'),
-      html
-    );
   }
 }
