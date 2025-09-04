@@ -7,6 +7,8 @@ excerpt: >-
   Superhelden sind ja super im Leute verprügeln und dem vorübergehend Retten der
   Welt vor den "finsteren" Plänen von missverstandenen Supervillains. Leben
   Superhelden aber auch nachhaltig?
+aiGeneratedDate: '2025-09-04T17:52:52.668Z'
+featuredImage: ai/ai-superhelden.jpg
 ---
 
 Gleich vorneweg, so super sind Superhelden nicht wirklich. Batman, Superman, WonderWoman, alles Omnivoren, auch Captain America, Thor, die Fantastischen Vier lassen keinerlei Neigung in Richtung vegan/vegetarischer Lebensweise erkennen. Bekennender **Veganer** ist hingegen **[Beast Boy](https://www.google.at/search?q=beast+boy&pws=0&hl=de&source=lnms&tbm=isch&sa=X&ei=OLBcVOOCIdLYatOdgMgF&ved=0CAgQ_AUoAQ&biw=1303&bih=674&dpr=0.9)** von den [TeenTitans](http://de.wikipedia.org/wiki/Teen_Titans) (aus dem DC Universum, das Universum wo auch Batman und Superman lebt). Beast Boy - mit bürgerlichen Namen **Garfield Logan** kann sich **in grüne eingefärbte Tiere** verwandeln

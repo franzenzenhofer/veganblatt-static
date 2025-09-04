@@ -6,6 +6,8 @@ slug: plastik-recycling-codes
 excerpt: >-
   Was sagen die Recyclingcodes über den jeweiligen Kunststoff aus? Und was davon
   sollte man dringlichst vermeiden?
+aiGeneratedDate: '2025-09-04T17:52:43.755Z'
+featuredImage: ai/ai-plastik-recycling-codes.jpg
 ---
 
 Bei der Herstellung von Kunststoffen kommen viele Chemikalien zum Einsatz, die extrem giftig sind. Viele **im Plastik enthaltenen Zusatzstoffe sind gesundheitsgefährdend** und können, da sie nicht fest gebunden sind, mit der Zeit entweichen. Dazu gehören vor allem:

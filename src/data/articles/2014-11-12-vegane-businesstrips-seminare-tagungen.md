@@ -7,6 +7,8 @@ excerpt: >
   In den ARCOTEL Hotels kann man hervorragend vegan essen - saisonal und ohne
   Vorbestellung - die perfekte Location für Businessreisen, Tagungen und
   Seminare!
+aiGeneratedDate: '2025-09-04T17:53:10.508Z'
+featuredImage: ai/ai-vegane-businesstrips-seminare-tagungen.jpg
 ---
 
 Mittlerweile gibt es schon so viele vegane Lokale in Städten wie Wien, Berlin und vielen mehr. Vegane Produkte findet man in jedem Supermarkt. Aber zu denen kommt man leider nicht, wenn man den ganzen Tag geschäftlich unterwegs ist. Da ist es oft noch schwer vegane Snacks, Mittag- und Abendessen zu finden. Also ernährt man sich von Obst aus der Tasche und kaut hungrig auf Nüssen. Während die KollegInnen meist auf Firmenkosten ganze Menüs serviert bekommen, isst man gemischten Salat. Fortschrittliche Hotels wie die [**ARCOTEL Hotels**](http://www.arcotelhotels.com/) haben dieses Problem erkannt und bieten seit einiger Zeit ein veganes, 3-gängiges Menü und rein pflanzliche Frühstücksoptionen an. Das Menü richtet sich nach der Saison und ist eine Freude für Gaumen und Augen. Selbstverständlich steht es auch hotelexternen Gästen zur Verfügung und muss nicht vorbestellt werden.

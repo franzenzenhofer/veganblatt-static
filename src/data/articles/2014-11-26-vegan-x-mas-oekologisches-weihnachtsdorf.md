@@ -6,6 +6,8 @@ slug: vegan-x-mas-oekologisches-weihnachtsdorf
 excerpt: >-
   Ihr Kinderlein kommet zum ökologischen und natürlich veganen Weihnachtsdorf!
   Am Freitag sind wir mit unserer Kosmetik auch mit dabei.
+aiGeneratedDate: '2025-09-04T17:55:11.610Z'
+featuredImage: ai/ai-vegan-x-mas-oekologisches-weihnachtsdorf.jpg
 ---
 
 ## Adventstimmung

@@ -6,6 +6,8 @@ slug: diy-naturkosmetik-workshop-miss-v
 excerpt: >-
   "Handmade with Love" lautet das Motto des Workshops am 22.11.. Da hat sich
   Miss V aber was tolles für FreundInnen des DIY Kults einfallen lassen.
+aiGeneratedDate: '2025-09-04T17:52:24.454Z'
+featuredImage: ai/ai-diy-naturkosmetik-workshop-miss-v.jpg
 ---
 
 ### Vegan Beauty Gifts

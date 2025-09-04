@@ -7,6 +7,8 @@ excerpt: >-
   Du willst ganz genau wissen, welche Produkte ethisch, vegan und
   umweltfreundlich sind? animal.fair hat die Lösung! Der Ethische Einkaufsführer
   bringt faire, ökologische & vegane Einkaufstipps für ganz Österreich!
+aiGeneratedDate: '2025-09-04T17:51:56.713Z'
+featuredImage: ai/ai-animal-fair-shopping-guide.jpg
 ---
 
 ## Gelbe Seiten für ein veganes Leben

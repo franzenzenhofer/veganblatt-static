@@ -7,6 +7,8 @@ excerpt: >-
   Yeah! Wir haben 11.000 Likes auf Facebook überschritten. Zur Feier des
   Ereignisses verlosen wir unter Euch 3 Geschenksets von unserer Kosmetikmarke
   PURE SKIN FOOD!
+aiGeneratedDate: '2025-09-04T17:54:32.592Z'
+featuredImage: ai/ai-pure-skin-food-kosmetik-sets-zu-gewinnen.jpg
 ---
 
 ## Natürlich strahlende Haut

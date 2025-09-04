@@ -7,6 +7,8 @@ excerpt: >-
   Biologisch - Saisonal - Kreativ! Mit diesem schönen Kochbuch mit
   inspirierenden, vollwertigen Gerichten kocht man sich vegan durch die 4
   Jahreszeiten.
+aiGeneratedDate: '2025-09-04T17:51:40.727Z'
+featuredImage: ai/ai-jeden-tag-vegan-geniessen-maeggi-kokta.jpg
 ---
 
 ### VeganerInnen verzichten auf nichts - sie sind nur kreativer!

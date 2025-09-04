@@ -7,6 +7,8 @@ excerpt: >-
   Unser neues Label PURE SKIN FOOD vereint hochwertigste, pflanzliche
   Inhaltsstoffe und liefert damit Naturkosmetik auf höchstem Niveau. Denn auch
   bei Kosmetik ist bio nicht gleich bio!
+aiGeneratedDate: '2025-09-04T17:52:33.994Z'
+featuredImage: ai/ai-pure-skin-food-veganblatt-naturkosmetiklinie.jpg
 ---
 
 ### Pflanzliche Skin-Superfoods als Schönheitsbooster für die Haut

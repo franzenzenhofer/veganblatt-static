@@ -6,6 +6,8 @@ slug: weltvegantag-gewinnspiel
 excerpt: >-
   Wir werden immer mehr und das feiern wir! Gemeinsam mit den Arcotel Hotels
   verlosen wir daher einen Hotelaufenthalt inkl. veganem Menü für 2!
+aiGeneratedDate: '2025-09-04T17:52:06.212Z'
+featuredImage: ai/ai-weltvegantag-gewinnspiel.jpg
 ---
 
 ## Jedes Essen zählt!

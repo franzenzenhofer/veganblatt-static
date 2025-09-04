@@ -9,6 +9,8 @@ excerpt: >-
   Beschenkten eine Freude. Bei der Auswahl der Produkte wird Wert auf faire,
   ökologisch und sozial verträgliche Herstellung und umweltschonenden Versand
   gelegt!
+aiGeneratedDate: '2025-09-04T17:55:02.197Z'
+featuredImage: ai/ai-faire-nachhaltige-weihnachten-mit-beechange-geschenksets.jpg
 ---
 
 Sie ist wieder da, die Zeit des Weihnachtsgeschenke-Suchens. Wer dem Rummel auf den Einkaufsstraßen entgehen möchte, kann auch ganz einfach etwas online bestellen. Dafür haben wir nämlich einen ganz besonderen Tipp:

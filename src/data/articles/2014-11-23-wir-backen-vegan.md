@@ -6,6 +6,8 @@ slug: wir-backen-vegan
 excerpt: >-
   Nach "Wir kochen Vegan" widmen sich Melanie Kröpfl und ihr Vater, Spitzenkoch
   Siegi Kröpfl nun dem veganen Backen. 2 Exemplare könnt Ihr gewinnen!
+aiGeneratedDate: '2025-09-04T17:54:52.188Z'
+featuredImage: ai/ai-wir-backen-vegan.jpg
 ---
 
 ## Backen für die ganze Familie!

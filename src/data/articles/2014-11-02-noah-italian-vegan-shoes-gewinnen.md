@@ -7,6 +7,8 @@ excerpt: >-
   Die Zeiten, in denen ein veganer Lebensstil mit unförmigen Ökolatschen in
   Verbindung gebracht wurden, sind vorbei! Zwei Paar NOAH-Schuhe im Wert von €
   258,- suchen glückliche Gewinner!
+aiGeneratedDate: '2025-09-04T17:52:14.488Z'
+featuredImage: ai/ai-noah-italian-vegan-shoes-gewinnen.jpg
 ---
 
 ### Trends und Nachhaltigkeit gehen bei NOAH Hand in Hand
