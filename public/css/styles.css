@@ -131,6 +131,10 @@ article, main {
 .nav {
   text-align: center;
   padding: var(--spacing-xs) 0;
+  /* Ensure navigation never wraps to two lines on small screens */
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .nav a {
@@ -140,7 +144,9 @@ article, main {
   color: var(--color-text);
   font-weight: 400;
   text-decoration: none;
+  white-space: nowrap;
 }
+
 
 /* 07-images.css */
 /* Images */
@@ -212,14 +218,15 @@ img {
 .article-link {
   font-family: var(--font-heading);
   font-size: 1.25rem;
-  line-height: 0.8;
+  /* Prevent squished multi-line titles on small screens */
+  line-height: 1.2;
   margin: 0;
   padding: 0;
   color: var(--color-link);
   font-weight: 300;
   text-decoration: underline;
   display: block;
-  padding-top: 2px; /* Fine-tune to match image top exactly */
+  padding-top: 2px; /* Fine-tune to match image top */
 }
 
 .article-excerpt {
@@ -231,6 +238,7 @@ img {
   font-size: 0.85rem;
   color: var(--color-text);
 }
+
 
 /* 09-recipe-card.css */
 /* Recipe Card */

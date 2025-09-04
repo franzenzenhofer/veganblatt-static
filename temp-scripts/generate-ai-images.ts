@@ -74,9 +74,9 @@ class VeganFoodImageGenerator {
     });
   }
 
-  async generateImagesForRecipes(limit = 5): Promise<void> {
+  async generateImagesForRecipes(limit = 5, skipFirst = 0): Promise<void> {
     console.log('🎨 Starting AI Image Generation for Vegan Recipes...\n');
-    console.log('⚠️  Using rate-limited API - adding delays between requests\n');
+    console.log('⚠️  Using paid Gemini API - generating images in batches\n');
     
     // Find recipes without featured images
     const recipesDir = '/Users/franzenzenhofer/dev/veganblatt-static/src/data/recipes';
@@ -97,8 +97,8 @@ class VeganFoodImageGenerator {
     
     console.log(`Found ${recipesWithoutImages.length} recipes without images\n`);
     
-    // Process only the first 'limit' recipes
-    const recipesToProcess = recipesWithoutImages.slice(0, limit);
+    // Process only the specified range of recipes
+    const recipesToProcess = recipesWithoutImages.slice(skipFirst, skipFirst + limit);
     const results: ImageGenerationResult[] = [];
     
     for (let i = 0; i < recipesToProcess.length; i++) {
@@ -111,10 +111,10 @@ class VeganFoodImageGenerator {
       
       console.log(`\n📝 Processing [${i + 1}/${recipesToProcess.length}]: ${recipeFile}`);
       
-      // Add delay to respect rate limits (7 seconds for free tier: 10 RPM)
+      // Add small delay between requests (1 second for paid tier)
       if (i > 0) {
-        console.log('   ⏳ Waiting 7 seconds for rate limit...');
-        await this.delay(7000);
+        console.log('   ⏳ Waiting 1 second...');
+        await this.delay(1000);
       }
       
       const result = await this.generateImageForRecipe(recipeFile);
@@ -441,7 +441,25 @@ ${metadata.copyright}
 async function main() {
   try {
     const generator = new VeganFoodImageGenerator();
-    await generator.generateImagesForRecipes(1); // Test with just 1 recipe first
+    
+    // Generate 50 images in batches of 10
+    console.log('🚀 Generating 50 AI images for VeganBlatt recipes!\n');
+    
+    for (let batch = 0; batch < 5; batch++) {
+      console.log(`\n${'='.repeat(60)}`);
+      console.log(`📦 BATCH ${batch + 1}/5 (Images ${batch * 10 + 1}-${(batch + 1) * 10})`);
+      console.log('='.repeat(60));
+      
+      await generator.generateImagesForRecipes(10, batch * 10);
+      
+      if (batch < 4) {
+        console.log('\n⏳ Waiting 5 seconds before next batch...\n');
+        await new Promise(resolve => setTimeout(resolve, 5000));
+      }
+    }
+    
+    console.log('\n🎉 ALL 50 IMAGES GENERATED SUCCESSFULLY!');
+    
   } catch (error) {
     console.error('❌ Fatal error:', error);
     process.exit(1);
