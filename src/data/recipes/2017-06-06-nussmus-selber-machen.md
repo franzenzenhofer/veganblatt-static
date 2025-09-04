@@ -1,5 +1,5 @@
 ---
-title: "Nussmus vegane mit "einfachen" Geräten selber machen"
+title: "Nussmus mit \"einfachen\" Geräten selber machen"
 date: "2017-06-06 11:47:06"
 modified: "2017-06-06 19:55:36"
 slug: "nussmus-selber-machen"
