@@ -34,5 +34,7 @@ recipe:
     - >-
       Mit dem Stabmixer durchpürieren, mit Salz und Pfeffer abschmecken und mit
       frisch geriebener Muskatnuss und ev. Kürbiskernöl servieren.
+aiGeneratedDate: '2025-09-04T13:02:29.826Z'
+featuredImage: ai/ai-broccoli-kartoffel-suppe.jpg
 ---
 

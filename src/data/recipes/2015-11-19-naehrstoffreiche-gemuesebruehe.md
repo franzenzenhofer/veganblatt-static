@@ -41,6 +41,8 @@ recipe:
       Sich gleich damit stärken oder im Kühlschrank aufbewahren bzw.
       portionsweise einfrieren und bei Bedarf – als Suppe, Tee, zum Aufgießen
       von Reis etc. oder als Basis von anderen Suppen und Soßen – verwenden!
+aiGeneratedDate: '2025-09-04T13:04:09.273Z'
+featuredImage: ai/ai-naehrstoffreiche-gemuesebruehe.jpg
 ---
 
 ### Tipp!

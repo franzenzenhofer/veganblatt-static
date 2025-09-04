@@ -40,5 +40,7 @@ recipe:
       salzen und pfeffern und für ca. 8min köcheln lassen bis das Gemüse weich
       aber noch bissfest ist.
     - Mit frischen Kräutern und den Kürbis-Scheiben servieren.
+aiGeneratedDate: '2025-09-04T13:02:39.098Z'
+featuredImage: ai/ai-gegrillter-spaghetti-kuerbis-mit-letscho.jpg
 ---
 

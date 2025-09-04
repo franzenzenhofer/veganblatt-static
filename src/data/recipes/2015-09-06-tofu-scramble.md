@@ -38,5 +38,7 @@ recipe:
       Tofu für einige Minuten anbraten. Den Spinat zugeben und mitbraten bis er
       zusammenfällt. Nun den Tofu mit dem restlichen Gemüse mischen, abschmecken
       und mit frisch gemahlenem Pfeffer und ev. Kräutern servieren.
+aiGeneratedDate: '2025-09-04T13:01:57.159Z'
+featuredImage: ai/ai-tofu-scramble.jpg
 ---
 

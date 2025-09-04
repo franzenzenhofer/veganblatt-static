@@ -36,5 +36,7 @@ recipe:
       in einen Topf geben, 1/2 Tasse Gemüsebrühe dazugeben, würzen und für ca.
       12min köcheln bis der Blumenkohl weich ist. Vom Herd nehmen, mit den
       Hefeflocken würzen und mit dem Stabmixer pürieren. Fertig!
+aiGeneratedDate: '2025-09-04T13:03:49.372Z'
+featuredImage: ai/ai-zwiebelrostbraten-blumenkohl-pueree.jpg
 ---
 

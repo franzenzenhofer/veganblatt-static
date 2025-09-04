@@ -11,6 +11,7 @@ export class RecipeTemplate extends ArticleTemplate {
       publishedTime: recipe.date,
       image: recipe.featuredImage
     });
+    const headWithSchema = head.replace('</head>', `${this.buildRecipeSchemaJsonLd(recipe, url)}\n</head>`);
     const header = this.renderHeader('recipes');
     const footer = this.renderFooter();
     
@@ -18,7 +19,7 @@ export class RecipeTemplate extends ArticleTemplate {
       ? this.imageProcessor.generateImageHtml(recipe.featuredImage, 800)
       : '';
     
-    const baseHtml = `${head}
+    const baseHtml = `${headWithSchema}
 <body>
   ${header}
   <article>
@@ -32,6 +33,50 @@ export class RecipeTemplate extends ArticleTemplate {
     
     const recipeCard = this.renderRecipeCard(recipe.recipe);
     return baseHtml + `${recipeCard}</article>\n${footer}`;
+  }
+
+  private buildRecipeSchemaJsonLd(recipe: Recipe, pageUrl: string): string {
+    const absolute = (img?: string): string | undefined => {
+      if (!img) return undefined;
+      const base = 'https://www.veganblatt.com';
+      // Handle ai/ and normal images consistently with MetaTags
+      if (img.startsWith('ai/')) {
+        const filename = img.substring(3);
+        return `${base}/i/ai/${encodeURIComponent(filename)}`;
+      }
+      return `${base}/i/${encodeURIComponent(img)}`;
+    };
+
+    const data: Record<string, any> = {
+      '@context': 'https://schema.org',
+      '@type': 'Recipe',
+      'name': recipe.title,
+      'description': recipe.excerpt || '',
+      'image': absolute(recipe.featuredImage) || `${'https://www.veganblatt.com'}/i/assets/veganblatt-logo.svg`,
+      'mainEntityOfPage': `https://www.veganblatt.com${pageUrl}`,
+      'author': { '@type': 'Organization', 'name': 'VeganBlatt' },
+      'publisher': {
+        '@type': 'Organization',
+        'name': 'VeganBlatt',
+        'logo': {
+          '@type': 'ImageObject',
+          'url': 'https://www.veganblatt.com/i/assets/veganblatt-logo.svg'
+        }
+      }
+    };
+
+    if (recipe.date) data['datePublished'] = recipe.date;
+    if (recipe.recipe?.servings) data['recipeYield'] = String(recipe.recipe.servings);
+    if (recipe.recipe?.prepTime) data['prepTime'] = recipe.recipe.prepTime;
+    if (recipe.recipe?.cookTime) data['cookTime'] = recipe.recipe.cookTime;
+    if (recipe.recipe?.totalTime) data['totalTime'] = recipe.recipe.totalTime;
+    if (recipe.recipe?.ingredients?.length) data['recipeIngredient'] = recipe.recipe.ingredients;
+    if (recipe.recipe?.instructions?.length) {
+      data['recipeInstructions'] = recipe.recipe.instructions.map((t: string) => ({ '@type': 'HowToStep', text: t }));
+    }
+
+    const json = JSON.stringify(data);
+    return `\n  <script type="application/ld+json">${json}</script>`;
   }
 
   private renderRecipeCard(recipe: any): string {

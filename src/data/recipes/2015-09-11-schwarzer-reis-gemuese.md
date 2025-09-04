@@ -48,6 +48,8 @@ recipe:
       Alternativ passen auch Sprossen, gehackte und geröstete Nüsse, ein fein
       gehobeltes Radieschen ...
     - Die bunte Vielfalt genießen.
+aiGeneratedDate: '2025-09-04T13:02:17.170Z'
+featuredImage: ai/ai-schwarzer-reis-gemuese.jpg
 ---
 
 Eine Schüssel voller Gemüse kombiniert mit schwarzem Reis. Eigentlich ganz einfach, sieht aber sehr hübsch aus und ist durch die dunkle Farbe des Reises doch etwas Besonderes. Natürlich könnt Ihr auch anderen Reis, wie Basmati, verwenden. Bei dem Gemüse könnt Ihr frei nach Lust und Saison kombinieren. Am schönsten wird es, wenn Gemüsesorten mit unterschiedlichen Farben verwendet werden. Damit es nicht langweilig wird, solltet Ihr darauf achten, dass Ihr unterschiedliche Konsistenzen bei dem Gemüse wählt, wie z.B. knackige Karotten oder Rote Beete, zarte Brokkoli-Röschen oder Zuckerschoten und frischen Rucola.  

@@ -23,5 +23,7 @@ recipe:
       Den Apfel waschen, entkernen und klein schneiden. Mit allen weiteren
       Zutaten gut mixen bis die gewünschte, cremige Konsistenz entstanden ist.
     - Genießen!
+aiGeneratedDate: '2025-09-04T13:01:18.811Z'
+featuredImage: ai/ai-apfelkuchen-zum-trinken.jpg
 ---
 

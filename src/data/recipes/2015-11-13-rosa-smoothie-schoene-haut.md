@@ -24,6 +24,8 @@ recipe:
     - >-
       Alles gut mixen bis auch die Kerne so klein sind, dass sie nicht mehr
       stören und losschlürfen!
+aiGeneratedDate: '2025-09-04T13:04:00.671Z'
+featuredImage: ai/ai-rosa-smoothie-schoene-haut.jpg
 ---
 
 Diese Power-Kombi enthält neben einer Palette an Nährstoffen auch eine Menge Antioxidantien, die freie Radikale einfangen und so gegen die Zeichen der Zeit arbeiten. Wer schöne Haut haben will, sollte einerseits zu natürlicher Bio-Kosmetik greifen. Da können wir unser Kosmetiklabel **[PURE SKIN FOOD](http://www.pureskinfood.de/)** mit einer 100% biologisch & veganen Produktpalette wärmstens empfehlen. Ernährung spielt auf der anderen Seite auch eine ganz wichtige Rolle. Zucker und Milchprodukte wegzulassen, auf frisches, buntes Obst und gute Fette zu setzen und viel Grünzeug zu sich zu nehmen - das ist der Schlüssel zum Erfolg. Dieser rosa Smoothie schmeckt nicht nur überaus lecker, er hilft Dir auch schon mal dabei strahlend auszusehen!

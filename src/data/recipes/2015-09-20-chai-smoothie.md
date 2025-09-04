@@ -21,5 +21,7 @@ recipe:
     - 1 TL Maca
   instructions:
     - Alle Zutaten gut vermixen und laut schlürfen!
+aiGeneratedDate: '2025-09-04T13:02:50.647Z'
+featuredImage: ai/ai-chai-smoothie.jpg
 ---
 

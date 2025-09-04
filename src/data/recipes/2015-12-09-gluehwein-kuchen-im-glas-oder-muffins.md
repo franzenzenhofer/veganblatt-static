@@ -40,6 +40,8 @@ recipe:
     - >-
       In fest verschlossenen, sterilisierten Gläsern hält der Kuchen im Glas bis
       zu 6 Monaten.
+aiGeneratedDate: '2025-09-04T13:04:20.099Z'
+featuredImage: ai/ai-gluehwein-kuchen-im-glas-oder-muffins.jpg
 ---
 
 Und hier gibts auch noch das Etikett zum Ausdrucken: [<!-- Image removed (no copyright): GLÜHWEINKUCHEN.jpg -->](https://www.veganblatt.com/i/GLÜHWEINKUCHEN.jpg)

@@ -38,5 +38,7 @@ recipe:
       Wichtig: Sauerkraut nur anwärmen, zu große Hitze zerstört das Vitamin C im
       Kraut.
     - Als Zu- oder Hauptspeise genießen. Gekochte Kartoffeln passen toll dazu.
+aiGeneratedDate: '2025-09-04T13:03:11.473Z'
+featuredImage: ai/ai-ungarisches-sauerkraut.jpg
 ---
 

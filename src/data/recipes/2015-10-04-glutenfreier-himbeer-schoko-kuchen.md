@@ -46,5 +46,7 @@ recipe:
     - >-
       Wenn der Kuchen ausgekühlt ist, mit den HImbeeren belegen und die Creme
       darauf gleichmäßig verteilen. Gleich essen oder kühl stellen.
+aiGeneratedDate: '2025-09-04T13:03:20.612Z'
+featuredImage: ai/ai-glutenfreier-himbeer-schoko-kuchen.jpg
 ---
 

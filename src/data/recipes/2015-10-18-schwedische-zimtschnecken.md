@@ -45,6 +45,8 @@ recipe:
       lassen (ca. 15 min.).
     - Bei 220 °C für 10 – 15 min backen.
     - Kurz etwas abkühlen lassen und noch lauwarm servieren.
+aiGeneratedDate: '2025-09-04T13:03:38.934Z'
+featuredImage: ai/ai-schwedische-zimtschnecken.jpg
 ---
 
 Am 4. Oktober ist Kanelbullar-Tag, aber uns schmecken die schwedischen Kringel einfach immer. An heißen Tagen kannst Du sie mit zum Picknicken oder Baden nehmen, da sie nicht hitzeempfindlich sind und ziemlich stabil. Wenn es draußen kälter wird, schmecken sie herrlich zu einer heißen Tasse Tee oder Kaffee.

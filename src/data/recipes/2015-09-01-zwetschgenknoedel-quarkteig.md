@@ -46,5 +46,7 @@ recipe:
       Zimt goldbraun anrösten. Nun die Knödel darin schwenken bis sie gut in
       Brösel gehüllt sind. Fertig!
     - 'PS: Ganz lecker schmeckt dazu vegane saure Sahne.'
+aiGeneratedDate: '2025-09-04T13:01:47.484Z'
+featuredImage: ai/ai-zwetschgenknoedel-quarkteig.jpg
 ---
 

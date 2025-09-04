@@ -29,5 +29,7 @@ recipe:
     - Mit Salz und Pfeffer abschmecken. Ingerscheiben zugeben.
     - Geschnittene Steinpilze zugeben und mit Kräutern würzen.
     - Zehn Minuten am Herd ziehen lassen.
+aiGeneratedDate: '2025-09-04T13:03:01.268Z'
+featuredImage: ai/ai-steinpilzsuppe.jpg
 ---
 

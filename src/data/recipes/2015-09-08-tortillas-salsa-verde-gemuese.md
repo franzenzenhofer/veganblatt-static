@@ -48,5 +48,7 @@ recipe:
       (nicht zu fein) und beiseite stellen.
     - 'Tortillas mit Salsa bestreichen, Gemüse darauf verteilen und schlemmen!'
     - 'Dazu passen weiters schwarze Bohnen, vegane saure Sahne und Guacamole.'
+aiGeneratedDate: '2025-09-04T13:02:07.677Z'
+featuredImage: ai/ai-tortillas-salsa-verde-gemuese.jpg
 ---
 

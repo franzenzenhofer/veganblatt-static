@@ -23,7 +23,7 @@ export class StaticPageGenerator {
     
     <p><strong>Geschäftsführer / Herausgeber:</strong><br>
     Franz Enzenhofer<br>
-    office [at] veganblatt [dot] com</p>
+    fe+veganblatt (at) f19n dot com</p>
     
     <p><strong>Firmenadresse:</strong><br>
     Fröbelgasse 62/8-9<br>
@@ -54,7 +54,7 @@ export class StaticPageGenerator {
     Franz Enzenhofer<br>
     Fröbelgasse 62/8-9<br>
     A-1160 Wien, Österreich<br>
-    E-Mail: office [at] veganblatt [dot] com</p>
+    E-Mail: fe+veganblatt (at) f19n dot com</p>
     
     <h2>Hosting</h2>
     <p>Diese Website wird auf Cloudflare Pages gehostet. Cloudflare Pages ist ein statischer Hosting-Service, der keine serverseitige Verarbeitung durchführt. Die Server befinden sich weltweit verteilt (CDN).</p>

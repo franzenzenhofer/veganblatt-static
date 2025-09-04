@@ -46,6 +46,8 @@ recipe:
       Heiße Bohnen mit gewürfelten Tomaten, Rucola, Couscous und etwas Marinade
       vom Feta mischen.
     - Mit Feta-Würfeln garnieren und genießen!
+aiGeneratedDate: '2025-09-04T13:03:29.822Z'
+featuredImage: ai/ai-veganer-feta-rucola-bohnen-salat.jpg
 ---
 
 Dieser Salat wird durch den veganen selbstgemachten Feta zu etwas Besonderem. Natürlich ist er auch lecker mit z.B. gerösteten Cashewnüssen, wenn Ihr mal keine Zeit habt, selbst Feta zu machen :).

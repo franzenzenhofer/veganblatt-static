@@ -34,6 +34,8 @@ recipe:
       In der Zwischenzeit die Kräuter waschen und schneiden. Das Risotto vom
       Herd nehmen, mit den frischen Kräutern und gedünstetem Gemüse servieren.
     - Lasst es Euch schmecken!
+aiGeneratedDate: '2025-09-04T13:01:34.827Z'
+featuredImage: ai/ai-sonnenblumenkern-risotto.jpg
 ---
 
 [<!-- Image removed (no copyright): sonnenblumenkern-risotto-1-640x424.jpg -->](https://www.veganblatt.com/i/sonnenblumenkern-risotto-1.jpg)

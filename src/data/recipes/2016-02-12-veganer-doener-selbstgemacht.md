@@ -33,6 +33,8 @@ recipe:
       Die Pitabrote aufschneiden, mit der Joghurtsauce bestreichen, mit Salat,
       Karotten- und Tomatenscheiben und dem angebratenen Gyros belegen. Ein
       bisschen salzen. Fertig.
+aiGeneratedDate: '2025-09-04T13:04:28.643Z'
+featuredImage: ai/ai-veganer-doener-selbstgemacht.jpg
 ---
 
 Weil er leicht zu machen ist, schnell geht und super schmeckt haben wir für euch ein Dönerrezept zusammengestellt, dass auch den härtesten Fastfood-Verweigerern das Wasser im Mund zusammen laufen lassen wird. Natürlich könnt Ihr dabei verschiedene Zutaten nach Lust und Laune austauschen und statt Joghurtsauce Hummus, statt Karotten Rotkraut oder statt Salat frischen Spinat nehmen. Besonders talentierte Selbermacher können statt dem fertigen Gyros auch Seitan kaufen, marinieren und in feinen Streifen anbraten, das überlassen wir Euch! Damit es auch schnell und ohne viel Aufwand gut schmeckt, haben wir fertige Gyrosstreifen genommen. Die gibt es natürlich auch in unterschiedlichen Varianten wie zum Beispiel  [Alberts Lupinen-Gyros](https://veganz.de/de/product/alberts-lupinen-gyros/), [Chicken-Free-Chunks](http://www.likemeat.de/produkte/frische-sortiment/veganes-huehnchen-purer-genuss-von-likemeat/) von Like Meat, veganes Bio-Gyros von Spar veggie oder das Vegavita [Seitan Filet](http://vegavita.at/unsere-produkte/seitan-filet/). Hier unser Grundrezept:
