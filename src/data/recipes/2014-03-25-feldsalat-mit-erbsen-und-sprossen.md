@@ -1,5 +1,5 @@
 ---
-title: Feldsalat veganer mit Erbsen und Sprossen
+title: Feldsalat Veganer mit Erbsen und Sprossen
 date: '2014-03-25 09:00:09'
 modified: '2014-06-12 14:09:46'
 slug: feldsalat-mit-erbsen-und-sprossen

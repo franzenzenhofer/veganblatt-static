@@ -33,5 +33,7 @@ recipe:
       verleihen möchte, benötigt extra Sojamilch, denn der Reis-Kokos-Drink
       lässt sich nicht aufschäumen. Dazu die Sojamilch erwärmen bis es dampft
       und mit dem Milchschäumer aufschlagen.
+aiGeneratedDate: '2025-09-04T11:30:50.174Z'
+featuredImage: ai/ai-kokos-matcha-latte.jpg
 ---
 

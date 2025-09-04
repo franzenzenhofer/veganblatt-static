@@ -1,5 +1,5 @@
 ---
-title: "Ansatz für veganes Glücksbrot oder Hermann"
+title: "Ansatz für Veganes Glücksbrot oder Hermann"
 date: "2016-10-02 16:41:22"
 modified: "2016-10-02 21:08:22"
 slug: "ansatz-veganes-gluecksbrot"

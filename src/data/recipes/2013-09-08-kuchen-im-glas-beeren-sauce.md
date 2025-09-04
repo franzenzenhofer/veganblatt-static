@@ -1,5 +1,5 @@
 ---
-title: "Kuchen veganer im Glas mit beeriger Sauce"
+title: "Kuchen Veganer im Glas mit beeriger Sauce"
 date: "2013-09-08 08:59:17"
 modified: "2016-01-19 14:41:41"
 slug: "kuchen-im-glas-beeren-sauce"

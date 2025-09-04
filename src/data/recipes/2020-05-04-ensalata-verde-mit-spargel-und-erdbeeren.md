@@ -1,5 +1,5 @@
 ---
-title: "Ensalata veganer Verde mit Spargel und Erdbeeren"
+title: "Ensalata Veganer Verde mit Spargel und Erdbeeren"
 date: "2020-05-04 17:29:29"
 modified: "2020-05-04 17:29:29"
 slug: "ensalata-verde-mit-spargel-und-erdbeeren"

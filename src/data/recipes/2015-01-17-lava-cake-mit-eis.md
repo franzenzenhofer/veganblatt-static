@@ -1,5 +1,5 @@
 ---
-title: Warmer veganes Lava Cake mit Lupinen-Eis
+title: Warmer Veganes Lava Cake mit Lupinen-Eis
 date: '2015-01-17 22:13:19'
 modified: '2015-12-18 11:21:13'
 slug: lava-cake-mit-eis

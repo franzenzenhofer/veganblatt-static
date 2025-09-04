@@ -33,5 +33,7 @@ recipe:
     - >-
       In Gläser füllen und im Kühlschrank aufbewahren, insofern etwas davon
       übrig bleibt ;)
+aiGeneratedDate: '2025-09-04T11:31:00.606Z'
+featuredImage: ai/ai-rohveganes-nutella.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leckeres veganer Lebkuchen-Tiramisu"
+title: "Leckeres Veganer Lebkuchen-Tiramisu"
 date: "2016-01-17 09:03:33"
 modified: "2016-01-17 09:03:33"
 slug: "lebkuchen-tiramisu"

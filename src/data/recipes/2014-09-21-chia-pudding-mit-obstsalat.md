@@ -1,5 +1,5 @@
 ---
-title: Leckerer veganer Chia-Pudding mit Obstsalat
+title: Leckerer Veganer Chia-Pudding mit Obstsalat
 date: '2014-09-21 08:30:01'
 modified: '2014-09-26 08:51:43'
 slug: chia-pudding-mit-obstsalat

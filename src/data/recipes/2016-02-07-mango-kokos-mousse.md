@@ -1,5 +1,5 @@
 ---
-title: "Herrliches veganes Mango-Kokos-Mousse"
+title: "Herrliches Veganes Mango-Kokos-Mousse"
 date: "2016-02-07 07:32:06"
 modified: "2016-06-30 12:48:52"
 slug: "mango-kokos-mousse"

@@ -1,5 +1,5 @@
 ---
-title: Herrlicher veganer Chai-Smoothie
+title: Herrlicher Veganer Chai-Smoothie
 date: '2015-09-20 07:45:30'
 modified: '2016-08-08 13:14:25'
 slug: chai-smoothie

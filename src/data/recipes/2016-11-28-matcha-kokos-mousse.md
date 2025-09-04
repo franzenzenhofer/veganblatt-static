@@ -1,5 +1,5 @@
 ---
-title: "Himmlisches veganes Matcha Kokos Mousse"
+title: "Himmlisches Veganes Matcha Kokos Mousse"
 date: "2016-11-28 12:30:02"
 modified: "2017-12-12 11:55:15"
 slug: "matcha-kokos-mousse"

@@ -1,5 +1,5 @@
 ---
-title: Gesundes veganes Kirsch-Eis in 2 Minuten
+title: Gesundes Veganes Kirsch-Eis in 2 Minuten
 date: '2013-10-18 12:42:58'
 modified: '2014-01-16 14:00:18'
 slug: kirsch-eis

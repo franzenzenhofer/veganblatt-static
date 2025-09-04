@@ -1,5 +1,5 @@
 ---
-title: Basis veganer Sonnenblumenkern-Aufstrich
+title: Basis Veganer Sonnenblumenkern-Aufstrich
 date: '2014-12-11 16:11:07'
 modified: '2015-01-07 15:31:18'
 slug: sonnenblumenkern-aufstrich

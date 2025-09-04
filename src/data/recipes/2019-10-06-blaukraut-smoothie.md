@@ -1,5 +1,5 @@
 ---
-title: "Blaukraut veganer Smoothie mit Orange"
+title: "Blaukraut Veganer Smoothie mit Orange"
 date: "2019-10-06 19:19:15"
 modified: "2019-10-06 19:19:31"
 slug: "blaukraut-smoothie"

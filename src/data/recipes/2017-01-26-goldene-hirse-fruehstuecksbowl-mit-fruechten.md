@@ -1,5 +1,5 @@
 ---
-title: "Goldene veganes Hirse-Frühstücksbowl mit Früchten"
+title: "Goldene Veganes Hirse-Frühstücksbowl mit Früchten"
 date: "2017-01-26 08:39:28"
 modified: "2017-01-26 08:39:28"
 slug: "goldene-hirse-fruehstuecksbowl-mit-fruechten"

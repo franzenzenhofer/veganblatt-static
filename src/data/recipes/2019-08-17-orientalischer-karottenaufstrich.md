@@ -1,5 +1,5 @@
 ---
-title: "Orientalischer veganer Karottenaufstrich auf Vorrat"
+title: "Orientalischer Veganer Karottenaufstrich auf Vorrat"
 date: "2019-08-17 13:27:33"
 modified: "2019-08-17 13:27:33"
 slug: "orientalischer-karottenaufstrich"

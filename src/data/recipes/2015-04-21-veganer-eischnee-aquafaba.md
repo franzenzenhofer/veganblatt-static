@@ -1,5 +1,5 @@
 ---
-title: 'Innovativer, veganer Eischnee ohne Eiersatzprodukte'
+title: 'Innovativer, Veganer Eischnee ohne Eiersatzprodukte'
 date: '2015-04-21 07:51:03'
 modified: '2015-04-23 08:34:35'
 slug: veganer-eischnee-aquafaba

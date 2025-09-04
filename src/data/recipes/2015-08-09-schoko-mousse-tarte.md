@@ -1,5 +1,5 @@
 ---
-title: Glutenfreie veganes Schokomousse-Tarte
+title: Glutenfreie Veganes Schokomousse-Tarte
 date: '2015-08-09 08:43:16'
 modified: '2015-08-16 10:38:38'
 slug: schoko-mousse-tarte

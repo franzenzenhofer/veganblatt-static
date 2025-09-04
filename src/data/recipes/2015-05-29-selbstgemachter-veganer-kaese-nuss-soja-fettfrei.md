@@ -1,5 +1,5 @@
 ---
-title: 'Selbstgemachter veganer Käse: nuss-, soja- & fettfrei'
+title: 'Selbstgemachter Veganer Käse: nuss-, soja- & fettfrei'
 date: '2015-05-29 08:44:33'
 modified: '2015-06-03 11:48:15'
 slug: selbstgemachter-veganer-kaese-nuss-soja-fettfrei

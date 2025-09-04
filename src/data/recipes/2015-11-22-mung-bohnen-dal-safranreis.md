@@ -1,5 +1,5 @@
 ---
-title: "Mung veganes Bohnen Dal mit Safranreis"
+title: "Mung Veganes Bohnen Dal mit Safranreis"
 date: "2015-11-22 08:34:43"
 modified: "2015-11-22 09:33:40"
 slug: "mung-bohnen-dal-safranreis"

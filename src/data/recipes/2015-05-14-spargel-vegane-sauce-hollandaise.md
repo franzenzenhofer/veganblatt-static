@@ -1,5 +1,5 @@
 ---
-title: Weißer Spargel mit veganer Sauce Hollandaise
+title: Weißer Spargel mit Veganer Sauce Hollandaise
 date: '2015-05-14 12:09:42'
 modified: '2016-04-27 19:32:29'
 slug: spargel-vegane-sauce-hollandaise

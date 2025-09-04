@@ -1,5 +1,5 @@
 ---
-title: "Der veganer beste Reste Salat"
+title: "Der Veganer beste Reste Salat"
 date: "2019-05-30 09:28:20"
 modified: "2019-05-25 19:30:33"
 slug: "reste-salat"

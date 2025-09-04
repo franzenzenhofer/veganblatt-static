@@ -1,5 +1,5 @@
 ---
-title: "Die veganer einfachsten Pfannkuchen der Welt"
+title: "Die Veganer einfachsten Pfannkuchen der Welt"
 date: "2016-06-14 11:39:23"
 modified: "2016-06-14 18:27:36"
 slug: "einfache-vegane-pfannkuchen"

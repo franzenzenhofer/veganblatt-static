@@ -1,5 +1,5 @@
 ---
-title: Vollwertiger veganer Gemüsekuchen
+title: Vollwertiger Veganer Gemüsekuchen
 date: '2014-05-13 14:33:24'
 modified: '2015-04-01 18:44:52'
 slug: vollwert-gemuesekuchen

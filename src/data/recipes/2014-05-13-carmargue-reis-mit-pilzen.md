@@ -1,5 +1,5 @@
 ---
-title: Roter veganes Carmargue Reis mit Pilzen und getrockneten Tomaten
+title: Roter Veganes Carmargue Reis mit Pilzen und getrockneten Tomaten
 date: '2014-05-13 10:38:19'
 modified: '2017-01-13 10:07:13'
 slug: carmargue-reis-mit-pilzen

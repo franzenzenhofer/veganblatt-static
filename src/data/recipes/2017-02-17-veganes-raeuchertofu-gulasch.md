@@ -1,5 +1,5 @@
 ---
-title: 'Deftiges, veganes Räuchertofu Gulasch'
+title: 'Deftiges, Veganes Räuchertofu Gulasch'
 date: '2017-02-17 09:11:32'
 modified: '2019-01-25 10:08:11'
 slug: veganes-raeuchertofu-gulasch

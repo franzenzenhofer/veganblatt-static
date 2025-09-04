@@ -1,5 +1,5 @@
 ---
-title: 'Schneller, veganer Kuchenboden'
+title: 'Schneller, Veganer Kuchenboden'
 date: '2016-05-29 07:56:56'
 modified: '2016-05-31 08:29:21'
 slug: veganer-kuchenboden

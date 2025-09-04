@@ -1,5 +1,5 @@
 ---
-title: "Pink veganer Chocolate Smoothie"
+title: "Pink Veganer Chocolate Smoothie"
 date: "2016-01-23 08:51:39"
 modified: "2016-01-23 09:49:33"
 slug: "pink-chocolate-smoothie"

@@ -1,5 +1,5 @@
 ---
-title: "Einfaches veganes Kürbis-Risotto mit Safran"
+title: "Einfaches Veganes Kürbis-Risotto mit Safran"
 date: "2013-09-15 09:04:54"
 modified: "2016-10-14 09:27:06"
 slug: "kuerbis-risotto"

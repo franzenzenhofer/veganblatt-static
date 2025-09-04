@@ -1,5 +1,5 @@
 ---
-title: "Rohköstliches veganes Mango-Dhal"
+title: "Rohköstliches Veganes Mango-Dhal"
 date: "2014-05-20 08:27:34"
 modified: "2015-07-27 10:11:26"
 slug: "rohkoestliches-mango-dhal"

@@ -1,5 +1,5 @@
 ---
-title: "Bunte veganer Salatrollen mit Erdnuss-Dip"
+title: "Bunte Veganer Salatrollen mit Erdnuss-Dip"
 date: "2016-04-05 13:18:46"
 modified: "2016-05-17 10:30:00"
 slug: "salatrollen-erdnuss-dip"

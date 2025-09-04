@@ -1,5 +1,5 @@
 ---
-title: 'Schneller, veganer Pizza-Kranz'
+title: 'Schneller, Veganer Pizza-Kranz'
 date: '2015-01-22 12:25:12'
 modified: '2016-06-07 11:26:01'
 slug: schneller-veganer-pizza-kranz

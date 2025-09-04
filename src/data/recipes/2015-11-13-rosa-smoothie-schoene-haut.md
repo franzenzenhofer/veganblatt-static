@@ -1,5 +1,5 @@
 ---
-title: Rosa veganer Smoothie für strahlend schöne Haut
+title: Rosa Veganer Smoothie für strahlend schöne Haut
 date: '2015-11-13 07:49:20'
 modified: '2015-11-13 09:17:40'
 slug: rosa-smoothie-schoene-haut

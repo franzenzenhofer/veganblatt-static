@@ -1,5 +1,5 @@
 ---
-title: Golden veganer Milk Shake mit Kurkuma
+title: Golden Veganer Milk Shake mit Kurkuma
 date: '2015-01-31 13:49:18'
 modified: '2017-12-05 11:53:04'
 slug: golden-milk-shake-mit-kurkuma

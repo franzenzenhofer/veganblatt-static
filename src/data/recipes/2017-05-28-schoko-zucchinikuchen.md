@@ -1,5 +1,5 @@
 ---
-title: "Zucchinikuchen veganer mit Überraschungseffekt"
+title: "Zucchinikuchen Veganer mit Überraschungseffekt"
 date: "2017-05-28 09:37:29"
 modified: "2017-11-30 08:42:50"
 slug: "schoko-zucchinikuchen"

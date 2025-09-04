@@ -1,5 +1,5 @@
 ---
-title: Reisnudeln veganes mit Gemüse und Tofu
+title: Reisnudeln Veganes mit Gemüse und Tofu
 date: '2014-03-29 09:00:09'
 modified: '2014-03-28 09:56:27'
 slug: reisnudeln-mit-gemuese-und-tofu

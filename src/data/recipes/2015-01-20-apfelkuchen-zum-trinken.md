@@ -1,5 +1,5 @@
 ---
-title: Apfelkuchen veganer zum Trinken
+title: Apfelkuchen Veganer zum Trinken
 date: '2015-01-20 10:04:19'
 modified: '2016-07-27 10:39:06'
 slug: apfelkuchen-zum-trinken

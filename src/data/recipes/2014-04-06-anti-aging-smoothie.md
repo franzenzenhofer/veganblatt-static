@@ -1,5 +1,5 @@
 ---
-title: 'Pink veganer ist das neue grün: Anti-Aging Smoothie'
+title: 'Pink Veganer ist das neue grün: Anti-Aging Smoothie'
 date: '2014-04-06 08:33:01'
 modified: '2014-04-26 20:06:17'
 slug: anti-aging-smoothie

@@ -1,5 +1,5 @@
 ---
-title: 'Saftiger, fettarmer, veganer Schokokuchen'
+title: 'Saftiger, fettarmer, Veganer Schokokuchen'
 date: '2014-12-28 08:34:36'
 modified: '2017-12-13 15:38:07'
 slug: fettarmer-schoko-kuchen

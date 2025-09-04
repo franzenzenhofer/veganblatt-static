@@ -1,5 +1,5 @@
 ---
-title: "Einfacher veganer Nusskuchen mit Schokoglasur"
+title: "Einfacher Veganer Nusskuchen mit Schokoglasur"
 date: "2017-11-16 11:23:11"
 modified: "2017-11-27 12:25:04"
 slug: "veganer-nusskuchen"

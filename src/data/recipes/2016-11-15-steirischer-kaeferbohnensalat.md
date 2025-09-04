@@ -1,5 +1,5 @@
 ---
-title: "Steirischer veganer Käferbohnensalat"
+title: "Steirischer Veganer Käferbohnensalat"
 date: "2016-11-15 17:47:38"
 modified: "2016-11-15 17:47:38"
 slug: "steirischer-kaeferbohnensalat"

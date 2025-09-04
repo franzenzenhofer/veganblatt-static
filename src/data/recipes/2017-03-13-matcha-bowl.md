@@ -1,5 +1,5 @@
 ---
-title: "Matcha veganer Smoothie Bowl mit Banane und Avocado"
+title: "Matcha Veganer Smoothie Bowl mit Banane und Avocado"
 date: "2017-03-13 07:58:36"
 modified: "2017-11-30 08:49:03"
 slug: "matcha-bowl"

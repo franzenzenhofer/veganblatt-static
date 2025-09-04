@@ -1,5 +1,5 @@
 ---
-title: Bunte veganes Gemüse-Bowl mit schwarzem Reis
+title: Bunte Veganes Gemüse-Bowl mit schwarzem Reis
 date: '2015-09-11 07:09:54'
 modified: '2015-09-12 18:52:52'
 slug: schwarzer-reis-gemuese

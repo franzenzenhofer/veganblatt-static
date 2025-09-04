@@ -1,5 +1,5 @@
 ---
-title: 'Schneller, veganer Obstkuchen'
+title: 'Schneller, Veganer Obstkuchen'
 date: '2014-05-24 06:26:48'
 modified: '2016-05-29 10:53:20'
 slug: schneller-veganer-obstkuchen

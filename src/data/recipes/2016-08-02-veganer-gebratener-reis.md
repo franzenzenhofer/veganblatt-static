@@ -1,5 +1,5 @@
 ---
-title: "Der veganes leckerste, gebratene Reis mit Geheimzutat"
+title: "Der Veganes leckerste, gebratene Reis mit Geheimzutat"
 date: "2016-08-02 06:14:35"
 modified: "2016-08-01 22:20:02"
 slug: "veganer-gebratener-reis"

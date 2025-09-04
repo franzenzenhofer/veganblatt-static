@@ -1,5 +1,5 @@
 ---
-title: Raffiniertes veganes Sushi
+title: Raffiniertes Veganes Sushi
 date: '2015-08-08 08:14:22'
 modified: '2015-08-07 10:34:25'
 slug: raffiniertes-veganes-sushi

@@ -1,5 +1,5 @@
 ---
-title: 'Doppelt veganer grün: Zuckermelonen-Spinat-Smoothie'
+title: 'Doppelt Veganer grün: Zuckermelonen-Spinat-Smoothie'
 date: '2014-08-21 08:00:25'
 modified: '2014-08-21 08:08:02'
 slug: gruener-smoothie-zuckermelonen-spinat

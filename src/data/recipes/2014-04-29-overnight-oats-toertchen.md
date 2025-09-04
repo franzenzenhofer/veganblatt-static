@@ -1,5 +1,5 @@
 ---
-title: Overnight veganes Oats Frühstücks-Törtchen mit Erdbeeren
+title: Overnight Veganes Oats Frühstücks-Törtchen mit Erdbeeren
 date: '2014-04-29 15:02:10'
 modified: '2015-04-26 16:20:04'
 slug: overnight-oats-toertchen

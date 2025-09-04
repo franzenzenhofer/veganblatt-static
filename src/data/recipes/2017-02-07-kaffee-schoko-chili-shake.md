@@ -1,5 +1,5 @@
 ---
-title: "Kaffee veganer Schoko Chili Shake"
+title: "Kaffee Veganer Schoko Chili Shake"
 date: "2017-02-07 07:32:26"
 modified: "2017-12-07 10:39:40"
 slug: "kaffee-schoko-chili-shake"

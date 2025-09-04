@@ -1,5 +1,5 @@
 ---
-title: Rohköstliches veganes Apfel Trifle
+title: Rohköstliches Veganes Apfel Trifle
 date: '2014-02-11 09:00:50'
 modified: '2014-03-10 22:26:07'
 slug: rohkoestlicher-apfel-trifle

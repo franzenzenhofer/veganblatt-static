@@ -1,5 +1,5 @@
 ---
-title: Glutenfreier veganer Zwetschgenkuchen mit Pudding
+title: Glutenfreier Veganer Zwetschgenkuchen mit Pudding
 date: '2014-09-14 08:00:38'
 modified: '2016-05-29 10:50:34'
 slug: glutenfreier-zwetschgen-kuchen-mit-pudding

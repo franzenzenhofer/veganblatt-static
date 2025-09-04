@@ -1,5 +1,5 @@
 ---
-title: DIY Löwenzahnsirup - veganer \"Honig\
+title: DIY Löwenzahnsirup - Veganer \"Honig\
 date: '2013-05-23 13:47:23'
 modified: '2016-01-12 09:29:05'
 slug: lowenzahnsirup

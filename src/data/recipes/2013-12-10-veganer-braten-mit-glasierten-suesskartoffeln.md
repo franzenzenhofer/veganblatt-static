@@ -1,5 +1,5 @@
 ---
-title: Gefüllter veganer Braten mit glasierten Süßkartoffeln
+title: Gefüllter Veganer Braten mit glasierten Süßkartoffeln
 date: '2013-12-10 08:17:02'
 modified: '2013-12-10 10:07:51'
 slug: veganer-braten-mit-glasierten-suesskartoffeln

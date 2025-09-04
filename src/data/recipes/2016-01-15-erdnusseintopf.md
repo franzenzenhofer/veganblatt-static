@@ -1,5 +1,5 @@
 ---
-title: "Herzhafter veganer Erdnusseintopf"
+title: "Herzhafter Veganer Erdnusseintopf"
 date: "2016-01-15 09:26:12"
 modified: "2016-01-15 10:29:39"
 slug: "erdnusseintopf"

@@ -1,5 +1,5 @@
 ---
-title: Glutenfreier veganer Zucchini-Kokos-Schoko-Kuchen
+title: Glutenfreier Veganer Zucchini-Kokos-Schoko-Kuchen
 date: '2015-08-30 08:36:55'
 modified: '2015-12-21 11:22:10'
 slug: glutenfreier-zucchini-kokos-schoko-kuchen

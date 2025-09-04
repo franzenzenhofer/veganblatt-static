@@ -1,5 +1,5 @@
 ---
-title: "Reis veganes Kokos Pancakes mit Kakao"
+title: "Reis Veganes Kokos Pancakes mit Kakao"
 date: "2016-08-12 10:16:18"
 modified: "2016-08-12 14:51:19"
 slug: "reis-kokos-pancakes"

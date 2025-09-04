@@ -1,5 +1,5 @@
 ---
-title: Fruchtiger veganer Schafgarben-Salat
+title: Fruchtiger Veganer Schafgarben-Salat
 date: '2014-06-11 15:23:03'
 modified: '2014-07-03 13:56:31'
 slug: fruchtiger-schafgarben-salat

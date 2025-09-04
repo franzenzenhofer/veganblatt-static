@@ -1,5 +1,5 @@
 ---
-title: "Fruchtig veganes cremiges Aprikosen-Kokos Eis"
+title: "Fruchtig Veganes cremiges Aprikosen-Kokos Eis"
 date: "2013-07-14 09:38:19"
 modified: "2016-01-19 14:40:00"
 slug: "aprikosen-kokos-eis"

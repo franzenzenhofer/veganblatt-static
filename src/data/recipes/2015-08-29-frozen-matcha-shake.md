@@ -1,5 +1,5 @@
 ---
-title: Frozen veganer Matcha Shake
+title: Frozen Veganer Matcha Shake
 date: '2015-08-29 08:54:10'
 modified: '2017-12-12 11:55:45'
 slug: frozen-matcha-shake

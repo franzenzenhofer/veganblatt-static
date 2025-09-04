@@ -1,5 +1,5 @@
 ---
-title: Glutenfreier veganer Mandel-Schoko-Kuchen
+title: Glutenfreier Veganer Mandel-Schoko-Kuchen
 date: '2015-02-25 14:58:40'
 modified: '2017-12-12 16:12:40'
 slug: mandel-schoko-kuchen

@@ -28,5 +28,7 @@ recipe:
       ein 1/2 Glas Wasser dazugeben), würzen, Deckel drauf und köcheln lassen
       bis das Gemüse weich, aber nicht verkocht ist.
     - Lasst es Euch schmecken!
+aiGeneratedDate: '2025-09-04T11:31:14.348Z'
+featuredImage: ai/ai-gemuese-curry-mit-kokosmilch-tofu.jpg
 ---
 

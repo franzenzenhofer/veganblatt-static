@@ -1,5 +1,5 @@
 ---
-title: 'Selbstgemachtes, veganes Baileys'
+title: 'Selbstgemachtes, Veganes Baileys'
 date: '2014-12-16 13:29:16'
 modified: '2015-01-02 14:24:42'
 slug: selbstgemachtes-veganes-baileys

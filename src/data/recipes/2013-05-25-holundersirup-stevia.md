@@ -1,5 +1,5 @@
 ---
-title: "Holundersirup veganer mit Steviasüße"
+title: "Holundersirup Veganer mit Steviasüße"
 date: "2013-05-25 16:21:17"
 modified: "2014-04-23 12:06:42"
 slug: "holundersirup-stevia"

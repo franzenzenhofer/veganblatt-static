@@ -1,5 +1,5 @@
 ---
-title: Rote veganer Beete Aufstrich
+title: Rote Veganer Beete Aufstrich
 date: '2014-12-12 09:00:44'
 modified: '2014-12-11 16:09:49'
 slug: rote-rueben-aufstrich

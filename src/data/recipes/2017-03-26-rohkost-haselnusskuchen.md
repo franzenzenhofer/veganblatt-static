@@ -1,5 +1,5 @@
 ---
-title: "Roher veganer Haselnusskuchen mit Schokocreme"
+title: "Roher Veganer Haselnusskuchen mit Schokocreme"
 date: "2017-03-26 09:45:44"
 modified: "2017-11-30 08:50:02"
 slug: "rohkost-haselnusskuchen"

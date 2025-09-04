@@ -1,5 +1,5 @@
 ---
-title: "Sirup veganer aus Holunderblüten"
+title: "Sirup Veganer aus Holunderblüten"
 date: "2019-06-15 09:02:13"
 modified: "2019-06-14 19:07:51"
 slug: "holundersirup"

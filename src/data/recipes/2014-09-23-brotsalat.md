@@ -1,5 +1,5 @@
 ---
-title: "Panzanella veganer - italienischer Brotsalat"
+title: "Panzanella Veganer - italienischer Brotsalat"
 date: "2014-09-23 12:13:47"
 modified: "2016-06-10 15:01:15"
 slug: "brotsalat"

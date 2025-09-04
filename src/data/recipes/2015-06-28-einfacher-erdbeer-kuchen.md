@@ -1,5 +1,5 @@
 ---
-title: Einfacher veganer Erdbeer-Kuchen mit Macadamia-Vanille-Creme
+title: Einfacher Veganer Erdbeer-Kuchen mit Macadamia-Vanille-Creme
 date: '2015-06-28 06:10:29'
 modified: '2015-07-02 12:16:18'
 slug: einfacher-erdbeer-kuchen

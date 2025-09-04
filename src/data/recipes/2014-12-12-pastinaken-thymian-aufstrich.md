@@ -1,5 +1,5 @@
 ---
-title: "Pastinaken veganer Thymian Aufstrich"
+title: "Pastinaken Veganer Thymian Aufstrich"
 date: "2014-12-12 09:00:35"
 modified: "2015-02-19 16:11:07"
 slug: "pastinaken-thymian-aufstrich"

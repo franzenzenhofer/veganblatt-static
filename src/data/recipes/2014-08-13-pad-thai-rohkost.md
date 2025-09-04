@@ -36,6 +36,8 @@ recipe:
     - >-
       Nussmus, Limettensaft, Sojasauce, Wasser und Chiliflocken zu einer glatten
       Sauce anrühren und darübergeben. Mit den Erdnüssen bestreut servieren.
+aiGeneratedDate: '2025-09-04T11:31:22.945Z'
+featuredImage: ai/ai-pad-thai-rohkost.jpg
 ---
 
 [<!-- Image removed (no copyright): pad-thai-rohkost.jpg -->](https://www.veganblatt.com/i/pad-thai-rohkost.jpg)
