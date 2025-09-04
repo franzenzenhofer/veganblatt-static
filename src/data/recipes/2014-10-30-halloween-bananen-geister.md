@@ -27,5 +27,7 @@ recipe:
       Nimm sie aus dem Tiefkühler, tauche sie in den Orangensaft, und wälze sie
       gleich drauf in den Kokosflocken. Mit Schokodrops und Rosinen das Gesicht
       dran machen und vor dem genießen etwas antauen lassen!
+aiGeneratedDate: '2025-09-04T11:36:42.096Z'
+featuredImage: ai/ai-halloween-bananen-geister.jpg
 ---
 
