@@ -109,20 +109,20 @@ else
     echo -e "  ${YELLOW}⚠${NC} Sitemap date: $SITEMAP_DATE (Expected: $TODAY)"
 fi
 
-# Performance check
+# Performance check (portable across macOS/Linux)
 echo ""
 echo "⚡ Performance check..."
-START_TIME=$(date +%s%N)
-curl -s -o /dev/null "https://www.veganblatt.com/"
-END_TIME=$(date +%s%N)
-RESPONSE_TIME=$(( (END_TIME - START_TIME) / 1000000 ))
+# Use curl's time_total (seconds, with fractions)
+RT_SEC=$(curl -s -o /dev/null -w "%{time_total}" "https://www.veganblatt.com/")
+# Convert to milliseconds using bc (portable) and format as integer
+RESPONSE_MS=$(printf "%.0f" "$(echo "$RT_SEC * 1000" | bc -l)")
 
-if [ "$RESPONSE_TIME" -lt 500 ]; then
-    echo -e "  ${GREEN}✓${NC} Homepage response: ${RESPONSE_TIME}ms"
-elif [ "$RESPONSE_TIME" -lt 1000 ]; then
-    echo -e "  ${YELLOW}⚠${NC} Homepage response: ${RESPONSE_TIME}ms (acceptable)"
+if [ -n "$RESPONSE_MS" ] 2>/dev/null && [ "$RESPONSE_MS" -lt 500 ]; then
+    echo -e "  ${GREEN}✓${NC} Homepage response: ${RESPONSE_MS}ms"
+elif [ -n "$RESPONSE_MS" ] 2>/dev/null && [ "$RESPONSE_MS" -lt 1000 ]; then
+    echo -e "  ${YELLOW}⚠${NC} Homepage response: ${RESPONSE_MS}ms (acceptable)"
 else
-    echo -e "  ${RED}✗${NC} Homepage response: ${RESPONSE_TIME}ms (slow!)"
+    echo -e "  ${RED}✗${NC} Homepage response: ${RESPONSE_MS:-unknown}ms (slow or unknown)"
 fi
 
 # Content validation
