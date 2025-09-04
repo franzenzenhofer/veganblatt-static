@@ -1,5 +1,5 @@
 ---
-title: "uvegane Himbeer-Porridge mit Cacao Nibs"
+title: "Vegane Himbeer-Porridge mit Cacao Nibs"
 date: "2017-01-08 07:11:03"
 modified: "2017-01-08 11:10:53"
 slug: "himbeer-porridge"

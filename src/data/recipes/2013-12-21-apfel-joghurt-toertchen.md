@@ -41,6 +41,8 @@ recipe:
     - >-
       Mit Granatapfelkernen und Mandelblättchen dekorieren. Als i-Tüpfelchen
       noch mit Sweet Freedom Sirup übergießen!
+aiGeneratedDate: '2025-09-04T11:01:49.593Z'
+featuredImage: ai/ai-apfel-joghurt-toertchen.jpg
 ---
 
 [<!-- Image removed (no copyright): apfel-törtchen.jpg -->](https://www.veganblatt.com/i/apfel-törtchen.jpg)

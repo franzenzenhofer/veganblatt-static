@@ -25,5 +25,7 @@ recipe:
       auf kleiner Flamme für ca. 10 min quellen lassen.
     - Das AgarAgar einrühren und noch mal aufkochen lassen.
     - 'In Schälchen füllen, erkalten lassen und mit Mandarinenscheiben servieren.'
+aiGeneratedDate: '2025-09-04T11:01:21.245Z'
+featuredImage: ai/ai-mohn-mandarinen-pudding.jpg
 ---
 

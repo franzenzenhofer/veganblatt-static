@@ -48,5 +48,7 @@ recipe:
       Die Stärke bzw. das Pfeilwurzelmehl mit etwas Brühe glatt rühren und damit
       die Sauce eindicken.
     - Dazu passt Rahm-Wirsing (zu österreichisch Kohl). Lasst es Euch schmecken!
+aiGeneratedDate: '2025-09-04T11:01:30.247Z'
+featuredImage: ai/ai-vegane-rouladen-mit-wurzelgemuese.jpg
 ---
 

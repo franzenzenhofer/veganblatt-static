@@ -27,5 +27,7 @@ recipe:
       Backblech setzen.
     - 'Bei 180°C für 10-15min, je nach Größe der Cookies, backen.'
     - Gutes Gelingen!
+aiGeneratedDate: '2025-09-04T11:01:40.643Z'
+featuredImage: ai/ai-dinkel-schoko-cookies.jpg
 ---
 

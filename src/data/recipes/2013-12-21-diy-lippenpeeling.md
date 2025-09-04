@@ -30,6 +30,8 @@ recipe:
     - >-
       Nach einem Tag Ziehzeit ist dein selbst gemachtes Vanille-Lippenpeeling
       fertig.
+aiGeneratedDate: '2025-09-04T11:01:58.573Z'
+featuredImage: ai/ai-diy-lippenpeeling.jpg
 ---
 
 ### Anwendung:
