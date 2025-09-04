@@ -12,7 +12,8 @@ import { ArticleGenerator } from './generators/ArticleGenerator';
 import { RecipeGenerator } from './generators/RecipeGenerator';
 import { ListPageGenerator } from './generators/ListPageGenerator';
 import { HomePageGenerator } from './generators/HomePageGenerator';
-import { StaticPageGenerator } from './generators/StaticPageGenerator';
+import { ImpressumPage } from './generators/static/ImpressumPage';
+import { SearchPage } from './generators/static/SearchPage';
 import { SitemapGenerator } from './generators/SitemapGenerator';
 
 export class SiteGenerator {
@@ -66,7 +67,9 @@ export class SiteGenerator {
     await Promise.all([
       articleGen.generate(),
       recipeGen.generate(),
-      new StaticPageGenerator(this.config, this.fs, this.template).generate()
+      // Static pages (modular, each page has its own generator)
+      new ImpressumPage(this.config, this.fs, this.template).generate(),
+      new SearchPage(this.config, this.fs, this.template).generate()
     ]);
     
     // Load all articles and recipes for list/home pages
