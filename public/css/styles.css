@@ -234,6 +234,11 @@ img {
 .article-excerpt {
   color: var(--color-text);
   margin: var(--spacing-xs) 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }
 
 .article-date {
