@@ -17,7 +17,7 @@ export class ImpressumPage {
     try {
       const versionData = JSON.parse(fs.readFileSync('version.json', 'utf8'));
       versionInfo = versionData;
-    } catch (error) {
+    } catch {
       console.warn('Could not load version.json, using defaults');
     }
     
@@ -105,8 +105,12 @@ export class ImpressumPage {
     <hr class="section-divider">
     
     <h2>Website-Informationen</h2>
-    <p><strong>Version:</strong> ${versionInfo.version}<br>
-    <strong>Letztes Deployment:</strong> ${buildDate} (Wien)</p>`;
+    <dl>
+      <dt>Version</dt>
+      <dd>${versionInfo.version}</dd>
+      <dt>Letztes Deployment</dt>
+      <dd>${buildDate} (Wien)</dd>
+    </dl>`;
 
     const html = this.template.generateLayout(
       'Impressum & Datenschutz',
