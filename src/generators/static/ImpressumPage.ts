@@ -2,6 +2,7 @@ import path from 'path';
 import { SiteConfig } from '../../types';
 import { FileSystemManager } from '../../core/FileSystemManager';
 import { TemplateEngine } from '../../templates/TemplateEngine';
+import fs from 'fs';
 
 export class ImpressumPage {
   constructor(
@@ -11,6 +12,24 @@ export class ImpressumPage {
   ) {}
 
   async generate(): Promise<void> {
+    // Load version info
+    let versionInfo = { version: 'unknown', buildTime: new Date().toISOString() };
+    try {
+      const versionData = JSON.parse(fs.readFileSync('version.json', 'utf8'));
+      versionInfo = versionData;
+    } catch (error) {
+      console.warn('Could not load version.json, using defaults');
+    }
+    
+    const buildDate = new Date(versionInfo.buildTime).toLocaleDateString('de-AT', {
+      year: 'numeric',
+      month: '2-digit', 
+      day: '2-digit',
+      hour: '2-digit',
+      minute: '2-digit',
+      timeZone: 'Europe/Vienna'
+    });
+
     const content = `<h1>Impressum</h1>
     
     <p><strong>VeganBlatt</strong><br>
@@ -81,7 +100,13 @@ export class ImpressumPage {
     <h2>Änderungen</h2>
     <p>Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht.</p>
     
-    <p><strong>Stand:</strong> ${new Date().toLocaleDateString('de-AT')}</p>`;
+    <p><strong>Stand:</strong> ${new Date().toLocaleDateString('de-AT')}</p>
+    
+    <hr class="section-divider">
+    
+    <h2>Website-Informationen</h2>
+    <p><strong>Version:</strong> ${versionInfo.version}<br>
+    <strong>Letztes Deployment:</strong> ${buildDate} (Wien)</p>`;
 
     const html = this.template.generateLayout(
       'Impressum & Datenschutz',
