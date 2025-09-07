@@ -97,11 +97,17 @@ export class RecipeTemplate extends ArticleTemplate {
     const prep = recipe.prepTime ? this.formatISODuration(recipe.prepTime) : '';
     const cook = recipe.cookTime ? this.formatISODuration(recipe.cookTime) : '';
     const total = recipe.totalTime ? this.formatISODuration(recipe.totalTime) : '';
+    
+    const items: string[] = [];
+    if (prep) items.push(`<dt>Zubereitungszeit</dt><dd>${prep}</dd>`);
+    if (cook) items.push(`<dt>Kochzeit</dt><dd>${cook}</dd>`);
+    if (total) items.push(`<dt>Gesamtzeit</dt><dd>${total}</dd>`);
+    if (recipe.servings) items.push(`<dt>Portionen</dt><dd>${this.escapeHtml(String(recipe.servings))}</dd>`);
+    
     return `<div class="recipe-meta">
-      ${prep ? `<span>Zubereitungszeit: ${prep}</span>` : ''}
-      ${cook ? `<span>Kochzeit: ${cook}</span>` : ''}
-      ${total ? `<span>Gesamtzeit: ${total}</span>` : ''}
-      ${recipe.servings ? `<span>Portionen: ${this.escapeHtml(String(recipe.servings))}</span>` : ''}
+      <dl>
+        ${items.join('\n        ')}
+      </dl>
     </div>`;
   }
 
